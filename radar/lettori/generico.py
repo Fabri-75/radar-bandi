@@ -21,6 +21,8 @@ TAG_RUMORE = ["script", "style", "noscript", "select", "option", "form", "nav", 
 
 
 def pulisci(html):
+    if len(html) > 3_000_000:
+        html = html[:3_000_000]
     s = BeautifulSoup(html, "html.parser")
     for t in s(TAG_RUMORE):
         # i form a volte avvolgono l'intera lista (ASP.NET): tolgo solo i campi, non il contenuto

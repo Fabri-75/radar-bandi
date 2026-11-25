@@ -172,7 +172,9 @@ jobs:
         if: always()
         with:
           name: risultati-${{ matrix.provincia }}
-          path: docs/dati/${{ matrix.provincia }}.json
+          path: |
+            docs/dati/${{ matrix.provincia }}.json
+            registro/${{ matrix.provincia }}.txt
           retention-days: 3
           if-no-files-found: ignore
 
@@ -192,10 +194,12 @@ jobs:
           merge-multiple: true
       - name: Salva i risultati
         run: |
-          cp nuovi/*.json docs/dati/ 2>/dev/null || true
+          ls -R nuovi | head -50
+          find nuovi -name "??.json" -exec cp {} docs/dati/ \;
+          mkdir -p registro && find nuovi -name "??.txt" -exec cp {} registro/ \;
           python -m radar.indice docs/dati
           git config user.name "radar-bandi"
           git config user.email "radar-bandi@users.noreply.github.com"
-          git add docs/dati
+          git add docs/dati registro
           git commit -m "Risultati della ricerca $(date +%d/%m/%Y)" || echo "Nessuna novità"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

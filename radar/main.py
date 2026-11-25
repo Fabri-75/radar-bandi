@@ -25,8 +25,14 @@ DATI = "docs/dati"
 MAX_DETTAGLI = 25   # pagine di dettaglio/PDF aperte al massimo per ente
 
 
+_REG = None
+
+
 def log(*a):
-    print(datetime.now().strftime("%H:%M:%S"), *a, flush=True)
+    riga = datetime.now().strftime("%H:%M:%S") + " " + " ".join(str(x) for x in a)
+    print(riga, flush=True)
+    if _REG:
+        _REG.write(riga + "\n"); _REG.flush()
 
 
 def _id(ente, titolo, link):
@@ -116,6 +122,7 @@ def valuta(v, flt, oggi, limite):
 
 def lavora_ente(rete, ente, flt, oggi, limite):
     t0 = time.time()
+    log(f"  inizio {ente['nome'][:50]} {ente.get('sito', '')}")
     voci, pagine, errore = leggi_ente(rete, ente, limite)
     righe, aperti = [], 0
     for v in voci:
@@ -164,7 +171,10 @@ def unisci(righe):
 
 
 def main(sigla):
+    global _REG
     sigla = sigla.strip().upper()[:2]
+    os.makedirs("registro", exist_ok=True)
+    _REG = open(f"registro/{sigla}.txt", "w", encoding="utf-8")
     imp = yaml.safe_load(open("impostazioni.yml", encoding="utf-8"))
     flt = Filtro(imp)
     oggi = date.today()
