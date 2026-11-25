@@ -1,158 +1,153 @@
-"""Prova tecnica: controlla che le fonti siano raggiungibili e cosa contengono."""
+"""Prova tecnica 2: IndicePA, ANAC, Sintel, ICCU e piattaforme di albo dei siti MB."""
 import csv, io, json, os, re, time, zipfile
-from urllib.parse import urljoin
+from collections import Counter
+from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
-UA = "RadarBandi/0.1 (strumento di ricerca avvisi pubblici; github.com/Fabri-75/radar-bandi)"
+UA = "RadarBandi/0.1 (+https://github.com/Fabri-75/radar-bandi)"
+BUA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 RadarBandi/0.1"
 S = requests.Session(); S.headers["User-Agent"] = UA
 OUT = "verifica/out"; os.makedirs(OUT, exist_ok=True)
 LOG = open(f"{OUT}/log.txt", "w")
 def log(*a):
     t = " ".join(str(x) for x in a); print(t); LOG.write(t + "\n"); LOG.flush()
-
-def get(url, **kw):
+def get(url, ua=None, **kw):
     try:
-        r = S.get(url, timeout=kw.pop("timeout", 40), **kw)
-        log(f"[{r.status_code}] {len(r.content):>9}B {r.headers.get('content-type','')[:40]} {url}")
+        h = {"User-Agent": ua} if ua else {}
+        r = S.get(url, timeout=kw.pop("timeout", 40), headers=h, **kw)
+        log(f"[{r.status_code}] {len(r.content):>9}B {r.headers.get('content-type','')[:35]} {url[:200]}")
         return r
     except Exception as e:
-        log(f"[ERR] {url} {type(e).__name__}: {e}"); return None
-
-def links(r, pat):
-    if not r or not r.ok: return []
-    soup = BeautifulSoup(r.text, "html.parser")
-    out = []
-    for a in soup.find_all("a", href=True):
-        h = urljoin(r.url, a["href"])
-        if re.search(pat, h + " " + a.get_text(" "), re.I): out.append((a.get_text(" ", strip=True)[:80], h))
-    return out
-
+        log(f"[ERR] {url[:200]} {type(e).__name__}: {str(e)[:150]}"); return None
 def sezione(t): log("\n" + "=" * 70 + "\n" + t + "\n" + "=" * 70)
 
-# ---------- ISTAT ----------
-sezione("ISTAT elenco comuni")
-r = get("https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv")
-if r and r.ok:
-    txt = r.content.decode("latin-1")
-    rows = list(csv.reader(io.StringIO(txt), delimiter=";"))
-    log("intestazione:", rows[0][:16])
-    mb = [x for x in rows[1:] if "Monza" in ";".join(x)]
-    log("righe MB:", len(mb)); log(mb[:2])
-
 # ---------- IndicePA ----------
-sezione("IndicePA (CKAN)")
-r = get("https://indicepa.gov.it/ipa-dati/api/3/action/package_list")
-if r and r.ok: log(r.text[:1500])
-for pid in ["enti", "amministrazioni"]:
-    r = get(f"https://indicepa.gov.it/ipa-dati/api/3/action/package_show?id={pid}")
-    if r and r.ok:
-        for res in r.json()["result"]["resources"]:
-            log("  risorsa:", res.get("name"), res.get("format"), res.get("url"))
-ipa_enti = None
-try:
-    r = S.get("https://indicepa.gov.it/ipa-dati/api/3/action/package_show?id=enti", timeout=40)
-    for res in r.json()["result"]["resources"]:
-        if (res.get("format") or "").lower() == "csv":
-            rr = get(res["url"], timeout=120)
-            if rr and rr.ok:
-                ipa_enti = list(csv.DictReader(io.StringIO(rr.content.decode("utf-8-sig"))))
-                log("colonne IPA:", list(ipa_enti[0].keys()))
-                break
-except Exception as e:
-    log("IPA errore", e)
-mb_ipa = []
-if ipa_enti:
-    for e in ipa_enti:
-        if (e.get("Provincia") or "").upper() in ("MB",) or "MONZA" in (e.get("Provincia") or "").upper():
-            mb_ipa.append(e)
-    log("enti IPA in MB:", len(mb_ipa))
-    from collections import Counter
-    log(Counter(e.get("Codice_Categoria") or e.get("Tipologia") for e in mb_ipa).most_common(30))
-    json.dump(mb_ipa, open(f"{OUT}/ipa_mb.json", "w"), ensure_ascii=False, indent=1)
-
-# ---------- MIUR ----------
-sezione("Ministero Istruzione - anagrafe scuole")
-for u in ["https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0400SCUANAGRAFESTAT",
-          "https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0410SCUANAGRAFEPAR"]:
-    r = get(u)
-    if r and r.ok:
-        csvs = sorted(set(re.findall(r'[\w/.:-]*SCUANAGRAFE\w*\.csv', r.text)))
-        log("csv trovati:", csvs[-6:])
-        if csvs:
-            uu = urljoin(u, csvs[-1])
-            rr = get(uu, timeout=120)
-            if rr and rr.ok:
-                t = rr.content.decode("utf-8-sig", "replace")
-                rd = list(csv.DictReader(io.StringIO(t)))
-                log("colonne:", list(rd[0].keys()))
-                mbs = [x for x in rd if (x.get("PROVINCIA") or "").upper().startswith("MONZA")]
-                log("scuole MB:", len(mbs), "con sito:", sum(1 for x in mbs if (x.get("SITOWEBSCUOLA") or "").strip() not in ("", "Non Disponibile")))
-                log(mbs[:2])
-                json.dump(mbs, open(f"{OUT}/" + os.path.basename(uu) + ".mb.json", "w"), ensure_ascii=False, indent=1)
-
-# ---------- ICCU ----------
-sezione("ICCU anagrafe biblioteche")
-for u in ["https://opendata.anagrafe.iccu.sbn.it/", "https://anagrafe.iccu.sbn.it/it/open-data/", "https://anagrafe.iccu.sbn.it/opendata/"]:
-    r = get(u)
-    for t, h in links(r, r"\.(csv|zip|json|xml)")[:20]: log("  ", t, h)
+sezione("IndicePA amministrazioni.txt")
+r = get("https://indicepa.gov.it/ipa-dati/dataset/502ff370-1b2c-4310-94c7-f39ceb7500e3/resource/3ed63523-ff9c-41f6-a6fe-980f3d9e501f/download/amministrazioni.txt", timeout=120)
+ipa = []
+if r and r.ok:
+    t = r.content.decode("utf-8-sig", "replace")
+    first = t.splitlines()[0]; log("intestazione:", first[:600])
+    delim = "\t" if "\t" in first else (";" if ";" in first else ",")
+    ipa = list(csv.DictReader(io.StringIO(t), delimiter=delim))
+    log("righe:", len(ipa), "colonne:", list(ipa[0].keys()))
+prov_key = next((k for k in (ipa[0].keys() if ipa else []) if "prov" in k.lower()), None)
+mb = [e for e in ipa if (e.get(prov_key) or "").strip().upper() == "MB"]
+log("enti in MB:", len(mb))
+cat_key = next((k for k in (ipa[0].keys() if ipa else []) if "categ" in k.lower()), None)
+tip_key = next((k for k in (ipa[0].keys() if ipa else []) if "tipolog" in k.lower()), None)
+log(Counter(e.get(cat_key) for e in mb).most_common(40))
+log(Counter(e.get(tip_key) for e in mb).most_common(20))
+json.dump(mb, open(f"{OUT}/ipa_mb.json", "w"), ensure_ascii=False, indent=1)
 
 # ---------- ANAC ----------
-sezione("ANAC open data e pubblicità legale")
-r = get("https://dati.anticorruzione.it/opendata/api/3/action/package_list")
-if r and r.ok: log(r.text[:3000])
-r = get("https://pubblicitalegale.anticorruzione.it/")
+sezione("ANAC")
+for ua in (UA, BUA):
+    get("https://dati.anticorruzione.it/opendata/api/3/action/package_list", ua=ua)
+    get("https://dati.anticorruzione.it/opendata/dataset", ua=ua)
+r = get("https://pubblicitalegale.anticorruzione.it/main.115dac93231b9e02.js")
 if r and r.ok:
-    log(r.text[:1500])
-    for s in re.findall(r'src="([^"]+\.js)"', r.text)[:10]:
-        rj = get(urljoin(r.url, s))
-        if rj and rj.ok:
-            for m in sorted(set(re.findall(r'["\'](/?api[^"\']{3,80})["\']', rj.text)))[:40]: log("   api:", m)
-            for m in sorted(set(re.findall(r'https?://[a-z0-9.-]*anticorruzione[^"\'\s]{0,80}', rj.text)))[:30]: log("   host:", m)
+    js = r.text
+    for m in sorted(set(re.findall(r'["\'`](/[a-zA-Z0-9_/${}.-]{4,90})["\'`]', js))):
+        if re.search(r"avvis|bando|ricerca|search|atti|pubblic|esiti|cpv|stazion|api", m, re.I): log("  path:", m)
+    i = js.find("api/v0")
+    while i != -1 and i < len(js):
+        log("  ctx:", js[max(0, i - 200): i + 300].replace("\n", " "))
+        i = js.find("api/v0", i + 1)
+        if i > 0 and js.count("api/v0", 0, i) > 6: break
+for u in ["https://pubblicitalegale.anticorruzione.it/api/v0/avvisi?page=0&size=5",
+          "https://pubblicitalegale.anticorruzione.it/api/v0/avvisi/search?page=0&size=5",
+          "https://pubblicitalegale.anticorruzione.it/api/v0/atti?page=0&size=5"]:
+    r = get(u)
+    if r is not None: log("   ", r.text[:600])
 
-# ---------- Sintel / Lombardia ----------
-sezione("Sintel / Open data Lombardia")
-get("https://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml")
-get("https://www.sintel.regione.lombardia.it/eprocdata/auctionSearch.xhtml")
-r = get("https://www.dati.lombardia.it/api/catalog/v1?q=sintel&limit=20")
+# ---------- Sintel ----------
+sezione("Sintel open data")
+for ds in ["8txy-zjw2", "exjq-zwsd"]:
+    r = get(f"https://www.dati.lombardia.it/resource/{ds}.json?$limit=3&$order=:updated_at DESC")
+    if r and r.ok:
+        d = r.json(); log("campi:", list(d[0].keys()) if d else d); log(json.dumps(d[:2], ensure_ascii=False)[:2500])
+r = get("https://www.dati.lombardia.it/resource/8txy-zjw2.json?$limit=50000&$where=" + requests.utils.quote("upper(provincia_ente) like '%MONZA%' OR upper(provincia) like '%MONZA%'"), timeout=120)
+if r is not None: log(r.text[:800])
+
+# ---------- ICCU ----------
+sezione("ICCU biblioteche MB")
+r = get("https://opendata.anagrafe.iccu.sbn.it/opendata.zip", timeout=180)
 if r and r.ok:
-    for x in r.json().get("results", []):
-        log("  ", x["resource"]["name"], x["resource"]["id"], x["resource"].get("updatedAt"))
+    z = zipfile.ZipFile(io.BytesIO(r.content))
+    for n in z.namelist(): log("  file:", n, z.getinfo(n).file_size)
+    for n in z.namelist():
+        if n.lower().endswith(".csv"):
+            t = z.read(n).decode("utf-8-sig", "replace")
+            log(" ", n, "->", t.splitlines()[0][:400])
+    for n in z.namelist():
+        if re.search(r"bibliotech|territor|contatt|indirizz", n, re.I) and n.lower().endswith(".csv"):
+            t = z.read(n).decode("utf-8-sig", "replace")
+            righe = [l for l in t.splitlines() if "Monza" in l or ";MB;" in l or ",MB," in l]
+            log(f"  {n}: righe MB {len(righe)}"); [log("    ", l[:300]) for l in righe[:4]]
 
-# ---------- Siti dei Comuni MB: piattaforme ----------
-sezione("Comuni MB: homepage e link albo/trasparenza")
-FIRME = {"halley": r"halley", "maggioli": r"maggioli|jcityweb|albo\.?pretorio\.?online", "pa digitale": r"padigitale|pa-digitale|urbi",
-         "kibernetes/municipium": r"municipium|kibernetes", "gruppo spaggiari": r"spaggiari|scuoladigitale|scuolanext",
-         "argo": r"argo(software|next)?\.", "axios": r"axios", "trasparenza-valutazione-merito": r"trasparenza-valutazione-merito|amministrazionetrasparente",
-         "golem/nuvola": r"nuvola|madisoft", "dedagroup/civilia": r"civilia|deda", "insiel/apsystems": r"apsystems|insiel", "sielte": r"sielte",
-         "portaleamministrazionetrasparente": r"portaleamministrazionetrasparente", "studio k": r"studiok|sk-", "eldasoft": r"eldasoft", "anthesi/comunica": r"anthesi"}
-comuni = [e for e in mb_ipa if (e.get("Codice_Categoria") or "") in ("L6",) or "Comune" in (e.get("Tipologia_istat") or e.get("Categoria") or "")]
-log("comuni trovati in IPA:", len(comuni))
-rep = []
-for e in comuni[:60]:
-    site = (e.get("Sito_istituzionale") or "").strip()
-    if not site: rep.append({"ente": e.get("Denominazione_ente"), "sito": "", "esito": "nessun sito"}); continue
-    if not site.startswith("http"): site = "https://" + site
-    time.sleep(1)
+# ---------- Siti ----------
+FIRME = {"halley": r"halley", "maggioli": r"maggioli|jcityweb|sicraweb", "pa digitale": r"padigitale|pa-digitale|urbi\b|urbismart",
+         "municipium": r"municipium", "spaggiari": r"spaggiari|scuoladigitale|sissiweb", "argo": r"argofamiglia|portaleargo|argosoft|albo.*argo|argo.*albo",
+         "axios": r"axios", "nuvola/madisoft": r"nuvola\.madisoft|madisoft", "trasparenza-scuole PA": r"trasparenza-pa|portaleamministrazionetrasparente",
+         "dedagroup/civilia": r"civilianext|civilia", "apsystems": r"apsystems", "eldasoft": r"eldasoft", "studiok": r"studiok",
+         "gruppo zeta/ilcomune": r"ilcomune\.it|e-office", "golem": r"golem", "soluzionipa/servizipa": r"servizipa|soluzionipa", "proxima": r"proxima",
+         "wordpress": r"wp-content", "drupal": r"drupal", "pasw/porte aperte": r"pasw|porte aperte sul web", "itcloud/mediaspot": r"mediaspot",
+         "comunicaweb/insiel": r"insiel", "datagraph": r"datagraph", "albipretori.it/plugin": r"albo-pretorio|albopretorio"}
+def sonda_sito(nome, site):
+    if not site: return {"ente": nome, "esito": "nessun sito"}
+    if not site.startswith("http"): site = "https://" + site.strip("/")
+    time.sleep(1.5)
     r = get(site, timeout=25)
-    rec = {"ente": e.get("Denominazione_ente"), "cf": e.get("Codice_fiscale_ente"), "sito": site, "stato": r.status_code if r else "ERR"}
-    if r is not None and r.ok:
-        low = r.text.lower()
-        rec["piattaforme"] = [k for k, p in FIRME.items() if re.search(p, low)]
-        rec["albo"] = [h for t, h in links(r, r"albo")][:3]
-        rec["trasparenza"] = [h for t, h in links(r, r"trasparen")][:3]
-        rec["bandi"] = [h for t, h in links(r, r"bandi|avvisi")][:4]
-        rec["robots"] = None
-        rb = get(urljoin(r.url, "/robots.txt"), timeout=15)
-        if rb is not None and rb.ok: rec["robots"] = rb.text[:300]
-        # Seguo il primo link all'albo per riconoscere la piattaforma
-        if rec["albo"]:
-            ra = get(rec["albo"][0], timeout=25)
-            if ra is not None and ra.ok:
-                rec["albo_finale"] = ra.url
-                rec["albo_piattaforme"] = [k for k, p in FIRME.items() if re.search(p, (ra.url + ra.text).lower())]
-                rec["albo_js"] = len(BeautifulSoup(ra.text, "html.parser").find_all("a")) < 15
-    rep.append(rec)
+    if (r is None or not r.ok) and site.startswith("https://"):
+        r = get("http://" + site[8:], timeout=25)
+    rec = {"ente": nome, "sito": site, "stato": r.status_code if r is not None else "ERR"}
+    if r is None or not r.ok: return rec
+    rec["finale"] = r.url
+    soup = BeautifulSoup(r.text, "html.parser")
+    rec["piattaforme_home"] = [k for k, p in FIRME.items() if re.search(p, r.text, re.I)]
+    al = []
+    for a in soup.find_all("a", href=True):
+        tx = (a.get_text(" ", strip=True) + " " + a["href"]).lower()
+        if re.search(r"albo|trasparen|bandi|avvis", tx): al.append((a.get_text(" ", strip=True)[:50], urljoin(r.url, a["href"])))
+    rec["link"] = al[:8]
+    alb = next((h for t, h in al if "albo" in (t + h).lower()), None)
+    if alb:
+        time.sleep(1.5); ra = get(alb, timeout=25)
+        if ra is not None:
+            rec["albo"] = ra.url; rec["albo_stato"] = ra.status_code
+            rec["albo_host"] = urlparse(ra.url).netloc
+            rec["albo_piattaforme"] = [k for k, p in FIRME.items() if re.search(p, ra.url + ra.text[:200000], re.I)]
+            s2 = BeautifulSoup(ra.text, "html.parser")
+            rec["albo_n_link"] = len(s2.find_all("a")); rec["albo_iframe"] = [i.get("src") for i in s2.find_all("iframe")][:2]
+            rec["albo_righe_tabella"] = len(s2.find_all("tr"))
+    return rec
+
+sezione("Comuni MB")
+com = [e for e in mb if re.search(r"comun", (e.get(cat_key) or "") + (e.get(tip_key) or ""), re.I) and not re.search(r"unione", (e.get(cat_key) or ""), re.I)]
+log("comuni:", len(com))
+sito_key = next((k for k in (ipa[0].keys() if ipa else []) if "sito" in k.lower()), None)
+den_key = next((k for k in (ipa[0].keys() if ipa else []) if "denomin" in k.lower()), None)
+rep = [sonda_sito(e.get(den_key), e.get(sito_key)) for e in com[:60]]
 json.dump(rep, open(f"{OUT}/comuni_mb.json", "w"), ensure_ascii=False, indent=1)
-for x in rep: log(json.dumps({k: x.get(k) for k in ("ente", "stato", "piattaforme", "albo_finale", "albo_piattaforme", "albo_js")}, ensure_ascii=False))
+log(Counter(h for x in rep for h in x.get("albo_piattaforme", [])).most_common())
+log(Counter(x.get("albo_host", "-") for x in rep).most_common(40))
+
+sezione("Scuole statali MB (istituti principali, campione 40)")
+sc = json.load(open("verifica/scuole_stat_mb.json")) if os.path.exists("verifica/scuole_stat_mb.json") else []
+if not sc:
+    r = get("https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/SCUANAGRAFESTAT20262720260901.csv", timeout=120)
+    rd = list(csv.DictReader(io.StringIO(r.content.decode("utf-8-sig", "replace"))))
+    sc = [x for x in rd if x["PROVINCIA"].startswith("MONZA")]
+ist = {}
+for x in sc:
+    k = x["CODICEISTITUTORIFERIMENTO"]
+    if k not in ist and x.get("SITOWEBSCUOLA", "").strip() not in ("", "Non Disponibile"):
+        ist[k] = (x["DENOMINAZIONEISTITUTORIFERIMENTO"], x["SITOWEBSCUOLA"].strip())
+log("istituti con sito:", len(ist), "su", len({x['CODICEISTITUTORIFERIMENTO'] for x in sc}))
+reps = [sonda_sito(n, s) for n, s in list(ist.values())[:40]]
+json.dump(reps, open(f"{OUT}/scuole_mb.json", "w"), ensure_ascii=False, indent=1)
+log(Counter(h for x in reps for h in x.get("albo_piattaforme", [])).most_common())
+log(Counter(x.get("albo_host", "-") for x in reps).most_common(40))
 log("\nFINE")
