@@ -1,0 +1,260 @@
+23:15:54 Mantova: 130 enti {'Altro ente': 6, 'Scuola': 60, 'Comune': 64}
+23:15:54   inizio Comune di Acquanegra sul Chiese https://www.comune.acquanegra.mn.it/
+23:15:54   inizio Comune di Asola https://www.comune.asola.mn.it/
+23:15:54   inizio Comune di Bagnolo San Vito https://www.comunebagnolosanvito.it/
+23:15:54   inizio Comune di Motteggiana https://www.comune.motteggiana.mn.it/
+23:15:54   inizio Comune di Bozzolo https://www.comune.bozzolo.mn.it/
+23:15:54   inizio Comune di Canneto sull'Oglio https://www.comune.canneto.mn.it/
+23:15:54   inizio Comune di Casalmoro https://www.comune.casalmoro.mn.it/
+23:15:54   inizio Comune di Casaloldo https://www.comune.casaloldo.mn.it/
+23:15:54   inizio Comune di Casalromano https://www.comune.casalromano.mn.it/it-it/home
+23:15:54   inizio Comune di Castelbelforte https://www.comune.castelbelforte.mn.it/
+23:16:03   inizio Comune di Castel D'Ario https://www.comune.casteldario.mn.it/
+23:16:03 [1/130] Comune di Casalromano                         letto     voci= 20 utili= 0 
+23:16:05   inizio Comune di Castel Goffredo https://www.comune.castelgoffredo.mn.it/
+23:16:05 [2/130] Comune di Casalmoro                           letto     voci= 24 utili= 0 
+23:16:06   inizio Comune di Castellucchio https://www.comune.castellucchio.mn.it/
+23:16:06 [3/130] Comune di Motteggiana                         letto     voci= 33 utili= 0 
+23:16:07   inizio Comune di Castiglione delle Stiviere https://www.comune.castiglione.mn.it/
+23:16:07 [4/130] Comune di Bozzolo                             letto     voci=  8 utili= 0 
+23:16:12   inizio Comune di Cavriana https://www.comune.cavriana.mn.it/
+23:16:12 [5/130] Comune di Canneto sull'Oglio                  letto     voci= 22 utili= 0 
+23:16:13   inizio Comune di Ceresara https://www.comune.ceresara.mn.it/
+23:16:13 [6/130] Comune di Cavriana                            non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:18   inizio Comune di Commessaggio https://www.comune.commessaggio.mn.it/
+23:16:18 [7/130] Comune di Casaloldo                           letto     voci= 94 utili= 0 
+23:16:19   inizio Comune di Curtatone https://www.comune.curtatone.mn.it/
+23:16:19 [8/130] Comune di Asola                               letto     voci= 18 utili= 0 
+23:16:19   inizio Comune di Dosolo https://www.comune.dosolo.mn.it/
+23:16:19 [9/130] Comune di Castel Goffredo                     letto     voci= 50 utili= 0 
+23:16:21   inizio Comune di Gazoldo Degli Ippoliti https://www.comune.gazoldo.mn.it/
+23:16:21 [10/130] Comune di Castelbelforte                      letto     voci= 75 utili= 0 
+23:16:22   inizio Comune di Gazzuolo https://www.comune.gazzuolo.mn.it/
+23:16:22 [11/130] Comune di Castel D'Ario                       letto     voci= 51 utili= 0 
+23:16:23   inizio Comune di Goito https://www.comune.goito.mn.it/
+23:16:23 [12/130] Comune di Bagnolo San Vito                    letto     voci= 56 utili= 0 
+23:16:27   inizio Comune di Gonzaga https://www.comune.gonzaga.mn.it/
+23:16:27 [13/130] Comune di Acquanegra sul Chiese               letto     voci= 38 utili= 0 
+23:16:30   inizio Comune di Guidizzolo https://www.comune.guidizzolo.mn.it/
+23:16:30 [14/130] Comune di Commessaggio                        letto     voci=  8 utili= 0 
+23:16:35   inizio Comune di Magnacavallo https://www.comune.magnacavallo.mn.it/
+23:16:35 [15/130] Comune di Ceresara                            letto     voci=163 utili= 0 
+23:16:38   inizio Comune di Mantova https://www.comune.mantova.it/
+23:16:38 [16/130] Comune di Curtatone                           letto     voci= 26 utili= 1 
+23:16:38   inizio Comune di Marcaria https://www.comune.marcaria.mn.it/
+23:16:38 [17/130] Comune di Castiglione delle Stiviere          letto     voci= 46 utili= 0 
+23:16:41   inizio Comune di Mariana Mantovana https://www.comune.mariana.mn.it/
+23:16:41 [18/130] Comune di Goito                               letto     voci= 24 utili= 0 
+23:16:42   inizio Comune di Marmirolo https://www.comune.marmirolo.mn.it/
+23:16:42 [19/130] Comune di Mariana Mantovana                   non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:42   inizio Comune di Medole https://www.comune.medole.mn.it/
+23:16:42 [20/130] Comune di Castellucchio                       letto     voci=180 utili= 1 
+23:16:46   inizio Comune di Moglia https://www.comune.moglia.mn.it/
+23:16:46 [21/130] Comune di Gonzaga                             letto     voci= 47 utili= 0 
+23:16:48   inizio Comune di Monzambano https://www.comune.monzambano.mn.it/
+23:16:48 [22/130] Comune di Gazoldo Degli Ippoliti              letto     voci= 41 utili= 0 
+23:16:49   inizio Comune di Ostiglia https://www.comune.ostiglia.mn.it/
+23:16:49 [23/130] Comune di Monzambano                          non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:49   inizio Comune di Pegognaga https://www.comune.pegognaga.mn.it/
+23:16:49 [24/130] Comune di Marcaria                            letto     voci= 30 utili= 0 
+23:16:50   inizio Comune di Piubega https://www.comune.piubega.mn.it/
+23:16:50 [25/130] Comune di Ostiglia                            non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:50   inizio Comune di Poggio Rusco https://www.comune.poggiorusco.mn.it/
+23:16:50 [26/130] Comune di Pegognaga                           non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:56   inizio Comune di Pomponesco https://www.comune.pomponesco.mn.it/
+23:16:56 [27/130] Comune di Magnacavallo                        letto     voci= 17 utili= 0 
+23:16:56   inizio Comune di Ponti sul Mincio https://www.comune.pontisulmincio.mn.it/
+23:16:56 [28/130] Comune di Pomponesco                          non letto voci=  0 utili= 0 bloccato da robots.txt
+23:16:57   inizio Comune di Porto Mantovano https://www.comune.porto-mantovano.mn.it/
+23:16:57 [29/130] Comune di Marmirolo                           letto     voci= 37 utili= 0 
+23:16:58   inizio Comune di Quingentole https://www.comune.quingentole.mn.it/
+23:16:58 [30/130] Comune di Gazzuolo                            letto     voci=137 utili= 0 
+23:16:58   inizio Comune di Quistello https://www.comune.quistello.mn.it/
+23:16:58 [31/130] Comune di Ponti sul Mincio                    letto     voci=  0 utili= 0 sezione avvisi non trovata
+23:16:59   inizio Comune di Redondesco https://www.comune.redondesco.mn.it/
+23:16:59 [32/130] Comune di Moglia                              letto     voci= 37 utili= 0 
+23:17:01   inizio Comune di Rivarolo Mantovano https://www.comune.rivarolo.mn.it/
+23:17:01 [33/130] Comune di Piubega                             letto     voci= 31 utili= 0 
+23:17:11   inizio Comune di Rodigo https://www.comune.rodigo.mn.it/
+23:17:11 [34/130] Comune di Rivarolo Mantovano                  letto     voci=  7 utili= 0 
+23:17:19   inizio Comune di Roncoferraro https://www.comune.roncoferraro.mn.it/
+23:17:19 [35/130] Comune di Medole                              letto     voci= 52 utili= 0 
+23:17:20   inizio Comune di Roverbella https://www.comune.roverbella.mn.it/
+23:17:20 [36/130] Comune di Redondesco                          letto     voci= 11 utili= 0 
+23:17:20   inizio Comune di Sabbioneta https://www.comune.sabbioneta.mn.it/
+23:17:20 [37/130] Comune di Rodigo                              letto     voci=  8 utili= 0 
+23:17:37   inizio Comune di San Benedetto Po https://www.comune.san-benedetto-po.mn.it/
+23:17:37 [38/130] Comune di Quistello                           letto     voci= 67 utili= 0 
+23:17:47   inizio Comune di San Giacomo delle Segnate https://www.comune.san-giacomo-delle-segnate.mn.it/
+23:17:47 [39/130] Comune di Roncoferraro                        letto     voci= 19 utili= 0 
+23:17:51   inizio Comune di San Giorgio Bigarello http://www.comune.sangiorgiobigarello.mn.it/
+23:17:51 [40/130] Comune di Porto Mantovano                     letto     voci= 79 utili= 2 
+23:17:53   inizio Comune di San Giovanni del Dosso https://www.comune.sangiovannideldosso.mn.it/
+23:17:53 [41/130] Comune di San Benedetto Po                    letto     voci= 41 utili= 0 
+23:18:07   inizio Comune di Schivenoglia https://www.comune.schivenoglia.mn.it/
+23:18:07 [42/130] Comune di Poggio Rusco                        letto     voci= 25 utili= 0 
+23:18:14   inizio Comune di Sermide e Felonica https://www.comune.sermideefelonica.mn.it/
+23:18:14 [43/130] Comune di San Giovanni del Dosso              letto     voci= 30 utili= 0 
+23:18:15   inizio Comune di Serravalle a Po https://www.comune.serravalleapo.mn.it/
+23:18:15 [44/130] Comune di Sermide e Felonica                  non letto voci=  0 utili= 0 bloccato da robots.txt
+23:18:19   inizio Comune di Solferino https://comune.solferino.mn.it/
+23:18:19 [45/130] Comune di Quingentole                         letto     voci= 38 utili= 0 
+23:18:23   inizio Comune di Sustinente https://www.comune.sustinente.mn.it/
+23:18:23 [46/130] Comune di San Giacomo delle Segnate           letto     voci= 19 utili= 0 
+23:18:30   inizio Comune di Suzzara https://www.comune.suzzara.mn.it/
+23:18:30 [47/130] Comune di Sabbioneta                          letto     voci= 81 utili= 3 
+23:18:30   inizio Comune di Viadana https://www.comune.viadana.mn.it/
+23:18:30 [48/130] Comune di Roverbella                          letto     voci= 40 utili= 0 
+23:18:31   inizio Comune di Villimpenta https://www.comune.villimpenta.mn.it/
+23:18:31 [49/130] Comune di Suzzara                             non letto voci=  0 utili= 0 bloccato da robots.txt
+23:18:35   inizio Comune di Volta Mantovana https://www.comune.volta.mn.it/
+23:18:35 [50/130] Comune di Guidizzolo                          letto     voci= 41 utili= 0 
+23:18:36   inizio Comune di Borgo Virgilio https://www.comune.borgovirgilio.mn.it/
+23:18:36 [51/130] Comune di Volta Mantovana                     non letto voci=  0 utili= 0 bloccato da robots.txt
+23:18:38   inizio Comune di Borgo Mantovano https://www.comune.borgomantovano.mn.it/
+23:18:38 [52/130] Comune di San Giorgio Bigarello               letto     voci=153 utili= 0 
+23:18:46   inizio Comune di Borgocarbonara https://www.comune.borgocarbonara.mn.it/
+23:18:46 [53/130] Comune di Mantova                             letto     voci=149 utili= 2 
+23:18:47   inizio Consorzio Oltrepo' Mantovano https://www.oltrepomantovano.it/
+23:18:47 [54/130] Comune di Borgocarbonara                      non letto voci=  0 utili= 0 bloccato da robots.txt
+23:18:47   inizio Consorzio Progetto Solidarieta' https://www.consorzioprogettosolidarieta.it/
+23:18:47 [55/130] Comune di Schivenoglia                        letto     voci= 37 utili= 0 
+23:18:52   inizio Comune di San Martino dall'Argine https://www.comune.sanmartinodallargine.mn.it/
+23:18:52 [56/130] Comune di Borgo Mantovano                     letto     voci= 28 utili= 0 
+23:18:58   inizio Unione di Comuni Lombarda Mincio Po https://www.minciopo.it/
+23:18:58 [57/130] Comune di Solferino                           letto     voci= 40 utili= 1 
+23:18:58   inizio Unione di Comuni Lombarda Terra Dei Gonzaga http://trasparenza.unioneterradeigonzaga.it/
+23:18:58 [58/130] Consorzio Progetto Solidarieta'               letto     voci= 38 utili= 0 
+23:19:04   inizio Unione Colli Mantovani https://www.halleyweb.com/ucmantovani
+23:19:04 [59/130] Comune di Viadana                             letto     voci=102 utili= 4 
+23:19:06   inizio Unione Dei Comuni Castelli Morenici https://www.comune.medole.mn.it/
+23:19:06 [60/130] Comune di San Martino dall'Argine             letto     voci= 21 utili= 0 
+23:19:11   inizio I.C. SUZZARA 2 "IL MILIONE" http://www.icsilmilione-suzzara.edu.it/
+23:19:11 [61/130] Comune di Villimpenta                         letto     voci= 79 utili= 1 
+23:19:19   inizio I.C. DOSOLO POMPONESCO VIADANA https://www.icdosolopomponescoviadana.edu.it/
+23:19:19 [62/130] Comune di Borgo Virgilio                      letto     voci= 64 utili= 0 
+23:19:21   inizio I. C. "MATILDE DI CANOSSA" (San Benedetto Po) https://www.icsanbenedettopo.edu.it/
+23:19:21 [63/130] Comune di Serravalle a Po                     letto     voci= 39 utili= 0 
+23:19:32   inizio I.C. ROVERBELLA https://www.icroverbella.edu.it/
+23:19:32 [64/130] Unione Colli Mantovani                        letto     voci= 44 utili= 0 
+23:19:35   inizio I.C. CANNETO SULL'OGLIO (Casalromano) https://www.iccanneto.edu.it/
+23:19:35 [65/130] Comune di Sustinente                          letto     voci= 38 utili= 0 
+23:19:35   inizio I.C. CASTIGLIONE STIVIERE II (Castiglione Delle St https://www.iccastiglione2.edu.it/
+23:19:35 [66/130] Consorzio Oltrepo' Mantovano                  letto     voci=  2 utili= 0 
+23:19:36   inizio ISTITUTO COMPRENSIVO QUISTELLO https://www.icquistello.edu.it/
+23:19:36 [67/130] Unione di Comuni Lombarda Terra Dei Gonzaga   non letto voci=  0 utili= 0 sito troppo lento (tempo scaduto)
+23:19:36   inizio C.P.I.A. (Asola) https://www.cpiamantova.edu.it/
+23:19:36 [68/130] I. C. "MATILDE DI CANOSSA" (San Benedetto Po) letto     voci=  4 utili= 0 
+23:19:39   inizio IS E.SANFELICE (Viadana) https://www.istitutosanfelice.gov.it/
+23:19:40 [69/130] Unione Dei Comuni Castelli Morenici           letto     voci= 45 utili= 0 
+23:19:44   inizio GIOVANNI FALCONE (Asola) https://www.iisgiovannifalcone.edu.it/
+23:19:44 [70/130] IS E.SANFELICE (Viadana)                      non letto voci=  0 utili= 0 sito irraggiungibile
+23:19:49   inizio I.C. CASTELLUCCHIO https://www.iccastellucchio.edu.it/
+23:19:49 [71/130] I.C. CANNETO SULL'OGLIO (Casalromano)         letto     voci= 15 utili= 0 
+23:19:49   inizio I.C. POGGIO RUSCO (Borgo Mantovano) https://icpoggio.edu.it/
+23:19:49 [72/130] I.C. ROVERBELLA                               letto     voci= 15 utili= 0 
+23:19:49   inizio I. C. CERESARA (Casaloldo) https://www.icceresara.edu.it/
+23:19:49 [73/130] GIOVANNI FALCONE (Asola)                      non letto voci=  0 utili= 0 sito irraggiungibile
+23:19:50   inizio LIC.SCIENT. BELFIORE MN (Mantova) https://www.liceobelfioremantova.edu.it/
+23:19:50 [74/130] ISTITUTO COMPRENSIVO QUISTELLO                letto     voci= 20 utili= 0 
+23:19:50   inizio I.C. VOLTA MANTOVANA https://www.icvoltamantovana.gov.it/
+23:19:50 [75/130] C.P.I.A. (Asola)                              letto     voci=367 utili= 0 
+23:19:57   inizio IST. COMPR. MARMIROLO https://icmarmirolo.edu.it/
+23:19:57   inizio IC MARCARIA - SABBIONETA https://icmarcariasabbioneta/
+23:19:57 [76/130] I.C. VOLTA MANTOVANA                          non letto voci=  0 utili= 0 sito irraggiungibile
+23:19:57 [77/130] LIC.SCIENT. BELFIORE MN (Mantova)             letto     voci=  6 utili= 0 
+23:20:01   inizio I.C. CASTIGLIONE STIVIERE 1 (Medole) https://www.castiglioneuno.edu.it/
+23:20:01 [78/130] IC MARCARIA - SABBIONETA                      non letto voci=  0 utili= 0 sito irraggiungibile
+23:20:07   inizio ISTITUTO SUPERIORE BONOMI-MAZZOLARI (Mantova) https://www.isboma.edu.it/
+23:20:07 [79/130] Unione di Comuni Lombarda Mincio Po           letto     voci= 30 utili= 0 
+23:20:08   inizio I.C. VIADANA "PARAZZI" https://www.icparazziviadana.edu.it/
+23:20:08 [80/130] I. C. CERESARA (Casaloldo)                    letto     voci= 19 utili= 0 
+23:20:09   inizio I.C. BOZZOLO https://www.icbozzolo.edu.it/
+23:20:09 [81/130] I.C. POGGIO RUSCO (Borgo Mantovano)           letto     voci=  7 utili= 0 
+23:20:12   inizio I.C. RONCOFERRARO https://www.icroncoferraro.edu.it/
+23:20:12 [82/130] I.C. CASTIGLIONE STIVIERE II (Castiglione Del letto     voci= 24 utili= 0 
+23:20:13   inizio IS G.GREGGIATI (Poggio Rusco) https://www.istitutogreggiati.edu.it/
+23:20:13 [83/130] IST. COMPR. MARMIROLO                         letto     voci= 93 utili= 0 
+23:20:18   inizio I. C. CASTEL GOFFREDO https://www.iccastelgoffredo.gov.it/
+23:20:18 [84/130] I.C. DOSOLO POMPONESCO VIADANA                letto     voci= 39 utili= 0 
+23:20:22   inizio I.C. PORTO MANTOVANO https://www.icportomantovano.gov.it/
+23:20:22 [85/130] I.C. CASTIGLIONE STIVIERE 1 (Medole)          letto     voci=  8 utili= 1 
+23:20:23   inizio I.C. BORGOVIRGILIO (Bagnolo San Vito) https://icvirgilio.gov.it/
+23:20:23 [86/130] I. C. CASTEL GOFFREDO                         non letto voci=  0 utili= 0 sito irraggiungibile
+23:20:27   inizio I.C. MANTOVA 2 (Curtatone) https://www.casadelsole.org/
+23:20:27 [87/130] I.C. PORTO MANTOVANO                          non letto voci=  0 utili= 0 sito irraggiungibile
+23:20:28   inizio I.C. OSTIGLIA (Borgo Mantovano) https://www.icdelpo.edu.it/
+23:20:28 [88/130] I.C. BORGOVIRGILIO (Bagnolo San Vito)         non letto voci=  0 utili= 0 sito irraggiungibile
+23:20:28   inizio I.S. "STROZZI" PALIDANO (San Benedetto Po) https://www.isstrozzi.edu.it/
+23:20:28 [89/130] I.C. SUZZARA 2 "IL MILIONE"                   letto     voci= 81 utili= 2 
+23:20:38   inizio I.C. MANTOVA 3 https://www.icmantova3.edu.it/
+23:20:38 [90/130] I.C. MANTOVA 2 (Curtatone)                    letto     voci=  5 utili= 0 
+23:20:42   inizio I.S. FERMI MN (Mantova) https://www.fermimn.edu.it/
+23:20:42 [91/130] I.C. MANTOVA 3                                letto     voci= 11 utili= 0 
+23:20:49   inizio I.C. SAN GIORGIO DI MN (San Giorgio Bigarello) https://www.icsangiorgio.edu.it/
+23:20:49 [92/130] I.C. VIADANA "PARAZZI"                        letto     voci=137 utili= 0 
+23:20:53   inizio IC SUZZARA 1 "MARGHERITA HACK" https://www.is1suzzara.edu.it/
+23:20:53 [93/130] IS G.GREGGIATI (Poggio Rusco)                 letto     voci=  1 utili= 0 
+23:21:01   inizio LC LIC.CLASS. VIRGILIO MN (Mantova) https://www.liceovirgiliomantova.edu.it/
+23:21:01 [94/130] I.C. RONCOFERRARO                             letto     voci= 52 utili= 0 
+23:21:01   inizio I.C. ASOLA https://www.icasola.edu.it/
+23:21:01 [95/130] I.C. OSTIGLIA (Borgo Mantovano)               letto     voci= 55 utili= 3 
+23:21:04   inizio ISTITUTO COMPR. GUIDIZZOLO (Solferino) https://www.icguidizzolo.edu.it/
+23:21:04 [96/130] I.C. ASOLA                                    letto     voci=  2 utili= 0 
+23:21:05   inizio I.C. MANTOVA 1 https://icmantova1.edu.it/secondaria-alberti/
+23:21:06 [97/130] IC SUZZARA 1 "MARGHERITA HACK"                letto     voci=  8 utili= 0 
+23:21:08   inizio I.C. CURTATONE https://www.comprensivodicurtatone.edu.it/
+23:21:08 [98/130] I.S. FERMI MN (Mantova)                       letto     voci=  1 utili= 0 
+23:21:08   inizio I.C. SERMIDE (Sermide E Felonica) https://www.icsermide.edu.it/
+23:21:08 [99/130] I.C. BOZZOLO                                  letto     voci=  1 utili= 0 
+23:21:09   inizio ISTITUTO COMPRENSIVO GOITO https://icgoito.edu.it/le_scuole/cerlongo/
+23:21:09 [100/130] ISTITUTO COMPR. GUIDIZZOLO (Solferino)        non letto voci=  0 utili= 0 errore 509
+23:21:11   inizio G. GALILEI (Ostiglia) https://www.galileiostiglia.edu.it/
+23:21:11 [101/130] I.C. SAN GIORGIO DI MN (San Giorgio Bigarello letto     voci= 23 utili= 0 
+23:21:21   inizio I.T.E.S. "ALBERTO PITENTINO" (Mantova) https://www.pitentino.edu.it/
+23:21:21 [102/130] I.C. CASTELLUCCHIO                            letto     voci=276 utili= 5 
+23:21:26   inizio I. C. GONZAGA - PEGOGNAGA https://www.icgonzaga.edu.it/
+23:21:26 [103/130] I.T.E.S. "ALBERTO PITENTINO" (Mantova)        non letto voci=  0 utili= 0 errore 509
+23:21:29   inizio FRANCESCO GONZAGA (Castiglione Delle Stiviere) https://www.francescogonzaga.edu.it/
+23:21:29 [104/130] I.C. MANTOVA 1                                letto     voci= 12 utili= 0 
+23:21:33   inizio IIS C D'ARCO - I. D'ESTE (Mantova) https://www.arcoeste.edu.it/
+23:21:33 [105/130] FRANCESCO GONZAGA (Castiglione Delle Stiviere letto     voci=  2 utili= 0 
+23:21:43   inizio A. MANZONI (Suzzara) https://www.manzoni.gov.it/
+23:21:43 [106/130] I.C. SERMIDE (Sermide E Felonica)             letto     voci= 17 utili= 2 
+23:21:48   inizio LICEO ARTISTICO "G. ROMANO" MANTOVA https://www.liceoartisticomantovaeguidizzolo.edu.it/
+23:21:48 [107/130] A. MANZONI (Suzzara)                          non letto voci=  0 utili= 0 sito irraggiungibile
+23:21:52   inizio IST. TECNICO ECONOMICO TECN. MANTEGNA (Mantova) https://www.itetmantegna.edu.it/
+23:21:52 [108/130] I.C. CURTATONE                                letto     voci= 58 utili= 0 
+23:21:55   inizio Istituto Comprensivo Marcaria-Sabbioneta https://www.icmarcariasabbioneta.edu.it/
+23:21:55 [109/130] ISTITUTO COMPRENSIVO GOITO                    letto     voci= 95 utili= 1 
+23:22:07   inizio ISTITUTO COMPRENSIVO - I. C. CASTEL GOFFREDO https://www.iccastelgoffredo.edu.it/
+23:22:07 [110/130] IST. TECNICO ECONOMICO TECN. MANTEGNA (Mantov letto     voci= 73 utili= 0 
+23:22:15   inizio ISTITUTO COMPRENSIVO - I.C. VOLTA MANT.NA https://www.icvoltamantovana.edu.it/
+23:22:15 [111/130] Istituto Comprensivo Marcaria-Sabbioneta      letto     voci= 44 utili= 0 
+23:22:16   inizio Istituto comprensivo IC Borgovirgilio https://www.icvirgilio.edu.it/
+23:22:17 [112/130] LICEO ARTISTICO "G. ROMANO" MANTOVA           letto     voci=  0 utili= 0 
+23:22:23   inizio Istituto Comprensivo di Porto Mantovano https://www.icportomantovano.edu.it/
+23:22:23 [113/130] IIS C D'ARCO - I. D'ESTE (Mantova)            letto     voci=  3 utili= 0 
+23:22:30   inizio ISTITUTO COMPRENSIVO - I.C. QUISTELLO https://www.icquistello.edu..it/
+23:22:30 [114/130] I.S. "STROZZI" PALIDANO (San Benedetto Po)    letto     voci= 12 utili= 0 
+23:22:31   inizio ISTITUTO COMPRENSIVO - I.C. MANTOVA 1 https://www.icmantova1.gov.it/
+23:22:31 [115/130] Istituto comprensivo IC Borgovirgilio         letto     voci= 78 utili= 0 
+23:22:35   inizio ISTITUTO COMPRENSIVO - I.C. MANTOVA 2 https://www.comprensivodue.edu.it/
+23:22:35 [116/130] ISTITUTO COMPRENSIVO - I.C. QUISTELLO         non letto voci=  0 utili= 0 errore: LocationParseError
+23:22:36   inizio ISTRUZIONE SECONDARIA SUPERIORE - A. MANZONI https://www.manzoni.edu.it/
+23:22:36 [117/130] ISTITUTO COMPRENSIVO - I.C. MANTOVA 1         non letto voci=  0 utili= 0 sito irraggiungibile
+23:22:37   inizio ISTRUZIONE SECONDARIA SUPERIORE - IS E.SANFELICE https://www.istitutosanfelice.edu.it/
+23:22:37 [118/130] ISTITUTO COMPRENSIVO - I.C. MANTOVA 2         letto     voci=  1 utili= 0 
+23:22:37   inizio ISTRUZIONE SECONDARIA SUPERIORE - GIOVANNI FALCONE http://www.giovannifalcone.edu.it/
+23:22:37 [119/130] I. C. GONZAGA - PEGOGNAGA                     letto     voci=135 utili= 8 
+23:22:39   inizio LICEO SCIENTIFICO - LIC.SCIENT. BELFIORE MN https://www.liceobelfioremantova.it/
+23:22:39 [120/130] G. GALILEI (Ostiglia)                         letto     voci= 11 utili= 1 
+23:22:41 [121/130] ISTRUZIONE SECONDARIA SUPERIORE - GIOVANNI FA non letto voci=  0 utili= 0 errore 509
+23:22:43 [122/130] ISTRUZIONE SECONDARIA SUPERIORE - IS E.SANFEL non letto voci=  0 utili= 0 errore 509
+23:22:43 [123/130] LICEO SCIENTIFICO - LIC.SCIENT. BELFIORE MN   letto     voci=  6 utili= 0 
+23:22:44 [124/130] ISTITUTO SUPERIORE BONOMI-MAZZOLARI (Mantova) letto     voci= 11 utili= 1 
+23:22:44 [125/130] ISTRUZIONE SECONDARIA SUPERIORE - A. MANZONI  letto     voci=  7 utili= 0 
+23:22:50 [126/130] ISTITUTO COMPRENSIVO - I.C. VOLTA MANT.NA     letto     voci= 11 utili= 0 
+23:23:06 [127/130] LC LIC.CLASS. VIRGILIO MN (Mantova)           letto     voci= 11 utili= 0 
+23:23:23 [128/130] ISTITUTO COMPRENSIVO - I. C. CASTEL GOFFREDO  letto     voci= 14 utili= 2 
+23:23:49 [129/130] Istituto Comprensivo di Porto Mantovano       letto     voci=260 utili= 2 
