@@ -134,10 +134,35 @@ def trova_cig(t):
 
 
 def testo_pdf(dati, max_pagine=8):
-    """Testo di un PDF (prime pagine). Stringa vuota se è una scansione o non leggibile."""
+    """Testo di un PDF (prime pagine): pypdf, poi pdftotext, poi lettura ottica (OCR) per le scansioni."""
+    t = ""
     try:
         from pypdf import PdfReader
         r = PdfReader(io.BytesIO(dati))
-        return "\n".join((p.extract_text() or "") for p in r.pages[:max_pagine])
+        t = "\n".join((p.extract_text() or "") for p in r.pages[:max_pagine])
     except Exception:
-        return ""
+        t = ""
+    if len(t.strip()) >= 200:
+        return t
+    import shutil, subprocess, tempfile, os
+    with tempfile.TemporaryDirectory() as d:
+        f = os.path.join(d, "a.pdf")
+        open(f, "wb").write(dati)
+        if shutil.which("pdftotext"):
+            try:
+                t2 = subprocess.run(["pdftotext", "-l", str(max_pagine), "-layout", f, "-"], capture_output=True, timeout=60).stdout.decode("utf-8", "replace")
+                if len(t2.strip()) > len(t.strip()):
+                    t = t2
+            except Exception:
+                pass
+        if len(t.strip()) < 200 and shutil.which("pdftoppm") and shutil.which("tesseract"):
+            try:
+                subprocess.run(["pdftoppm", "-r", "200", "-l", "2", "-gray", "-png", f, os.path.join(d, "p")], timeout=120, capture_output=True)
+                pezzi = []
+                for img in sorted(x for x in os.listdir(d) if x.endswith(".png")):
+                    pezzi.append(subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "ita"], capture_output=True, timeout=120).stdout.decode("utf-8", "replace"))
+                if len("".join(pezzi).strip()) > len(t.strip()):
+                    t = "\n".join(pezzi)
+            except Exception:
+                pass
+    return t

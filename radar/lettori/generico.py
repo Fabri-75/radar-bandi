@@ -138,7 +138,12 @@ def voci_da_html(html, url):
     return ris
 
 
-RE_CONTORNO = re.compile(r"menu|sidebar|footer|breadcrumb|cookie|social|correlat|related|share|condividi|navbar|header|banner|widget|newsletter|argomenti|tags?\b", re.I)
+CONTORNO = ("menu", "sidebar", "footer", "breadcrumb", "cookie", "social", "share", "condividi", "navbar", "widget", "newsletter", "related", "correlat")
+
+
+def _contorno(t):
+    gettoni = [x.lower() for x in (t.get("class") or [])] + ([t.get("id").lower()] if t.get("id") else [])
+    return any(g.startswith(CONTORNO) for g in gettoni)
 
 
 def testo_e_allegati(html, url):
@@ -147,7 +152,7 @@ def testo_e_allegati(html, url):
     for t in soup.find_all(["aside"]):
         t.decompose()
     for t in soup.find_all(True, attrs={"class": True}):
-        if t.attrs is not None and RE_CONTORNO.search(" ".join(t.get("class") or []) + " " + (t.get("id") or "")) and t.name not in ("body", "main", "html"):
+        if t.attrs is not None and t.name not in ("body", "main", "html", "article") and _contorno(t):
             t.decompose()
     corpo = soup.find("article") or soup.find("main") or soup.find(id=re.compile("content|contenuto|main", re.I)) or soup.body or soup
     alls = []
