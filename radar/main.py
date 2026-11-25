@@ -80,6 +80,12 @@ def valuta(v, flt, oggi, limite):
     # Dai siti tengo solo atti e avvisi, non le notizie sugli eventi
     if v.get("fonte", "").startswith("sito") and not flt.e_atto(tit):
         return None
+    # Dal solo testo degli allegati servono due parole diverse, o una molto specifica
+    SPECIFICHE = {"laboratorio teatrale", "laboratori teatrali", "improvvisazione", "drammatizzazione", "letture animate",
+                  "lettura animata", "promozione della lettura", "nati per leggere", "maggio dei libri", "patto per la lettura",
+                  "teatro ragazzi", "teatro per ragazzi", "burattini", "conferenza-spettacolo", "musica dal vivo", "stagione teatrale"}
+    if not arg_tit and not cpv_ok and len(set(arg_txt)) < 2 and not (set(arg_txt) & SPECIFICHE):
+        return None
     pub = v.get("pubblicazione")
     scad = v.get("scadenza") or trova_scadenza(testo, dopo=pub)
     if scad and pub and (scad - pub).days > 400:

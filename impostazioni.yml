@@ -203,6 +203,24 @@ parole_escludi:
   - messa a disposizione
   - assicurativ
   - assicurazion
+  - chiusura
+  - libri di testo
+  - regolamento
+  - circolare
+  - selezione alunni
+  - indirizzo musicale
+  - invito al
+  - pari opportunita
+  - costituzione team
+  - supporto operativo
+  - figura di aa
+  - personale docente interno
+  - docenti esperti interni
+  - docente interno
+  - collaborazioni plurime
+  - decreto legislativo
+  - assistenza educativa
+  - diritto allo studio
   - alloggi
   - abitativ
   - loculi
@@ -298,6 +316,10 @@ parole_esito:
   - concessione patrocinio
   - concessione del patrocinio
   - lettera di incarico
+  - assegnazione incarich
+  - assegnazione degli incarich
+  - erogazione contribut
+  - erogazione di contribut
 
 # Codici CPV utili (per ANAC e Sintel): bastano le prime cifre
 cpv:
