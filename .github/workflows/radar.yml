@@ -202,6 +202,7 @@ jobs:
           merge-multiple: true
       - name: Salva i risultati
         run: |
+          git fetch -q origin main && git reset -q --hard origin/main
           ls -R nuovi 2>/dev/null | head -50 || true
           find nuovi -name "??.json" -exec cp {} docs/dati/ \;
           mkdir -p registro && find nuovi -name "??.txt" -exec cp {} registro/ \;
@@ -210,4 +211,8 @@ jobs:
           git config user.email "radar-bandi@users.noreply.github.com"
           git add docs/dati registro
           git commit -m "Risultati della ricerca $(date +%d/%m/%Y)" || echo "Nessuna novità"
-          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          for i in 1 2 3 4 5; do
+            if git push -q; then exit 0; fi
+            sleep 5; git fetch -q origin main && git rebase -q -X theirs origin/main || { git rebase --abort; git reset -q --soft origin/main; git commit -qm "Risultati della ricerca $(date +%d/%m/%Y)"; }
+          done
+          echo "Salvataggio non riuscito"; exit 1
