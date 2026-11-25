@@ -67,12 +67,22 @@ def _nome_pagina(tipo, url):
 def leggi_ente(rete, ente, limite):
     """Ritorna (voci, pagine_lette, errore)."""
     sito = ente["sito"]
-    home, url_home, err = scarica(rete, sito)
-    if err and sito.startswith("https://"):
-        home, url_home, err2 = scarica(rete, "http://" + sito[8:])
-        err = None if home else err
+    p = urlparse(sito)
+    radice = f"{p.scheme}://{p.netloc}/"
+    altro_host = p.netloc[4:] if p.netloc.startswith("www.") else "www." + p.netloc
+    tentativi = [sito, radice, f"https://{altro_host}/", "http://" + p.netloc + "/"]
+    if ente.get("sito_alt"):
+        tentativi.insert(1, ente["sito_alt"])
+    home, url_home, err, primo_err = None, None, None, None
+    for t in dict.fromkeys(tentativi):
+        home, url_home, err = scarica(rete, t)
+        primo_err = primo_err or err
+        if home:
+            break
+        if err and ("robots" in err or "blocca" in err):
+            break
     if not home:
-        return [], [], err or "sito irraggiungibile"
+        return [], [], primo_err or err or "sito irraggiungibile"
 
     pagine, voci, visti = [], [], set()
     sez = link_sezioni(home, url_home)

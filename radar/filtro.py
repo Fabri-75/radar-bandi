@@ -34,7 +34,7 @@ class Filtro:
     def generico(self, titolo):
         """Titolo vago (es. 'Avviso pubblico', 'Determina n. 123'): vale la pena leggere l'allegato."""
         s = semplice(titolo)
-        return bool(self.forme(s)) or len(s) < 60 or bool(re.search(r"determin|decreto|avviso|bando|incaric|esperti|selezion", s))
+        return bool(self.forme(s)) or bool(re.search(r"determin|decreto|avviso|bando|incaric|espert|selezion|reclutament|manifestazion|indagine|affidament|procedura|preventiv|progett|contribut|patrocini|convenzion", s))
 
     def cpv_utile(self, cpv):
         c = re.sub(r"\D", "", str(cpv or ""))

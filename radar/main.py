@@ -36,7 +36,7 @@ def _id(ente, titolo, link):
 
 def arricchisci(rete, v, flt):
     """Apre la pagina di dettaglio e i PDF per leggere scadenza, importo e destinatari."""
-    testi = [v.get("testo", "")]
+    testi, pdf = [], []
     allegati = list(v.get("allegati") or [])
     aperti = 0
     if v.get("link") and not v["link"].lower().split("?")[0].endswith(".pdf") and v.get("apri_dettaglio", True):
@@ -45,7 +45,7 @@ def arricchisci(rete, v, flt):
         if r is not None and not err:
             ct = r.headers.get("content-type", "")
             if "pdf" in ct:
-                testi.append(testo_pdf(r.content))
+                pdf.append(testo_pdf(r.content))
             elif "html" in ct or "text" in ct:
                 from .lettori.generico import testo_e_allegati
                 t, alls = testo_e_allegati(r.text, r.url)
@@ -57,19 +57,23 @@ def arricchisci(rete, v, flt):
         r, err = rete.get(a)
         aperti += 1
         if r is not None and not err and (b"%PDF" in r.content[:1024]):
-            testi.append(testo_pdf(r.content))
-    v["testo_completo"] = "\n".join(t for t in testi if t)
+            pdf.append(testo_pdf(r.content))
+    v["testo_dettaglio"] = "\n".join(t for t in testi if t)
+    v["testo_pdf"] = "\n".join(t for t in pdf if t)
     return aperti
 
 
 def valuta(v, flt, oggi, limite):
     """Decide se tenere l'avviso. Ritorna la riga per la tabella oppure None."""
-    tit = v["titolo"]
+    tit = re.sub(r"\s*[–-]\s*N/?D\s*$", "", v["titolo"]).strip()
     if flt.scartato(tit):
         return None
-    testo = v.get("testo_completo") or v.get("testo") or ""
+    # Testo dell'atto: PDF e pagina di dettaglio (senza menu del sito). Il testo della riga d'elenco serve solo per le date.
+    testo = "\n".join(x for x in (tit, v.get("testo_pdf"), v.get("testo_dettaglio")) if x)
     arg_tit = flt.argomenti(tit)
-    arg_txt = flt.argomenti(testo[:20000]) if not arg_tit else []
+    arg_txt = []
+    if not arg_tit and flt.generico(tit):
+        arg_txt = flt.argomenti("\n".join(x for x in (v.get("testo_pdf"), v.get("testo_dettaglio")) if x)[:30000])
     cpv_ok = flt.cpv_utile(v.get("cpv"))
     if not (arg_tit or arg_txt or cpv_ok):
         return None
@@ -81,13 +85,18 @@ def valuta(v, flt, oggi, limite):
         return None
     pub = v.get("pubblicazione")
     scad = v.get("scadenza") or trova_scadenza(testo, dopo=pub)
+    if scad and pub and (scad - pub).days > 400:
+        scad = None
     if pub and pub < limite and not (scad and scad >= oggi):
         return None
     motivi = list(dict.fromkeys(arg_tit + arg_txt + flt.forme(tit)))
     if cpv_ok:
         motivi.append(f"CPV {v.get('cpv')}")
+    tipo = v["tipo"]
+    if tipo == "Comune" and re.search(r"bibliotec", semplice(tit)):
+        tipo = "Biblioteca"
     return {
-        "ente": v["ente"], "tipo": v["tipo"], "titolo": tit[:300],
+        "ente": v["ente"], "tipo": tipo, "titolo": tit[:300],
         "pubblicazione": pub.isoformat() if pub else None,
         "scadenza": scad.isoformat() if scad else None,
         "importo": v.get("importo") or trova_importo(testo),
@@ -111,7 +120,7 @@ def lavora_ente(rete, ente, flt, oggi, limite):
             continue
         if v.get("pubblicazione") and v["pubblicazione"] < limite and not (v.get("scadenza") and v["scadenza"] >= oggi):
             continue
-        promettente = flt.argomenti(v["titolo"] + " " + v.get("testo", "")) or flt.generico(v["titolo"])
+        promettente = flt.argomenti(v["titolo"]) or flt.generico(v["titolo"])
         if promettente and aperti < MAX_DETTAGLI:
             aperti += arricchisci(rete, v, flt)
         r = valuta(v, flt, oggi, limite)
@@ -162,7 +171,7 @@ def main(sigla):
     with_site = [e for e in enti if e.get("sito")]
     for e in enti:
         if not e.get("sito"):
-            coperture.append({"nome": e["nome"], "tipo": e["tipo"], "sito": "", "esito": "non letto",
+            coperture.append({"nome": e["nome"], "tipo": e["tipo"], "sito": "", "esito": "letto" if e.get("coperto") else "non letto",
                               "motivo": e.get("nota") or "nessun sito indicato negli open data", "pagine": [], "trovati": 0})
     with ThreadPoolExecutor(max_workers=int(imp.get("siti_in_parallelo", 10))) as ex:
         fut = {ex.submit(lavora_ente, rete, e, flt, oggi, limite): e for e in with_site}

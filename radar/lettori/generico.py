@@ -138,10 +138,18 @@ def voci_da_html(html, url):
     return ris
 
 
+RE_CONTORNO = re.compile(r"menu|sidebar|footer|breadcrumb|cookie|social|correlat|related|share|condividi|navbar|header|banner|widget|newsletter|argomenti|tags?\b", re.I)
+
+
 def testo_e_allegati(html, url):
-    """Testo principale di una pagina di dettaglio e link agli allegati."""
+    """Testo principale di una pagina di dettaglio (senza menu e colonne laterali) e link agli allegati."""
     soup = pulisci(html)
-    corpo = soup.find("main") or soup.find(id=re.compile("content|contenuto|main", re.I)) or soup.body or soup
+    for t in soup.find_all(["aside"]):
+        t.decompose()
+    for t in soup.find_all(True, attrs={"class": True}):
+        if t.attrs is not None and RE_CONTORNO.search(" ".join(t.get("class") or []) + " " + (t.get("id") or "")) and t.name not in ("body", "main", "html"):
+            t.decompose()
+    corpo = soup.find("article") or soup.find("main") or soup.find(id=re.compile("content|contenuto|main", re.I)) or soup.body or soup
     alls = []
     for a in corpo.find_all("a", href=True):
         u = urljoin(url, a["href"])

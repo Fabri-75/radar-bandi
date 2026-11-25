@@ -103,8 +103,13 @@ def carica(rete, sigla, imp, extra_csv="siti_extra.csv"):
             sito = normalizza_url(x.get("SITOWEBSCUOLA", ""))
             nome = x.get("DENOMINAZIONEISTITUTORIFERIMENTO") or x.get("DENOMINAZIONESCUOLA")
             ip = ipa_scuole.pop(host(sito), None) if sito else None
-            aggiungi({"tipo": "Scuola", "nome": (nome or "").strip() + ("" if not paritarie else " (paritaria)"),
-                      "cf": ip["cf"] if ip else "", "sito": sito or (ip["sito"] if ip else ""),
+            comune = (x.get("DESCRIZIONECOMUNE") or "").title()
+            nome = (nome or "").strip()
+            if comune and semplice(comune) not in semplice(nome):
+                nome += f" ({comune})"
+            alt = normalizza_url(ip["sito"]) if ip else ""
+            aggiungi({"tipo": "Scuola", "nome": nome + ("" if not paritarie else " – paritaria"),
+                      "cf": ip["cf"] if ip else "", "sito": sito or alt, "sito_alt": alt if alt and host(alt) != host(sito) else "",
                       "comune": (x.get("DESCRIZIONECOMUNE") or "").title(), "codice": cod,
                       "fonte": "Ministero" + (" + IndicePA" if ip else "")})
     miur("DS0400SCUANAGRAFESTAT")
@@ -151,7 +156,13 @@ def carica(rete, sigla, imp, extra_csv="siti_extra.csv"):
     lista = list(enti.values())
     # Una biblioteca senza sito proprio pubblica sul sito del Comune: lo segnalo
     siti_comuni = {semplice(e["comune"] or e["nome"].replace("Comune di ", "")): e for e in lista if e["tipo"] == "Comune"}
+    host_comuni = {host(e["sito"]): e for e in lista if e["tipo"] == "Comune" and e["sito"]}
     for e in lista:
+        if e["tipo"] == "Biblioteca" and e["sito"] and host(e["sito"]) in host_comuni:
+            e["nota"] = f"pubblica sul sito del {host_comuni[host(e['sito'])]['nome']} (letto con il Comune)"
+            e["sito"] = ""
+            e["coperto"] = True
+            continue
         if e["tipo"] == "Biblioteca" and not e["sito"]:
             c = siti_comuni.get(semplice(e["comune"]))
             e["nota"] = f"senza sito proprio: avvisi sul sito del {c['nome']}" if c else "senza sito proprio"
