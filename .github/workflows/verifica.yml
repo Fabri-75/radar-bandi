@@ -1,6 +1,8 @@
 name: Verifica fonti (prova tecnica)
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   verifica:
     runs-on: ubuntu-latest
@@ -12,8 +14,11 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python verifica/sonda.py
-      - uses: actions/upload-artifact@v4
+      - name: Salva l'esito nel ramo "verifica-esiti"
         if: always()
-        with:
-          name: esito-verifica
-          path: verifica/out/
+        run: |
+          cd verifica/out
+          git init -q -b verifica-esiti
+          git config user.name "radar-bandi" && git config user.email "radar-bandi@users.noreply.github.com"
+          git add -A && git commit -qm "Esito verifica"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" verifica-esiti
