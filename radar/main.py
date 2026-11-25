@@ -191,18 +191,37 @@ def main(sigla):
         if not e.get("sito"):
             coperture.append({"nome": e["nome"], "tipo": e["tipo"], "sito": "", "esito": "letto" if e.get("coperto") else "non letto",
                               "motivo": e.get("nota") or "nessun sito indicato negli open data", "pagine": [], "trovati": 0})
-    with ThreadPoolExecutor(max_workers=int(imp.get("siti_in_parallelo", 10))) as ex:
-        fut = {ex.submit(lavora_ente, rete, e, flt, oggi, limite): e for e in with_site}
-        # (ogni ente ha comunque tempi massimi per pagina; il browser è uno solo)
-        for i, f in enumerate(as_completed(fut), 1):
-            e = fut[f]
+    from concurrent.futures import FIRST_COMPLETED, wait
+    ex = ThreadPoolExecutor(max_workers=int(imp.get("siti_in_parallelo", 10)))
+    inizi = {}
+
+    def avvia(e):
+        inizi[e["nome"]] = time.time()
+        return lavora_ente(rete, e, flt, oggi, limite)
+
+    fut = {ex.submit(avvia, e): e for e in with_site}
+    in_corso, fatti = set(fut), 0
+    while in_corso:
+        finiti, in_corso = wait(in_corso, timeout=30, return_when=FIRST_COMPLETED)
+        for f in finiti:
+            e = fut[f]; fatti += 1
             try:
                 rr, cop = f.result()
             except Exception as ex_:  # un sito che si rompe non deve fermare la ricerca
                 rr, cop = [], {"nome": e["nome"], "tipo": e["tipo"], "sito": e.get("sito"), "esito": "non letto",
                                "motivo": f"errore del lettore ({type(ex_).__name__})", "pagine": [], "trovati": 0}
             righe += rr; coperture.append(cop)
-            log(f"[{i}/{len(with_site)}] {e['nome'][:45]:45} {cop['esito']:9} voci={cop.get('voci', 0):3} utili={cop['trovati']:2} {cop['motivo'][:60]}")
+            log(f"[{fatti}/{len(with_site)}] {e['nome'][:45]:45} {cop['esito']:9} voci={cop.get('voci', 0):3} utili={cop['trovati']:2} {cop['motivo'][:60]}")
+        # siti bloccati da più di 15 minuti: li abbandono
+        for f in list(in_corso):
+            e = fut[f]
+            t = inizi.get(e["nome"])
+            if t and time.time() - t > 900:
+                in_corso.discard(f); fatti += 1
+                coperture.append({"nome": e["nome"], "tipo": e["tipo"], "sito": e.get("sito"), "esito": "non letto",
+                                  "motivo": "sito troppo lento: lettura interrotta dopo 15 minuti", "pagine": [], "trovati": 0})
+                log(f"[{fatti}/{len(with_site)}] {e['nome'][:45]:45} ABBANDONATO dopo 15 minuti")
+    ex.shutdown(wait=False, cancel_futures=True)
 
     fonti = []
     per_cf = {e["cf"]: e for e in enti if e.get("cf")}

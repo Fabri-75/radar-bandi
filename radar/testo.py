@@ -138,37 +138,38 @@ _OCR = threading.Semaphore(1)   # una lettura ottica alla volta: consuma molta m
 
 
 def testo_pdf(dati, max_pagine=8):
-    """Testo di un PDF (prime pagine): pypdf, poi pdftotext, poi lettura ottica (OCR) per le scansioni."""
-    t = ""
+    """Testo di un PDF (prime pagine): pdftotext, poi lettura ottica (OCR) per le scansioni.
+    Tutto in programmi separati con tempo massimo: un PDF rovinato non può bloccare la ricerca."""
+    import os
+    import shutil
+    import subprocess
+    import sys
+    import tempfile
     if len(dati) > 12_000_000:      # PDF enormi (planimetrie, scansioni pesanti): li salto
         return ""
-    try:
-        from pypdf import PdfReader
-        r = PdfReader(io.BytesIO(dati))
-        t = "\n".join((p.extract_text() or "") for p in r.pages[:max_pagine])
-    except Exception:
-        t = ""
-    if len(t.strip()) >= 200:
-        return t
-    import shutil, subprocess, tempfile, os
+    t = ""
     with tempfile.TemporaryDirectory() as d:
         f = os.path.join(d, "a.pdf")
         open(f, "wb").write(dati)
-        if shutil.which("pdftotext"):
-            try:
-                t2 = subprocess.run(["pdftotext", "-l", str(max_pagine), "-layout", f, "-"], capture_output=True, timeout=60).stdout.decode("utf-8", "replace")
-                if len(t2.strip()) > len(t.strip()):
-                    t = t2
-            except Exception:
-                pass
+        try:
+            if shutil.which("pdftotext"):
+                t = subprocess.run(["pdftotext", "-l", str(max_pagine), "-layout", f, "-"], capture_output=True,
+                                   timeout=60).stdout.decode("utf-8", "replace")
+            else:   # sul computer di sviluppo: pypdf in un processo separato
+                codice = ("import sys;from pypdf import PdfReader;r=PdfReader(sys.argv[1]);"
+                          f"print('\\n'.join((p.extract_text() or '') for p in r.pages[:{max_pagine}]))")
+                t = subprocess.run([sys.executable, "-c", codice, f], capture_output=True, timeout=60).stdout.decode("utf-8", "replace")
+        except Exception:
+            t = ""
         if len(t.strip()) < 200 and len(dati) < 6_000_000 and shutil.which("pdftoppm") and shutil.which("tesseract"):
             try:
-              with _OCR:
-                subprocess.run(["pdftoppm", "-r", "150", "-scale-to", "1800", "-l", "2", "-gray", "-png", f, os.path.join(d, "p")], timeout=120, capture_output=True)
-                pezzi = []
-                for img in sorted(x for x in os.listdir(d) if x.endswith(".png")):
-                    pezzi.append(subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "ita"], capture_output=True, timeout=120,
-                                                env={**os.environ, "OMP_THREAD_LIMIT": "1"}).stdout.decode("utf-8", "replace"))
+                with _OCR:
+                    subprocess.run(["pdftoppm", "-r", "150", "-scale-to", "1800", "-l", "2", "-gray", "-png", f,
+                                    os.path.join(d, "p")], timeout=90, capture_output=True)
+                    pezzi = []
+                    for img in sorted(x for x in os.listdir(d) if x.endswith(".png")):
+                        pezzi.append(subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "ita"], capture_output=True,
+                                                    timeout=90, env={**os.environ, "OMP_THREAD_LIMIT": "1"}).stdout.decode("utf-8", "replace"))
                 if len("".join(pezzi).strip()) > len(t.strip()):
                     t = "\n".join(pezzi)
             except Exception:
