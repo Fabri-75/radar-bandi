@@ -1,6 +1,68 @@
 [
  {
+  "sigla": "BG",
+  "nome": "Bergamo",
+  "aggiornato": "2026-11-25T20:00:57.665933+00:00",
+  "avvisi": 168
+ },
+ {
+  "sigla": "BS",
+  "nome": "Brescia",
+  "aggiornato": "2026-11-25T20:03:28.246505+00:00",
+  "avvisi": 177
+ },
+ {
+  "sigla": "CO",
+  "nome": "Como",
+  "aggiornato": "2026-11-25T19:52:07.434723+00:00",
+  "avvisi": 60
+ },
+ {
+  "sigla": "CR",
+  "nome": "Cremona",
+  "aggiornato": "2026-11-25T19:54:48.098995+00:00",
+  "avvisi": 46
+ },
+ {
+  "sigla": "LC",
+  "nome": "Lecco",
+  "aggiornato": "2026-11-25T20:05:44.286400+00:00",
+  "avvisi": 58
+ },
+ {
+  "sigla": "LO",
+  "nome": "Lodi",
+  "aggiornato": "2026-11-25T20:03:57.477727+00:00",
+  "avvisi": 28
+ },
+ {
+  "sigla": "MI",
+  "nome": "Milano",
+  "aggiornato": "2026-11-25T20:32:35.443588+00:00",
+  "avvisi": 189
+ },
+ {
   "sigla": "MB",
-  "nome": "Monza e della Brianza"
+  "nome": "Monza e della Brianza",
+  "aggiornato": "2026-11-25T20:17:09.262841+00:00",
+  "avvisi": 68
+ },
+ {
+  "sigla": "PV",
+  "nome": "Pavia",
+  "aggiornato": "2026-11-25T20:34:11.459408+00:00",
+  "avvisi": 58
+ },
+ {
+  "sigla": "SO",
+  "nome": "Sondrio",
+  "aggiornato": "2026-11-25T20:26:38.333153+00:00",
+  "avvisi": 39
+ },
+ {
+  "sigla": "VA",
+  "nome": "Varese",
+  "aggiornato": "2026-11-25T20:40:08.685598+00:00",
+  "avvisi": 56
  }
 ]

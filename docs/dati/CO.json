@@ -1,0 +1,6006 @@
+{
+ "provincia": {
+  "sigla": "CO",
+  "nome": "Como"
+ },
+ "aggiornato": "2026-11-25T19:52:07.434723+00:00",
+ "giorni": 60,
+ "durata_minuti": 12,
+ "richieste": 1420,
+ "righe": [
+  {
+   "ente": "I.C. APPIANO GENTILE",
+   "tipo": "Scuola",
+   "titolo": "Richiesta candidature per progetti Scuola Secondaria di primo grado a.s. 2026/27 – PERSONE FISICHE",
+   "pubblicazione": "2026-10-01",
+   "scadenza": "2026-10-20",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "esperto esterno"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icappianogentile.edu.it/2026/10/12/richiesta-candidature-per-progetti-scuola-secondaria-di-primo-grado-a-s-2026-27-persone-fisiche/",
+   "fonti": [
+    {
+     "nome": "sito icappianogentile.edu.it",
+     "link": "https://icappianogentile.edu.it/2026/10/12/richiesta-candidature-per-progetti-scuola-secondaria-di-primo-grado-a-s-2026-27-persone-fisiche/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80014000139",
+   "id": "fd1784445925",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Valsolda",
+   "tipo": "Comune",
+   "titolo": "BANDO PER SOSTEGNO RETTE A CARICO DELLE FAMIGLIE PER L’ACCESSO ALL’ASILO NIDO.",
+   "pubblicazione": "2026-10-08",
+   "scadenza": "2026-10-23",
+   "importo": "€ 15.336,25",
+   "partecipanti": null,
+   "motivi": [
+    "concert"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.valsolda.co.it/avvisi/bando-per-lassegnazione-di-contributi-per-il-potenziamento-del-servizio-di-asilo-nido-anno-scolastico-2025-2026/",
+   "fonti": [
+    {
+     "nome": "sito comune.valsolda.co.it",
+     "link": "https://www.comune.valsolda.co.it/avvisi/bando-per-lassegnazione-di-contributi-per-il-potenziamento-del-servizio-di-asilo-nido-anno-scolastico-2025-2026/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00598360139",
+   "id": "668cfb5292b6",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Cernobbio",
+   "tipo": "Comune",
+   "titolo": "AFFIDAMENTO DIRETTO PER ORGANIZZAZIONE E COORDINAMENTO EVENTI NATALE 2026/2027",
+   "pubblicazione": "2026-10-27",
+   "scadenza": "2026-10-29",
+   "importo": "€ 11.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "natale",
+    "affidamento"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225879616",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225879616"
+    }
+   ],
+   "esito": true,
+   "cig": "BDA6421A9A",
+   "cf": "00432060135",
+   "id": "fcf301b68d3a",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Cernobbio",
+   "tipo": "Comune",
+   "titolo": "AFFIDAMENTO DIRETTO ALLESTIMENTO DI VILLA BERNASCONI PER EVENTI NATALIZI 2026/2027 COLLEGATI AL PROGETTO DENOMINATO \"NATALE IN VILLA. LA STORIA DEI GIOCATTOLI VENTURA. LE ORIGINI",
+   "pubblicazione": "2026-11-06",
+   "scadenza": "2026-11-09",
+   "importo": "€ 26.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "natale",
+    "natalizi",
+    "affidamento"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226312207",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226312207"
+    }
+   ],
+   "esito": true,
+   "cig": "BDBFC30833",
+   "cf": "00432060135",
+   "id": "6b1429daffef",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Casnate Con Bernate",
+   "tipo": "Biblioteca",
+   "titolo": "AFFIDAMENTO GESTIONE SERVIZI BIBLIOTECARI PRESSO BIBLIOTECA COMUNALE DI CASNATE CON BERNATE ANNI 2027-2028-2029",
+   "pubblicazione": "2026-10-30",
+   "scadenza": "2026-11-14",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento",
+    "CPV 92511000-6"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226044549",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226044549"
+    }
+   ],
+   "esito": false,
+   "cig": "BD99CD42C0_ANNULLATO",
+   "cf": "81001910132",
+   "id": "0bb0056686c8",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina progetto giochi matematici scuola secondaria a.s. 2026/27",
+   "pubblicazione": "2026-11-11",
+   "scadenza": "2026-11-26",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "mafie"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-giochi-matematici-scuola-secondaria-202627",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-giochi-matematici-scuola-secondaria-202627"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81004150132",
+   "id": "c3dae7aa7141",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina progetto Ket scuola secondaria a.s. 2026/27",
+   "pubblicazione": "2026-11-11",
+   "scadenza": "2026-11-26",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "mafie"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-ket-scuola-secondaria-202627",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-ket-scuola-secondaria-202627"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81004150132",
+   "id": "555ad8b9af30",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina progetto karate a scuola classi prime, seconde e terze scuola primaria as 2026-27",
+   "pubblicazione": "2026-11-11",
+   "scadenza": "2026-11-26",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "mafie"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-karate-scuola-classi-prime-seconde-e-terze-scuola-0",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-karate-scuola-classi-prime-seconde-e-terze-scuola-0"
+    }
+   ],
+   "esito": true,
+   "cig": "BD998D45B7",
+   "cf": "81004150132",
+   "id": "b9153e11d4d1",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di San Fermo della Battaglia",
+   "tipo": "Biblioteca",
+   "titolo": "SERVIZI BIBLIOTECARI 27_28",
+   "pubblicazione": "2026-11-18",
+   "scadenza": "2026-11-26",
+   "importo": "€ 108.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "CPV 92511000-6",
+    "inclusione",
+    "affidamento"
+   ],
+   "temi": [
+    "Lettura e biblioteche",
+    "Laboratori nelle scuole"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226769838",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226769838"
+    },
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225085809"
+    }
+   ],
+   "esito": false,
+   "cig": "XXXXXXXXXX",
+   "cf": "00354000135",
+   "id": "043bf7d549e0",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decisione di contrarre UN MARE DI BENE CIG BDC04FFD14 (PIANO ESTATE 26/27) FUNTASY EDITRICE",
+   "pubblicazione": "2026-11-12",
+   "scadenza": "2026-11-27",
+   "importo": "€ 430,00",
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decisione-di-contrarre-un-mare-di-bene-cig-bdc04ffd14-piano-estate-2627-funtasy",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decisione-di-contrarre-un-mare-di-bene-cig-bdc04ffd14-piano-estate-2627-funtasy"
+    }
+   ],
+   "esito": false,
+   "cig": "BDC04FFD14",
+   "cf": "81004150132",
+   "id": "b584dc4624e3",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina progetto inglese scuola dell'infanzia a.s. 2026/27",
+   "pubblicazione": "2026-11-12",
+   "scadenza": "2026-11-27",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-inglese-scuola-dellinfanzia-202627",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-inglese-scuola-dellinfanzia-202627"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81004150132",
+   "id": "5e1f82a2d16f",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Casnate Con Bernate",
+   "tipo": "Biblioteca",
+   "titolo": "PROCEDURA NEGOZIATA SENZA BANDO PER AFFIDAMENTO GESTIONE DEI SERVIZI BIBLIOTECARI  PRESSO LA BIBLIOTECA COMUNALE DI CASNATE CON BERNATE PERIODO DAL 01.01.2027 AL 31.12.2029",
+   "pubblicazione": "2026-11-17",
+   "scadenza": "2026-11-27",
+   "importo": "€ 136.153,20",
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento",
+    "CPV 92511000-6"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226731123",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226731123"
+    }
+   ],
+   "esito": false,
+   "cig": "BD99CD42C0",
+   "cf": "81001910132",
+   "id": "fe79abe29a6a",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Beregazzo Con Figliaro",
+   "tipo": "Comune",
+   "titolo": "Contributo comunale acquisto libri scolastici - Scuola Secondaria di 1° e 2° grado - a.s. 2026/2027",
+   "pubblicazione": "2026-11-14",
+   "scadenza": "2026-11-30",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "rassegn",
+    "per bambini",
+    "per famiglie",
+    "natalizi",
+    "natalizie"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Infanzia e famiglie",
+    "Natale"
+   ],
+   "link": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1",
+   "fonti": [
+    {
+     "nome": "sito comune.beregazzoconfigliaro.co.it",
+     "link": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00596540138",
+   "id": "045909256335",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Beregazzo Con Figliaro",
+   "tipo": "Comune",
+   "titolo": "Avviso chiusura uffici comunali festività natalizie",
+   "pubblicazione": "2026-11-17",
+   "scadenza": "2026-11-30",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natalizi",
+    "natalizie"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1",
+   "fonti": [
+    {
+     "nome": "sito comune.beregazzoconfigliaro.co.it",
+     "link": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00596540138",
+   "id": "cfbf54fb8424",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Nomina Commissione di valutazione delle candidature pervenute in relazione all’Avviso di selezione prot. n. 7942 del 19/09/2026",
+   "pubblicazione": "2026-11-24",
+   "scadenza": "2026-12-09",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "inclusione",
+    "mafie",
+    "estate",
+    "estiv",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici",
+    "Estate e musica"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/nomina-commissione-di-valutazione-delle-candidature-pervenute-relazione-allavviso-7",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/nomina-commissione-di-valutazione-delle-candidature-pervenute-relazione-allavviso-7"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81004150132",
+   "id": "5841771d69f0",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Docente Ventura Roberta - Decreto di nomina progetto inglese scuola dell'infanzia a.s. 2026/27",
+   "pubblicazione": "2026-11-24",
+   "scadenza": "2026-12-09",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/docente-ventura-roberta-decreto-di-nomina-progetto-inglese-scuola-dellinfanzia-202627",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/docente-ventura-roberta-decreto-di-nomina-progetto-inglese-scuola-dellinfanzia-202627"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81004150132",
+   "id": "f4dc10f63c5c",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C.CERMENATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina progetto di educazione alla lettura emotiva a.s. 2026/27",
+   "pubblicazione": "2026-11-25",
+   "scadenza": "2026-12-10",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "mafie"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-di-educazione-alla-lettura-emotiva-202627",
+   "fonti": [
+    {
+     "nome": "sito iccermenate.edu.it",
+     "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-di-educazione-alla-lettura-emotiva-202627"
+    }
+   ],
+   "esito": true,
+   "cig": "BDEBD716A6",
+   "cf": "81004150132",
+   "id": "8db897290860",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Valsolda",
+   "tipo": "Comune",
+   "titolo": "E’ stato pubblicato in Gazzetta Ufficiale il decreto del Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste del 24 giugno 2026. Il provvedimento stabilisce i …",
+   "pubblicazione": "2026-11-03",
+   "scadenza": "2026-12-16",
+   "importo": "€ 2.231.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "rassegn",
+    "inclusione",
+    "concert"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.valsolda.co.it/avvisi/la-carta-dedicata-a-te-2026/",
+   "fonti": [
+    {
+     "nome": "sito comune.valsolda.co.it",
+     "link": "https://www.comune.valsolda.co.it/avvisi/la-carta-dedicata-a-te-2026/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00598360139",
+   "id": "5a19c98993a9",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Como",
+   "tipo": "Comune",
+   "titolo": "Avviso pubblico per la concessione di contributi a sostegno del pagamento delle utenze domestiche e per l'avvio di un nuovo contratto in locazione",
+   "pubblicazione": "2026-10-12",
+   "scadenza": "2027-01-24",
+   "importo": "€ 500,00",
+   "partecipanti": null,
+   "motivi": [
+    "rassegn",
+    "natalizi",
+    "avviso pubblico",
+    "contributi"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://www.comune.como.it/novita/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.como.it",
+     "link": "https://www.comune.como.it/novita/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80005370137",
+   "id": "6e45d9bf63ba",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Como",
+   "tipo": "Comune",
+   "titolo": "Presentazione di candidature per la partecipazione al progetto \"Student exchange Como Tokamachi\". Edizione 2026-2027",
+   "pubblicazione": "2026-10-26",
+   "scadenza": "2027-01-24",
+   "importo": "€ 500,00",
+   "partecipanti": null,
+   "motivi": [
+    "rassegn",
+    "natalizi"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://www.comune.como.it/novita/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.como.it",
+     "link": "https://www.comune.como.it/novita/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80005370137",
+   "id": "d4ae5ae035ee",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Como",
+   "tipo": "Comune",
+   "titolo": "Avvisi pubblici per la realizzazione di rassegne hobbistiche e mercati occasionali a carattere natalizio nel periodo dicembre 2026/gennaio 2027",
+   "pubblicazione": "2026-10-26",
+   "scadenza": "2027-01-24",
+   "importo": "€ 500,00",
+   "partecipanti": null,
+   "motivi": [
+    "rassegn",
+    "natalizi"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://www.comune.como.it/novita/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.como.it",
+     "link": "https://www.comune.como.it/novita/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80005370137",
+   "id": "eb8761b98d8a",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Como",
+   "tipo": "Comune",
+   "titolo": "Open Masters Games Como Lake 2027: secondo avviso del Comune di Lecco per l'individuazione di sponsorizzazioni",
+   "pubblicazione": "2026-11-17",
+   "scadenza": "2027-01-24",
+   "importo": "€ 500,00",
+   "partecipanti": null,
+   "motivi": [
+    "rassegn",
+    "natalizi"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://www.comune.como.it/novita/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.como.it",
+     "link": "https://www.comune.como.it/novita/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80005370137",
+   "id": "5b5e1a1b841e",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. INVERIGO",
+   "tipo": "Scuola",
+   "titolo": "Avviso pubblico per il reclutamento di esperti - Progetti previsti nel PTOF - anno scolastico 2026/2027",
+   "pubblicazione": "2026-10-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "avviso pubblico",
+    "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/5349/documento/COIC824004",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/5349/documento/COIC824004"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81003850138",
+   "id": "f56e5f1c71d8",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. INVERIGO",
+   "tipo": "Scuola",
+   "titolo": "Determina a contrarre e avvio procedura per il reclutamento di esperti - Progetti previsti nel PTOF - anno scolastico 2026/2027",
+   "pubblicazione": "2026-10-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/5347/documento/COIC824004",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/5347/documento/COIC824004"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81003850138",
+   "id": "810213c322d7",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. G. PUECHER DI ERBA",
+   "tipo": "Scuola",
+   "titolo": "Decisione a contrarre GRUPPO CULTURALE \"IL TREBBO\" - MILANO spettacolo del 02/12/2026 cl.5^ scuole primarie a.s.2026/27",
+   "pubblicazione": "2026-10-28",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/3483/documento/COIC85600G",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/3483/documento/COIC85600G"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "93015030138",
+   "id": "8a1e7afa0478",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Montano Lucino",
+   "tipo": "Comune",
+   "titolo": "Bando per l'assegnazione di contributi a parziale copertura del costo della retta di frequenza delle Scuole dell'Infanzia comunali A.S. 26/27",
+   "pubblicazione": "2026-10-29",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuole dell'infanzia",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://www.comune.montanolucino.co.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.montanolucino.co.it",
+     "link": "https://www.comune.montanolucino.co.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00616910139",
+   "id": "e7f1e4bd109e",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. CANTU' 3",
+   "tipo": "Scuola",
+   "titolo": "AVVISO DI SELEZIONE PER PROGETTI ESPERTI INTERNI/ESTERNI DIRITTO ALLO STUDIO A.S.26/27",
+   "pubblicazione": "2026-11-02",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "esperto esterno",
+    "natale",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Natale"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/10229/documento/COIC83900T",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/10229/documento/COIC83900T"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "90020540135",
+   "id": "51a9cbbc8995",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Olgiate Comasco",
+   "tipo": "Comune",
+   "titolo": "REALIZZAZIONE RAPPRESENTAZIONE TEATRALE IN OCCASIONE DELLA GIORNATA INTERNAZIONALE CONTRO LA VIOLENZA SULLE DONNE",
+   "pubblicazione": "2026-11-03",
+   "scadenza": null,
+   "importo": "€ 1.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://olgiate-comasco.portaletrasparenza.net/dettagli/attodigara/1838/realizzazione-rappresentazione-teatrale-in-occasione-della-giornata-internazionale-contro-la-violenza-sulle-donne.html",
+   "fonti": [
+    {
+     "nome": "sito olgiate-comasco.portaletrasparenza.net",
+     "link": "https://olgiate-comasco.portaletrasparenza.net/dettagli/attodigara/1838/realizzazione-rappresentazione-teatrale-in-occasione-della-giornata-internazionale-contro-la-violenza-sulle-donne.html"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00417080132",
+   "id": "eba1d2b4b3ea",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. ROVELLASCA",
+   "tipo": "Scuola",
+   "titolo": "Progetto Educazione all'affettività e alla sessualità\" a.s. 2026/2027",
+   "pubblicazione": "2026-11-05",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "affettivita",
+    "educazione all'affettivita"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://pubblicitalegale.anticorruzione.it/bandi/b07dc270-59c4-40dc-a0f9-9266cd1a52b9",
+   "fonti": [
+    {
+     "nome": "ANAC",
+     "link": "https://pubblicitalegale.anticorruzione.it/bandi/b07dc270-59c4-40dc-a0f9-9266cd1a52b9"
+    }
+   ],
+   "esito": false,
+   "cig": "BD8E5F6A9B",
+   "cf": "80018640138",
+   "id": "ecdd8eca173e",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Carugo",
+   "tipo": "Comune",
+   "titolo": "Avviso pubblico per l'erogazione di contributi finalizzati al potenziamento dei centri estivi 2026",
+   "pubblicazione": "2026-11-06",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv",
+    "avviso pubblico",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.carugo.co.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.carugo.co.it",
+     "link": "https://www.comune.carugo.co.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00698230133",
+   "id": "4e023a6c2a17",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Faloppio",
+   "tipo": "Comune",
+   "titolo": "Delibera: Giunta Comunale N.68 DEL 06/11/2026: CONCESSIONE DI PATROCINIO GRATUITO PER L’EVENTO MERCATINI DI NATALE 2026 DOMENICA 6 DICEMBRE 2026",
+   "pubblicazione": "2026-11-06",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale",
+    "patrocinio"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00457290138",
+   "id": "aef425414544",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Colverde",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.352 DEL 10/11/2026 - AREA AMMINISTRATIVA: PROGRAMMA ATTIVITA' CORSI 2026/2027 - ASPETTANDO IL NATALE A COLVERDE: SPETTACOLO INTERATTIVO PER BAMBINI CHI HA RAPITO BABBO NATALE. IMPEGNO DI SPESA CIG: BDB90CB842",
+   "pubblicazione": "2026-11-10",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol",
+    "per bambini",
+    "natale"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Infanzia e famiglie",
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolverde/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolverde/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": "BDB90CB842",
+   "cf": "03507580136",
+   "id": "9832d1aeba40",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "N.53 DECISIONE A CONTRARRE DI AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE SPETTACOLO TEATRALE “IL NATALE DEL PICCOLO PRINCIPE” PER GLI ALUNNI DELLA SCUOLA PRIMARIA DI FENEGRÒ,",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "natale",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7130/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7130/documento/COIC82200C"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "f4b75dc44365",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "STIPULA TRATTATIVA DIRETTA MEPA N. 6724154 SERVIZIO DI SUPPORTO EDUCATIVO SCOLASTICO PER GLI ALUNNI DELLA SCUOLA PRIMARIA E DELLA SCUOLA DELL'INFANZIA DI LIMIDO COMASCO E DELLA SCUOLA PRIMARIA DI CIRIMIDO PER L’A.S. 2026-27",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7128/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7128/documento/COIC82200C"
+    }
+   ],
+   "esito": false,
+   "cig": "DFD9DF7E39",
+   "cf": "80015360136",
+   "id": "3ef87fb67775",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "ORDINE DIRETTO / STIPULA CONTRATTO PER: SERVIZIO DI REALIZZAZIONE SPETTACOLO TEATRALE \"IL NATALE DEL PICCOLO PRINCIPE\".",
+   "pubblicazione": "2026-11-12",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "natale"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7138/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7138/documento/COIC82200C"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "0b38b85f38c1",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Faloppio",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.317 DEL 13/11/2026 - AREA AFFARI GENERALI: AFFIDAMENTO DIRETTO AI SENSI DELL' ART. 50, COMMA 1, LETTERA B) DEL D.LGS. N. 36/2023 PER LA REALIZZAZIONE DI UNO SPETTACOLO DI BURATTINI DAL TITOLO ANTICO RACCONTO DI NATALE ALL’ ASSOCIAZIONE TEATRO DEI BURATTINI DI COMO NELL’AMBITO DELLA REALI",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "burattini",
+    "natale",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Infanzia e famiglie",
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": "BDCAC5FC5E",
+   "cf": "00457290138",
+   "id": "90d32a49f279",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "DECRETO CONFERIMENTO INCARICHI AVVISO PUBBLICO PROT.N. 10772 DEL 06/11/2026 MODULO CORO D'ISTITUTO - P.N. SCUOLA E COMPETENZE 2021/2027 - PIANO ESTATE 2026-2027",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "avviso pubblico"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7156/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7156/documento/COIC82200C"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "7a54d3292e1c",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "GRADUATORIE DEFINITIVE AVVISO PUBBLICO PROT. N. 10772 DEL 06/11/2026 P.N. SCUOLA E COMPETENZE 2021/2027 - PIANO ESTATE 2026-2027",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "avviso pubblico"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7154/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7154/documento/COIC82200C"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "60721e9e4f80",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "DECRETO DI PUBBLICAZIONE GRADUATORIE DEFINITIVE AVVISO PUBBLICO PROT. N. 10772 DEL 06/11/2026 P.N. SCUOLA E COMPETENZE 2021/2027 - PIANO ESTATE 2026-2027",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "avviso pubblico"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7150/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7150/documento/COIC82200C"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "d10aa241adeb",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. \"DON ROBERTO MALGESINI\" (Peglio)",
+   "tipo": "Scuola",
+   "titolo": "ATTESTAZIONE DI VALUTAZIONE– SELEZIONE MADRELINGUA TEDESCO SSI GRAVEDONA ED UNITI PTOF A.S. 2026/2027.",
+   "pubblicazione": "2026-11-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/9822/documento/COIC81900L",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/9822/documento/COIC81900L"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "93006970136",
+   "id": "0b000a1e08c7",
+   "nuovo": false
+  },
+  {
+   "ente": "IC CAPIAGO INTIMIANO (Senna Comasco)",
+   "tipo": "Scuola",
+   "titolo": "AVVISO di SELEZIONE - PROGETTO MUSICALE PRIMARIA MONTORFANO - a.s.26-27",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "musical",
+    "musicale",
+    "selezione"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/10646/documento/COIC811002",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/10646/documento/COIC811002"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80013500139",
+   "id": "c35f5d88f7d1",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "ORDINE DIRETTO PER IL SERVIZIO DI INGRESSO PIÙ SPETTACOLO AL CIVICO PLANETARIO DI MILANO PER LE CLASSI TERZE DELLA SCUOLA SECONDARIA DI PRIMO GRADO DELL’ISTITUTO DEL 10 E DEL 17 DICEMBRE 2026",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7180/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7180/documento/COIC82200C"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "375a33734cf0",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "N.57 DECISIONE A CONTRARRE DI AFFIDAMENTO DIRETTO DEL SERVIZIO DI INGRESSO CON SPETTACOLO AL CIVICO PLANETARIO DI MILANO PER LE CLASSI TERZE DELLA SCUOLA SECONDARIA DI PRIMO GRADO",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7178/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7178/documento/COIC82200C"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80015360136",
+   "id": "92cbf9648422",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Valsolda",
+   "tipo": "Comune",
+   "titolo": "Avviso a tutta la popolazione in quanto il giorno lunedì 23/11/2026 la circolazione veicolare nel tratto indicato sarà sospesa e riprenderà la consueta marcia a …",
+   "pubblicazione": "2026-11-18",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "concert"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.valsolda.co.it/avvisi/chiusura-totale-alla-circolazione-veicolare-in-fraz-albogasio-all-altezza-del-civico-131-dellex-s-s-regina-340-dalle-ore-8-alle-ore-17-il-giorno-lunedi-23-11-2026/",
+   "fonti": [
+    {
+     "nome": "sito comune.valsolda.co.it",
+     "link": "https://www.comune.valsolda.co.it/avvisi/chiusura-totale-alla-circolazione-veicolare-in-fraz-albogasio-all-altezza-del-civico-131-dellex-s-s-regina-340-dalle-ore-8-alle-ore-17-il-giorno-lunedi-23-11-2026/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00598360139",
+   "id": "c9ba2a1d7a7b",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Olgiate Comasco",
+   "tipo": "Comune",
+   "titolo": "IMPEGNO DI SPESA PER CONTRIBUTO ECONOMICO STRAORDINARIO PER CORPO MUSICALE OLGIATESE APS PER ATTIVITÀ ANNIVERSARIO DI FONDAZIONE 150°.",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "musical",
+    "musicale"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10650852",
+   "fonti": [
+    {
+     "nome": "sito olgiatecomasco.trasparenza-valutazione-merito.it",
+     "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10650852"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "00417080132",
+   "id": "c27ae931a78d",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Faloppio",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.334 DEL 20/11/2026 - AREA AFFARI GENERALI: AFFIDAMENTO DIRETTO AI SENSI DELL' ART. 50, COMMA 1, LETTERA B) DEL D.LGS. N. 36/2023 PER LA REALIZZAZIONE DI UN LABORATORIO DAL TITOLO IMPACCHETTIAMO IL NATALE ALL’ACCADEMIA PICCOLI ARTISTI DI LARA LIVIO NELL’AMBITO DEI MERCATINI DI NATALE 2026",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale",
+    "affidamento"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": "BDDD3020B6",
+   "cf": "00457290138",
+   "id": "12ef4419d874",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. LOMAZZO",
+   "tipo": "Scuola",
+   "titolo": "BANDO ESPERTI E TUTOR PIANO ESTATE 2026-2027 LE SKILLS DEL FUTURO",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/4439/documento/COIC83500E",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/4439/documento/COIC83500E"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80018650137",
+   "id": "684d8d07cfb6",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - IC PONTE LAMBRO",
+   "tipo": "Scuola",
+   "titolo": "Ragazzi, si parte!! Open day dell’I.C. di Ponte Lambro",
+   "pubblicazione": "2026-11-21",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione",
+    "bibliotec",
+    "estate",
+    "pon"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Lettura e biblioteche",
+    "Estate e musica"
+   ],
+   "link": "https://icpontelambro.edu.it/ragazzi-si-parte-open-day-delli-c-di-ponte-lambro/",
+   "fonti": [
+    {
+     "nome": "sito icpontelambro.edu.it",
+     "link": "https://icpontelambro.edu.it/ragazzi-si-parte-open-day-delli-c-di-ponte-lambro/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82006820136",
+   "id": "17625327e8f0",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - IST. COMP. COMO CENTRO CITTA'",
+   "tipo": "Scuola",
+   "titolo": "Avviso esperti esterni \"Piano Estate\"",
+   "pubblicazione": "2026-11-23",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "esperti esterni",
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/4161/documento/COIC852008",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/4161/documento/COIC852008"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80013980133",
+   "id": "1a69571bfe37",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+   "tipo": "Scuola",
+   "titolo": "RETTIFICA IMPEGNO DI SPESA DELLA DECISIONE DI AFFIDAMENTO DIRETTO DI MATERIALE SPORTIVO E SUSSIDI DIDATTICI PER L'INCLUSIONE, ATTRAVERSO UNA TRATTATIVA DIRETTA SUL MEPA N. 6611698 VI.2 - 0009324 - 02/10/2026 CIG: BD35B392F8",
+   "pubblicazione": "2026-11-23",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione",
+    "affidamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7199/documento/COIC82200C",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7199/documento/COIC82200C"
+    }
+   ],
+   "esito": true,
+   "cig": "BD35B392F8",
+   "cf": "80015360136",
+   "id": "982f66831b3e",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Olgiate Comasco",
+   "tipo": "Comune",
+   "titolo": "LIQUIDAZIONE CONTRIBUTO ECONOMICO STRAORDINARIO ALL'ASSOCIAZIONE TEATRO DEI SUSSURRI APS PER LA REALIZZAZIONE DEL LETO FESTIVAL 15, 16 E 17 MAGGIO 2026",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10661065",
+   "fonti": [
+    {
+     "nome": "sito olgiatecomasco.trasparenza-valutazione-merito.it",
+     "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10661065"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "00417080132",
+   "id": "3db4b72488e0",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Lurate Caccivio",
+   "tipo": "Comune",
+   "titolo": "CONTRIBUTI PER IL PAGAMENTO DELLE RETTE DI FREQUENZA - SCUOLE DELL'INFANZIA - A.S. 2026/2027 - SETTEMBRE 2026 - GIUGNO 2027 (IV PROVVEDIMENTO).",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuole dell'infanzia",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920",
+   "fonti": [
+    {
+     "nome": "sito luratecaccivio.trasparenza-valutazione-merito.it",
+     "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00415790138",
+   "id": "28255d4dc594",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Olgiate Comasco",
+   "tipo": "Comune",
+   "titolo": "DETERMINA A CONTRARRE CON CONTESTUALE AFFIDAMENTO DIRETTO DEL SERVIZIO DI ORGANIZZAZIONE DEL CONCERTO NATALIZIO POMERIDIANO IN PIAZZA ITALIA 19.12.2026 – CIG: BDF4E07791",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "concert",
+    "natalizi",
+    "affidamento"
+   ],
+   "temi": [
+    "Estate e musica",
+    "Natale"
+   ],
+   "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10664177",
+   "fonti": [
+    {
+     "nome": "sito olgiatecomasco.trasparenza-valutazione-merito.it",
+     "link": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/10664177"
+    }
+   ],
+   "esito": true,
+   "cig": "BDF4E07791",
+   "cf": "00417080132",
+   "id": "518a77f7d57f",
+   "nuovo": false
+  },
+  {
+   "ente": "ISIS G.D. ROMAGNOSI (Longone Al Segrino)",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Tutor interno",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t2vdkl37k1",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t2vdkl37k1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "",
+   "id": "f67d43f6699d",
+   "nuovo": false
+  },
+  {
+   "ente": "ISIS G.D. ROMAGNOSI (Longone Al Segrino)",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Esperto interno",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/6l73dk3u1l",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/6l73dk3u1l"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "",
+   "id": "e31b8f03357c",
+   "nuovo": false
+  },
+  {
+   "ente": "ISIS G.D. ROMAGNOSI (Longone Al Segrino)",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Docente supporto operativo",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t9tukp57de",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t9tukp57de"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "",
+   "id": "686c2f8b3c55",
+   "nuovo": false
+  },
+  {
+   "ente": "Istituto Comprensivo Vertemate con Minoprio - Bregnano",
+   "tipo": "Scuola",
+   "titolo": "DECISIONE A CONTRARRE AFFIDAMENTO DIRETTO MEPA PER ACQUISTO MATERIALE DIDATTICO + BIGLIETTI INGRESSO 11/02/2027 PRESSO TEATRO SOCIALE DI COMO",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COME0036/7dqf1bm6jf",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COME0036/7dqf1bm6jf"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "90017730137",
+   "id": "d85d597d7d6b",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTRUZIONE SECONDARIA SUPERIORE - G.D.ROMAGNOSI",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Tutor interno",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t2vdkl37k1",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t2vdkl37k1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82004660138",
+   "id": "f6187ac78bed",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTRUZIONE SECONDARIA SUPERIORE - G.D.ROMAGNOSI",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Esperto interno",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/6l73dk3u1l",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/6l73dk3u1l"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82004660138",
+   "id": "4625f30303f1",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTRUZIONE SECONDARIA SUPERIORE - G.D.ROMAGNOSI",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia DS – Piano Estate 26/27 selezione Docente supporto operativo",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t9tukp57de",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/COII0003/t9tukp57de"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82004660138",
+   "id": "0420762be0ad",
+   "nuovo": false
+  }
+ ],
+ "copertura": {
+  "enti": [
+   {
+    "nome": "Consorzio Costruzione e Gestione Impianti Sportivi",
+    "tipo": "Altro ente",
+    "sito": "https://www.consorzioimpiantisportivicagno.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 26
+   },
+   {
+    "nome": "Consorzio Depurazione Acque Reflue Comprensorio Torrente Livescia",
+    "tipo": "Altro ente",
+    "sito": "",
+    "esito": "non letto",
+    "motivo": "nessun sito indicato negli open data",
+    "pagine": [],
+    "trovati": 0
+   },
+   {
+    "nome": "Consorzio Parco Lago Segrino",
+    "tipo": "Altro ente",
+    "sito": "https://www.parcolagosegrino.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Unione Dei Comuni Lombarda Lario e Monti",
+    "tipo": "Altro ente",
+    "sito": "https://www.unionelarioemonti.it/hh/index.php",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 32
+   },
+   {
+    "nome": "Comune di Albavilla",
+    "tipo": "Comune",
+    "sito": "https://www.comune.albavilla.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Albese con Cassano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.albeseconcassano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Alserio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.alserio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Alta Valle Intelvi",
+    "tipo": "Comune",
+    "sito": "https://www.comune.altavalleintelvi.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "Comune di Alzate Brianza",
+    "tipo": "Comune",
+    "sito": "https://www.comune.alzate-brianza.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Anzano del Parco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.anzano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Argegno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.argegno.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Arosio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.arosio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Asso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.asso.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Barni",
+    "tipo": "Comune",
+    "sito": "https://www.comune.barni.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Bellagio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bellagio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Blessagno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.blessagno.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Blevio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.blevio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Bregnano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bregnano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Brenna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.brenna.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Brienno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.brienno.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Bulgarograsso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bulgarograsso.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cadorago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cadorago.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Caglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.caglio.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Campione d'Italia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.campione-d-italia.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cantu'",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cantu.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
+   },
+   {
+    "nome": "Comune di Canzo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.canzo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Capiago Intimiano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.capiago-intimiano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Carate Urio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carateurio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Carbonate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carbonate.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Carlazzo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carlazzo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Caslino D'Erba",
+    "tipo": "Comune",
+    "sito": "https://www.comune.caslinoderba.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Casnate Con Bernate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.casnateconbernate.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Castelmarte",
+    "tipo": "Comune",
+    "sito": "https://www.comune.castelmarte.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Centro Valle Intelvi",
+    "tipo": "Comune",
+    "sito": "https://www.comune.centrovalleintelvi.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Cerano D'Intelvi",
+    "tipo": "Comune",
+    "sito": "https://www.comune.ceranodintelvi.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cernobbio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cernobbio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cirimido",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cirimido.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Corrido",
+    "tipo": "Comune",
+    "sito": "https://www.comune.corrido.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
+    "nome": "Comune di Cremia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cremia.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cusino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cusino.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Dizzasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dizzasco.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Domaso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.domaso.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Dongo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dongo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Dosso del Liro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dossodelliro.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Eupilio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.eupilio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Faggeto Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.faggetolario.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Fenegro'",
+    "tipo": "Comune",
+    "sito": "https://www.comune.fenegro.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Fino Mornasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.finomornasco.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 4
+   },
+   {
+    "nome": "Comune di Gera Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.geralario.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Grandate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.grandate.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Gravedona Ed Uniti",
+    "tipo": "Comune",
+    "sito": "https://www.comune.gravedonaeduniti.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Inverigo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.inverigo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
+    "nome": "Comune di Laglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.laglio.co.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 75
+   },
+   {
+    "nome": "Comune di Laino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.laino.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Lambrugo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lambrugo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
+   },
+   {
+    "nome": "Comune di Lasnigo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lasnigo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Lezzeno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lezzeno.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Limido Comasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.limidocomasco.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Lipomo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lipomo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Livo (CO)",
+    "tipo": "Comune",
+    "sito": "https://www.comune.livo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Locate Varesino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.locatevaresino.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Lomazzo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lomazzo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Longone al Segrino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.longonealsegrino.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Lurago Marinone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.luragomarinone.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Maslianico",
+    "tipo": "Comune",
+    "sito": "https://www.comune.maslianico.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Menaggio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.menaggio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Merone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.merone.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Moltrasio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.moltrasio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Monguzzo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.monguzzo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Montemezzo",
+    "tipo": "Comune",
+    "sito": "https://comune.montemezzo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Montorfano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.montorfano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Mozzate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mozzate.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Musso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.musso.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Oltrona di San Mamette",
+    "tipo": "Comune",
+    "sito": "https://www.comune.oltronadisanmamette.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Orsenigo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.orsenigo.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
+    "nome": "Comune di Peglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.peglio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Pianello del Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pianellodellario.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Pigra",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pigra.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Plesio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.plesio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Pognana Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pognanalario.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Ponna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.ponna.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Proserpio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.proserpio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Rezzago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rezzago.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Rodero",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rodero.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Rovellasca",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rovellasca.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "Comune di Rovello Porro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rovelloporro.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Sala Comacina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.salacomacina.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "Comune di San Fermo della Battaglia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sanfermodellabattaglia.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Sorico",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sorico.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Sormano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sormano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Stazzona",
+    "tipo": "Comune",
+    "sito": "https://www.comune.stazzona.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Tavernerio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tavernerio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Torno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.torno.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Tremezzina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tremezzina.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Trezzone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.trezzone.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Valbrona",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valbrona.co.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Veniano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.veniano.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 4
+   },
+   {
+    "nome": "Comune di Vercana",
+    "tipo": "Comune",
+    "sito": "https://www.comune.vercana.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Vertemate con Minoprio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.vertemateconminoprio.co.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "CAIO PLINIO SECONDO (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.caioplinio.edu.it/",
+    "esito": "non letto",
+    "motivo": "il sito blocca le visite automatiche (errore 403)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
+    "nome": "I.C. ASSO (Bellagio)",
+    "tipo": "Scuola",
+    "sito": "https://scuoleasso.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. BELLAGIO (Nesso)",
+    "tipo": "Scuola",
+    "sito": "https://www.icbellagio.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. CANTU' 3",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivocantu3.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. CERNOBBIO (Laglio)",
+    "tipo": "Scuola",
+    "sito": "https://www.scuolecernobbio.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. COMO PRESTINO/BRECCIA",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomoprestino.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. CUCCIAGO-GRANDATE-CASNATE",
+    "tipo": "Scuola",
+    "sito": "http://iccucciago.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
+    "nome": "I.C. FENEGRO'",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivofenegro.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. LOMAZZO",
+    "tipo": "Scuola",
+    "sito": "https://www.iclomazzo.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. VALMOREA (Binago)",
+    "tipo": "Scuola",
+    "sito": "https://www.icvalmorea.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. VERTEMATE (Bregnano)",
+    "tipo": "Scuola",
+    "sito": "https://www.icvertemate.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C.S. CARLO BIANCHI (Inverigo)",
+    "tipo": "Scuola",
+    "sito": "https://icsinverigo.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "IC PONTE LAMBRO",
+    "tipo": "Scuola",
+    "sito": "https://www.icpontelambro.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "IST. COMP. COMO CENTRO CITTA'",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomocentro.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "IST. COMPRENSIVO COMO REBBIO",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomorebbio.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. MENAGGIO",
+    "tipo": "Scuola",
+    "sito": "",
+    "esito": "non letto",
+    "motivo": "nessun sito indicato negli open data",
+    "pagine": [],
+    "trovati": 0
+   },
+   {
+    "nome": "LICEO CLASSICO - ALESSANDRO VOLTA",
+    "tipo": "Scuola",
+    "sito": "https://www.liceovoltacomo.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "Consorzio Impegno Sociale",
+    "tipo": "Altro ente",
+    "sito": "https://www.consorzioimpegnosociale.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.consorzioimpegnosociale.it/amministrazione-trasparente/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.consorzioimpegnosociale.it/amministrazione-trasparente/bandi-di-gara-e-contratti/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.consorzioimpegnosociale.it/amministrazione-trasparente/avvisi/"
+     }
+    ],
+    "voci": 9,
+    "trovati": 0,
+    "secondi": 12
+   },
+   {
+    "nome": "Comune di Albiolo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.albiolo.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.albiolo.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.albiolo.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.albiolo.co.it/novita/1-news"
+     }
+    ],
+    "voci": 21,
+    "trovati": 0,
+    "secondi": 32
+   },
+   {
+    "nome": "Comune di Appiano Gentile",
+    "tipo": "Comune",
+    "sito": "https://www.comune.appianogentile.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.appianogentile.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.appianogentile.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.appianogentile.co.it/novita/1-news"
+     }
+    ],
+    "voci": 5,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
+    "nome": "Comune di Bene Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.benelario.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.benelario.co.it/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.benelario.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.benelario.co.it/trasparenza/"
+     }
+    ],
+    "voci": 97,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "Comune di Beregazzo Con Figliaro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.beregazzoconfigliaro.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=brgzz460"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.beregazzoconfigliaro.co.it/Bandigare?Tipo=1"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.beregazzoconfigliaro.co.it/Notizie"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.beregazzoconfigliaro.co.it/Menu?IDVoceMenu=337353"
+     }
+    ],
+    "voci": 132,
+    "trovati": 6,
+    "secondi": 33
+   },
+   {
+    "nome": "Comune di Binago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.binago.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.binago.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.binago.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.binago.co.it/novita/1-news"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "Comune di Bizzarone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bizzarone.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbizzarone/listaservizi.aspx?U=1&S=200"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsbizzarone/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://comune.bizzarone.co.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 49,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
+    "nome": "Comune di Brunate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.brunate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=36830"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=36831"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=36830"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://brunate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=36831"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.brunate.co.it/it/news?type=3"
+     }
+    ],
+    "voci": 22,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Cabiate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cabiate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.cabiate.co.it/Novita/Avvisi"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cabiate.co.it/Novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cabiate.co.it/Novita/Comunicati"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+     }
+    ],
+    "voci": 22,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "Comune di Carimate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carimate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://carimate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://carimate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=23041"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.carimate.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.carimate.co.it/it/news?type=3&from_menu=1"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.carimate.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.carimate.co.it/it/news?type=1"
+     }
+    ],
+    "voci": 59,
+    "trovati": 0,
+    "secondi": 24
+   },
+   {
+    "nome": "Comune di Carugo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carugo.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://carugo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://carugo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=670"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://carugo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=670"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.carugo.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.carugo.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.carugo.co.it/it/news?type=1"
+     }
+    ],
+    "voci": 47,
+    "trovati": 3,
+    "secondi": 62
+   },
+   {
+    "nome": "Comune di Cassina Rizzardi",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cassinarizzardi.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/portale/albopretorio/albopretorioconsultazione.aspx?P=600"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/portale/trasparenza/trasparenzaamministrativadocs.aspx?R=1&CP=81"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://form.agid.gov.it/c_c020/portale_dei_servizi_(albo_pretorio,_amministrazione_trasparente)/dichiarazione"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/listaservizi.aspx?U=2&S=2200"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/listaservizi.aspx?U=1&S=200"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscassinarizzardi/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     }
+    ],
+    "voci": 86,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "Comune di Castelnuovo Bozzente",
+    "tipo": "Comune",
+    "sito": "https://www.comune.castelnuovobozzente.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=cstlnvbzznt1661"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.castelnuovobozzente.co.it/Notizie"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.castelnuovobozzente.co.it/Notizie?idCat=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.castelnuovobozzente.co.it/Menu?IDVoceMenu=297993"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.castelnuovobozzente.co.it/Menu?IDDettaglio=298003"
+     }
+    ],
+    "voci": 39,
+    "trovati": 0,
+    "secondi": 35
+   },
+   {
+    "nome": "Comune di Cavargna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cavargna.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.cavargna.co.it/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cavargna.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cavargna.co.it/trasparenza/"
+     }
+    ],
+    "voci": 55,
+    "trovati": 0,
+    "secondi": 10
+   },
+   {
+    "nome": "Comune di Cermenate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cermenate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.cermenate.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cermenate.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cermenate.co.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+     }
+    ],
+    "voci": 47,
+    "trovati": 0,
+    "secondi": 9
+   },
+   {
+    "nome": "Comune di Claino con Osteno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.clainoconosteno.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.clainoconosteno.co.it/tipi_notizia/avviso/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.clainoconosteno.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.clainoconosteno.co.it/tipi_notizia/news/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://comune.clainoconosteno.co.it/amministrazione/amministrazione-trasparente/"
+     }
+    ],
+    "voci": 34,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Colonno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.colonno.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.colonno.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.colonno.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.colonno.co.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/trasparenza/trasparenzaamministrativa.aspx"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=220"
+     }
+    ],
+    "voci": 79,
+    "trovati": 0,
+    "secondi": 60
+   },
+   {
+    "nome": "Comune di Colverde",
+    "tipo": "Comune",
+    "sito": "https://www.comune.colverde.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolverde/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.colverde.co.it/notizie"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.colverde.co.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 235,
+    "trovati": 1,
+    "secondi": 52
+   },
+   {
+    "nome": "Comune di Como",
+    "tipo": "Comune",
+    "sito": "https://www.comune.como.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.como.it/servizi/Consultazione-dellAlbo-pretorio/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.como.it/novita/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.como.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.como.it/novita/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.como.it/amministrazione-trasparente/"
+     }
+    ],
+    "voci": 21,
+    "trovati": 7,
+    "secondi": 23
+   },
+   {
+    "nome": "Comune di Cucciago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cucciago.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.cucciago.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.cucciago.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.cucciago.co.it/novita/1-news"
+     }
+    ],
+    "voci": 26,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "Comune di Erba",
+    "tipo": "Comune",
+    "sito": "https://www.comune.erba.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12070"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.erba.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.erba.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.erba.co.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+     }
+    ],
+    "voci": 105,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "Comune di Faloppio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.faloppio.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsfaloppio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.faloppio.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.faloppio.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.faloppio.co.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.faloppio.co.it/amministrazione-trasparente"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.faloppio.co.it/amministrazione-trasparente/sezioni/3072505-avvisi-pubblici-erogazione-contributi"
+     }
+    ],
+    "voci": 73,
+    "trovati": 3,
+    "secondi": 60
+   },
+   {
+    "nome": "Comune di Figino Serenza",
+    "tipo": "Comune",
+    "sito": "https://www.comune.figinoserenza.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it:443/web/trasparenza/atti-amministrativi"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5356"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5356"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5355"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/atti-amministrativi"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://figinoserenza.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5355"
+     }
+    ],
+    "voci": 7,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "Comune di Garzeno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.garzeno.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://garzeno.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://garzeno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6784"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://garzeno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6784"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.garzeno.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.garzeno.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.garzeno.co.it/it/news?type=1"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 11
+   },
+   {
+    "nome": "Comune di Grandola ed Uniti",
+    "tipo": "Comune",
+    "sito": "https://www.comune.grandolaeduniti.co.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://comune.grandolaeduniti.co.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 11
+   },
+   {
+    "nome": "Comune di Griante",
+    "tipo": "Comune",
+    "sito": "https://www.comune.griante.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsgriante/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.griante.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.griante.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.griante.co.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsgriante/portale/trasparenza/trasparenzaamministrativa.aspx"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsgriante/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=88"
+     }
+    ],
+    "voci": 95,
+    "trovati": 0,
+    "secondi": 14
+   },
+   {
+    "nome": "Comune di Guanzate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.guanzate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.guanzate.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.guanzate.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.guanzate.co.it/novita/1-news"
+     }
+    ],
+    "voci": 25,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "Comune di Luisago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.luisago.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "http://www.comune.luisago.co.it/servizi/Menu/dinamica.aspx?idSezione=18971&idArea=18972&idCat=18980&ID=18980&TipoElemento=categoria"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://www.comune.luisago.co.it/servizi/bandi/bandi_fase00.aspx"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://www.comune.luisago.co.it/servizi/bandi/bandi_fase00.aspx"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "http://www.comune.luisago.co.it/servizi/Menu/dinamica.aspx?idSezione=616&idArea=17878&idCat=17878&ID=17878&TipoElemento=area"
+     }
+    ],
+    "voci": 29,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "Comune di Lurago D'erba",
+    "tipo": "Comune",
+    "sito": "https://www.comune.luragoderba.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://luragoderba.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://luragoderba.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489181171"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://luragoderba.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489181171"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.luragoderba.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.luragoderba.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.luragoderba.co.it/it/news?type=1"
+     }
+    ],
+    "voci": 45,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "Comune di Lurate Caccivio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.luratecaccivio.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://luratecaccivio.trasparenza-valutazione-merito.it:443/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://luratecaccivio.trasparenza-valutazione-merito.it/albo-pretorio"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.luratecaccivio.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.luratecaccivio.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.luratecaccivio.co.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+     }
+    ],
+    "voci": 202,
+    "trovati": 1,
+    "secondi": 85
+   },
+   {
+    "nome": "Comune di Magreglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.magreglio.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.magreglio.co.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.magreglio.co.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.magreglio.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.magreglio.co.it/novita/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Mariano Comense",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mariano-comense.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.mariano-comense.co.it/it/page/albo-pretorio-ed-amministrazione-trasparente"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.mariano-comense.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://marianocomense.trasparenza-valutazione-merito.it:443/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://marianocomense.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=43383"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://marianocomense.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=43384"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://marianocomense.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=43383"
+     }
+    ],
+    "voci": 25,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "Comune di Montano Lucino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.montanolucino.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://montanolucino.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://montanolucino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.montanolucino.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.montanolucino.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.montanolucino.co.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://montanolucino.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+     }
+    ],
+    "voci": 81,
+    "trovati": 1,
+    "secondi": 64
+   },
+   {
+    "nome": "Comune di Nesso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.nesso.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.nesso.co.it/tipi_notizia/avviso/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.nesso.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.nesso.co.it/tipi_notizia/news/"
+     }
+    ],
+    "voci": 8,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Novedrate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.novedrate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.novedrate.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.novedrate.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.novedrate.co.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+     }
+    ],
+    "voci": 131,
+    "trovati": 0,
+    "secondi": 52
+   },
+   {
+    "nome": "Comune di Olgiate Comasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.olgiate-comasco.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://olgiatecomasco.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/grid/1233105"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://olgiate-comasco.portaletrasparenza.net/it/trasparenza/bandi-di-gara-e-contratti.html"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.olgiate-comasco.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.olgiate-comasco.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.olgiate-comasco.co.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://olgiate-comasco.portaletrasparenza.net/"
+     }
+    ],
+    "voci": 79,
+    "trovati": 4,
+    "secondi": 79
+   },
+   {
+    "nome": "Comune di Ponte Lambro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pontelambro.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://pontelambro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pontelambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=26370"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pontelambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=26370"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.pontelambro.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.pontelambro.co.it/it/news?type=3&from_menu=1"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.pontelambro.co.it/it/menu/news"
+     }
+    ],
+    "voci": 43,
+    "trovati": 0,
+    "secondi": 77
+   },
+   {
+    "nome": "Comune di Porlezza",
+    "tipo": "Comune",
+    "sito": "https://www.comune.porlezza.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.porlezza.co.it/avvisi/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR038.sto?DB_NAME=porlezza"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.porlezza.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.porlezza.co.it/trasparenza/"
+     }
+    ],
+    "voci": 135,
+    "trovati": 0,
+    "secondi": 47
+   },
+   {
+    "nome": "Comune di Pusiano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pusiano.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.pusiano.co.it/tipi_notizia/avviso/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.pusiano.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.pusiano.co.it/tipi_notizia/news/"
+     }
+    ],
+    "voci": 135,
+    "trovati": 0,
+    "secondi": 33
+   },
+   {
+    "nome": "Comune di San Bartolomeo Val Cavargna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sanbartolomeovalcavargna.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.sanbartolomeovalcavargna.co.it/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.sanbartolomeovalcavargna.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sanbartolomeovalcavargna.co.it/trasparenza/"
+     }
+    ],
+    "voci": 84,
+    "trovati": 0,
+    "secondi": 52
+   },
+   {
+    "nome": "Comune di San Nazzaro Val Cavargna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sannazzarovalcavargna.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.sannazzarovalcavargna.co.it/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.sannazzarovalcavargna.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sannazzarovalcavargna.co.it/trasparenza/"
+     }
+    ],
+    "voci": 62,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "Comune di San Siro",
+    "tipo": "Comune",
+    "sito": "https://comune.sansiro.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sansiro.co.it/novita/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "Comune di Schignano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.schignano.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.schignano.co.it/vivere-il-comune/dati-generali/notizie"
+     }
+    ],
+    "voci": 23,
+    "trovati": 0,
+    "secondi": 36
+   },
+   {
+    "nome": "Comune di Senna Comasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sennacomasco.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.sennacomasco.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sennacomasco.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sennacomasco.co.it/novita/1-news"
+     }
+    ],
+    "voci": 10,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "Comune di Solbiate Con Cagno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.solbiateconcagno.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=slbtcncgn1427"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.solbiateconcagno.co.it/Bandigare?Tipo=1"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.solbiateconcagno.co.it/Notizie?idCat=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.solbiateconcagno.co.it/Notizie"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.solbiateconcagno.co.it/Notizie?idCat=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.solbiateconcagno.co.it/Menu?IDVoceMenu=108988"
+     }
+    ],
+    "voci": 64,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Turate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.turate.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://turate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://turate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37530"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://turate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37531"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://turate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37530"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://turate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37531"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.turate.co.it/it/news?type=3"
+     }
+    ],
+    "voci": 23,
+    "trovati": 0,
+    "secondi": 35
+   },
+   {
+    "nome": "Comune di Uggiate con Ronago",
+    "tipo": "Comune",
+    "sito": "http://www.comune.uggiateconronago.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsuggiateronago/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://comune.uggiateconronago.co.it/servizi/servizio-dettaglio/3459153"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://comune.uggiateconronago.co.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.uggiateconronago.co.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.uggiateconronago.co.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://comune.uggiateconronago.co.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 82,
+    "trovati": 0,
+    "secondi": 54
+   },
+   {
+    "nome": "Comune di Val Rezzo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valrezzo.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valrezzo.co.it/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valrezzo.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.valrezzo.co.it/trasparenza/"
+     }
+    ],
+    "voci": 68,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "Comune di Valmorea",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valmorea.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://valmorea.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valmorea.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7964"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valmorea.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7963"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valmorea.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7963"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valmorea.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valmorea.co.it/it/menu/news"
+     }
+    ],
+    "voci": 140,
+    "trovati": 0,
+    "secondi": 129
+   },
+   {
+    "nome": "Comune di Valsolda",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valsolda.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valsolda.co.it/avvisi/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valsolda.co.it/amm-trasparente/bandi-di-concorso-documenti-e-avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valsolda.co.it/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.valsolda.co.it/trasparenza/"
+     }
+    ],
+    "voci": 107,
+    "trovati": 5,
+    "secondi": 68
+   },
+   {
+    "nome": "Comune di Veleso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.veleso.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.veleso.co.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.veleso.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.veleso.co.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 9,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "Comune di Villa Guardia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.villaguardia.co.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=28442"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=28441"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.villaguardia.co.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.villaguardia.co.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.villaguardia.co.it/it/news?type=1"
+     }
+    ],
+    "voci": 140,
+    "trovati": 0,
+    "secondi": 54
+   },
+   {
+    "nome": "Comune di Zelbio",
+    "tipo": "Comune",
+    "sito": "http://www.comune.zelbio.co.it/hh/index.php",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.zelbio.co.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.zelbio.co.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.zelbio.co.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 10,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "A.SANT'ELIA (Cantu')",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutosantelia.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.istitutosantelia.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
+   },
+   {
+    "nome": "ALESSANDRO VOLTA (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceovoltacomo.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://liceovoltacomo.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
+    "nome": "CPIA 1 COMO (Lomazzo)",
+    "tipo": "Scuola",
+    "sito": "https://www.cpia1como.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://cpia1como.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 5,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "ENRICO FERMI (Cantu')",
+    "tipo": "Scuola",
+    "sito": "https://www.liceofermicantu.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://liceofermicantu.edu.it/"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "G.PESSINA (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutopessina.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://istitutopessina.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 49
+   },
+   {
+    "nome": "GIUSEPPE TERRAGNI (Olgiate Comasco)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoterragni.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://liceoterragni.edu.it/albo-online-landing/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://liceoterragni.edu.it/amministrazione-trasparente-landing/"
+     }
+    ],
+    "voci": 13,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "I.C. \"DON ROBERTO MALGESINI\" (Peglio)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmalgesini.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icmalgesini.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC81900L/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://icmalgesini.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC81900L/6/IN_PUBBLICAZIONE/0/show"
+     }
+    ],
+    "voci": 127,
+    "trovati": 1,
+    "secondi": 60
+   },
+   {
+    "nome": "I.C. ALBAVILLA",
+    "tipo": "Scuola",
+    "sito": "https://www.icalbavilla.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icalbavilla.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
+    "nome": "I.C. APPIANO GENTILE",
+    "tipo": "Scuola",
+    "sito": "https://www.icappianogentile.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icappianogentile.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82700G/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82700G/1/IN_PUBBLICAZIONE/9f4f70a7-a013-49c2-b830-e271fe930837/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82700G/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icappianogentile.edu.it/novita/amministrazione-trasparnete/"
+     }
+    ],
+    "voci": 15,
+    "trovati": 1,
+    "secondi": 21
+   },
+   {
+    "nome": "I.C. CADORAGO (Guanzate)",
+    "tipo": "Scuola",
+    "sito": "https://www.ic-cadorago.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://ic-cadorago.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 19
+   },
+   {
+    "nome": "I.C. CANTU' 2",
+    "tipo": "Scuola",
+    "sito": "https://iccantu2.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://iccantu2.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 11
+   },
+   {
+    "nome": "I.C. COMO ALBATE",
+    "tipo": "Scuola",
+    "sito": "https://www.icscomoalbate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icscomoalbate.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "I.C. COMO BORGOVICO",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomoborgovico.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iccomoborgovico.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC845005/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC845005/3"
+     }
+    ],
+    "voci": 32,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "I.C. COMO LAGO",
+    "tipo": "Scuola",
+    "sito": "https://www.icscomolago.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icscomolago.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://icscomolago.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 36
+   },
+   {
+    "nome": "I.C. COMO LORA-LIPOMO",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomolora.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.iccomolora.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 90
+   },
+   {
+    "nome": "I.C. DELLA TREMEZZINA (Argegno)",
+    "tipo": "Scuola",
+    "sito": "https://www.ictremezzina.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://ictremezzina.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 18,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "I.C. FIGINO SERENZA (Carimate)",
+    "tipo": "Scuola",
+    "sito": "https://www.icfiginoserenza.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/SC27487"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.icfiginoserenza.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "I.C. FINO MORNASCO (Cassina Rizzardi)",
+    "tipo": "Scuola",
+    "sito": "https://www.icsfinomornasco.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icsfinomornasco.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83600A/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icsfinomornasco.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "I.C. G. PUECHER DI ERBA",
+    "tipo": "Scuola",
+    "sito": "https://www.icspuechererba.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icspuechererba.edu.it/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC85600G/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icspuechererba.edu.it/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 48,
+    "trovati": 1,
+    "secondi": 41
+   },
+   {
+    "nome": "I.C. LURAGO D'ERBA (Alserio)",
+    "tipo": "Scuola",
+    "sito": "https://icportalurago.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icportalurago.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "I.C. LURATE CACCIVIO",
+    "tipo": "Scuola",
+    "sito": "https://www.icluratecaccivio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icluratecaccivio.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "I.C. MAGISTRI INTELVESI (Centro Valle Intelvi)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmagistrintelvesi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icmagistrintelvesi.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "I.C. MENAGGIO",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutocomprensivomenaggio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://lnx.istitutocomprensivomenaggio.edu.it/index.php/albo-pretorio"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.istitutocomprensivomenaggio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 19,
+    "trovati": 0,
+    "secondi": 125
+   },
+   {
+    "nome": "I.C. MONS. A. PIROVANO (Merone)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmerone.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icmerone.edu.it/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
+    "nome": "I.C. MOZZATE (Carbonate)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmozzate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icmozzate.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83400P/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icmozzate.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 24,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "I.C. OLGIATE COMASCO",
+    "tipo": "Scuola",
+    "sito": "https://icolgiatecomasco.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icolgiatecomasco.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COISC80700/5"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icolgiatecomasco.edu.it/novita/amministrazione-trasparente-2/"
+     }
+    ],
+    "voci": 16,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "I.C. PORLEZZA (Corrido)",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivoporlezza.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://comprensivoporlezza.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comprensivoporlezza.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 6,
+    "trovati": 0,
+    "secondi": 23
+   },
+   {
+    "nome": "I.C. ROVELLASCA",
+    "tipo": "Scuola",
+    "sito": "https://www.icsrovellasca.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icsrovellasca.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 34
+   },
+   {
+    "nome": "I.C. TAVERNERIO",
+    "tipo": "Scuola",
+    "sito": "https://www.ictavernerio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://ictavernerio.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 31
+   },
+   {
+    "nome": "I.C. UGGIATE CON RONAGO",
+    "tipo": "Scuola",
+    "sito": "https://icuggiatetrevano.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icuggiatetrevano.edu.it/novita/albo-online-portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83300V/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icuggiatetrevano.edu.it/novita/amministrazione-trasparente-portal/"
+     }
+    ],
+    "voci": 13,
+    "trovati": 0,
+    "secondi": 7
+   },
+   {
+    "nome": "I.C.CANTU' 1^",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivocantu.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://comprensivocantu.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "I.C.CERMENATE",
+    "tipo": "Scuola",
+    "sito": "https://www.iccermenate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.iccermenate.edu.it/novita/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.iccermenate.edu.it/albo-pretorio"
+     }
+    ],
+    "voci": 64,
+    "trovati": 11,
+    "secondi": 47
+   },
+   {
+    "nome": "I.I.S. JEAN MONNET (Mariano Comense)",
+    "tipo": "Scuola",
+    "sito": "https://www.ismonnet.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.ismonnet.edu.it/index.php/tipologia-documento/albo-online/"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "IC CAPIAGO INTIMIANO (Senna Comasco)",
+    "tipo": "Scuola",
+    "sito": "https://lnx.icsci.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icsci.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC811002/1"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://icsci.edu.it/tipologia-articolo/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC811002/3"
+     }
+    ],
+    "voci": 17,
+    "trovati": 1,
+    "secondi": 33
+   },
+   {
+    "nome": "IC COMO NORD",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomonord.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iccomonord.edu.it/albo-online/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://iccomonord.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 6,
+    "trovati": 0,
+    "secondi": 39
+   },
+   {
+    "nome": "IC Cucciago - Grandate - Casnate",
+    "tipo": "Scuola",
+    "sito": "https://www.iccucciago.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iccucciago.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC84200N/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC84200N/1/IN_PUBBLICAZIONE/801448f6-15da-4c71-89c6-6baa16527917/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC84200N/1/IN_PUBBLICAZIONE/27040835-f536-4b66-bb34-d8a15ff04155/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC84200N/3/IN_PUBBLICAZIONE/0/show"
+     }
+    ],
+    "voci": 17,
+    "trovati": 0,
+    "secondi": 73
+   },
+   {
+    "nome": "IC FALOPPIO",
+    "tipo": "Scuola",
+    "sito": "https://www.icsfaloppio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icsfaloppio.edu.it/"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISIS G.D. ROMAGNOSI (Longone Al Segrino)",
+    "tipo": "Scuola",
+    "sito": "https://www.gdromagnosi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.gdromagnosi.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 11,
+    "trovati": 3,
+    "secondi": 81
+   },
+   {
+    "nome": "IST. COMP. \"DON MILANI\" (Mariano Comense)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmarianocomense2.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/SC26336"
+     }
+    ],
+    "voci": 6,
+    "trovati": 0,
+    "secondi": 9
+   },
+   {
+    "nome": "IST.COMPR. \"A.ROSMINI\" (Eupilio)",
+    "tipo": "Scuola",
+    "sito": "https://www.icrosminipusiano.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icrosminipusiano.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 46
+   },
+   {
+    "nome": "ISTIT. COMPRENSIVO VILLAGUARDIA (Villa Guardia)",
+    "tipo": "Scuola",
+    "sito": "https://icvillaguardia.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icvillaguardia.edu.it/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC85400X/5/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://icvillaguardia.edu.it/argomento/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icvillaguardia.edu.it/novita-2/amministrazione-trasparente/"
+     }
+    ],
+    "voci": 18,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO \"IV NOVEMB (Mariano Comense)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmarianocomense.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/SC26852"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.icmarianocomense.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO 'IV NOVEMBRE' di Mariano Comense (Co)",
+    "tipo": "Scuola",
+    "sito": "https://www.icmarianocomense.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/SC26852"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.icmarianocomense.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 11
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. ASSO",
+    "tipo": "Scuola",
+    "sito": "https://www.scuoleasso.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.scuoleasso.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 9,
+    "trovati": 0,
+    "secondi": 66
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. BELLAGIO",
+    "tipo": "Scuola",
+    "sito": "https://www.icbellagio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icbellagio.edu.it/argomento/notizie/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://icbellagio.edu.it/argomento/novita/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. CANTU' 3",
+    "tipo": "Scuola",
+    "sito": "https://www.iccantu3.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83900T/5"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83900T/7"
+     }
+    ],
+    "voci": 47,
+    "trovati": 1,
+    "secondi": 68
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. CERNOBBIO",
+    "tipo": "Scuola",
+    "sito": "https://www.iccernobbio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iccernobbio.edu.it/trasparenza/"
+     }
+    ],
+    "voci": 8,
+    "trovati": 0,
+    "secondi": 8
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. COMO ALBATE",
+    "tipo": "Scuola",
+    "sito": "https://www.icscomoalbate.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://icscomoalbate.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. COMO PRESTINO/BRECCIA",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomoprestino.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://iccomoprestino.edu.it/tipologia-articolo/notizie/"
+     }
+    ],
+    "voci": 29,
+    "trovati": 0,
+    "secondi": 33
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. COMO REBBIO",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomorebbio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iccomorebbio.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://iccomorebbio.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 21,
+    "trovati": 0,
+    "secondi": 13
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivofenegro.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://comprensivofenegro.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82200C/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82200C/4"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82200C/4/IN_PUBBLICAZIONE/9663a427-f02e-4a25-adbd-9d5203e16565/show"
+     }
+    ],
+    "voci": 40,
+    "trovati": 9,
+    "secondi": 102
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. INVERIGO",
+    "tipo": "Scuola",
+    "sito": "https://www.icinverigo.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icinverigo.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC824004/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icinverigo.edu.it/novita/amministrazione-trasparente/"
+     }
+    ],
+    "voci": 105,
+    "trovati": 2,
+    "secondi": 109
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. LOMAZZO",
+    "tipo": "Scuola",
+    "sito": "https://iclomazzo.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://iclomazzo.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83500E/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC83500E/4/IN_PUBBLICAZIONE/0/show"
+     }
+    ],
+    "voci": 93,
+    "trovati": 1,
+    "secondi": 46
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. VALMOREA",
+    "tipo": "Scuola",
+    "sito": "https://www.icvalmorea.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icvalmorea.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC82600Q/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icvalmorea.edu.it/novita/amministrazione-trasparente-2/"
+     }
+    ],
+    "voci": 17,
+    "trovati": 0,
+    "secondi": 38
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - IC PONTE LAMBRO",
+    "tipo": "Scuola",
+    "sito": "https://www.icpontelambro.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icpontelambro.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC80400V/1"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://icpontelambro.edu.it/argomento/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icpontelambro.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 17,
+    "trovati": 1,
+    "secondi": 37
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - IST. COMP. COMO CENTRO CITTA'",
+    "tipo": "Scuola",
+    "sito": "https://www.iccomocentro.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC852008/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC852008/4/0/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/COIC852008/4/0/3ab09334-ef42-4b8c-ba35-c09c3f600cf1/show"
+     }
+    ],
+    "voci": 55,
+    "trovati": 1,
+    "secondi": 41
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO DI TURATE",
+    "tipo": "Scuola",
+    "sito": "https://icturate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icturate.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 61
+   },
+   {
+    "nome": "ISTITUTO MAGISTRALE - LICEO TERESA CICERI",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoteresaciceri.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://liceoteresaciceri.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/ss17131"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://liceoteresaciceri.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 7
+   },
+   {
+    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - A.SANT'ELIA",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutosantelia.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.istitutosantelia.edu.it/servizi/trasparenza/albo-online"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 8
+   },
+   {
+    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - G.D.ROMAGNOSI",
+    "tipo": "Scuola",
+    "sito": "https://www.gdromagnosi.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.gdromagnosi.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 11,
+    "trovati": 3,
+    "secondi": 31
+   },
+   {
+    "nome": "Istituto Comprensivo Vertemate con Minoprio - Bregnano",
+    "tipo": "Scuola",
+    "sito": "https://www.icvertemate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icvertemate.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 24,
+    "trovati": 1,
+    "secondi": 48
+   },
+   {
+    "nome": "LEONARDO DA VINCI - RIPAMONTI (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.davinciripamonti.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://davinciripamonti.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://davinciripamonti.edu.it/argomento/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://davinciripamonti.edu.it/argomento/amministrazione-trasparente/"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
+    "nome": "LICEO ARTISTICO \"F. MELOTTI\" (Cantu')",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoartisticomelotti.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.liceoartisticomelotti.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 38,
+    "trovati": 0,
+    "secondi": 25
+   },
+   {
+    "nome": "LICEO STATALE \" CARLO PORTA \" ERBA",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoporta.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://liceoporta.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "LICEO TERESA CICERI (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.teresaciceri.eu/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://liceoteresaciceri.edu.it/novita/albo_online_portal/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.albipretorionline.com/ss17131"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://liceoteresaciceri.edu.it/novita/amministrazione_trasparente_portal/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 12
+   },
+   {
+    "nome": "LS GALILEO GALILEI (Erba)",
+    "tipo": "Scuola",
+    "sito": "https://www.galileierba.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://galileierba.edu.it/argomento/notizie/"
+     }
+    ],
+    "voci": 3,
+    "trovati": 0,
+    "secondi": 10
+   },
+   {
+    "nome": "MAGISTRI CUMACINI (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.magistricumacini.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.magistricumacini.edu.it/novita/albo-pretorio-online"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.magistricumacini.edu.it/novita"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.magistricumacini.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 20,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "MENAGGIO",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutovanonimenaggio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://istitutovanonimenaggio.edu.it/novita/albo/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://istitutovanonimenaggio.edu.it/trasparenza/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "PAOLO CARCANO (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.setificio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.setificio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 15,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "PAOLO GIOVIO (Como)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceogiovio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://web.liceogiovio.edu.it/_sito2020/index.php/scuola/trasparenza-e-pubblicita-legale/albo-online"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://web.liceogiovio.edu.it/_sito2020/index.php/scuola/trasparenza-e-pubblicita-legale/albo-online?tmpl=component&print=1"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://web.liceogiovio.edu.it/_sito2020/index.php/notizie/la-vita-della-scuola/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://web.liceogiovio.edu.it/_sito2020/index.php/scuola/trasparenza-e-pubblicita-legale/amministrazione-trasparente"
+     }
+    ],
+    "voci": 36,
+    "trovati": 0,
+    "secondi": 61
+   }
+  ],
+  "fonti": [
+   {
+    "nome": "ANAC pubblicità legale",
+    "ok": true,
+    "trovati": 1,
+    "letti": 5
+   },
+   {
+    "nome": "Sintel Lombardia",
+    "ok": true,
+    "trovati": 6,
+    "letti": 47
+   }
+  ],
+  "note": [
+   "Anagrafe biblioteche ICCU non raggiungibile (sito troppo lento (tempo scaduto))"
+  ]
+ }
+}

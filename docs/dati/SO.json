@@ -1,0 +1,3060 @@
+{
+ "provincia": {
+  "sigla": "SO",
+  "nome": "Sondrio"
+ },
+ "aggiornato": "2026-11-25T20:26:38.333153+00:00",
+ "giorni": 60,
+ "durata_minuti": 9,
+ "richieste": 625,
+ "righe": [
+  {
+   "ente": "Comune di Livigno",
+   "tipo": "Comune",
+   "titolo": "SERVIZIO PER IL NOLEGGIO, IL MONTAGGIO, IL COLLEGAMENTO ELETTRICO E LA RIMOZIONE DELL’ILLUMINAZIONE NATALIZIA AD USO ESTERNO NEL TERRITORIO DEL COMUNE DI LIVIGNO E FRAZIONI. ANNO 2026 – 2027",
+   "pubblicazione": "2026-10-06",
+   "scadenza": "2026-10-21",
+   "importo": "€ 32.015,00",
+   "partecipanti": null,
+   "motivi": [
+    "natalizi"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225106622",
+   "fonti": [
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225106622"
+    }
+   ],
+   "esito": false,
+   "cig": "XXXXXXXXXX",
+   "cf": "83000850145",
+   "id": "a527ff0e2b83",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "PROCEDURA DI SELEZIONE ESPERTI INTERNI/ESTERNI - A.S. 2026/27 PESTALOZZI - 21/10/2026",
+   "pubblicazione": "2026-10-21",
+   "scadenza": "2026-10-30",
+   "importo": null,
+   "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
+   "motivi": [
+    "teatr",
+    "esperti esterni",
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44581",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44581"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "9f730d22cf0d",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "PROCEDURA DI SELEZIONE ESPERTI INTERNI/ESTERNI - A.S. 2026/27 PIURO-PROSTO - 21/10/2026",
+   "pubblicazione": "2026-10-21",
+   "scadenza": "2026-10-30",
+   "importo": null,
+   "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
+   "motivi": [
+    "esperti esterni",
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44582",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44582"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "e645e9ad440f",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "PROCEDURA DI SELEZIONE ESPERTI INTERNI/ESTERNI- A.S. 2026/27 PRATA CAMPORTACCIO - 21/10/2026",
+   "pubblicazione": "2026-10-21",
+   "scadenza": "2026-10-30",
+   "importo": "€ 5.000,00",
+   "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
+   "motivi": [
+    "esperti esterni",
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44583",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44583"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "37c89a7cf6f3",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "PROCEDURA DI SELEZIONE ESPERTI INTERNI/ESTERNI - A.S. 2026/27 SAN CASSIANO - 21/10/2026",
+   "pubblicazione": "2026-10-21",
+   "scadenza": "2026-10-30",
+   "importo": null,
+   "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
+   "motivi": [
+    "esperti esterni",
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44584",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44584"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "e354f183bf63",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "ERRATA CORRIGE E PROROGA TERMINI - PROCEDURA DI SELEZIONE ESPERTI INTERNI/ESTERNI - A.S. 2026/27 SAN CASSIANO - BORGONUOVO DI PIURO - PRATA CAMPORTACCIO - NOVI DI CHIAVENNA - VILLA DI CHIAVENNA - 26/10/2026 - 26/10/2026",
+   "pubblicazione": "2026-10-26",
+   "scadenza": "2026-11-06",
+   "importo": null,
+   "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
+   "motivi": [
+    "teatr",
+    "esperti esterni",
+    "ptof",
+    "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44587",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44587"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "49e5b7587bb5",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. DI TRAONA",
+   "tipo": "Scuola",
+   "titolo": "AVVISO PUBBLICO PER LA SELEZIONE DI ESPERTI INTERNI ALL’AMMINISTRAZIONE PER REALIZZAZIONE DI LABORATORI DI PITTURA, TEATRO, COWNERIE, ILLUSTRAZIONE, INGLESE E CONVERSAZIONE CON MADRELINGUA INGLESE",
+   "pubblicazione": "2026-11-04",
+   "scadenza": "2026-11-13",
+   "importo": "€ 51,09",
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "avviso pubblico",
+    "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://ictraona.edu.it/notizie/570-avviso-pubblico-per-la-selezione-di-esperti-interni-allamministrazione-per-realizzazione-di-laboratori-di-pittura-teatro-cownerie-illustrazione-inglese-e-conversazione-con-madrelingua-inglese",
+   "fonti": [
+    {
+     "nome": "sito ictraona.edu.it",
+     "link": "https://ictraona.edu.it/notizie/570-avviso-pubblico-per-la-selezione-di-esperti-interni-allamministrazione-per-realizzazione-di-laboratori-di-pittura-teatro-cownerie-illustrazione-inglese-e-conversazione-con-madrelingua-inglese"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82003850144",
+   "id": "0885ff37f95b",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "VERBALE COMMISIONE DI VALUTAZIONE ISTANZE DI PARTECIPAZIONE BANDI PTOF 2026/2027 - GRADUATORIE PROVVISORIE E AGGIUDICAZIONI",
+   "pubblicazione": "2026-11-23",
+   "scadenza": "2026-11-27",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://icbertacchi.edu.it/albo-online/dettaglio/44614",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/albo-online/dettaglio/44614"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "27bb086539c9",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "AGGIUDICAZIONE CONFERIMENTO INCARICO PROGETTI DI ISTITUTO ESPERTI INTERNI/ESTERNI- BANDI A.S. 2026/27",
+   "pubblicazione": "2026-12-07",
+   "scadenza": "2026-12-07",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "esperti esterni",
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole",
+    "Infanzia e famiglie"
+   ],
+   "link": "https://icbertacchi.edu.it/albo-online/dettaglio/44617",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/albo-online/dettaglio/44617"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "a6ed7ab5df24",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Berbenno di Valtellina",
+   "tipo": "Biblioteca",
+   "titolo": "Servizio di gestione delle biblioteche comunali “G.B. Noghera” di Berbenno di Valtellina e “Don Giovanni da Prada” di Fusine – Periodo 2027-2028, con eventuale proroga di 6 mesi",
+   "pubblicazione": "2026-11-19",
+   "scadenza": "2026-12-11",
+   "importo": "€ 134.563,00",
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento",
+    "CPV 92511000-6"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://pubblicitalegale.anticorruzione.it/bandi/2c057dcf-9e02-411a-9850-9115f55be54f",
+   "fonti": [
+    {
+     "nome": "ANAC",
+     "link": "https://pubblicitalegale.anticorruzione.it/bandi/2c057dcf-9e02-411a-9850-9115f55be54f"
+    },
+    {
+     "nome": "Sintel",
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226896585"
+    }
+   ],
+   "esito": false,
+   "cig": "BDDDC1B2A9",
+   "cf": "00109690149",
+   "id": "4628a5abcce1",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Bianzone",
+   "tipo": "Comune",
+   "titolo": "Avviso di convocazione Consiglio Comunale",
+   "pubblicazione": "2026-11-23",
+   "scadenza": "2026-12-16",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "per bambini",
+    "per le famiglie",
+    "estate",
+    "estiv"
+   ],
+   "temi": [
+    "Lettura e biblioteche",
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://comune.bianzone.so.it/tipi_notizia/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.bianzone.so.it",
+     "link": "https://comune.bianzone.so.it/tipi_notizia/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00110960143",
+   "id": "304708a0b7da",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Villa di Tirano",
+   "tipo": "Comune",
+   "titolo": "Avviso interruzione energia elettrica 05.11.2026",
+   "pubblicazione": "2026-11-09",
+   "scadenza": "2026-12-31",
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centro estivo",
+    "estate",
+    "estiv"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://comune.villaditirano.so.it/tipi_notizia/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.villaditirano.so.it",
+     "link": "https://comune.villaditirano.so.it/tipi_notizia/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00111050142",
+   "id": "40de301bf1b8",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "AGGIUDICAZIONE CONFERIMENTO INCARICO PROGETTI DI ISTITUTO - BANDI A.S. 2026/27 - 23/11/2026",
+   "pubblicazione": null,
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "esperti esterni",
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole",
+    "Infanzia e famiglie"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44618",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44618"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "31596273f32f",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+   "tipo": "Scuola",
+   "titolo": "Avviso di selezione interno moduli di Alfabetizzazione/potenziamento di Italiano, piano scuola estate 25-26 - 20/05/2026",
+   "pubblicazione": null,
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44470",
+   "fonti": [
+    {
+     "nome": "sito icbertacchi.edu.it",
+     "link": "https://icbertacchi.edu.it/amministrazione-trasparente/dettaglio/44470"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "81002090140",
+   "id": "1018630c1153",
+   "nuovo": false
+  },
+  {
+   "ente": "ITI ENEA MATTEI (Sondrio)",
+   "tipo": "Scuola",
+   "titolo": "DECRETO DI COSTITUZIONE DEL GRUPPO DI LAVORO OPERATIVO PER L'INCLUSIONE (GLO)-Anno scolastico 2026/2027",
+   "pubblicazione": "2026-10-10",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/SOIT0003/d41arec1bs",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/SOIT0003/d41arec1bs"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80000760142",
+   "id": "1a0ec8685663",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+   "tipo": "Scuola",
+   "titolo": "Pn 21/27 piano estate II fin.- avviso per il reclutamento di esperti e tutor per i moduli \" Imparare Imparando 4-5-6\"",
+   "pubblicazione": "2026-10-15",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/3975/documento/SOIC81700Q/1",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/3975/documento/SOIC81700Q/1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "91015230146",
+   "id": "bbbc9b640447",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+   "tipo": "Scuola",
+   "titolo": "PN 21/27 piano estate II finestra - verbale valutazione avviso esperti e tutor prot.n. 6544 del 15 Ottobre 2026 - Imparare Imparando Moduli 4-5-6",
+   "pubblicazione": "2026-10-22",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/4010/documento/SOIC81700Q/1",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/4010/documento/SOIC81700Q/1"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "91015230146",
+   "id": "c323e3a0ec82",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+   "tipo": "Scuola",
+   "titolo": "PN 21/27 piano estate II finestra - verbale conclusivo valutazione DS - avviso esperti e tutor prot.n. 6544 del 15 Ottobre 2026 - Imparare Imparando Moduli 4-5-6",
+   "pubblicazione": "2026-10-26",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/4027/documento/SOIC81700Q/1",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/4027/documento/SOIC81700Q/1"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "91015230146",
+   "id": "e4b2a52bcd76",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Lovero",
+   "tipo": "Comune",
+   "titolo": "Avviso CHIUSURA impianti idrici Comune di Lovero -Località Garbisc-Stavello",
+   "pubblicazione": "2026-11-02",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://comune.lovero.so.it/tipi_notizia/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.lovero.so.it",
+     "link": "https://comune.lovero.so.it/tipi_notizia/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00105070148",
+   "id": "5aedcff3d320",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. DI TRAONA",
+   "tipo": "Scuola",
+   "titolo": "AVVISO procedura selettiva reperimento ESPERTI E TUTOR MODULO 266344",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": "€ 51.280,00",
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "piano estate",
+    "inclusione",
+    "estate",
+    "estiv"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://ictraona.edu.it/notizie/573-avviso-procedura-selettiva-reperimento-esperti-e-tutor-modulo-266344",
+   "fonti": [
+    {
+     "nome": "sito ictraona.edu.it",
+     "link": "https://ictraona.edu.it/notizie/573-avviso-procedura-selettiva-reperimento-esperti-e-tutor-modulo-266344"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "82003850144",
+   "id": "b58a0b0e6ccd",
+   "nuovo": false
+  },
+  {
+   "ente": "ITI ENEA MATTEI (Sondrio)",
+   "tipo": "Scuola",
+   "titolo": "Decisione a contrarre del Dirigente Scolastico per l'acquisto biglietti - TEATRO CARCANO",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/SOIT0003/uk7cbiuu0k",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/SOIT0003/uk7cbiuu0k"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80000760142",
+   "id": "2c236982e21d",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Morbegno",
+   "tipo": "Comune",
+   "titolo": "Delibera: Giunta Comunale N.211 DEL 13/11/2026: RICONOSCIMENTO CONTRIBUTO A SOSTEGNO DEI COSTI ENERGETICI IMPIEGATI PER I PROGETTI DI NATALE 2026.",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00098990146",
+   "id": "dfe1eb5df0d1",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Morbegno",
+   "tipo": "Comune",
+   "titolo": "Delibera: Giunta Comunale N.210 DEL 13/11/2026: RICONOSCIMENTO CONTRIBUTO PER PROGETTO LA COLMEN, LA MONTAGNA MAGICA DEL NATALE",
+   "pubblicazione": "2026-11-13",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00098990146",
+   "id": "73ba406ea70e",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+   "tipo": "Scuola",
+   "titolo": "Avviso pubblico per selezione di docenti esperti madrelingua inglese presso la scuola dell'Infanzia Girasole",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia",
+    "avviso pubblico",
+    "selezione"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/4087/documento/SOIC81700Q/1",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/4087/documento/SOIC81700Q/1"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "91015230146",
+   "id": "d581feb292ac",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. SONDRIO - \"PAESI OROBICI\" (Albosaggia)",
+   "tipo": "Scuola",
+   "titolo": "93. DECISIONE A CONTRARRE Associazione Lirica e Concertistica Italiana - Opera domani",
+   "pubblicazione": "2026-11-18",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "concert"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/SOME0021/ops0jgojcq",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/SOME0021/ops0jgojcq"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "93020730144",
+   "id": "6101842c19cf",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tirano",
+   "tipo": "Comune",
+   "titolo": "DIRETTIVE PER EROGAZIONE CONTRIBUTI A FAMIGLIE PER LA FREQUENZA DI CENTRI ESTIVI DI MINORI RESIDENTI – ANNO 2026 – CUP H39I26001470001",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10653572",
+   "fonti": [
+    {
+     "nome": "sito tirano.trasparenza-valutazione-merito.it",
+     "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10653572"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00114980147",
+   "id": "38fa075e2c3f",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tirano",
+   "tipo": "Comune",
+   "titolo": "APPROVAZIONE NUOVO SCHEMA DI CONVENZIONE PIATTAFORMA DIGITALE PER LA GESTIONE DEI PATTI PER L'INCLUSIONE SOCIALE (PIATTAFORMA GEPI) TRA MINISTERO DEL LAVORO E POLITICHE SOCIALI E IL COMUNE DI TIRANO",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10653566",
+   "fonti": [
+    {
+     "nome": "sito tirano.trasparenza-valutazione-merito.it",
+     "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10653566"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00114980147",
+   "id": "7d63a6ae0c2e",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. DI TRAONA",
+   "tipo": "Scuola",
+   "titolo": "DECRETO DI NOMINA DELLA COMMISSIONE DI VALUTAZIONE PER IL CONFERIMENTO DI INCARICHI INDIVIDUALI FIGURE DI ESPERTI REALIZZAZIONE DI QUATTRO MODULI PRESSO LA SCUOLA SECONDARIA DI TRAONA PIANO ESTATE 2026/27",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7025/documento/SOIC81200L",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7025/documento/SOIC81200L"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "82003850144",
+   "id": "49bb3ffb5ee4",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. DI TRAONA",
+   "tipo": "Scuola",
+   "titolo": "ESITO SELEZIONE CONFERIMENTO DI INCARICHI INDIVIDUALI FIGURE DI ESPERTI REALIZZAZIONE DI QUATTRO MODULI PRESSO LA SCUOLA SECONDARIA DI TRAONA PIANO ESTATE 2026/27",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7023/documento/SOIC81200L",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7023/documento/SOIC81200L"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "82003850144",
+   "id": "414fa5bfb3c2",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Morbegno",
+   "tipo": "Biblioteca",
+   "titolo": "DETERMINA N.1034 DEL 20/11/2026 - BIBLIOTECA: ANNULLAMENTO IMPEGNO DI SPESA ASSUNTO CON DETERMINAZIONE 425 IN DATA 21/05/2025, AVENTE PER OGGETTO: EROGAZIONE DI CONTRIBUTI (SESTO PROVVEDIMENTO): LOKAZIONE-MORBOROCK XIV EDIZIONE 2025",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "contributi"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "00098990146",
+   "id": "b6c300a7f045",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Morbegno",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.1033 DEL 20/11/2026 - AREA AMMINISTRATIVA: SERVIZIO DI ORGANIZZAZIONE DELLE ATTIVITÀ LUDICO-EDUCATIVE PER IL FUNZIONAMENTO DEL CENTRO RICREATIVO DIURNO ESTIVO ANNI 2024-2025-2026 CIG B0728406E6 INTEGRAZIONE IMPEGNO DI SPESA ASSISTENZA ANNO 2026",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "estiv"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": "B0728406E6",
+   "cf": "00098990146",
+   "id": "c81e496f769a",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tirano",
+   "tipo": "Comune",
+   "titolo": "Bando per l'assegnazione contributi a famiglie per la frequenza di centri estivi di minori residenti - Anno 2026",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.tirano.so.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.tirano.so.it",
+     "link": "https://www.comune.tirano.so.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00114980147",
+   "id": "804c9955b595",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tirano",
+   "tipo": "Comune",
+   "titolo": "BANDO PER L'EROGAZIONE DI CONTRIBUTI A FAMIGLIE PER LA FREQUENZA DI CENTRI ESTIVI DI MINORI RESIDENTI – ANNO 2026",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10655767",
+   "fonti": [
+    {
+     "nome": "sito tirano.trasparenza-valutazione-merito.it",
+     "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10655767"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00114980147",
+   "id": "7d07c8e8d670",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tirano",
+   "tipo": "Comune",
+   "titolo": "APPROVAZIONE SCHEMA DI BANDO PER L'EROGAZIONE DI CONTRIBUTI A FAMIGLIE PER LA FREQUENZA DI CENTRI ESTIVI DI MINORI RESIDENTI – ANNO 2026 E IMPEGNO DELLA SPESA – CUP H39I26001470001",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10654690",
+   "fonti": [
+    {
+     "nome": "sito tirano.trasparenza-valutazione-merito.it",
+     "link": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10654690"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00114980147",
+   "id": "e310c90dcc48",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. DI TRAONA",
+   "tipo": "Scuola",
+   "titolo": "Esito selezione esperti interni/esterni per attività laboratoriali 2026-27",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "esperto esterno",
+    "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://ictraona.edu.it/notizie/575-esito-selezione-esperti-interniesterni-per-attivita-laboratoriali-2026-27",
+   "fonti": [
+    {
+     "nome": "sito ictraona.edu.it",
+     "link": "https://ictraona.edu.it/notizie/575-esito-selezione-esperti-interniesterni-per-attivita-laboratoriali-2026-27"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "82003850144",
+   "id": "696dfe1fc7a0",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. PONTE IN VALTELLINA",
+   "tipo": "Scuola",
+   "titolo": "Individuazione per contratto di lavoro a tempo determinato dal 23.11.2026 al 22.12.2026 - Insegnante di scuola dell'Infanzia Belotti Laura.",
+   "pubblicazione": "2026-11-23",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/8341/documento/SOIC80400N",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/8341/documento/SOIC80400N"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80000940140",
+   "id": "08a1fa9cdc45",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Morbegno",
+   "tipo": "Comune",
+   "titolo": "Delibera: Giunta Comunale N.226 DEL 24/11/2026: ASSEGNO DI INCLUSIONE E SUPPORTO PER LA FORMAZIONE E LAVORO APPROVAZIONE DELLA NUOVA CONVENZIONE PER LA PIATTAFORMA DIGITALE GEPI",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00098990146",
+   "id": "8128e003965f",
+   "nuovo": false
+  },
+  {
+   "ente": "IIS BALILLA PINCHETTI (Tirano)",
+   "tipo": "Scuola",
+   "titolo": "DECRETO DI AGGIUDICAZIONE INCARICO DI ESPERTO ESTERNO PER IL PROGETTO LABORATORIO SANITARIO A.S. 2026-2027",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "esperto esterno"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/SOII0002/9t33jeu7pf",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/SOII0002/9t33jeu7pf"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "92000460144",
+   "id": "c044c62b76b3",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Tovo di Sant'Agata",
+   "tipo": "Comune",
+   "titolo": "Avviso di interruzione energia elettrica",
+   "pubblicazione": "2026-11-29",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centro estivo",
+    "estiv"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://comune.tovo.so.it/tipi_notizia/avvisi/",
+   "fonti": [
+    {
+     "nome": "sito comune.tovo.so.it",
+     "link": "https://comune.tovo.so.it/tipi_notizia/avvisi/"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00104650148",
+   "id": "696a347cc85c",
+   "nuovo": false
+  }
+ ],
+ "copertura": {
+  "enti": [
+   {
+    "nome": "Unione Dei Comuni Lombarda della Valmalenco",
+    "tipo": "Altro ente",
+    "sito": "https://www.unionevalmalenco.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
+   },
+   {
+    "nome": "Unione Dei Comuni di Spriana e Torre di Santa Maria",
+    "tipo": "Altro ente",
+    "sito": "https://www.unionesprianatorre.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 230
+   },
+   {
+    "nome": "Comune di Albosaggia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.albosaggia.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Andalo Valtellino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.andalovaltellino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Ardenno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.ardenno.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Bema",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bema.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Berbenno di Valtellina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.berbenno.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Buglio in Monte",
+    "tipo": "Comune",
+    "sito": "https://www.comune.buglioinmonte.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Caiolo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.caiolo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Campodolcino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.campodolcino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Caspoggio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.caspoggio.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Castello dell'Acqua",
+    "tipo": "Comune",
+    "sito": "https://www.comune.castellodellacqua.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Castione Andevenno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.castioneandevenno.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cedrasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cedrasco.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Cercino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cercino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Chiavenna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.chiavenna.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Chiesa in Valmalenco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.chiesainvalmalenco.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Chiuro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.chiuro.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Civo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.civo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Colorina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.colorina.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Cosio Valtellino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cosiovaltellino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Dazio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dazio.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Delebio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.delebio.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Dubino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dubino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Faedo Valtellino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.faedovaltellino.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Forcola",
+    "tipo": "Comune",
+    "sito": "https://www.comune.forcola.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Fusine",
+    "tipo": "Comune",
+    "sito": "https://www.comune.fusine.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Gerola Alta",
+    "tipo": "Comune",
+    "sito": "https://www.comune.gerolaalta.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Gordona",
+    "tipo": "Comune",
+    "sito": "https://www.comune.gordona.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Lanzada",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lanzada.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Madesimo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.madesimo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Mantello",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mantello.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Mello",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mello.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Mese",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mese.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Montagna in Valtellina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.montagnainvaltellina.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Novate Mezzola",
+    "tipo": "Comune",
+    "sito": "https://www.comune.novatemezzola.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
+    "nome": "Comune di Pedesina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pedesina.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Piantedo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.piantedo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Piateda",
+    "tipo": "Comune",
+    "sito": "https://www.comune.piateda.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Piuro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.piuro.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Poggiridenti",
+    "tipo": "Comune",
+    "sito": "https://www.comune.poggiridenti.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Ponte In Valtellina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.ponteinvaltellina.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Postalesio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.postalesio.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Prata Camportaccio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pratacamportaccio.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
+    "nome": "Comune di Rogolo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rogolo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Samolaco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.samolaco.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di San Giacomo Filippo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sangiacomofilippo.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Spriana",
+    "tipo": "Comune",
+    "sito": "https://www.comune.spriana.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Talamona",
+    "tipo": "Comune",
+    "sito": "https://www.comune.talamona.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Tartano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tartano.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Teglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.teglio.so.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 107
+   },
+   {
+    "nome": "Comune di Torre di Santa Maria",
+    "tipo": "Comune",
+    "sito": "https://www.comune.torredisantamaria.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Traona",
+    "tipo": "Comune",
+    "sito": "https://www.comune.traona.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Tresivio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tresivio.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Val Masino",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valmasino.so.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 28
+   },
+   {
+    "nome": "Comune di Verceia",
+    "tipo": "Comune",
+    "sito": "https://www.comune.verceia.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "Comune di Villa di Chiavenna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.villadichiavenna.so.it/",
+    "esito": "non letto",
+    "motivo": "bloccato da robots.txt",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 1
+   },
+   {
+    "nome": "CPIA 1 SONDRIO",
+    "tipo": "Scuola",
+    "sito": "",
+    "esito": "non letto",
+    "motivo": "nessun sito indicato negli open data",
+    "pagine": [],
+    "trovati": 0
+   },
+   {
+    "nome": "I. C. DI DELEBIO (Dubino)",
+    "tipo": "Scuola",
+    "sito": "https://www.icdelebio.org/",
+    "esito": "non letto",
+    "motivo": "certificato di sicurezza non valido",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 39
+   },
+   {
+    "nome": "I. C. DI TIRANO",
+    "tipo": "Scuola",
+    "sito": "https://www.ictirano.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I. C. MARTINO ANZI - BORMIO (Valdidentro)",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivobormio.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. 2 \"DAMIANI\" DI MORBEGNO",
+    "tipo": "Scuola",
+    "sito": "https://www.ic2damianimorbegno.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "I.C. BERTACCHI - CHIAVENNA",
+    "tipo": "Scuola",
+    "sito": "",
+    "esito": "non letto",
+    "motivo": "nessun sito indicato negli open data",
+    "pagine": [],
+    "trovati": 0
+   },
+   {
+    "nome": "I.C. LUIGI CREDARO LIVIGNO",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivolivigno.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C.\"G.FUMASONI\" BERBENNO DI V. (Berbenno Di Valtellina)",
+    "tipo": "Scuola",
+    "sito": "https://www.icfumasoni.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.I.S. ALBERTI (Bormio)",
+    "tipo": "Scuola",
+    "sito": "https://www.iisalbertibormio.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "IS SARACENO - ROMEGIALLI (Morbegno)",
+    "tipo": "Scuola",
+    "sito": "https://www.saracenoromegialli.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO PROFESSIONALE CROTTO CAURGA",
+    "tipo": "Scuola",
+    "sito": "https://www.ipcrottocaurga.gov.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO PROFESSIONALE CROTTO CAURGA (Chiavenna)",
+    "tipo": "Scuola",
+    "sito": "https://www.ipcrottocaurga.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO TECNICO A.DE SIMONI-M.QUADRIO (Sondrio)",
+    "tipo": "Scuola",
+    "sito": "https://www.itsdesimoni.com/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 39
+   },
+   {
+    "nome": "Istituto di Istruzione Secondaria Alberti",
+    "tipo": "Scuola",
+    "sito": "https://www.iisalbertibormio.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "POLO LICEALE CITTA' DI SONDRIO",
+    "tipo": "Scuola",
+    "sito": "https://www.pololicealesondrio.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "Comune di Albaredo per San Marco",
+    "tipo": "Comune",
+    "sito": "https://comune.albaredopersanmarco.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.albaredopersanmarco.so.it/tipi_notizia/avviso/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.albaredopersanmarco.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.albaredopersanmarco.so.it/tipi_notizia/news/"
+     }
+    ],
+    "voci": 8,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Aprica",
+    "tipo": "Comune",
+    "sito": "https://www.comune.aprica.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.aprica.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.aprica.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.aprica.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 14
+   },
+   {
+    "nome": "Comune di Bianzone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bianzone.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.bianzone.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.bianzone.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.bianzone.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 95,
+    "trovati": 1,
+    "secondi": 19
+   },
+   {
+    "nome": "Comune di Bormio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bormio.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://bormio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bormio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37441"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bormio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37441"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.bormio.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.bormio.so.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.bormio.so.it/it/news?type=1"
+     }
+    ],
+    "voci": 61,
+    "trovati": 0,
+    "secondi": 30
+   },
+   {
+    "nome": "Comune di Grosio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.grosio.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://comune.grosio.so.it/novita/"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 18
+   },
+   {
+    "nome": "Comune di Grosotto",
+    "tipo": "Comune",
+    "sito": "https://www.comune.grosotto.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.grosotto.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.grosotto.so.it/novita/"
+     }
+    ],
+    "voci": 7,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "Comune di Livigno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.livigno.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://livigno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5497"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://livigno.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://livigno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=5499&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1452813402"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.livigno.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.livigno.so.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.livigno.so.it/it/news?type=1"
+     }
+    ],
+    "voci": 41,
+    "trovati": 0,
+    "secondi": 64
+   },
+   {
+    "nome": "Comune di Lovero",
+    "tipo": "Comune",
+    "sito": "https://www.comune.lovero.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.lovero.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.lovero.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.lovero.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 44,
+    "trovati": 1,
+    "secondi": 12
+   },
+   {
+    "nome": "Comune di Mazzo di Valtellina",
+    "tipo": "Comune",
+    "sito": "https://www.comune.mazzo.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.mazzo.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.mazzo.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.mazzo.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 31,
+    "trovati": 0,
+    "secondi": 9
+   },
+   {
+    "nome": "Comune di Morbegno",
+    "tipo": "Comune",
+    "sito": "https://www.comune.morbegno.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.morbegno.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.morbegno.so.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.morbegno.so.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/trasparenza/trasparenzaamministrativa.aspx?P=6700"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsmorbegno/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=96"
+     }
+    ],
+    "voci": 297,
+    "trovati": 5,
+    "secondi": 68
+   },
+   {
+    "nome": "Comune di Rasura",
+    "tipo": "Comune",
+    "sito": "https://www.comune.rasura.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.rasura.so.it/novita/3-avviso"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.rasura.so.it/novita"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.rasura.so.it/novita/1-news"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 21
+   },
+   {
+    "nome": "Comune di Sernio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sernio.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://comune.sernio.so.it/sito_tematico/albo-pretorio/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://telegram.me/share/url?url=https://comune.sernio.so.it/sito_tematico/albo-pretorio/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.sernio.so.it/tipi_notizia/comunicati/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sernio.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sernio.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 47,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "Comune di Sondalo",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sondalo.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://sondalo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://sondalo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://sondalo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37641"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://sondalo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=37641"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.sondalo.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.sondalo.so.it/it/menu/news"
+     }
+    ],
+    "voci": 39,
+    "trovati": 0,
+    "secondi": 50
+   },
+   {
+    "nome": "Comune di Sondrio",
+    "tipo": "Comune",
+    "sito": "https://comune.sondrio.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.sondrio.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.sondrio.it/amministrazione/documenti-e-dati/bandi-di-gara-e-contratti/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sondrio.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.sondrio.it/tipi_notizia/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://comune.sondrio.it/amm_trasp/"
+     }
+    ],
+    "voci": 82,
+    "trovati": 0,
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Tirano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tirano.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://tirano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.tirano.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.tirano.so.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.tirano.so.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.tirano.so.it/it/menu/267254"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.tirano.so.it/it/page/bandi-di-gara-e-contratti-16"
+     }
+    ],
+    "voci": 81,
+    "trovati": 7,
+    "secondi": 75
+   },
+   {
+    "nome": "Comune di Tovo di Sant'Agata",
+    "tipo": "Comune",
+    "sito": "https://www.comune.tovo.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.tovo.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.tovo.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.tovo.so.it/tipi_notizia/notizie/"
+     }
+    ],
+    "voci": 23,
+    "trovati": 1,
+    "secondi": 13
+   },
+   {
+    "nome": "Comune di Valdidentro",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valdidentro.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://valdidentro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valdidentro.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valdidentro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38012"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valdidentro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38012"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valdidentro.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valdidentro.so.it/it/menu/news"
+     }
+    ],
+    "voci": 84,
+    "trovati": 0,
+    "secondi": 83
+   },
+   {
+    "nome": "Comune di Valdisotto",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valdisotto.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://valdisotto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valdisotto.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://form.agid.gov.it/c_l563/albo_pretorio_e_amministrazione_trasparente/dichiarazione"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valdisotto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38155"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valdisotto.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valdisotto.so.it/it/menu/news"
+     }
+    ],
+    "voci": 31,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "Comune di Valfurva",
+    "tipo": "Comune",
+    "sito": "https://www.comune.valfurva.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://valfurva.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://valfurva.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38341"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.valfurva.so.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valfurva.so.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.valfurva.so.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://valfurva.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
+     }
+    ],
+    "voci": 79,
+    "trovati": 0,
+    "secondi": 50
+   },
+   {
+    "nome": "Comune di Vervio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.vervio.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.vervio.so.it/tipi_notizia/notizie/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.vervio.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.vervio.so.it/tipi_notizia/avvisi/"
+     }
+    ],
+    "voci": 69,
+    "trovati": 0,
+    "secondi": 17
+   },
+   {
+    "nome": "Comune di Villa di Tirano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.villaditirano.so.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.villaditirano.so.it/tipi_notizia/avvisi/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.villaditirano.so.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.villaditirano.so.it/tipi_notizia/news/"
+     }
+    ],
+    "voci": 73,
+    "trovati": 1,
+    "secondi": 16
+   },
+   {
+    "nome": "Centro Provinciale Istruzione Adulti",
+    "tipo": "Scuola",
+    "sito": "http://www.cpia1sondrio.edu.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.cpia1sondrio.edu.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "I. C. DI TEGLIO (Bianzone)",
+    "tipo": "Scuola",
+    "sito": "https://www.icteglio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icteglio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 10,
+    "trovati": 0,
+    "secondi": 69
+   },
+   {
+    "nome": "I. C. DI TRAONA",
+    "tipo": "Scuola",
+    "sito": "https://www.ictraona.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81200L/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81200L/3/IN_PUBBLICAZIONE/0/show"
+     }
+    ],
+    "voci": 36,
+    "trovati": 5,
+    "secondi": 51
+   },
+   {
+    "nome": "I. C. VANONI ARDENNO",
+    "tipo": "Scuola",
+    "sito": "https://icardenno.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icardenno.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/ricerca/SOIC815004/1/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC815004/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC815004/1/IN_PUBBLICAZIONE/74f15a88-6bf9-4129-867f-6e091513b24c/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC815004/3"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC815004/3/IN_PUBBLICAZIONE/7c7a6411-ab85-48ed-82fc-a5108cf23312/show"
+     }
+    ],
+    "voci": 27,
+    "trovati": 0,
+    "secondi": 85
+   },
+   {
+    "nome": "I.C. \"GAVAZZENI \" DI TALAMONA",
+    "tipo": "Scuola",
+    "sito": "https://ictalamona.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://ictalamona.edu.it/"
+     }
+    ],
+    "voci": 7,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "I.C. 1 \"SPINI VANONI\" MORBEGNO",
+    "tipo": "Scuola",
+    "sito": "https://www.ic1morbegno.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/1/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/1/IN_PUBBLICAZIONE/9e2a736e-abff-4db2-b63a-ad7bad7c3f5d/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/1/IN_PUBBLICAZIONE/1b7680db-0dc0-439f-8598-e8927457d217/show"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/1/IN_PUBBLICAZIONE/8c007ead-a761-4245-8adb-b60d2d5b1f46/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/3/IN_PUBBLICAZIONE/0/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC81700Q/3/IN_PUBBLICAZIONE/8ad9c30f-8584-454b-850c-b1970665eb71/show"
+     }
+    ],
+    "voci": 88,
+    "trovati": 4,
+    "secondi": 62
+   },
+   {
+    "nome": "I.C. 2  DAMIANI DI MORBEGNO",
+    "tipo": "Scuola",
+    "sito": "https://www.ic2damianimorbegno.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://ic2damianimorbegno.edu.it/albo-online"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC823003/3"
+     }
+    ],
+    "voci": 60,
+    "trovati": 0,
+    "secondi": 7
+   },
+   {
+    "nome": "I.C. DI COSIO VALTELLINO",
+    "tipo": "Scuola",
+    "sito": "https://iccosiovaltellino.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://iccosiovaltellino.edu.it/"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 8
+   },
+   {
+    "nome": "I.C. DI NOVATE MEZZOLA",
+    "tipo": "Scuola",
+    "sito": "https://www.icnovate.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://icnovate.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 4,
+    "trovati": 0,
+    "secondi": 11
+   },
+   {
+    "nome": "I.C. GARIBALDI DI CHIAVENNA (Madesimo)",
+    "tipo": "Scuola",
+    "sito": "https://www.icgaribaldi.edu.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icgaribaldi.edu.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 7
+   },
+   {
+    "nome": "I.C. GROSIO GROSOTTO SONDALO",
+    "tipo": "Scuola",
+    "sito": "https://www.icgrosiogrosottosondalo.edu.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icgrosiogrosottosondalo.edu.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
+    "nome": "I.C. PONTE IN VALTELLINA",
+    "tipo": "Scuola",
+    "sito": "https://www.icponte.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC80400N/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC80400N/3"
+     }
+    ],
+    "voci": 45,
+    "trovati": 1,
+    "secondi": 80
+   },
+   {
+    "nome": "I.C. SONDRIO - \"CENTRO\"",
+    "tipo": "Scuola",
+    "sito": "https://www.icsondriocentro.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icsondriocentro.edu.it/albo-online"
+     }
+    ],
+    "voci": 9,
+    "trovati": 0,
+    "secondi": 12
+   },
+   {
+    "nome": "I.C. SONDRIO - \"PAESI OROBICI\" (Albosaggia)",
+    "tipo": "Scuola",
+    "sito": "https://www.icpaesiorobici.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.icpaesiorobici.edu.it/pagine/pubblicit-legale"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icpaesiorobici.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 12,
+    "trovati": 1,
+    "secondi": 34
+   },
+   {
+    "nome": "I.C. SONDRIO - \"PAESI RETICI\"",
+    "tipo": "Scuola",
+    "sito": "https://www.icpaesiretici.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icpaesiretici.edu.it/albo-online"
+     }
+    ],
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 22
+   },
+   {
+    "nome": "I.I.S. LEONARDO DA VINCI (Chiavenna)",
+    "tipo": "Scuola",
+    "sito": "https://www.davincichiavenna.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.davincichiavenna.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "IIS BALILLA PINCHETTI (Tirano)",
+    "tipo": "Scuola",
+    "sito": "https://www.pinchetti.net/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.pinchetti.net/pagine/comunicati"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.pinchetti.net/amministrazione-trasparente"
+     }
+    ],
+    "voci": 9,
+    "trovati": 1,
+    "secondi": 22
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I. C. DI DELEBIO",
+    "tipo": "Scuola",
+    "sito": "https://www.icdelebio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://icdelebio.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 9
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. BERTACCHI - CHIAVENNA",
+    "tipo": "Scuola",
+    "sito": "https://www.icbertacchi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icbertacchi.edu.it/albo-online"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icbertacchi.edu.it/amministrazione-trasparente"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://icbertacchi.edu.it/amministrazione-trasparente/16"
+     }
+    ],
+    "voci": 182,
+    "trovati": 9,
+    "secondi": 44
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C.'G.FUMASONI' BERBENNO DI V.",
+    "tipo": "Scuola",
+    "sito": "https://www.icfumasoni.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://icfumasoni.edu.it/novita/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC801006/1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC801006/3"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC801006/3/IN_PUBBLICAZIONE/5e11a0f7-ac27-4651-befd-daa6d683a174/show"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SOIC801006/3/IN_PUBBLICAZIONE/3f9a5d27-5a3b-4e0a-9f2f-d3b07d32c25f/show"
+     }
+    ],
+    "voci": 30,
+    "trovati": 0,
+    "secondi": 43
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO LUIGI CREDARO DI LIVIGNO",
+    "tipo": "Scuola",
+    "sito": "https://www.comprensivolivigno.edu.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.comprensivolivigno.edu.it/"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO TECNICO AGRARIO (Sondrio)",
+    "tipo": "Scuola",
+    "sito": "https://www.cnpiazzisondrio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.cnpiazzisondrio.edu.it/"
+     }
+    ],
+    "voci": 22,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "ITI ENEA MATTEI (Sondrio)",
+    "tipo": "Scuola",
+    "sito": "https://www.itisondrio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.itisondrio.edu.it/albo-online"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.itisondrio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 37,
+    "trovati": 3,
+    "secondi": 242
+   },
+   {
+    "nome": "Istituto Comprensivo M. Anzi di Bormio",
+    "tipo": "Scuola",
+    "sito": "https://www.icbormio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icbormio.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "LICEO P.NERVI - G.FERRARI (Morbegno)",
+    "tipo": "Scuola",
+    "sito": "https://www.nerviferrari.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://nerviferrari.edu.it/albo-online"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://nerviferrari.edu.it/servizi/131-pubblicita-legale"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 18
+   }
+  ],
+  "fonti": [
+   {
+    "nome": "ANAC pubblicità legale",
+    "ok": true,
+    "trovati": 1,
+    "letti": 1
+   },
+   {
+    "nome": "Sintel Lombardia",
+    "ok": true,
+    "trovati": 2,
+    "letti": 34
+   }
+  ],
+  "note": [
+   "Anagrafe biblioteche ICCU non raggiungibile (sito troppo lento (tempo scaduto))"
+  ]
+ }
+}

@@ -3,379 +3,36 @@
   "sigla": "MB",
   "nome": "Monza e della Brianza"
  },
- "aggiornato": "2026-11-25T17:51:25.126506+00:00",
+ "aggiornato": "2026-11-25T20:17:09.262841+00:00",
  "giorni": 60,
- "durata_minuti": 11,
- "richieste": 1691,
+ "durata_minuti": 15,
+ "richieste": 1727,
  "righe": [
   {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Spettacolo teatrale d’autunno",
-   "pubblicazione": "2026-10-06",
-   "scadenza": "2026-10-07",
-   "importo": "€ 1.229,50",
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "spettacol",
-    "CPV 92312100-2"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225015083",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225015083"
-    }
-   ],
-   "esito": false,
-   "cig": "BD45D541C9",
-   "cf": "01199250158",
-   "id": "7c473aa29c3d",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Laboratorio culturale per Chiaravalle UNESCO",
-   "pubblicazione": "2026-09-28",
-   "scadenza": "2026-10-09",
-   "importo": "€ 3.525,00",
-   "partecipanti": null,
-   "motivi": [
-    "CPV 79952100-3"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=224733944",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=224733944"
-    }
-   ],
-   "esito": false,
-   "cig": "BCF09CC90D",
-   "cf": "01199250158",
-   "id": "31f73c0a8f7a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Affidamento del servizio di lavanderia per i costumi teatrali da utilizzarsi in caso di realizzazione del corteo dei Magi del 06 gennaio 2027",
-   "pubblicazione": "2026-10-06",
-   "scadenza": "2026-10-12",
-   "importo": "€ 1.526,00",
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "affidamento"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225103767",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225103767"
-    }
-   ],
-   "esito": false,
-   "cig": "BD545F8CF0",
-   "cf": "01199250158",
-   "id": "848d4459bad8",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "EDUCAZIONE ALL'AFFETTIVITA' NEI CDD",
-   "pubblicazione": "2026-10-08",
-   "scadenza": "2026-10-12",
-   "importo": "€ 7.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "affettivita"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225135343",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225135343"
-    }
-   ],
-   "esito": false,
-   "cig": "BD1E4B8610",
-   "cf": "01199250158",
-   "id": "43ccf9aa9c89",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Affidamento dei servizi audio/video, nell’ambito dell’evento “Festival dei Beni Confiscati” 2026.",
-   "pubblicazione": "2026-10-13",
-   "scadenza": "2026-10-14",
-   "importo": "€ 1.460,00",
-   "partecipanti": null,
-   "motivi": [
-    "affidamento",
-    "CPV 92310000-7"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225359873",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225359873"
-    }
-   ],
-   "esito": false,
-   "cig": "BD5E39F63F",
-   "cf": "01199250158",
-   "id": "ac8272017b09",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Cineforum Chiesa Rossa",
-   "pubblicazione": "2026-10-12",
-   "scadenza": "2026-10-15",
-   "importo": "€ 639,34",
-   "partecipanti": null,
-   "motivi": [
-    "CPV 79952100-3"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225074282",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225074282"
-    }
-   ],
-   "esito": false,
-   "cig": "BD7106D19D",
-   "cf": "01199250158",
-   "id": "29d0ae58685b",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Realizzazione dell'iniziativa \"Natale a Villa Litta 2026\"",
-   "pubblicazione": "2026-10-13",
-   "scadenza": "2026-10-15",
-   "importo": "€ 26.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "CPV 92300000-4"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225354242",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225354242"
-    }
-   ],
-   "esito": false,
-   "cig": "BD623A2939",
-   "cf": "01199250158",
-   "id": "4a661ddc78fb",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Realizzazione di una iniziativa socio-aggregativa rivolta ai giovani in Bovisasca",
-   "pubblicazione": "2026-10-13",
-   "scadenza": "2026-10-15",
-   "importo": "€ 2.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "CPV 92300000-4"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225346484",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225346484"
-    }
-   ],
-   "esito": false,
-   "cig": "BD6215EA97",
-   "cf": "01199250158",
-   "id": "b9f548a6f7a5",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE DELL’INIZIATIVA NATALE AL PARCO TROTTER",
-   "pubblicazione": "2026-10-07",
-   "scadenza": "2026-10-20",
-   "importo": "€ 32.377,05",
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "CPV 92300000-4"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225154591",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225154591"
-    }
-   ],
-   "esito": false,
-   "cig": "BD45EDB472",
-   "cf": "01199250158",
-   "id": "142d63a20f7f",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Servizio di amplificazione audio/video, connettivita’, facchinaggio e maschere di sala in occasione della cerimonia per il conferimento delle Civiche Benemerenze  presso il Teatro dal Verme il 7 dicembre 2026",
-   "pubblicazione": "2026-10-15",
-   "scadenza": "2026-10-21",
-   "importo": "€ 3.850,00",
-   "partecipanti": null,
-   "motivi": [
-    "teatr"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225432448",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225432448"
-    }
-   ],
-   "esito": false,
-   "cig": "BD76A17FD6",
-   "cf": "01199250158",
-   "id": "cf761f999772",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Spettacoli nelle scuole dell’infanzia del Municipio 8",
-   "pubblicazione": "2026-10-20",
-   "scadenza": "2026-10-22",
-   "importo": "€ 11.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "spettacol"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225601138",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225601138"
-    }
-   ],
-   "esito": false,
-   "cig": "BCEB9B40A0",
-   "cf": "01199250158",
-   "id": "da17e1c463e5",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Rassegna artistica natalizia nelle Case di Quartiere del Municipio 8",
-   "pubblicazione": "2026-10-23",
-   "scadenza": "2026-10-27",
-   "importo": "€ 5.500,00",
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "natalizi"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225757837",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225757837"
-    }
-   ],
-   "esito": false,
-   "cig": "BD709FC0D1",
-   "cf": "01199250158",
-   "id": "d82cf322bada",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "AFFIDAMENTO DIRETTO EX ART. 50 C. 1 LETT. B) D.LGS 36/2023 CONCERTO RACCONTAMINA",
-   "pubblicazione": "2026-10-30",
-   "scadenza": "2026-11-02",
-   "importo": "€ 1.980,00",
-   "partecipanti": null,
-   "motivi": [
-    "concert",
-    "affidamento",
-    "CPV 92312240-5"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226011486",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226011486"
-    }
-   ],
-   "esito": true,
-   "cig": "BD766B0115",
-   "cf": "01199250158",
-   "id": "94d66c6063ba",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
+   "ente": "Comune di Brugherio",
    "tipo": "Biblioteca",
-   "titolo": "Rassegna artistica natalizia nelle biblioteche del Municipio 8",
-   "pubblicazione": "2026-10-23",
-   "scadenza": "2026-11-04",
-   "importo": "€ 5.500,00",
+   "titolo": "SERVIZIO DI STAMPA MATERIALE INFORMATIVO PER GLI EVENTI DELLA BIBLIOTECA CIVICA IN PROGRAMMA NEI MESI DI NOVEMBRE E DICEMBRE 2026",
+   "pubblicazione": "2026-10-16",
+   "scadenza": "2026-10-20",
+   "importo": "€ 455,00",
    "partecipanti": null,
    "motivi": [
-    "rassegn",
-    "natalizi"
+    "bibliotec"
    ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225760162",
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225471306",
    "fonti": [
     {
      "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225760162"
+     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225471306"
     }
    ],
    "esito": false,
-   "cig": "BD70998E47",
-   "cf": "01199250158",
-   "id": "226d086cd1e7",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Pacchi Natale 2026",
-   "pubblicazione": "2026-11-04",
-   "scadenza": "2026-11-06",
-   "importo": "€ 10.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "natale"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226206581",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226206581"
-    }
-   ],
-   "esito": false,
-   "cig": "BDA74FA1D0",
-   "cf": "01199250158",
-   "id": "5f59ed7e26d9",
+   "cig": "BD70598143",
+   "cf": "03243880154",
+   "id": "863f16b3528a",
    "nuovo": false
   },
   {
@@ -389,6 +46,9 @@
    "motivi": [
     "spettacol",
     "CPV 79952100-3"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225602554",
    "fonti": [
@@ -414,6 +74,9 @@
    "motivi": [
     "affidamento",
     "CPV 92330000-3"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225723654",
    "fonti": [
@@ -442,6 +105,9 @@
     "affidamento",
     "CPV 92312000-1"
    ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226134023",
    "fonti": [
     {
@@ -468,6 +134,9 @@
     "affidamento",
     "CPV 92312120-8"
    ],
+   "temi": [
+    "Estate e musica"
+   ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226225920",
    "fonti": [
     {
@@ -482,30 +151,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Realizzazione di iniziaitve natalizie nel quartiere Affori 2026",
-   "pubblicazione": "2026-11-10",
-   "scadenza": "2026-11-16",
-   "importo": "€ 2.300,00",
-   "partecipanti": null,
-   "motivi": [
-    "natalizi"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226426770",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226426770"
-    }
-   ],
-   "esito": false,
-   "cig": "BDD2FD7A2E",
-   "cf": "01199250158",
-   "id": "bf62b8c69e41",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Villasanta",
    "tipo": "Comune",
    "titolo": "SERVIZI DI INTRATTENIMENTO E ALLESTIMENTO PER LA FESTA DI NATALE",
@@ -516,6 +161,10 @@
    "motivi": [
     "intrattenimento",
     "natale"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
    ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226564531",
    "fonti": [
@@ -531,30 +180,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "Natale nei cortili",
-   "pubblicazione": "2026-11-19",
-   "scadenza": "2026-11-24",
-   "importo": "€ 4.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "natale"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226825994",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226825994"
-    }
-   ],
-   "esito": false,
-   "cig": "BDCE046129",
-   "cf": "01199250158",
-   "id": "dade99f5dfc0",
-   "nuovo": false
-  },
-  {
    "ente": "ENRICO TOTI (Lentate Sul Seveso)",
    "tipo": "Scuola",
    "titolo": "Decreto graduatorie definitive Agenda Nord esperti, tutor e supporto",
@@ -563,8 +188,11 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "dispersione scolastica",
-    "ptof"
+    "ptof",
+    "dispersione scolastica"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
    ],
    "link": "https://www.iclentate.edu.it/albo-pretorio/decreto-graduatorie-definitive-agenda-nord-esperti-tutor-e-supporto",
    "fonti": [
@@ -580,31 +208,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1 LETT. B) D.LGS 36/2023 LA CHIMERA",
-   "pubblicazione": "2026-11-24",
-   "scadenza": "2026-11-27",
-   "importo": "€ 2.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "affidamento",
-    "CPV 92312000-1"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227040625",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227040625"
-    }
-   ],
-   "esito": true,
-   "cig": "BDE89FAE49",
-   "cf": "01199250158",
-   "id": "273f0b1c432d",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Brugherio",
    "tipo": "Comune",
    "titolo": "SERVIZIO DI REALIZZAZIONE DEL PROGETTO DI TEATRO SOCIALE MACEDONIA DI FURTI",
@@ -615,12 +218,10 @@
    "motivi": [
     "teatr",
     "CPV 79952100-3",
-    "spettacol",
-    "natale",
-    "concert",
-    "CPV 92312100-2",
-    "CPV 92312000-1",
-    "CPV 92330000-3"
+    "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227022251",
    "fonti": [
@@ -631,110 +232,6 @@
     {
      "nome": "Sintel",
      "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227021289"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226602171"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225023544"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225099208"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225040469"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226436612"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225550213"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226623938"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226600249"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225377809"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226936475"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225616910"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225943544"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225472828"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226938757"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225935498"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226603934"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226600906"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226615928"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226601421"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226602794"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226538378"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226607619"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225034738"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=224967813"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225136321"
-    },
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=225717614"
     }
    ],
    "esito": false,
@@ -752,12 +249,18 @@
    "importo": "€ 510,90",
    "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
    "motivi": [
+    "esperti esterni",
+    "ptof",
     "bullismo",
     "cyberbullismo",
     "musical",
-    "esperti esterni",
-    "ptof",
+    "musicale",
     "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici",
+    "Estate e musica"
    ],
    "link": "https://www.iclentate.edu.it/albo-pretorio/avviso-il-reclutamento-di-esperti-interni-esterni-da-impiegare-nella-realizzazione",
    "fonti": [
@@ -781,12 +284,18 @@
    "importo": "€ 510,90",
    "partecipanti": null,
    "motivi": [
+    "esperti esterni",
+    "ptof",
     "bullismo",
     "cyberbullismo",
     "musical",
-    "esperti esterni",
-    "ptof",
+    "musicale",
     "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Legalita e temi civici",
+    "Estate e musica"
    ],
    "link": "https://www.iclentate.edu.it/albo-pretorio/decreto-di-avvio-avviso-il-reclutamento-di-esperti-interni-esterni-da-impiegare-nella",
    "fonti": [
@@ -802,31 +311,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Milano (Municipi 1-9)",
-   "tipo": "Comune",
-   "titolo": "AFFIDAMENTO DEL SERVIZIO PER LA CONDUZIONE DI ATTIVITÀ  RICREATIVE, CULTURALI E DEL TEMPO LIBERO PRESSO IL POLO FERRARA",
-   "pubblicazione": "2026-11-23",
-   "scadenza": "2026-12-10",
-   "importo": "€ 211.147,54",
-   "partecipanti": null,
-   "motivi": [
-    "affidamento",
-    "CPV 92300000-4"
-   ],
-   "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226977401",
-   "fonti": [
-    {
-     "nome": "Sintel",
-     "link": "http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=226977401"
-    }
-   ],
-   "esito": false,
-   "cig": "BD62E6F2FB",
-   "cf": "01199250158",
-   "id": "3f049301876f",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Meda",
    "tipo": "Comune",
    "titolo": "Nuovo avviso FNA2026/2027 Graduatorie Misura Sostegno e Misura Servizi (ex misura B2) - DGR 6320/2026",
@@ -837,6 +321,10 @@
    "motivi": [
     "animazione",
     "natale"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Natale"
    ],
    "link": "https://www.comune.meda.mb.it/novita/",
    "fonti": [
@@ -852,58 +340,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Meda",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'assegnazione di contributi comunali alle famiglie per agevolazioni in riferimento ai costi dei servizi educativi per la prima infanzia 0-3. Anno 2026/2027",
-   "pubblicazione": "2026-11-25",
-   "scadenza": "2026-12-21",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "animazione",
-    "natale",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "link": "https://www.comune.meda.mb.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.meda.mb.it",
-     "link": "https://www.comune.meda.mb.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "01745100154",
-   "id": "581aef5a4ba3",
-   "nuovo": false
-  },
-  {
-   "ente": "ENRICO TOTI (Lentate Sul Seveso)",
-   "tipo": "Scuola",
-   "titolo": "DECRETO INCARICO FIGURE PROFESSIONALI INTERNE ESPERTI, TUTOR,SUPPORTO AGENDA NORD",
-   "pubblicazione": "2026-11-10",
-   "scadenza": "2027-08-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "dispersione scolastica",
-    "ptof"
-   ],
-   "link": "https://www.iclentate.edu.it/albo-pretorio/decreto-incarico-figure-professionali-interne-esperti-tutorsupporto-agenda-nord",
-   "fonti": [
-    {
-     "nome": "sito iclentate.edu.it",
-     "link": "https://www.iclentate.edu.it/albo-pretorio/decreto-incarico-figure-professionali-interne-esperti-tutorsupporto-agenda-nord"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "91128650156",
-   "id": "65825099c861",
-   "nuovo": false
-  },
-  {
    "ente": "ENRICO TOTI (Lentate Sul Seveso)",
    "tipo": "Scuola",
    "titolo": "Lettera di incarico supporto Agenda Nord",
@@ -912,8 +348,11 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "dispersione scolastica",
-    "ptof"
+    "ptof",
+    "dispersione scolastica"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
    ],
    "link": "https://www.iclentate.edu.it/albo-pretorio/lettera-di-incarico-supporto-agenda-nord",
    "fonti": [
@@ -929,33 +368,6 @@
    "nuovo": false
   },
   {
-   "ente": "LICEO STATALE MARIE CURIE (Meda)",
-   "tipo": "Scuola",
-   "titolo": "Il diritto alla protezione dei dati personali è un diritto fondamentale dell’individuo tutelato dal Codice in materia di protezione dei dati personali (decreto legislativo 20 giugno 2003, n. 196), oltre che da vari altri atti normativi italiani e […]",
-   "pubblicazione": null,
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bullismo",
-    "cyberbullismo",
-    "educazione digitale",
-    "inclusione"
-   ],
-   "link": "https://liceomeda.edu.it/informativa-privacy/",
-   "fonti": [
-    {
-     "nome": "sito liceomeda.edu.it",
-     "link": "https://liceomeda.edu.it/informativa-privacy/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83008560159",
-   "id": "1102b737cb09",
-   "nuovo": false
-  },
-  {
    "ente": "F.LLI CERVI (Limbiate)",
    "tipo": "Scuola",
    "titolo": "Nomina dirigenziale relativa alle attività di direzione e coordinamento per l’attuazione del progetto Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 –Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.6, Azione ESO4.6.A4 ",
@@ -964,11 +376,16 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate",
-    "inclusione",
     "piano estate",
+    "inclusione",
+    "estate",
+    "estiv",
     "avviso pubblico",
     "fse"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=393",
    "fonti": [
@@ -984,6 +401,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Brugherio",
+   "tipo": "Biblioteca",
+   "titolo": "Bando per il volontariato presso la Biblioteca Civica",
+   "pubblicazione": "2026-10-14",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://www.comune.brugherio.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.brugherio.mb.it",
+     "link": "https://www.comune.brugherio.mb.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "03243880154",
+   "id": "e5cd8da19883",
+   "nuovo": false
+  },
+  {
    "ente": "F.LLI CERVI (Limbiate)",
    "tipo": "Scuola",
    "titolo": "Avviso di selezione esterno per il reclutamento di un esperto esterno per il PROGETTO MUSICA nella scuola primaria - a. s. 2026/2027",
@@ -995,6 +439,9 @@
     "esperto esterno",
     "selezione",
     "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
    ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=399",
    "fonti": [
@@ -1020,6 +467,9 @@
    "motivi": [
     "estate"
    ],
+   "temi": [
+    "Estate e musica"
+   ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=400",
    "fonti": [
     {
@@ -1034,6 +484,62 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Desio",
+   "tipo": "Comune",
+   "titolo": "Sponsorizzazione eventi culturali autunno/inverno 2026: l'avviso per le imprese prorogato al 30 ottobre",
+   "pubblicazione": "2026-10-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "eventi culturali"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://www.comune.desio.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.desio.mb.it",
+     "link": "https://www.comune.desio.mb.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00834770158",
+   "id": "43964ad3c358",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Concorezzo",
+   "tipo": "Comune",
+   "titolo": "Contributo economico per la compartecipazione al costo di iscrizione di minori ai centri estivi - Graduatoria assegnanzioni",
+   "pubblicazione": "2026-10-28",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "centri estivi",
+    "estiv"
+   ],
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.concorezzo.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.concorezzo.mb.it",
+     "link": "https://www.comune.concorezzo.mb.it/it/news?type=3"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "03032720157",
+   "id": "494bc637b965",
+   "nuovo": false
+  },
+  {
    "ente": "F.LLI CERVI (Limbiate)",
    "tipo": "Scuola",
    "titolo": "FIRMATO_timbro_Decreto pubblicazione graduatorie provvisorie Esperto PN estate",
@@ -1043,6 +549,9 @@
    "partecipanti": null,
    "motivi": [
     "estate"
+   ],
+   "temi": [
+    "Estate e musica"
    ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=409",
    "fonti": [
@@ -1067,6 +576,9 @@
    "partecipanti": null,
    "motivi": [
     "estate"
+   ],
+   "temi": [
+    "Estate e musica"
    ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=408",
    "fonti": [
@@ -1093,6 +605,9 @@
     "estate",
     "selezione"
    ],
+   "temi": [
+    "Estate e musica"
+   ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=407",
    "fonti": [
     {
@@ -1115,9 +630,13 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate",
     "piano estate",
+    "estate",
     "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/15815/documento/MBIC8EY00R/1",
    "fonti": [
@@ -1145,6 +664,9 @@
     "selezione",
     "reclutamento"
    ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=410",
    "fonti": [
     {
@@ -1160,6 +682,33 @@
   },
   {
    "ente": "Comune di Biassono",
+   "tipo": "Biblioteca",
+   "titolo": "DETERMINA N.818 DEL 09/11/2026 - SETTORE SERVIZI AL CITTADINO: ACQUISTO BORSE PER CONSEGNA LIBRI BIBLIOTECA COMUNALE IMPEGNO DI SPESA CIG BDB5A173CC",
+   "pubblicazione": "2026-11-09",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://servizionline.biassono.org/cmsbiassono/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.biassono.org",
+     "link": "https://servizionline.biassono.org/cmsbiassono/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": "BDB5A173CC",
+   "cf": "02336340159",
+   "id": "35327de5f5f6",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Biassono",
    "tipo": "Comune",
    "titolo": "DETERMINA N.816 DEL 09/11/2026 - SETTORE SERVIZI AL CITTADINO: SPETTACOLO TEATRALE IN OCCASIONE DELLA GIORNATA INTERNAZIONALE PER L’ELIMINAZIONE DELLA VIOLENZA CONTRO LE DONNE IMPEGNO DI SPESA CIG BDB56284CB",
    "pubblicazione": "2026-11-09",
@@ -1169,6 +718,9 @@
    "motivi": [
     "teatr",
     "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://servizionline.biassono.org/cmsbiassono/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
    "fonti": [
@@ -1195,6 +747,9 @@
     "estate",
     "fse"
    ],
+   "temi": [
+    "Estate e musica"
+   ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=414",
    "fonti": [
     {
@@ -1220,6 +775,9 @@
     "estate",
     "fse"
    ],
+   "temi": [
+    "Estate e musica"
+   ],
    "link": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=413",
    "fonti": [
     {
@@ -1231,6 +789,91 @@
    "cig": null,
    "cf": "91132080150",
    "id": "056a8c6b7d4e",
+   "nuovo": false
+  },
+  {
+   "ente": "II VIA STELVIO (Cesano Maderno)",
+   "tipo": "Scuola",
+   "titolo": "Servizio di consulenza gratuito per le famiglie offerto dal Centro Psico Pedagogico Bracco, CPP – Cesano Maderno",
+   "pubblicazione": "2026-11-10",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "per le famiglie"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://ic2viastelvio.edu.it/notizie/1027-servizio-di-consulenza-gratuito-per-le-famiglie-offerto-dal-centro-psico-pedagogico-bracco-cpp-cesano-maderno",
+   "fonti": [
+    {
+     "nome": "sito ic2viastelvio.edu.it",
+     "link": "https://ic2viastelvio.edu.it/notizie/1027-servizio-di-consulenza-gratuito-per-le-famiglie-offerto-dal-centro-psico-pedagogico-bracco-cpp-cesano-maderno"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "83011530157",
+   "id": "631e43d22e99",
+   "nuovo": false
+  },
+  {
+   "ente": "IC A. NEGRI/CAVENAGO B. (Cavenago Di Brianza)",
+   "tipo": "Scuola",
+   "titolo": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA per il conferimento di incarichi di ESPERTO e TUTOR nell’ambito dei Percorsi di formazione del personale docente – Decreto del Ministro dell’Istruzione e del Merito 6 marzo 2026, n. 38 – Programma Nazionale “Scuola e competenze” 2021-2027 – Fondo Sociale Euro",
+   "pubblicazione": "2026-11-10",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "formazione del personale",
+    "avviso pubblico",
+    "selezione",
+    "fse"
+   ],
+   "temi": [
+    "Formazione e team building"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0182/6fldr55avl",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0182/6fldr55avl"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "94030920154",
+   "id": "8a6d2d4a266c",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Bellusco",
+   "tipo": "Biblioteca",
+   "titolo": "Programmazione Biblioteca - Avviso pubblico per la raccolta di proposte",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "avviso pubblico"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://www.comune.bellusco.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.bellusco.mb.it",
+     "link": "https://www.comune.bellusco.mb.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "03352640159",
+   "id": "d4b16e7bd6d4",
    "nuovo": false
   },
   {
@@ -1246,6 +889,9 @@
     "spettacol",
     "affidamento"
    ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
    "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-laffidamento-diretto-riguardante-n1-spettacolo-teatrale-in-lingua-spagnola-per-gli-alunni-delle-classi-seconde-del-plesso-anna-frank-dellic-a/",
    "fonti": [
     {
@@ -1260,27 +906,33 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Triuggio",
+   "ente": "Comune di Seveso",
    "tipo": "Comune",
-   "titolo": "DETERMINA N.491 DEL 16/11/2026 - SETTORE SOCIO EDUCATIVO: IMPEGNO DI SPESA PER DIRITTI SIAE PER SPETTACOO TEATRALE IMPOSTORA DEL 25.11.2026 ESENTE CIG",
+   "titolo": "Contributi centri estivi 2026, le graduatorie provvisorie",
    "pubblicazione": "2026-11-16",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr"
+    "centri estivi",
+    "estiv",
+    "contributi"
    ],
-   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "temi": [
+    "Infanzia e famiglie",
+    "Estate e musica"
+   ],
+   "link": "https://www.comune.seveso.mb.it/it/news?type=3",
    "fonti": [
     {
-     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
-     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+     "nome": "sito comune.seveso.mb.it",
+     "link": "https://www.comune.seveso.mb.it/it/news?type=3"
     }
    ],
    "esito": true,
    "cig": null,
-   "cf": "83007340157",
-   "id": "602892b513ff",
+   "cf": "01650780156",
+   "id": "3420c2265835",
    "nuovo": false
   },
   {
@@ -1293,6 +945,9 @@
    "partecipanti": null,
    "motivi": [
     "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
    ],
    "link": "https://servizionline.comune.villasanta.mb.it/cmsvillasanta/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
    "fonti": [
@@ -1308,6 +963,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Villasanta",
+   "tipo": "Comune",
+   "titolo": "Delibera: Giunta Comunale N.187 DEL 16/11/2026: CONTRIBUTO ANNUALE ALLA PARROCCHIA DI VILLASANTA PER LA FUNZIONE EDUCATIVA E SOCIALE SVOLTA DAGLI ORATORI- DEFINIZIONE DELL'IMPORTO CORRISPONDENTE A CIASCUN MINORE ISCRITTO ALLE ATTIVITA ESTIVE- ANNO 2026.",
+   "pubblicazione": "2026-11-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "estiv"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://servizionline.comune.villasanta.mb.it/cmsvillasanta/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.comune.villasanta.mb.it",
+     "link": "https://servizionline.comune.villasanta.mb.it/cmsvillasanta/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "03245720150",
+   "id": "0e70574d1244",
+   "nuovo": false
+  },
+  {
    "ente": "MARGHERITA HACK (Nova Milanese)",
    "tipo": "Scuola",
    "titolo": "DETERMINA DI AGGIUDICAZIONE INCARICO DI ESPERTO ESTERNO PER PROGETTO TEATRO PER LE CLASSI QUARTE SCUOLA PRIMARIA A.S. 2026/2027",
@@ -1318,6 +1000,10 @@
    "motivi": [
     "teatr",
     "esperto esterno"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole"
    ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0258/4ftklgmftk",
    "fonti": [
@@ -1333,6 +1019,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Triuggio",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.491 DEL 16/11/2026 - SETTORE SOCIO EDUCATIVO: IMPEGNO DI SPESA PER DIRITTI SIAE PER SPETTACOO TEATRALE IMPOSTORA DEL 25.11.2026 ESENTE CIG",
+   "pubblicazione": "2026-11-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "83007340157",
+   "id": "602892b513ff",
+   "nuovo": false
+  },
+  {
    "ente": "IC A.DIAZ-MEDA",
    "tipo": "Scuola",
    "titolo": "Decisione a contrarre per affidamento diretto tramite PCP all’ASSOCIAZIONE LOFFICINA DEL PLANETARIO per acquisto dei biglietti relativi alla partecipazione dello spettacolo “STELLE E CO” per l’u.d. delle classi quinte scuola primaria dell’I.C. “A. DIAZ” il giorno 16 Dicembre 2026",
@@ -1343,6 +1056,9 @@
    "motivi": [
     "spettacol",
     "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-affidamento-diretto-tramite-pcp-allassociazione-lofficina-del-planetario-per-acquisto-dei-biglietti-relativi-alla-partecipazione-dello-spettacolo-stelle-e-c/",
    "fonti": [
@@ -1358,6 +1074,34 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Sovico",
+   "tipo": "Biblioteca",
+   "titolo": "GARA EUROPEA A PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI GESTIONE DELLA BIBLIOTECA CIVICA “S. QUASIMODO” DEL COMUNE DI SOVICO (MB) CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO",
+   "pubblicazione": "2026-11-16",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://pubblicitalegale.anticorruzione.it/bandi/053f6a56-d775-48d1-b37f-8f1828cf7707",
+   "fonti": [
+    {
+     "nome": "ANAC",
+     "link": "https://pubblicitalegale.anticorruzione.it/bandi/053f6a56-d775-48d1-b37f-8f1828cf7707"
+    }
+   ],
+   "esito": false,
+   "cig": "BC9AE084C1",
+   "cf": "00866640154",
+   "id": "09383e98b50a",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Triuggio",
    "tipo": "Comune",
    "titolo": "DETERMINA N.494 DEL 17/11/2026 - SETTORE SOCIO EDUCATIVO: IMPEGNO DI SPESA PER ESECUZIONE DELLO SPETTACOLO TEATRALE IMPOSTORA IN OCCASIONE DELLA GIORNATA INTERNAZIONALE PER L'ELIMINAZIONE DELLA VIOLENZA SULLE DONNE CIG BDC91E2086",
@@ -1368,6 +1112,9 @@
    "motivi": [
     "teatr",
     "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
    "fonti": [
@@ -1383,6 +1130,34 @@
    "nuovo": false
   },
   {
+   "ente": "IC A.DIAZ-MEDA",
+   "tipo": "Scuola",
+   "titolo": "Decisione a contrarre per affidamento diretto in PCP alla ditta Bar Movida di Andrea Falcone per servizio catering serata evento di internazionalizzazione",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": "€ 330,00",
+   "partecipanti": null,
+   "motivi": [
+    "falcone",
+    "affidamento"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-affidamento-diretto-in-pcp-alla-ditta-bar-movida-di-andrea-falcone-per-servizio-catering-serata-evento-di-internazionalizzazione-2/",
+   "fonti": [
+    {
+     "nome": "sito icdiazmeda.edu.it",
+     "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-affidamento-diretto-in-pcp-alla-ditta-bar-movida-di-andrea-falcone-per-servizio-catering-serata-evento-di-internazionalizzazione-2/"
+    }
+   ],
+   "esito": true,
+   "cig": "BDD3185D06",
+   "cf": "91074020156",
+   "id": "ffefd58c4fa2",
+   "nuovo": false
+  },
+  {
    "ente": "PRIMO LEVI (Seregno)",
    "tipo": "Scuola",
    "titolo": "Decreto pubblicazione graduatoria provvisoria istanze Esperto Sci Piano Estate 2026",
@@ -1391,8 +1166,12 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate",
-    "piano estate"
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0081/m7ei2clq1i",
    "fonti": [
@@ -1408,6 +1187,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Carate Brianza",
+   "tipo": "Comune",
+   "titolo": "Proroga - Ricerca di sponsor a sostegno delle iniziative legate al Progetto “Carate On Ice-Magie di Natale 2026”",
+   "pubblicazione": "2026-11-18",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.caratebrianza.mb.it",
+     "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "01495680157",
+   "id": "9c369aec4a5a",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Bernareggio",
    "tipo": "Comune",
    "titolo": "LIQUIDAZIONE DEL CONTRIBUTO STRAORDINARIO A FAVORE DI ASSOCIAZIONE CULTURALE DELLEALI ETS PER LA REALIZZAZIONE DELLO SPETTACOLO \"LA BOTTEGA DELL'ARIA\"",
@@ -1417,6 +1223,9 @@
    "partecipanti": null,
    "motivi": [
     "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10650271",
    "fonti": [
@@ -1443,6 +1252,9 @@
     "natale",
     "patrocinio"
    ],
+   "temi": [
+    "Natale"
+   ],
    "link": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10647451",
    "fonti": [
     {
@@ -1457,30 +1269,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Carate Brianza",
-   "tipo": "Comune",
-   "titolo": "Proroga - Ricerca di sponsor a sostegno delle iniziative legate al Progetto “Carate On Ice-Magie di Natale 2026”",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale"
-   ],
-   "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3",
-   "fonti": [
-    {
-     "nome": "sito comune.caratebrianza.mb.it",
-     "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "01495680157",
-   "id": "9c369aec4a5a",
-   "nuovo": false
-  },
-  {
    "ente": "IC BAGATTI VALSECCHI/VAREDO",
    "tipo": "Scuola",
    "titolo": "DECISIONE A CONTRARRE PER USCITA DIDATTICA AL TEATRO VERDI DEL 24/11/2026 CL.2^C - 2^D SC. SECONDARIA #135/2026",
@@ -1490,6 +1278,9 @@
    "partecipanti": null,
    "motivi": [
     "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://www.portaleargo.it/albopretorio/online/#/SC15175/atti",
    "fonti": [
@@ -1515,6 +1306,9 @@
    "motivi": [
     "teatr",
     "spettacol"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/880/documento/MBIS06200Q",
    "fonti": [
@@ -1543,6 +1337,10 @@
     "natale",
     "affidamento"
    ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
    "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-affidamento-diretto-tramite-pcp-allimpresa-la-danza-immobile-srl-impresa-sociale-ets-per-acquisto-dei-biglietti-relativi-alla-partecipazione-dello-spettacolo-teatral/",
    "fonti": [
     {
@@ -1568,6 +1366,9 @@
     "natale",
     "patrocinio"
    ],
+   "temi": [
+    "Natale"
+   ],
    "link": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10654457",
    "fonti": [
     {
@@ -1582,27 +1383,63 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Giussano",
+   "ente": "Comune di Renate",
    "tipo": "Comune",
-   "titolo": "REALIZZAZIONE INTERVENTI ESTIVI IN FAVORE DI MINORI CON DISABILITA’ O IN CONDIZIONI DI FRAGILITA’ - IMPEGNO DI SPESA ESTATE 2026.",
+   "titolo": "AFFIDAMENTO DIRETTO ALLA PROF.SSA ELISABETTA SANGALLI PER LA REALIZZAZIONE DELLA SERATA STORICO-LETTERARIA “LA MONACA DI MONZA. I MILLE VOLTI DELLA VIOLENZA FEMMINILE” IN OCCASIONE DELLA GIORNATA INTERNAZIONALE PER L’ELIMINAZIONE DELLA VIOLENZA CONTRO LE DONNE – IMPEGNO DI SPESA. CIG BCA29CB664.",
    "pubblicazione": "2026-11-20",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate"
+    "educazione civica",
+    "bibliotec",
+    "affidamento"
    ],
-   "link": "https://albo.comune.giussano.mb.it/web/trasparenza/albo-pretorio/-/papca/display/10656837",
+   "temi": [
+    "Legalita e temi civici",
+    "Lettura e biblioteche"
+   ],
+   "link": "https://renate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10654577",
    "fonti": [
     {
-     "nome": "sito albo.comune.giussano.mb.it",
-     "link": "https://albo.comune.giussano.mb.it/web/trasparenza/albo-pretorio/-/papca/display/10656837"
+     "nome": "sito renate.trasparenza-valutazione-merito.it",
+     "link": "https://renate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10654577"
     }
    ],
    "esito": true,
+   "cig": "BCA29CB664",
+   "cf": "83003560154",
+   "id": "fa0fa4d51350",
+   "nuovo": false
+  },
+  {
+   "ente": "ENZO BONTEMPI (Agrate Brianza)",
+   "tipo": "Scuola",
+   "titolo": "AVVISO SELEZIONE ESPERTO PROGETTO PLAY WITH ENGLISH",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "ptof",
+    "scuola dell'infanzia",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Infanzia e famiglie"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/15988/documento/MBIC8EY00R",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/15988/documento/MBIC8EY00R"
+    }
+   ],
+   "esito": false,
    "cig": null,
-   "cf": "01063800153",
-   "id": "580003d1b19a",
+   "cf": "87005370157",
+   "id": "59d539790411",
    "nuovo": false
   },
   {
@@ -1617,6 +1454,10 @@
     "teatr",
     "laboratorio teatrale",
     "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Laboratori nelle scuole"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/15969/documento/MBIC8EY00R",
    "fonti": [
@@ -1646,6 +1487,9 @@
    "motivi": [
     "teatr",
     "selezione"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/15952/documento/MBIC8EY00R",
    "fonti": [
@@ -1677,6 +1521,9 @@
     "spettacol",
     "affidamento"
    ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0182/5l60siscjp",
    "fonti": [
     {
@@ -1699,9 +1546,13 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate",
     "piano estate",
+    "estate",
     "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/904/documento/MBIS06200Q",
    "fonti": [
@@ -1729,6 +1580,9 @@
     "bullismo",
     "cyberbullismo"
    ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/900/documento/MBIS06200Q",
    "fonti": [
     {
@@ -1743,27 +1597,58 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Giussano",
+   "ente": "Comune di Biassono",
    "tipo": "Comune",
-   "titolo": "APPROVAZIONE SCHEMA DI CONVENZIONE TRA IL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI E IL COMUNE DI GIUSSANO PER L'ACCESSO E LA GESTIONE DELLA PIATTAFORMA GEPI, FINALIZZATA ALL'ATTUAZIONE DELL'ASSEGNO DI INCLUSIONE (ADI) E DEL SUPPORTO PER LA FORMAZIONE E IL LAVORO (SFL). PERIODO 2026-2029.",
+   "titolo": "DETERMINA N.864 DEL 23/11/2026 - SETTORE SERVIZI SOCIALI: IMPEGNO DI SPESA PER LA PRIMA RATA DEL CONTRIBUTO DI CUI ALLE VIGENTI CONVENZIONI A FAVORE DELLE SCUOLE DELL'INFANZIA PARITARIE BIASSONESI PER L’ANNO SCOLASTICO 2026/2027.",
    "pubblicazione": "2026-11-23",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "inclusione"
+    "scuole dell'infanzia"
    ],
-   "link": "https://albo.comune.giussano.mb.it/web/trasparenza/albo-pretorio/-/papca/display/10658764",
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://servizionline.biassono.org/cmsbiassono/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
    "fonti": [
     {
-     "nome": "sito albo.comune.giussano.mb.it",
-     "link": "https://albo.comune.giussano.mb.it/web/trasparenza/albo-pretorio/-/papca/display/10658764"
+     "nome": "sito servizionline.biassono.org",
+     "link": "https://servizionline.biassono.org/cmsbiassono/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "02336340159",
+   "id": "264eb199e913",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Carate Brianza",
+   "tipo": "Biblioteca",
+   "titolo": "Avviso pubblico per l’individuazione di un coordinatore a titolo gratuito di eventi di presentazione di libri e di gruppi di lettura presso la biblioteca civica nel periodo gennaio 2027 – maggio 2028.",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "avviso pubblico"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.caratebrianza.mb.it",
+     "link": "https://www.comune.caratebrianza.mb.it/it/news?type=3"
     }
    ],
    "esito": false,
    "cig": null,
-   "cf": "01063800153",
-   "id": "d801ab0d41ce",
+   "cf": "01495680157",
+   "id": "ce1cdd62b784",
    "nuovo": false
   },
   {
@@ -1777,6 +1662,9 @@
    "motivi": [
     "spettacol",
     "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
    ],
    "link": "https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10660916",
    "fonti": [
@@ -1792,6 +1680,33 @@
    "nuovo": false
   },
   {
+   "ente": "IC CESARE BATTISTI COGLIATE",
+   "tipo": "Scuola",
+   "titolo": "Decreto_Nomina docenti_Uscita sul territorio presso la Biblioteca Comunale – Laboratorio \"Storie che bussano alla porta\" - Classi 1A-1B- 1C Scuola primaria \"Cesare battisti\" Cogliate",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/7625/documento/MBIC86600V",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/7625/documento/MBIC86600V"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "91074000158",
+   "id": "26cfc8496b24",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Monza",
    "tipo": "Comune",
    "titolo": "APPROVAZIONE PROGETTO DI CONFCOMMERCIO E AS.COM PER L'ILLUMINAZIONE DI ALCUNE VIE CITTADINE E REALIZZAZIONE DI EVENTI IN OCCASIONE DELLE FESTIVITÀ NATALIZIE 2026. CONTRIBUTO DIRETTO",
@@ -1800,7 +1715,11 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "natalizi"
+    "natalizi",
+    "natalizie"
+   ],
+   "temi": [
+    "Natale"
    ],
    "link": "https://monza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/868998",
    "fonti": [
@@ -1816,30 +1735,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Triuggio",
-   "tipo": "Comune",
-   "titolo": "DETERMINA N.509 DEL 25/11/2026 - SETTORE SOCIO EDUCATIVO: MANIFESTAZIONE INTERESSE PER ALLESTIMENTO SERVIZIO BAR E GUARDAROBA IN OCCASIONE DELLA FESTA DI NATALE 2026",
-   "pubblicazione": "2026-11-25",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale"
-   ],
-   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
-   "fonti": [
-    {
-     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
-     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83007340157",
-   "id": "688e2de95c14",
-   "nuovo": false
-  },
-  {
    "ente": "MANZONI (Vimercate)",
    "tipo": "Scuola",
    "titolo": "AVVISO PUBBLICO PER CONFERIMENTO DI INCARICO DI ESPERTO ESTERNO PERSONE FISICHE PER LA PROGETTUALITA’ - A.S. 2026-27",
@@ -1850,6 +1745,9 @@
    "motivi": [
     "esperto esterno",
     "avviso pubblico"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
    ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0267/ilc6cuavg1",
    "fonti": [
@@ -1875,6 +1773,9 @@
    "motivi": [
     "esperto esterno"
    ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0267/640igtfq3m",
    "fonti": [
     {
@@ -1899,6 +1800,9 @@
    "motivi": [
     "ptof"
    ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0182/1aiums8qec",
    "fonti": [
     {
@@ -1913,6 +1817,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Triuggio",
+   "tipo": "Comune",
+   "titolo": "DETERMINA N.509 DEL 25/11/2026 - SETTORE SOCIO EDUCATIVO: MANIFESTAZIONE INTERESSE PER ALLESTIMENTO SERVIZIO BAR E GUARDAROBA IN OCCASIONE DELLA FESTA DI NATALE 2026",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natale"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
+   "fonti": [
+    {
+     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
+     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "83007340157",
+   "id": "688e2de95c14",
+   "nuovo": false
+  },
+  {
    "ente": "PRIMO LEVI (Seregno)",
    "tipo": "Scuola",
    "titolo": "Decreto pubblicazione graduatoria definitiva Esperto Sci Piano Estate 2026",
@@ -1921,8 +1852,12 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "estate",
-    "piano estate"
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0081/8lv7qekkmb",
    "fonti": [
@@ -1949,6 +1884,9 @@
     "spettacol",
     "affidamento"
    ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
    "link": "https://web.spaggiari.eu/sdg2/Documenti/MIII0059/76isl9fbib",
    "fonti": [
     {
@@ -1974,6 +1912,9 @@
     "esperti esterni",
     "affidamento"
    ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
    "link": "https://icdiazmeda.edu.it/avcp/decisione-a-contrarre-per-affidamento-diretto-alla-ditta-poste-italiane-s-p-a-per-spese-postali-mese-di-novembre-2025/",
    "fonti": [
     {
@@ -1985,6 +1926,33 @@
    "cig": "ZDF013B8BB",
    "cf": "91074020156",
    "id": "0bc3e03eff79",
+   "nuovo": false
+  },
+  {
+   "ente": "I. C. GIOVANNI XXIII (Besana In Brianza)",
+   "tipo": "Scuola",
+   "titolo": "AVVISO: PRESENTAZIONE SCUOLA DELL'INFANZIA \"PIERO E LUCILLE CORTI\" 14/01/2027",
+   "pubblicazione": "2027-01-14",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://www.icbesanainbrianza.edu.it/?p=36934&preview=true&aiEnableCheckShortcode=true",
+   "fonti": [
+    {
+     "nome": "sito icbesanainbrianza.edu.it",
+     "link": "https://www.icbesanainbrianza.edu.it/?p=36934&preview=true&aiEnableCheckShortcode=true"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "83009720158",
+   "id": "a96e93113682",
    "nuovo": false
   }
  ],
@@ -2013,44 +1981,15 @@
     "secondi": 0
    },
    {
-    "nome": "Biblioteca civica Aldo Moro",
-    "tipo": "Biblioteca",
-    "sito": "",
+    "nome": "Comune di Agrate Brianza",
+    "tipo": "Comune",
+    "sito": "http://www.comune.agratebrianza.mb.it/",
     "esito": "non letto",
-    "motivo": "senza sito proprio: avvisi sul sito del Comune di Villasanta",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca comunale Dino Buzzati",
-    "tipo": "Biblioteca",
-    "sito": "https://opac.cubinrete.it/library/biblioteca-di-busnago/",
-    "esito": "non letto",
-    "motivo": "il sito blocca le visite automatiche (errore 403)",
+    "motivo": "sito troppo lento (tempo scaduto)",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 3
-   },
-   {
-    "nome": "Biblioteca comunale Enzo Biagi",
-    "tipo": "Biblioteca",
-    "sito": "http://www.cubinrete.it/agrate-brianza",
-    "esito": "non letto",
-    "motivo": "il sito blocca le visite automatiche (errore 403)",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 3
-   },
-   {
-    "nome": "Sistema Bibliotecario Vimercatese",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "non letto",
-    "motivo": "senza sito proprio: avvisi sul sito del Comune di Vimercate",
-    "pagine": [],
-    "trovati": 0
+    "secondi": 73
    },
    {
     "nome": "Comune di Aicurzio",
@@ -2062,6 +2001,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
+   },
+   {
+    "nome": "Comune di Bovisio Masciago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bovisiomasciago.mb.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 110
    },
    {
     "nome": "Comune di Briosco",
@@ -2094,7 +2044,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Lesmo",
@@ -2138,7 +2088,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Ronco Briantino",
@@ -2182,7 +2132,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 8
    },
    {
     "nome": "\"MARTINO BASSI\" (Seregno)",
@@ -2201,6 +2151,17 @@
     "motivo": "nessun sito indicato negli open data",
     "pagine": [],
     "trovati": 0
+   },
+   {
+    "nome": "AMEDEO MODIGLIANI (Giussano)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceomodiglianigiussano.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 10
    },
    {
     "nome": "CONFALONIERI (Monza)",
@@ -2234,17 +2195,6 @@
     "secondi": 5
    },
    {
-    "nome": "GANDHI MOHANDAS KARAMCHAND (Besana In Brianza)",
-    "tipo": "Scuola",
-    "sito": "https://www.mkgandhi.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
     "nome": "GIOVANNI XXIII - NOVA MILANESE",
     "tipo": "Scuola",
     "sito": "",
@@ -2252,17 +2202,6 @@
     "motivo": "nessun sito indicato negli open data",
     "pagine": [],
     "trovati": 0
-   },
-   {
-    "nome": "GIUSEPPE PARINI (Seregno)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceopariniseregno.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
    },
    {
     "nome": "I.C.\" A. VOLTA\"/ LAZZATE",
@@ -2284,7 +2223,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "IC ALFREDO SASSI/RENATE (Briosco)",
@@ -2351,6 +2290,17 @@
     "secondi": 5
    },
    {
+    "nome": "IC MONTESSORI/RONCO B/SULBIATE",
+    "tipo": "Scuola",
+    "sito": "https://www.icsulbiateronco.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
     "nome": "IC VIA DE GASPERI/SEVESO",
     "tipo": "Scuola",
     "sito": "https://www.icviadegasperi.gov.it/",
@@ -2384,6 +2334,17 @@
     "secondi": 5
    },
    {
+    "nome": "ISTITUTO COMPRENSIVO - ALFREDO SASSI",
+    "tipo": "Scuola",
+    "sito": "https://icrenate.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 14
+   },
+   {
     "nome": "ISTITUTO COMPRENSIVO - GIOVANNI XXIII - NOVA MILANESE",
     "tipo": "Scuola",
     "sito": "https://www.icnova.edu.it/",
@@ -2392,7 +2353,18 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 20
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - MANZONI'-ORNAGO/BURAGO",
+    "tipo": "Scuola",
+    "sito": "https://www.icornagoburago.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - VIA SAURO-VERANO BRIANZA",
@@ -2425,18 +2397,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "ISTITUTO SUPERIORE -  MARTIN LUTHER KING",
-    "tipo": "Scuola",
-    "sito": "https://www.mlkmuggio.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "LICEO ARTISTICO NANNI VALENTINI (Monza)",
@@ -2444,17 +2405,6 @@
     "sito": "https://www.isamonza.edu.it/",
     "esito": "non letto",
     "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "LICEO CLASSICO E MUSICALE B. ZUCCHI (Monza)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceozucchi.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
@@ -2480,7 +2430,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "Consorzio Desio Brianza A.S.C.",
@@ -2500,7 +2450,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 34
    },
    {
     "nome": "Consorzio Parco Agricolo Nord Est",
@@ -2523,124 +2473,23 @@
     "secondi": 6
    },
    {
-    "nome": "Biblioteca Civica \"Villa del Sole\"",
+    "nome": "CUBI - Culture Biblioteche in rete",
     "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Seveso (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca civica",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Macherio (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca civica",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Brugherio (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca civica \"Don Rinaldo Beretta\"",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Giussano (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca civica Ettore Pozzoli",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Seregno (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca civica Monsignor Enrico Galbiati",
-    "tipo": "Biblioteca",
-    "sito": "https://www.bibliotecaveranobrianza.it/",
+    "sito": "https://www.cubinrete.it/",
     "esito": "letto",
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://bibliotecaveranobrianza.it/"
-     }
-    ],
-    "voci": 160,
-    "trovati": 0,
-    "secondi": 19
-   },
-   {
-    "nome": "Biblioteca comunale",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Carnate (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca comunale",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Ceriano Laghetto (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca comunale",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Misinto (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca comunale",
-    "tipo": "Biblioteca",
-    "sito": "http://www.provincia.va.it/code/26277/LAZZATE-MB-BIBLIOTECA-CIVICA-LAZ",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Notizie",
-      "url": "https://www.provincia.va.it/news"
-     },
-     {
-      "nome": "Cultura",
-      "url": "https://www.provincia.va.it/eventi"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.cubinrete.it/bandi-di-gara"
      }
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 7
    },
    {
-    "nome": "Biblioteca comunale \"Alda Merini\"",
-    "tipo": "Biblioteca",
-    "sito": "",
-    "esito": "letto",
-    "motivo": "pubblica sul sito del Comune di Bovisio Masciago (letto con il Comune)",
-    "pagine": [],
-    "trovati": 0
-   },
-   {
-    "nome": "Biblioteca comunale Aldo Moro",
+    "nome": "Sistema bibliotecario BrianzaBiblioteche",
     "tipo": "Biblioteca",
     "sito": "https://www.brianzabiblioteche.it/",
     "esito": "letto",
@@ -2653,47 +2502,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "Biblioteca comunale Alessandro Manzoni",
-    "tipo": "Biblioteca",
-    "sito": "https://retebibliotecaria.provincia.va.it/le-biblioteche-della-rete-provinciale-di-varese/Cogliate/",
-    "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://retebibliotecaria.provincia.va.it/le-biblioteche-della-rete-provinciale-di-varese/Cogliate/"
-     }
-    ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "Comune di Agrate Brianza",
-    "tipo": "Comune",
-    "sito": "http://www.comune.agratebrianza.mb.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://comune.agratebrianza.mb.it/novita/notizia/tipologia/avviso/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.agratebrianza.mb.it/novita/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.agratebrianza.mb.it/novita/notizia/tipologia/notizie/"
-     }
-    ],
-    "voci": 16,
-    "trovati": 0,
-    "secondi": 40
+    "secondi": 6
    },
    {
     "nome": "Comune di Albiate",
@@ -2729,7 +2538,7 @@
     ],
     "voci": 167,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 52
    },
    {
     "nome": "Comune di Arcore",
@@ -2751,21 +2560,21 @@
       "url": "https://arcore.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-sezione?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=43298"
      },
      {
-      "nome": "Albo",
-      "url": "https://arcore.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.arcore.mb.it/novita/notizia/tipologia/avviso/"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.arcore.mb.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.arcore.mb.it/novita/notizia/tipologia/news/"
      }
     ],
-    "voci": 11,
+    "voci": 15,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 100
    },
    {
     "nome": "Comune di Barlassina",
@@ -2801,7 +2610,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 32
    },
    {
     "nome": "Comune di Bellusco",
@@ -2836,8 +2645,8 @@
      }
     ],
     "voci": 34,
-    "trovati": 0,
-    "secondi": 19
+    "trovati": 3,
+    "secondi": 34
    },
    {
     "nome": "Comune di Bernareggio",
@@ -2873,7 +2682,7 @@
     ],
     "voci": 87,
     "trovati": 4,
-    "secondi": 49
+    "secondi": 161
    },
    {
     "nome": "Comune di Besana in Brianza",
@@ -2885,6 +2694,10 @@
      {
       "nome": "Albo",
       "url": "https://besanainbrianza.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://besanainbrianza.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=270"
      },
      {
       "nome": "Albo",
@@ -2901,15 +2714,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.besanainbrianza.mb.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://besanainbrianza.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 45,
+    "voci": 42,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 70
    },
    {
     "nome": "Comune di Biassono",
@@ -2944,44 +2753,8 @@
      }
     ],
     "voci": 109,
-    "trovati": 1,
-    "secondi": 16
-   },
-   {
-    "nome": "Comune di Bovisio Masciago",
-    "tipo": "Comune",
-    "sito": "https://www.comune.bovisiomasciago.mb.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://bovisiomasciago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://bovisiomasciago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62356"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://bovisiomasciago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62356"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.bovisiomasciago.mb.it/novita/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.bovisiomasciago.mb.it/novita/notizia/tipologia/comunicato-stampa/"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://bovisiomasciago.trasparenza-valutazione-merito.it/"
-     }
-    ],
-    "voci": 10,
-    "trovati": 0,
-    "secondi": 106
+    "trovati": 3,
+    "secondi": 17
    },
    {
     "nome": "Comune di Brugherio",
@@ -3012,8 +2785,8 @@
      }
     ],
     "voci": 73,
-    "trovati": 0,
-    "secondi": 38
+    "trovati": 2,
+    "secondi": 52
    },
    {
     "nome": "Comune di Burago di Molgora",
@@ -3023,17 +2796,25 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "http://www.halleyweb.com/c015037/mc/mc_p_ricerca.php"
+     },
+     {
       "nome": "Notizie",
       "url": "https://comune.buragodimolgora.mb.it/novita/"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.buragodimolgora.mb.it/novita/notizia/tipologia/comunicati/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c015037/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 26,
+    "voci": 37,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 111
    },
    {
     "nome": "Comune di Busnago",
@@ -3069,7 +2850,7 @@
     ],
     "voci": 317,
     "trovati": 0,
-    "secondi": 48
+    "secondi": 132
    },
    {
     "nome": "Comune di Camparada",
@@ -3097,7 +2878,7 @@
     ],
     "voci": 59,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Caponago",
@@ -3123,17 +2904,17 @@
       "url": "https://caponago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17188"
      },
      {
-      "nome": "Albo",
-      "url": "https://caponago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17188"
+      "nome": "Notizie",
+      "url": "https://www.comune.caponago.mb.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.caponago.mb.it/it/menu/news"
+      "url": "https://www.comune.caponago.mb.it/it/news?type=2"
      }
     ],
-    "voci": 31,
+    "voci": 32,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 21
    },
    {
     "nome": "Comune di Carate Brianza",
@@ -3168,8 +2949,8 @@
      }
     ],
     "voci": 138,
-    "trovati": 2,
-    "secondi": 48
+    "trovati": 5,
+    "secondi": 66
    },
    {
     "nome": "Comune di Carnate",
@@ -3178,18 +2959,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7697"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7697"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.carnate.mb.it/it/news?type=3"
@@ -3201,11 +2970,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.carnate.mb.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://carnate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 42,
+    "voci": 45,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 43
    },
    {
     "nome": "Comune di Cavenago di Brianza",
@@ -3233,7 +3006,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 19
    },
    {
     "nome": "Comune di Ceriano Laghetto",
@@ -3242,18 +3015,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://cerianolaghetto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cerianolaghetto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13697"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cerianolaghetto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13697"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.ceriano-laghetto.mb.it/novita/"
@@ -3269,7 +3030,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 68
    },
    {
     "nome": "Comune di Cesano Maderno",
@@ -3305,7 +3066,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 15
    },
    {
     "nome": "Comune di Concorezzo",
@@ -3332,8 +3093,8 @@
      }
     ],
     "voci": 52,
-    "trovati": 0,
-    "secondi": 21
+    "trovati": 1,
+    "secondi": 29
    },
    {
     "nome": "Comune di Cornate D'Adda",
@@ -3343,33 +3104,25 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://cornatedadda.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cornatedadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49199"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cornatedadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49200"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cornatedadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49200"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cornatedadda.mb.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.cornatedadda.mb.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cornatedadda.mb.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cornatedadda.trasparenza-valutazione-merito.it/web/trasparenza/"
      }
     ],
-    "voci": 32,
+    "voci": 53,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 19
    },
    {
     "nome": "Comune di Desio",
@@ -3392,20 +3145,20 @@
      },
      {
       "nome": "Albo",
-      "url": "https://desio.trasparenza-valutazione-merito.it/web/albo/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=63700"
-     },
-     {
-      "nome": "Albo",
       "url": "https://desio.trasparenza-valutazione-merito.it/web/albo"
      },
      {
       "nome": "Albo",
       "url": "https://desio.trasparenza-valutazione-merito.it/web/albo/menu-albo-pretorio"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.desio.mb.it/it/news?type=3"
      }
     ],
-    "voci": 8,
-    "trovati": 0,
-    "secondi": 15
+    "voci": 23,
+    "trovati": 1,
+    "secondi": 42
    },
    {
     "nome": "Comune di Giussano",
@@ -3429,15 +3182,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.giussano.mb.it/it/news?type=2"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://albo.comune.giussano.mb.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 174,
-    "trovati": 2,
-    "secondi": 64
+    "voci": 151,
+    "trovati": 0,
+    "secondi": 101
    },
    {
     "nome": "Comune di Lazzate",
@@ -3455,25 +3204,21 @@
       "url": "https://www.comune.lazzate.mb.it/it/news?type=3"
      },
      {
-      "nome": "Albo",
-      "url": "https://lazzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lazzate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21701"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lazzate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21701"
+      "nome": "Notizie",
+      "url": "https://www.comune.lazzate.mb.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.lazzate.mb.it/it/menu/news"
+      "url": "https://www.comune.lazzate.mb.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.lazzate.mb.it/it/page/amministrazione-trasparente"
      }
     ],
-    "voci": 150,
+    "voci": 167,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 53
    },
    {
     "nome": "Comune di Lentate sul Seveso",
@@ -3484,16 +3229,12 @@
     "pagine": [
      {
       "nome": "Notizie",
-      "url": "https://comune.lentatesulseveso.mb.it/novita/"
-     },
-     {
-      "nome": "Notizie",
       "url": "https://comune.lentatesulseveso.mb.it/novita/notizia/tipologia/notizie/"
      }
     ],
-    "voci": 22,
+    "voci": 13,
     "trovati": 0,
-    "secondi": 51
+    "secondi": 87
    },
    {
     "nome": "Comune di Limbiate",
@@ -3513,15 +3254,11 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://limbiate.trasparenza-valutazione-merito.it/web/albo/menu-trasparenza"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.limbiate.mb.it/novita/"
      }
     ],
-    "voci": 111,
+    "voci": 83,
     "trovati": 0,
-    "secondi": 176
+    "secondi": 192
    },
    {
     "nome": "Comune di Meda",
@@ -3552,8 +3289,8 @@
      }
     ],
     "voci": 48,
-    "trovati": 3,
-    "secondi": 33
+    "trovati": 1,
+    "secondi": 26
    },
    {
     "nome": "Comune di Mezzago",
@@ -3573,39 +3310,23 @@
      {
       "nome": "Notizie",
       "url": "https://comune.mezzago.mb.it/tipi_notizia/news/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n200476"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR037.sto?DB_NAME=n200476&headerAT=S&NodoSel=110&TipoBando=S"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cloud.urbi.it/urbi/progs/urp/ur1UR037.sto?DB_NAME=n200476&headerAT=S&NodoSel=109&TipoBando=C"
      }
     ],
     "voci": 133,
     "trovati": 0,
-    "secondi": 12
-   },
-   {
-    "nome": "Comune di Milano (Municipi 1-9)",
-    "tipo": "Comune",
-    "sito": "https://www.comune.milano.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://servizi.comune.milano.it/web/guest/ricerca-bandi-gara"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.milano.it/notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.milano.it/amministrazione/amministrazione-trasparente"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.milano.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
-     }
-    ],
-    "voci": 11,
-    "trovati": 0,
-    "secondi": 49
+    "secondi": 59
    },
    {
     "nome": "Comune di Misinto",
@@ -3614,6 +3335,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://misinto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://misinto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1770"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://misinto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1770"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.misinto.mb.it/it/news?type=3"
@@ -3625,19 +3358,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.misinto.mb.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.misinto.mb.it/it/page/12378"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.misinto.mb.it/it/page/bandi-di-gara-e-contratti-488f3213-c873-424d-a610-06b737777b83"
      }
     ],
-    "voci": 92,
+    "voci": 90,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 40
    },
    {
     "nome": "Comune di Monza",
@@ -3673,7 +3398,7 @@
     ],
     "voci": 71,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 60
    },
    {
     "nome": "Comune di Muggio'",
@@ -3709,7 +3434,7 @@
     ],
     "voci": 152,
     "trovati": 0,
-    "secondi": 67
+    "secondi": 80
    },
    {
     "nome": "Comune di Nova Milanese",
@@ -3745,7 +3470,7 @@
     ],
     "voci": 49,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 65
    },
    {
     "nome": "Comune di Ornago",
@@ -3763,10 +3488,6 @@
       "url": "https://ornago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12259"
      },
      {
-      "nome": "Albo",
-      "url": "https://ornago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.ornago.mb.it/it/news?type=3"
      },
@@ -3777,11 +3498,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.ornago.mb.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://ornago.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 47,
+    "voci": 53,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "Comune di Renate",
@@ -3812,8 +3537,8 @@
      }
     ],
     "voci": 82,
-    "trovati": 0,
-    "secondi": 40
+    "trovati": 1,
+    "secondi": 58
    },
    {
     "nome": "Comune di Seregno",
@@ -3841,7 +3566,7 @@
     ],
     "voci": 157,
     "trovati": 0,
-    "secondi": 48
+    "secondi": 51
    },
    {
     "nome": "Comune di Seveso",
@@ -3876,8 +3601,8 @@
      }
     ],
     "voci": 28,
-    "trovati": 0,
-    "secondi": 16
+    "trovati": 2,
+    "secondi": 83
    },
    {
     "nome": "Comune di Sovico",
@@ -3895,10 +3620,6 @@
       "url": "https://sovico.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=60449"
      },
      {
-      "nome": "Albo",
-      "url": "https://sovico.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=60449"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.sovico.mb.it/novita/notizia/tipologia/avvisi/"
      },
@@ -3909,11 +3630,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.sovico.mb.it/novita/notizia/tipologia/comunicati/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://sovico.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 15,
+    "voci": 27,
     "trovati": 0,
-    "secondi": 42
+    "secondi": 36
    },
    {
     "nome": "Comune di Triuggio",
@@ -3935,21 +3660,21 @@
       "url": "https://comune.triuggio.mb.it/novita/"
      },
      {
-      "nome": "Notizie",
-      "url": "https://comune.triuggio.mb.it/novita/notizia/tipologia/comunicati/"
-     },
-     {
       "nome": "Trasparenza",
       "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/trasparenza/trasparenzaamministrativa.aspx?P=6500"
      },
      {
       "nome": "Trasparenza",
       "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=227"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmstriuggio/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=228"
      }
     ],
     "voci": 73,
     "trovati": 3,
-    "secondi": 34
+    "secondi": 209
    },
    {
     "nome": "Comune di Vedano al Lambro",
@@ -3973,7 +3698,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "Comune di Veduggio Con Colzano",
@@ -3985,10 +3710,6 @@
      {
       "nome": "Albo",
       "url": "https://veduggioconcolzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://veduggioconcolzano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1586"
      },
      {
       "nome": "Albo",
@@ -4005,11 +3726,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.veduggioconcolzano.mb.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.veduggioconcolzano.mb.it/it/news?type=2"
      }
     ],
-    "voci": 86,
+    "voci": 91,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 30
    },
    {
     "nome": "Comune di Verano Brianza",
@@ -4080,8 +3805,8 @@
      }
     ],
     "voci": 209,
-    "trovati": 1,
-    "secondi": 66
+    "trovati": 2,
+    "secondi": 65
    },
    {
     "nome": "Comune di Vimercate",
@@ -4090,18 +3815,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/menu-albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1452805341"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1452805341"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.vimercate.mb.it/it/news?type=3"
@@ -4113,11 +3826,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.vimercate.mb.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://vimercate.trasparenza-valutazione-merito.it/web/jiride/menu-trasparenza"
      }
     ],
-    "voci": 62,
+    "voci": 65,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 27
    },
    {
     "nome": "\" BANFI \" (Vimercate)",
@@ -4133,7 +3850,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "ACHILLE MAPELLI (Monza)",
@@ -4169,23 +3886,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 24
-   },
-   {
-    "nome": "AMEDEO MODIGLIANI (Giussano)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceomodiglianigiussano.edu.it/",
-    "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.liceomodiglianigiussano.edu.it/"
-     }
-    ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 6
+    "secondi": 22
    },
    {
     "nome": "Centro Provinciale per L'Istruzione Degli Adulti Monza",
@@ -4221,7 +3922,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 26
    },
    {
     "nome": "E. FERMI (Desio)",
@@ -4255,9 +3956,9 @@
       "url": "https://www.iclentate.edu.it/albo-pretorio"
      }
     ],
-    "voci": 128,
-    "trovati": 5,
-    "secondi": 53
+    "voci": 130,
+    "trovati": 4,
+    "secondi": 70
    },
    {
     "nome": "ENZO BONTEMPI (Agrate Brianza)",
@@ -4276,8 +3977,8 @@
      }
     ],
     "voci": 127,
-    "trovati": 5,
-    "secondi": 43
+    "trovati": 6,
+    "secondi": 44
    },
    {
     "nome": "EZIO VANONI (Vimercate)",
@@ -4308,14 +4009,14 @@
      },
      {
       "nome": "Albo",
-      "url": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=426"
+      "url": "https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=427"
      },
      {
       "nome": "Notizie",
       "url": "https://www.iccervilimbiate.edu.it/category/news/"
      }
     ],
-    "voci": 187,
+    "voci": 189,
     "trovati": 22,
     "secondi": 59
    },
@@ -4334,6 +4035,38 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 2
+   },
+   {
+    "nome": "GANDHI MOHANDAS KARAMCHAND (Besana In Brianza)",
+    "tipo": "Scuola",
+    "sito": "https://www.mkgandhi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.mkgandhi.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 8
+   },
+   {
+    "nome": "GIUSEPPE PARINI (Seregno)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceopariniseregno.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.liceopariniseregno.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 3
    },
    {
     "nome": "I. C. GIOVANNI XXIII (Besana In Brianza)",
@@ -4360,8 +4093,8 @@
      }
     ],
     "voci": 30,
-    "trovati": 0,
-    "secondi": 18
+    "trovati": 1,
+    "secondi": 20
    },
    {
     "nome": "I.C. I VIA DUCA D'AOSTA (Cesano Maderno)",
@@ -4397,7 +4130,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 22
    },
    {
     "nome": "I.I.S. \"ENZO ANSELMO FERRARI\" (Monza)",
@@ -4413,7 +4146,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "I.T.C.S.P.A.C.L.E. ELSA MORANTE (Limbiate)",
@@ -4429,11 +4162,15 @@
      {
       "nome": "Albo",
       "url": "https://www.portaleargo.it/albopretorio/online/#/error"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.morante-limbiate.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 5,
+    "voci": 15,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 34
    },
    {
     "nome": "IC \"S. ANDREA\" - BIASSONO",
@@ -4469,7 +4206,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 13
    },
    {
     "nome": "IC A. NEGRI/CAVENAGO B. (Cavenago Di Brianza)",
@@ -4484,8 +4221,8 @@
      }
     ],
     "voci": 17,
-    "trovati": 2,
-    "secondi": 56
+    "trovati": 3,
+    "secondi": 47
    },
    {
     "nome": "IC A.CASATI/MUGGIO'",
@@ -4501,7 +4238,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 17
    },
    {
     "nome": "IC A.DIAZ-MEDA",
@@ -4532,8 +4269,8 @@
      }
     ],
     "voci": 189,
-    "trovati": 4,
-    "secondi": 74
+    "trovati": 5,
+    "secondi": 79
    },
    {
     "nome": "IC A.MORO E M.RI V. FANI VAREDO",
@@ -4549,7 +4286,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 14
    },
    {
     "nome": "IC ALBIATE TRIUGGIO",
@@ -4569,7 +4306,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "IC ANNA FRANK/ MONZA",
@@ -4605,7 +4342,7 @@
     ],
     "voci": 59,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 34
    },
    {
     "nome": "IC ANTONIO STOPPANI/SEREGNO",
@@ -4621,7 +4358,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 70
+    "secondi": 60
    },
    {
     "nome": "IC BAGATTI VALSECCHI/VAREDO",
@@ -4640,7 +4377,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://www.portaleargo.it/auth/sso/login/?login_challenge=caab5a14c72d4a5aabb45eab59ae42f6"
+      "url": "https://www.portaleargo.it/auth/sso/login/?login_challenge=88ff5c84a8934310a001fc08b9cb6b03"
      },
      {
       "nome": "Trasparenza",
@@ -4649,7 +4386,7 @@
     ],
     "voci": 121,
     "trovati": 1,
-    "secondi": 28
+    "secondi": 27
    },
    {
     "nome": "IC BARLASSINA",
@@ -4693,7 +4430,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "IC CESARE BATTISTI COGLIATE",
@@ -4712,8 +4449,8 @@
      }
     ],
     "voci": 27,
-    "trovati": 0,
-    "secondi": 15
+    "trovati": 1,
+    "secondi": 16
    },
    {
     "nome": "IC DI ARCORE",
@@ -4729,7 +4466,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 17
    },
    {
     "nome": "IC DON LORENZO MILANI/ MONZA",
@@ -4749,7 +4486,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "IC DON RINALDO BERETTA/GIUSSAN (Giussano)",
@@ -4765,7 +4502,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "IC FILIPPO DE PISIS/BRUGHERIO",
@@ -4789,7 +4526,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 9
    },
    {
     "nome": "IC G. MARCONI/CONCOREZZO",
@@ -4805,7 +4542,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "IC G.D.ROMAGNOSI/CARATE BRIANZA",
@@ -4825,7 +4562,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "IC G.RODARI/MACHERIO",
@@ -4841,7 +4578,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 11
    },
    {
     "nome": "IC GABRIO PIOLA/GIUSSANO",
@@ -4865,7 +4602,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 12
    },
    {
     "nome": "IC GIANNI RODARI/SEREGNO",
@@ -4881,7 +4618,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 51
    },
    {
     "nome": "IC KOINE'/ MONZA",
@@ -4901,7 +4638,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "IC LINA MANDELLI/USMATE VELATE",
@@ -4933,7 +4670,7 @@
     ],
     "voci": 112,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 43
    },
    {
     "nome": "IC MANZONI/BOVISIO MASCIAGO (Bovisio-Masciago)",
@@ -4953,23 +4690,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 13
-   },
-   {
-    "nome": "IC MONTESSORI/RONCO B/SULBIATE",
-    "tipo": "Scuola",
-    "sito": "https://www.icsulbiateronco.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.icsulbiateronco.edu.it/"
-     }
-    ],
-    "voci": 2,
-    "trovati": 0,
-    "secondi": 3
+    "secondi": 16
    },
    {
     "nome": "IC SALVO D ACQUISTO /MUGGIO'",
@@ -5021,7 +4742,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 24
    },
    {
     "nome": "IC VIA ADUA-SEVESO",
@@ -5045,7 +4766,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 25
    },
    {
     "nome": "IC VIA AGNESI/DESIO",
@@ -5061,7 +4782,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "IC VIA CIALDINI/MEDA",
@@ -5089,7 +4810,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 26
    },
    {
     "nome": "IC VIA EUROPA/BERNAREGGIO",
@@ -5125,7 +4846,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 21
    },
    {
     "nome": "IC VIA PRATI/DESIO",
@@ -5145,7 +4866,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 14
    },
    {
     "nome": "IC VIA SAURO VERANO BRIANZA",
@@ -5165,7 +4886,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "IC VIA TOLSTOJ 1/DESIO",
@@ -5181,7 +4902,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 26
    },
    {
     "nome": "II VIA STELVIO (Cesano Maderno)",
@@ -5200,8 +4921,8 @@
      }
     ],
     "voci": 6,
-    "trovati": 0,
-    "secondi": 6
+    "trovati": 1,
+    "secondi": 12
    },
    {
     "nome": "IIS \"LUIGI CASTIGLIONI\" (Limbiate)",
@@ -5217,7 +4938,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 27
    },
    {
     "nome": "IIS ETTORE MAJORANA (Cesano Maderno)",
@@ -5241,7 +4962,7 @@
     ],
     "voci": 35,
     "trovati": 3,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "IST.COMPRENSIVO III DE AMICIS (Lissone)",
@@ -5257,7 +4978,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 25
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ALESSANDRO VOLTA",
@@ -5285,31 +5006,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 15
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - ALFREDO SASSI",
-    "tipo": "Scuola",
-    "sito": "https://icrenate.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.portaleargo.it/albopretorio/online/#/SC23126/atti"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://www.portaleargo.it/auth/sso/login/?login_challenge=3e5dab2783864d2cacb22d5d178c2a15"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://trasparenza-pa.net/?codcli=SC23126"
-     }
-    ],
-    "voci": 14,
-    "trovati": 0,
-    "secondi": 19
+    "secondi": 17
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - BELLUSCO E MEZZAGO",
@@ -5337,7 +5034,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 23
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - DANTE ALIGHIERI/CORNATE D'ADDA",
@@ -5361,7 +5058,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GIACOMO PACCINI-SOVICO",
@@ -5377,7 +5074,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 4
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GIOVANNI XXIII-VEDANO AL LAMBRO",
@@ -5397,7 +5094,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 5
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC 'DON CAMAGNI' - BRUGHERIO",
@@ -5413,7 +5110,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC IST. COMPR. VIA DE GASPERI",
@@ -5429,23 +5126,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 10
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - MANZONI'-ORNAGO/BURAGO",
-    "tipo": "Scuola",
-    "sito": "https://www.icornagoburago.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.icornagoburago.edu.it/"
-     }
-    ],
-    "voci": 9,
-    "trovati": 0,
-    "secondi": 8
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO CARNATE",
@@ -5469,7 +5150,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "ISTITUTO COMPRENSIVO LESMO (Camparada)",
@@ -5485,7 +5166,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 15
    },
    {
     "nome": "ISTITUTO COMPRENSIVO VILLASANTA",
@@ -5501,7 +5182,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 13
    },
    {
     "nome": "ISTITUTO PROFESSIONALE PER I SERVIZI COMMERCIALI E TURISTICI - A. OLIVETTI",
@@ -5516,6 +5197,22 @@
      }
     ],
     "voci": 1,
+    "trovati": 0,
+    "secondi": 7
+   },
+   {
+    "nome": "ISTITUTO SUPERIORE -  MARTIN LUTHER KING",
+    "tipo": "Scuola",
+    "sito": "https://www.mlkmuggio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.mlkmuggio.edu.it/"
+     }
+    ],
+    "voci": 4,
     "trovati": 0,
     "secondi": 6
    },
@@ -5535,9 +5232,9 @@
       "url": "https://www.iisbianchi.edu.it/albo-online"
      }
     ],
-    "voci": 11,
+    "voci": 20,
     "trovati": 1,
-    "secondi": 244
+    "secondi": 255
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'MARTINO BASSI'",
@@ -5547,13 +5244,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.iisbassi.edu.it/albo-online"
+      "nome": "Home",
+      "url": "https://www.iisbassi.edu.it/"
      }
     ],
-    "voci": 11,
+    "voci": 1,
     "trovati": 0,
-    "secondi": 219
+    "secondi": 5
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'VIRGILIO FLORIANI'",
@@ -5573,7 +5270,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - EUROPA UNITA",
@@ -5589,7 +5286,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 17
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - IS IRIS VERSARI",
@@ -5603,9 +5300,9 @@
       "url": "https://www.isversari.edu.it/albo-online"
      }
     ],
-    "voci": 41,
+    "voci": 31,
     "trovati": 0,
-    "secondi": 245
+    "secondi": 251
    },
    {
     "nome": "Istituto Comprensivo Confalonieri di Monza",
@@ -5621,7 +5318,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "L. DA VINCI (Limbiate)",
@@ -5659,13 +5356,29 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.davincicarate.edu.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.davincicarate.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 39,
+    "voci": 48,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 239
+   },
+   {
+    "nome": "LICEO CLASSICO E MUSICALE B. ZUCCHI (Monza)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceozucchi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.liceozucchi.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 8
    },
    {
     "nome": "LICEO SCIENTIFICO E CLASSICO E. MAJORANA (Desio)",
@@ -5681,7 +5394,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "LICEO STATALE CARLO PORTA MONZA",
@@ -5701,7 +5414,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "LICEO STATALE MARIE CURIE (Meda)",
@@ -5736,8 +5449,8 @@
      }
     ],
     "voci": 30,
-    "trovati": 1,
-    "secondi": 29
+    "trovati": 0,
+    "secondi": 24
    },
    {
     "nome": "Liceo Artistico Statale Monza",
@@ -5777,7 +5490,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 10
    },
    {
     "nome": "MANZONI (Vimercate)",
@@ -5793,7 +5506,7 @@
     ],
     "voci": 9,
     "trovati": 2,
-    "secondi": 71
+    "secondi": 60
    },
    {
     "nome": "MARGHERITA HACK (Nova Milanese)",
@@ -5809,7 +5522,7 @@
     ],
     "voci": 16,
     "trovati": 1,
-    "secondi": 48
+    "secondi": 35
    },
    {
     "nome": "P.HENSEMBERGER (Monza)",
@@ -5835,13 +5548,17 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://www.leviseregno.edu.it/albo-online"
+     },
+     {
       "nome": "Trasparenza",
       "url": "https://www.leviseregno.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 14,
-    "trovati": 2,
-    "secondi": 232
+    "voci": 37,
+    "trovati": 4,
+    "secondi": 265
    },
    {
     "nome": "RITA LEVI MONTALCINI-1909-2012 (Lissone)",
@@ -5861,7 +5578,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 29
    },
    {
     "nome": "VIA CORREGGIO (Monza)",
@@ -5883,9 +5600,9 @@
       "url": "https://icviacorreggiomonza.edu.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 20,
+    "voci": 21,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "VIA FOSCOLO (Monza)",
@@ -5901,7 +5618,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "VIA MARIANI (Lissone)",
@@ -5921,7 +5638,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 21
    },
    {
     "nome": "VIA PACE (Limbiate)",
@@ -5937,7 +5654,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 24
    },
    {
     "nome": "VIA RAIBERTI (Monza)",
@@ -5953,23 +5670,25 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    }
   ],
   "fonti": [
    {
     "nome": "ANAC pubblicità legale",
     "ok": true,
-    "trovati": 0,
+    "trovati": 1,
     "letti": 2
    },
    {
     "nome": "Sintel Lombardia",
     "ok": true,
-    "trovati": 52,
-    "letti": 185
+    "trovati": 8,
+    "letti": 51
    }
   ],
-  "note": []
+  "note": [
+   "Anagrafe biblioteche ICCU non raggiungibile (sito troppo lento (tempo scaduto))"
+  ]
  }
 }
