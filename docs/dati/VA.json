@@ -3,10 +3,10 @@
   "sigla": "VA",
   "nome": "Varese"
  },
- "aggiornato": "2026-11-25T20:40:08.685598+00:00",
+ "aggiornato": "2026-11-25T22:03:40.356654+00:00",
  "giorni": 60,
  "durata_minuti": 12,
- "richieste": 1922,
+ "richieste": 1861,
  "righe": [
   {
    "ente": "Comune di Cardano Al Campo",
@@ -78,8 +78,7 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -184,35 +183,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Castellanza",
-   "tipo": "Comune",
-   "titolo": "Misura Unica 2026: contributi per il mantenimento dell’alloggio in locazione",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-11-23",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "stagione teatrale",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.castellanza.va.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.castellanza.va.it",
-     "link": "https://www.comune.castellanza.va.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00252280128",
-   "id": "a000a491db3a",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Barasso",
    "tipo": "Comune",
    "titolo": "AFFIDAMENTO SERVIZIO EDUCATIVO LINGUA STRANIERA",
@@ -297,69 +267,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Gorla Maggiore",
-   "tipo": "Comune",
-   "titolo": "Bando Misure abitative - Mantenimento dell'Abitazione",
-   "pubblicazione": "2026-11-02",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "spettacol",
-    "musical",
-    "musicale"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.gorlamaggiore.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.gorlamaggiore.va.it",
-     "link": "https://www.comune.gorlamaggiore.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00341490126",
-   "id": "3433ffd55406",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Gorla Maggiore",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'assegnazione di borse di studio anno 2026",
-   "pubblicazione": "2026-11-20",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "spettacol",
-    "musical",
-    "musicale",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.gorlamaggiore.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.gorlamaggiore.va.it",
-     "link": "https://www.comune.gorlamaggiore.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00341490126",
-   "id": "147b57cbff31",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Busto Arsizio",
    "tipo": "Comune",
    "titolo": "MANIFESTAZIONE DI INTERESSE PER RICHIESTA DI PREVENTIVO PER EVENTUALE AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50 COMMA 1 LETTERA B) DEL D.LGS. 36/2023 E SS.MM.II. DEL SERVIZIO DI DISABILITY MANAGEMENT A SUPPORTO ALL’ATTUAZIONE DELLE POLITICHE COMUNALI DI INCLUSIONE E ACCESSIBILITÀ.",
@@ -409,35 +316,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Lonate Ceppino",
-   "tipo": "Comune",
-   "titolo": "Bando per interventi rivolti al sostegno dei nuclei familiari per il mantenimento dell'alloggio in locazione, il cui reddito provenga esclusivamente da pensione - anno 2026 (DGR XII/ 5292)",
-   "pubblicazione": "2026-11-11",
-   "scadenza": "2026-12-11",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.lonateceppino.va.it",
-     "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00317710127",
-   "id": "bd932ad586c2",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Marnate",
    "tipo": "Comune",
    "titolo": "Indagine di mercato finalizzata all’affidamento diretto dell’organizzazione di attività di promozione della lettura per le classi della Scuola Primaria Gabelli di Marnate 2026-27",
@@ -467,93 +345,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Lonate Ceppino",
-   "tipo": "Comune",
-   "titolo": "Riapertura avviso bando alloggi SAP al 30/11 pv ore 23.59",
-   "pubblicazione": "2026-10-30",
-   "scadenza": "2026-12-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.lonateceppino.va.it",
-     "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00317710127",
-   "id": "22181748ecf9",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonate Ceppino",
-   "tipo": "Comune",
-   "titolo": "Seconda edizione bando emergenza abitativa",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-12-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.lonateceppino.va.it",
-     "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00317710127",
-   "id": "f0636a17c0ff",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonate Ceppino",
-   "tipo": "Comune",
-   "titolo": "Avviso: incontro per approfondimenti attività extrascolastiche a.s. 2027/2028",
-   "pubblicazione": "2026-11-25",
-   "scadenza": "2026-12-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.lonateceppino.va.it",
-     "link": "https://comune.lonateceppino.va.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00317710127",
-   "id": "01beb7b44975",
-   "nuovo": false
-  },
-  {
    "ente": "I.C. CASSANO MAGNAGO \"II\"",
    "tipo": "Scuola",
    "titolo": "116 - DECISIONE A CONTRARRE FALCONE CORSI SICUREZZA VIDEOCONFERENZA",
@@ -578,6 +369,60 @@
    "cig": null,
    "cf": "90000040122",
    "id": "62970a200746",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Montegrino Valtravaglia",
+   "tipo": "Comune",
+   "titolo": "DECRETO LEGISLATIVO 14 marzo 2013, n. 33",
+   "pubblicazione": null,
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "legalita"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "http://trasparenza.bussolapa.it/F526/trasparenza.aspx?idmenu=24",
+   "fonti": [
+    {
+     "nome": "sito trasparenza.bussolapa.it",
+     "link": "http://trasparenza.bussolapa.it/F526/trasparenza.aspx?idmenu=24"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00225500123",
+   "id": "58682c3d9c3c",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Venegono Inferiore",
+   "tipo": "Comune",
+   "titolo": "DECRETO LEGISLATIVO 14 marzo 2013, n. 33",
+   "pubblicazione": null,
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "legalita"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://atr.demosdata.it/012136/disposizioni-generali",
+   "fonti": [
+    {
+     "nome": "sito atr.demosdata.it",
+     "link": "https://atr.demosdata.it/012136/disposizioni-generali"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00309250124",
+   "id": "4666f47e2df8",
    "nuovo": false
   },
   {
@@ -616,12 +461,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "per bambini"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.comune.bederovalcuvia.va.it/Notizie?idCat=1",
    "fonti": [
@@ -777,37 +620,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Origgio",
-   "tipo": "Comune",
-   "titolo": "Bando Contributi alle Associazioni – anno 2026",
-   "pubblicazione": "2026-10-26",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "scuola dell'infanzia",
-    "scuole dell'infanzia",
-    "contributi"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://comune.origgio.va.it/tipi_notizia/notizie/",
-   "fonti": [
-    {
-     "nome": "sito comune.origgio.va.it",
-     "link": "https://comune.origgio.va.it/tipi_notizia/notizie/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00322990128",
-   "id": "ad7915971997",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Golasecca",
    "tipo": "Comune",
    "titolo": "Installazioni natalizie - Avviso",
@@ -844,8 +656,7 @@
    "importo": "€ 900,00",
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -977,35 +788,6 @@
    "cig": null,
    "cf": "",
    "id": "ac376713ab7f",
-   "nuovo": false
-  },
-  {
-   "ente": "I.T.C. \"GINO ZAPPA\" - SARONNO",
-   "tipo": "Scuola",
-   "titolo": "Avviso decreto n.175 e allegati",
-   "pubblicazione": "2026-11-11",
-   "scadenza": null,
-   "importo": "€ 70,00",
-   "partecipanti": "Cooperative",
-   "motivi": [
-    "inclusione",
-    "uso consapevole"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Legalita e temi civici"
-   ],
-   "link": "https://www.itczappa.edu.it/avviso-decretop-n-175-e-allegati/",
-   "fonti": [
-    {
-     "nome": "sito itczappa.edu.it",
-     "link": "https://www.itczappa.edu.it/avviso-decretop-n-175-e-allegati/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "94000170129",
-   "id": "cd11d5b404e2",
    "nuovo": false
   },
   {
@@ -1211,7 +993,7 @@
    "titolo": "Oggetto: DETERMINA CON IMPEGNO DI SPESA PER LA REALIZZAZIONE DI UNO SPETTACOLO TEATRALE CON PROTAGONISTA FEMMINILE DA REALIZZARSI PRESSO L'AULA MAGNA IN DATA 20/11/2026 - CIG BDC64CBAED",
    "pubblicazione": "2026-11-19",
    "scadenza": null,
-   "importo": null,
+   "importo": "€ 1.350,00",
    "partecipanti": null,
    "motivi": [
     "teatr",
@@ -1313,88 +1095,6 @@
    "cig": null,
    "cf": "80100130121",
    "id": "39e5d0b7347d",
-   "nuovo": false
-  },
-  {
-   "ente": "Istituto Comprensivo Statale IQBAL MASIH Malnate",
-   "tipo": "Scuola",
-   "titolo": "_3_Decreto Aggiudicazione Bando EDUCAZIONE ALLA TEATRALITA 2026-27",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/cgn1cdlddq",
-   "fonti": [
-    {
-     "nome": "sito web.spaggiari.eu",
-     "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/cgn1cdlddq"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "80014720124",
-   "id": "b37185f45680",
-   "nuovo": false
-  },
-  {
-   "ente": "Istituto Comprensivo Statale IQBAL MASIH Malnate",
-   "tipo": "Scuola",
-   "titolo": "_2_Determina affidamento doc Bando EDUCAZIONE ALLA TEATRALITA 2026-27",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr",
-    "affidamento"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/aj5tjh4qf5",
-   "fonti": [
-    {
-     "nome": "sito web.spaggiari.eu",
-     "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/aj5tjh4qf5"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80014720124",
-   "id": "1a3453f781d8",
-   "nuovo": false
-  },
-  {
-   "ente": "Istituto Comprensivo Statale IQBAL MASIH Malnate",
-   "tipo": "Scuola",
-   "titolo": "_0_Incarico Commissione tecnica Bando EDUCAZIONE ALLA TEATRALITA 2026-27",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/47o6545u76",
-   "fonti": [
-    {
-     "nome": "sito web.spaggiari.eu",
-     "link": "https://web.spaggiari.eu/sdg2/Documenti/VAME0053/47o6545u76"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80014720124",
-   "id": "c2256b54871a",
    "nuovo": false
   },
   {
@@ -1536,33 +1236,30 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Malnate",
-   "tipo": "Comune",
-   "titolo": "Oggetto: NOMINA COMMISSIONE DI GARA PER L' AFFIDAMENTO IN CONCESSIONE TRIENNALE D'USO A SOSTEGNO DI AUTONOME ATTIVITÀ DI INTERESSE COLLETTIVO DELLA GESTIONE DELL'AREA FESTE COMUNALE DI VIA PASTORE N. 1 E ANNESSA TENSOSTRUTTURA. CIG BD35B0DEA5 - CUP B24E21000510001",
+   "ente": "I.C. UBOLDO \" MANZONI\" (Origgio)",
+   "tipo": "Scuola",
+   "titolo": "Decreto Direttoriale n. 743 del 3 novembre 2026",
    "pubblicazione": "2026-11-25",
    "scadenza": null,
-   "importo": null,
+   "importo": "€ 323.579,15",
    "partecipanti": null,
    "motivi": [
-    "inclusione",
-    "bibliotec",
-    "affidamento"
+    "falcone"
    ],
    "temi": [
-    "Laboratori nelle scuole",
-    "Lettura e biblioteche"
+    "Legalita e temi civici"
    ],
-   "link": "https://servizionline-malnate.e-pal.it/AlboOnline/dettaglioAlbo/6717274",
+   "link": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-743-del-3-novembre-2026",
    "fonti": [
     {
-     "nome": "sito servizionline-malnate.e-pal.it",
-     "link": "https://servizionline-malnate.e-pal.it/AlboOnline/dettaglioAlbo/6717274"
+     "nome": "sito mim.gov.it",
+     "link": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-743-del-3-novembre-2026"
     }
    ],
-   "esito": true,
-   "cig": "BD35B0DEA5",
-   "cf": "00243280120",
-   "id": "c61945522cd3",
+   "esito": false,
+   "cig": null,
+   "cf": "",
+   "id": "6834c4ce6f91",
    "nuovo": false
   },
   {
@@ -1633,7 +1330,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Unione dei Comuni del Medio Verbano",
@@ -1644,7 +1341,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "consorzio tutela lago monate",
@@ -1673,7 +1370,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Comune di Albizzate",
@@ -1695,7 +1392,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Comune di Brebbia",
@@ -1706,7 +1403,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Brinzio",
@@ -1728,7 +1425,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Buguggiate",
@@ -1770,7 +1467,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 106
+    "secondi": 107
    },
    {
     "nome": "Comune di Casale Litta",
@@ -1803,7 +1500,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Castello Cabiaglio",
@@ -1858,7 +1555,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Cittiglio",
@@ -1880,7 +1577,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 73
    },
    {
     "nome": "Comune di Cremenaga",
@@ -1891,7 +1588,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 3
    },
    {
     "nome": "Comune di Crosio della Valle",
@@ -1935,7 +1632,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Cuveglio",
@@ -1979,7 +1676,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Ferrera di Varese",
@@ -2111,7 +1808,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Orino",
@@ -2177,7 +1874,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 3
    },
    {
     "nome": "Comune di Ternate",
@@ -2210,7 +1907,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 27
    },
    {
     "nome": "Comune di Varese",
@@ -2232,7 +1929,18 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
+   },
+   {
+    "nome": "\"ANGELO FRATTINI\" (Varese)",
+    "tipo": "Scuola",
+    "sito": "https://www.artisticovarese.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 7
    },
    {
     "nome": "\"CARLO ALBERTO DALLA CHIESA\" (Sesto Calende)",
@@ -2243,7 +1951,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "\"DON MILANI\" (Tradate)",
@@ -2265,18 +1973,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 7
-   },
-   {
-    "nome": "CITTA' DI LUINO - CARLO VOLONTE'",
-    "tipo": "Scuola",
-    "sito": "https://www.isisluino.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 6
+    "secondi": 8
    },
    {
     "nome": "CPIA 1 VARESE (Busto Arsizio)",
@@ -2287,7 +1984,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "CPIA 2 VARESE",
@@ -2301,6 +1998,17 @@
     "secondi": 5
    },
    {
+    "nome": "DANIELE CRESPI (Busto Arsizio)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceocrespi.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
     "nome": "ERNESTO CAIROLI - VARESE",
     "tipo": "Scuola",
     "sito": "https://www.liceoclassicovarese.edu.it/",
@@ -2309,7 +2017,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.C. \"B.LUINI\" LUINO",
@@ -2353,18 +2061,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "I.C. BUSTO A. \" G.A BOSSI\" (Busto Arsizio)",
-    "tipo": "Scuola",
-    "sito": "https://www.icbossibusto.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "I.C. BUSTO A. \"GALILEI\" (Busto Arsizio)",
@@ -2383,6 +2080,17 @@
     "sito": "https://www.cantelloscuola.gov.it/",
     "esito": "non letto",
     "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. CAVARIA \"FERMI\" (Jerago Con Orago)",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutocomprensivocavaria.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
@@ -2417,7 +2125,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.C. MALNATE \"IQBAL MASIH\"",
@@ -2461,7 +2169,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "I.C. SAMARATE \"MANZONI\"",
@@ -2491,6 +2199,17 @@
     "sito": "https://www.icsestocalende.gov.it/",
     "esito": "non letto",
     "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "I.C. TRADATE \"GALILEO GALILEI\"",
+    "tipo": "Scuola",
+    "sito": "https://www.icgalileitradate.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
@@ -2530,6 +2249,17 @@
     "secondi": 5
    },
    {
+    "nome": "I.C.BUSTO A. \"N. TOMMASEO\" (Busto Arsizio)",
+    "tipo": "Scuola",
+    "sito": "https://www.bustotommaseo.edu.com/",
+    "esito": "non letto",
+    "motivo": "certificato di sicurezza non valido",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
     "nome": "I.C.GERENZANO",
     "tipo": "Scuola",
     "sito": "https://www.icsgerenzano.gov.it/",
@@ -2549,7 +2279,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "I.T.E-L.L. \"GADDA-ROSSELLI\" - GALLARATE",
@@ -2560,7 +2290,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.T.I.S \"RIVA\" - SARONNO",
@@ -2648,18 +2378,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - I.C. UBOLDO ' MANZONI'",
-    "tipo": "Scuola",
-    "sito": "https://www.ic-manzoni-uboldo.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C.BUSTO A. N. TOMMASEO",
@@ -2670,7 +2389,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO TECNICO ECONOMICO - E. MONTALE (Tradate)",
@@ -2684,6 +2403,17 @@
     "secondi": 6
    },
    {
+    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'CARLO ALBERTO DALLA CHIESA'",
+    "tipo": "Scuola",
+    "sito": "https://www.superiorisesto.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - ISTITUTO ISTRUZIONE SUPERIORE",
     "tipo": "Scuola",
     "sito": "https://www.liceogallarate.it/",
@@ -2692,18 +2422,29 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 105
+    "secondi": 107
    },
    {
-    "nome": "ITET VARESE \"DAVERIO-CASULA-NERVI\"",
+    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - JOHN M. KEYNES",
     "tipo": "Scuola",
-    "sito": "https://www.itetvarese.edu.it/",
+    "sito": "https://www.isiskeynes.edu.it/",
     "esito": "non letto",
     "motivo": "errore 509",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 5
+   },
+   {
+    "nome": "L. SCIENT. \"G. FERRARIS\" - VARESE",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoferrarisvarese.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "L. SCIENT. \"SERENI\" - LUINO (Laveno-Mombello)",
@@ -2717,6 +2458,17 @@
     "secondi": 5
    },
    {
+    "nome": "LICEO SCIENTIFICO \"CURIE\" - TRADATE",
+    "tipo": "Scuola",
+    "sito": "https://www.liceocurie.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 8
+   },
+   {
     "nome": "LICEO SCIENTIFICO \"TOSI\" - BUSTO ARSIZIO",
     "tipo": "Scuola",
     "sito": "https://www.liceotosi.edu.it/",
@@ -2725,7 +2477,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "LICEO SCIENTIFICO G. B. GRASSI (Saronno)",
@@ -2736,7 +2488,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "LICEO STATALE \"A. MANZONI\" - VARESE",
@@ -2747,7 +2499,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "Asmel Consortile Soc. Cons. A R.L. - Centrale di Committenza",
@@ -2763,7 +2515,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "Consorzio Parco Alto Milanese",
@@ -2783,7 +2535,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "Consorzio della Valbossa",
@@ -2815,23 +2567,27 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 219
+    "secondi": 220
    },
    {
     "nome": "Unione dei Comuni Lombarda di Lonate Pozzolo e di Ferno",
     "tipo": "Altro ente",
     "sito": "https://www.lonatepozzolo-ferno.va.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
+    "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.lonatepozzolo-ferno.va.it/"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.lonatepozzolo-ferno.va.it/sezione-trasparenza/bandi-di-gara-e-contratti/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.lonatepozzolo-ferno.va.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 0,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 8
    },
    {
     "nome": "Comune di Angera",
@@ -2867,7 +2623,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 28
    },
    {
     "nome": "Comune di Arcisate",
@@ -2891,7 +2647,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "Comune di Arsago Seprio",
@@ -2915,7 +2671,7 @@
     ],
     "voci": 56,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 67
    },
    {
     "nome": "Comune di Azzate",
@@ -2951,7 +2707,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 20
    },
    {
     "nome": "Comune di Barasso",
@@ -3038,24 +2794,24 @@
      },
      {
       "nome": "Albo",
-      "url": "https://besano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12464"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://besano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12465"
-     },
-     {
-      "nome": "Albo",
       "url": "https://besano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12464"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.besano.va.it/menu/183177/bandi-gara"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.besano.va.it/menu/183177/bandi-gara"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.besano.va.it/menu/182976/news"
      }
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "Comune di Besnate",
@@ -3087,7 +2843,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 15
    },
    {
     "nome": "Comune di Besozzo",
@@ -3111,7 +2867,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 29
    },
    {
     "nome": "Comune di Biandronno",
@@ -3143,7 +2899,7 @@
     ],
     "voci": 32,
     "trovati": 1,
-    "secondi": 34
+    "secondi": 36
    },
    {
     "nome": "Comune di Bisuschio",
@@ -3179,7 +2935,7 @@
     ],
     "voci": 60,
     "trovati": 2,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Comune di Bodio Lomnago",
@@ -3203,7 +2959,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "Comune di Brenta",
@@ -3227,7 +2983,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 28
    },
    {
     "nome": "Comune di Brezzo di Bedero",
@@ -3259,7 +3015,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Brissago Valtravaglia",
@@ -3295,7 +3051,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 18
    },
    {
     "nome": "Comune di Brusimpiano",
@@ -3331,7 +3087,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "Comune di Busto Arsizio",
@@ -3367,7 +3123,7 @@
     ],
     "voci": 28,
     "trovati": 3,
-    "secondi": 33
+    "secondi": 24
    },
    {
     "nome": "Comune di Cadegliano Viconago",
@@ -3387,7 +3143,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "Comune di Caravate",
@@ -3423,7 +3179,7 @@
     ],
     "voci": 88,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 19
    },
    {
     "nome": "Comune di Cardano Al Campo",
@@ -3447,7 +3203,7 @@
     ],
     "voci": 28,
     "trovati": 2,
-    "secondi": 37
+    "secondi": 34
    },
    {
     "nome": "Comune di Carnago",
@@ -3483,7 +3239,7 @@
     ],
     "voci": 83,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 13
    },
    {
     "nome": "Comune di Caronno Pertusella",
@@ -3492,6 +3248,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://caronnopertusella.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
      {
       "nome": "Albo",
       "url": "https://caronnopertusella.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
@@ -3513,9 +3273,9 @@
       "url": "https://caronnopertusella.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 134,
+    "voci": 172,
     "trovati": 0,
-    "secondi": 64
+    "secondi": 68
    },
    {
     "nome": "Comune di Caronno Varesino",
@@ -3551,7 +3311,7 @@
     ],
     "voci": 135,
     "trovati": 0,
-    "secondi": 103
+    "secondi": 53
    },
    {
     "nome": "Comune di Casciago",
@@ -3607,7 +3367,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 78
+    "secondi": 74
    },
    {
     "nome": "Comune di Cassano Magnago",
@@ -3643,7 +3403,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 20
    },
    {
     "nome": "Comune di Castellanza",
@@ -3674,8 +3434,8 @@
      }
     ],
     "voci": 62,
-    "trovati": 2,
-    "secondi": 22
+    "trovati": 1,
+    "secondi": 20
    },
    {
     "nome": "Comune di Castronno",
@@ -3699,7 +3459,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 20
    },
    {
     "nome": "Comune di Cavaria con Premezzo",
@@ -3735,7 +3495,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 18
    },
    {
     "nome": "Comune di Cislago",
@@ -3771,7 +3531,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "Comune di Clivio",
@@ -3807,7 +3567,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "Comune di Comabbio",
@@ -3831,7 +3591,7 @@
     ],
     "voci": 38,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "Comune di Comerio",
@@ -3867,7 +3627,7 @@
     ],
     "voci": 76,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Cuasso al Monte",
@@ -3890,20 +3650,20 @@
      },
      {
       "nome": "Albo",
+      "url": "https://cuassoalmonte.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12285"
+     },
+     {
+      "nome": "Albo",
       "url": "https://cuassoalmonte.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12285"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.cuassoalmonte.va.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cuassoalmonte.va.it/it/news?type=1"
      }
     ],
-    "voci": 47,
+    "voci": 32,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 37
    },
    {
     "nome": "Comune di Daverio",
@@ -3939,7 +3699,7 @@
     ],
     "voci": 40,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 24
    },
    {
     "nome": "Comune di Fagnano Olona",
@@ -3963,7 +3723,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 18
    },
    {
     "nome": "Comune di Ferno",
@@ -3990,16 +3750,16 @@
      },
      {
       "nome": "Albo",
-      "url": "https://ferno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=15985"
+      "url": "https://ferno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=15985"
      },
      {
       "nome": "Albo",
-      "url": "https://ferno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=15986"
+      "url": "https://win.comune.ferno.va.it/ViewsAsp/GestioneDocumentale/AlboElenco.aspx"
      }
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 14
    },
    {
     "nome": "Comune di Gallarate",
@@ -4059,7 +3819,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 15
    },
    {
     "nome": "Comune di Gazzada Schianno",
@@ -4095,7 +3855,7 @@
     ],
     "voci": 41,
     "trovati": 2,
-    "secondi": 53
+    "secondi": 22
    },
    {
     "nome": "Comune di Gerenzano",
@@ -4106,11 +3866,11 @@
     "pagine": [
      {
       "nome": "Albo",
-      "url": "https://comune.gerenzano.va.it/it/page/130339"
+      "url": "https://www.comune.gerenzano.va.it/it/page/130339"
      },
      {
       "nome": "Albo",
-      "url": "https://telegram.me/share/url?url=https://comune.gerenzano.va.it/it/page/130339&text=Albo%20pretorio"
+      "url": "https://telegram.me/share/url?url=https://www.comune.gerenzano.va.it/it/page/130339&text=Albo%20pretorio"
      },
      {
       "nome": "Albo",
@@ -4126,12 +3886,12 @@
      },
      {
       "nome": "Bandi/avvisi",
-      "url": "https://comune.gerenzano.va.it/it/news?type=3"
+      "url": "https://www.comune.gerenzano.va.it/it/news?type=3"
      }
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 15
    },
    {
     "nome": "Comune di Germignaga",
@@ -4167,7 +3927,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 20
    },
    {
     "nome": "Comune di Golasecca",
@@ -4203,7 +3963,7 @@
     ],
     "voci": 41,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 22
    },
    {
     "nome": "Comune di Gorla Maggiore",
@@ -4238,8 +3998,8 @@
      }
     ],
     "voci": 160,
-    "trovati": 6,
-    "secondi": 30
+    "trovati": 0,
+    "secondi": 22
    },
    {
     "nome": "Comune di Gorla Minore",
@@ -4263,7 +4023,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 21
    },
    {
     "nome": "Comune di Grantola",
@@ -4299,7 +4059,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 11
    },
    {
     "nome": "Comune di Inarzo",
@@ -4335,7 +4095,7 @@
     ],
     "voci": 70,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 18
    },
    {
     "nome": "Comune di Induno Olona",
@@ -4367,7 +4127,7 @@
     ],
     "voci": 54,
     "trovati": 2,
-    "secondi": 52
+    "secondi": 53
    },
    {
     "nome": "Comune di Ispra",
@@ -4377,21 +4137,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://ispra.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://ispra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21071"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://ispra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21070"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://ispra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21070"
+     },
+     {
       "nome": "Notizie",
       "url": "https://comune.ispra.va.it/novita/"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.ispra.va.it/novita/notizia/tipologia/comunicato-stampa/"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://ispra.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 14,
+    "voci": 11,
     "trovati": 0,
-    "secondi": 68
+    "secondi": 19
    },
    {
     "nome": "Comune di Jerago con Orago",
@@ -4422,12 +4194,12 @@
      },
      {
       "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsjeragoconorago/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=95"
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsjeragoconorago/portale/trasparenza/trasparenzaamministrativadocs.aspx?R=1&CP=95"
      }
     ],
     "voci": 58,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 16
    },
    {
     "nome": "Comune di Lavena Ponte Tresa",
@@ -4463,7 +4235,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "Comune di Laveno Mombello",
@@ -4472,18 +4244,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://lavenomombello.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lavenomombello.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2189"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lavenomombello.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2189"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.laveno.va.it/it/news?type=3"
@@ -4495,11 +4255,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.laveno.va.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://lavenomombello.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 32,
+    "voci": 35,
     "trovati": 3,
-    "secondi": 46
+    "secondi": 26
    },
    {
     "nome": "Comune di Leggiuno",
@@ -4523,7 +4287,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 25
    },
    {
     "nome": "Comune di Lonate Ceppino",
@@ -4558,8 +4322,8 @@
      }
     ],
     "voci": 62,
-    "trovati": 11,
-    "secondi": 31
+    "trovati": 0,
+    "secondi": 20
    },
    {
     "nome": "Comune di Lonate Pozzolo",
@@ -4569,33 +4333,25 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://lonatepozzolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17270"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lonatepozzolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17270"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lonatepozzolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17271"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lonatepozzolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lonatepozzolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17271"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.lonatepozzolo.va.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.lonatepozzolo.va.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.lonatepozzolo.va.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.lonatepozzolo.va.it/it/page/140304"
      }
     ],
-    "voci": 24,
+    "voci": 154,
     "trovati": 0,
-    "secondi": 113
+    "secondi": 44
    },
    {
     "nome": "Comune di Luino",
@@ -4631,7 +4387,7 @@
     ],
     "voci": 130,
     "trovati": 2,
-    "secondi": 29
+    "secondi": 26
    },
    {
     "nome": "Comune di Maccagno con Pino e Veddasca",
@@ -4650,24 +4406,24 @@
      },
      {
       "nome": "Albo",
+      "url": "https://maccagnopinoveddasca.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3497"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://maccagnopinoveddasca.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3498"
+     },
+     {
+      "nome": "Albo",
       "url": "https://maccagnopinoveddasca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
       "nome": "Albo",
       "url": "https://maccagnopinoveddasca.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3498"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.maccagnoconpinoeveddasca.va.it/it/news?type=3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.maccagnoconpinoeveddasca.va.it/it/news?type=3&from_menu=1"
      }
     ],
-    "voci": 33,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 12
    },
    {
     "nome": "Comune di Malnate",
@@ -4702,8 +4458,8 @@
      }
     ],
     "voci": 74,
-    "trovati": 5,
-    "secondi": 49
+    "trovati": 4,
+    "secondi": 55
    },
    {
     "nome": "Comune di Marchirolo",
@@ -4775,7 +4531,7 @@
     ],
     "voci": 118,
     "trovati": 3,
-    "secondi": 80
+    "secondi": 48
    },
    {
     "nome": "Comune di Mesenzana",
@@ -4842,8 +4598,8 @@
      }
     ],
     "voci": 47,
-    "trovati": 0,
-    "secondi": 16
+    "trovati": 1,
+    "secondi": 15
    },
    {
     "nome": "Comune di Morazzone",
@@ -4875,7 +4631,7 @@
     ],
     "voci": 85,
     "trovati": 0,
-    "secondi": 79
+    "secondi": 32
    },
    {
     "nome": "Comune di Olgiate Olona",
@@ -4899,7 +4655,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "Comune di Origgio",
@@ -4926,8 +4682,8 @@
      }
     ],
     "voci": 34,
-    "trovati": 1,
-    "secondi": 15
+    "trovati": 0,
+    "secondi": 16
    },
    {
     "nome": "Comune di Porto Valtravaglia",
@@ -4955,7 +4711,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 19
+    "secondi": 20
    },
    {
     "nome": "Comune di Saltrio",
@@ -4991,7 +4747,7 @@
     ],
     "voci": 84,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 23
    },
    {
     "nome": "Comune di Samarate",
@@ -5015,7 +4771,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "Comune di Saronno",
@@ -5039,7 +4795,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "Comune di Sesto Calende",
@@ -5075,7 +4831,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 10
    },
    {
     "nome": "Comune di Solbiate Arno",
@@ -5111,7 +4867,7 @@
     ],
     "voci": 62,
     "trovati": 2,
-    "secondi": 24
+    "secondi": 21
    },
    {
     "nome": "Comune di Solbiate Olona",
@@ -5147,7 +4903,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 30
    },
    {
     "nome": "Comune di Somma Lombardo",
@@ -5175,7 +4931,7 @@
     ],
     "voci": 62,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 23
    },
    {
     "nome": "Comune di Taino",
@@ -5211,7 +4967,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 28
    },
    {
     "nome": "Comune di Tradate",
@@ -5235,7 +4991,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 42
    },
    {
     "nome": "Comune di Uboldo",
@@ -5271,7 +5027,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 14
    },
    {
     "nome": "Comune di Valganna",
@@ -5307,7 +5063,7 @@
     ],
     "voci": 46,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 19
    },
    {
     "nome": "Comune di Varano Borghi",
@@ -5343,7 +5099,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 15
    },
    {
     "nome": "Comune di Vedano Olona",
@@ -5379,7 +5135,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 20
    },
    {
     "nome": "Comune di Venegono Inferiore",
@@ -5414,8 +5170,8 @@
      }
     ],
     "voci": 63,
-    "trovati": 0,
-    "secondi": 31
+    "trovati": 1,
+    "secondi": 27
    },
    {
     "nome": "Comune di Venegono Superiore",
@@ -5451,7 +5207,7 @@
     ],
     "voci": 30,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 17
    },
    {
     "nome": "Comune di Vergiate",
@@ -5514,22 +5270,6 @@
     "secondi": 20
    },
    {
-    "nome": "\"ANGELO FRATTINI\" (Varese)",
-    "tipo": "Scuola",
-    "sito": "https://www.artisticovarese.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.artisticovarese.edu.it/"
-     }
-    ],
-    "voci": 1,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
     "nome": "\"E.TOSI\" (Busto Arsizio)",
     "tipo": "Scuola",
     "sito": "https://www.etosi.edu.it/",
@@ -5571,7 +5311,7 @@
     ],
     "voci": 15,
     "trovati": 1,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "\"JOHN M. KEYNES\" (Gazzada Schianno)",
@@ -5607,7 +5347,23 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 11
+   },
+   {
+    "nome": "CITTA' DI LUINO - CARLO VOLONTE'",
+    "tipo": "Scuola",
+    "sito": "https://www.isisluino.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.isisluino.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 8
    },
    {
     "nome": "Centro Provinciale Istruzione Adulti 2 Varese",
@@ -5627,23 +5383,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 12
-   },
-   {
-    "nome": "DANIELE CRESPI (Busto Arsizio)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceocrespi.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.liceocrespi.edu.it/"
-     }
-    ],
-    "voci": 2,
-    "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "I. C. SARONNO \"A.MORO\"",
@@ -5659,7 +5399,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 26
    },
    {
     "nome": "I.C VARESE 5\"DANTE ALIGHIERI\"",
@@ -5711,7 +5451,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "I.C. ARCISATE",
@@ -5751,7 +5491,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 13
    },
    {
     "nome": "I.C. BISUSCHIO\" DON MILANI\"",
@@ -5775,7 +5515,23 @@
     ],
     "voci": 71,
     "trovati": 1,
-    "secondi": 21
+    "secondi": 20
+   },
+   {
+    "nome": "I.C. BUSTO A. \" G.A BOSSI\" (Busto Arsizio)",
+    "tipo": "Scuola",
+    "sito": "https://www.icbossibusto.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.icbossibusto.edu.it/"
+     }
+    ],
+    "voci": 28,
+    "trovati": 0,
+    "secondi": 13
    },
    {
     "nome": "I.C. BUSTO A. \"E. CRESPI\" (Busto Arsizio)",
@@ -5811,7 +5567,7 @@
     ],
     "voci": 42,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "I.C. BUSTO A. \"E. DE AMICIS\" (Busto Arsizio)",
@@ -5839,7 +5595,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 24
    },
    {
     "nome": "I.C. BUSTO A.\"PERTINI\" (Busto Arsizio)",
@@ -5863,7 +5619,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 23
    },
    {
     "nome": "I.C. CARONNO P. \"A.DE GASPERI\" (Caronno Pertusella)",
@@ -5883,7 +5639,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 6
    },
    {
     "nome": "I.C. CASORATE S. \"TOSCANINI\" (Arsago Seprio)",
@@ -5903,7 +5659,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.C. CASSANO M.\"D. ALIGHIERI\" (Cassano Magnago)",
@@ -5927,7 +5683,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 23
    },
    {
     "nome": "I.C. CASSANO MAGNAGO \"II\"",
@@ -5947,7 +5703,7 @@
     ],
     "voci": 22,
     "trovati": 1,
-    "secondi": 22
+    "secondi": 21
    },
    {
     "nome": "I.C. CASTELLANZA",
@@ -5967,7 +5723,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 8
    },
    {
     "nome": "I.C. CASTIGLIONE OLONA (Gornate Olona)",
@@ -5983,23 +5739,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 7
-   },
-   {
-    "nome": "I.C. CAVARIA \"FERMI\" (Jerago Con Orago)",
-    "tipo": "Scuola",
-    "sito": "https://www.istitutocomprensivocavaria.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.istitutocomprensivocavaria.edu.it/"
-     }
-    ],
-    "voci": 1,
-    "trovati": 0,
-    "secondi": 5
+    "secondi": 8
    },
    {
     "nome": "I.C. COMERIO \"CAMPO DEI FIORI\" (Casciago)",
@@ -6051,7 +5791,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "I.C. GALLARATE \"DANTE\"",
@@ -6095,7 +5835,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.C. GALLARATE \"PONTI\"",
@@ -6111,7 +5851,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 9
    },
    {
     "nome": "I.C. GEMONIO \"E. CURTI\" (Cittiglio)",
@@ -6155,7 +5895,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "I.C. L. DA VINCI SOMMA LOMBARDO",
@@ -6171,7 +5911,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "I.C. LONATE CEP.\"S. D'ACQUISTO\" (Cairate)",
@@ -6187,7 +5927,7 @@
     ],
     "voci": 9,
     "trovati": 2,
-    "secondi": 38
+    "secondi": 39
    },
    {
     "nome": "I.C. LONATE POZZOLO \"CARMINATI\"",
@@ -6223,7 +5963,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "I.C. SARONNO \" DA VINCI\"",
@@ -6243,7 +5983,7 @@
     ],
     "voci": 20,
     "trovati": 1,
-    "secondi": 29
+    "secondi": 31
    },
    {
     "nome": "I.C. SOLBIATE OLONA \"A. MORO\"",
@@ -6274,42 +6014,6 @@
     "secondi": 8
    },
    {
-    "nome": "I.C. TRADATE \"GALILEO GALILEI\"",
-    "tipo": "Scuola",
-    "sito": "https://www.icgalileitradate.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/albo"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/print/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/print/albo"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/albo-pretorio/comitato-la-valutazione-dei-docenti"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lnx.icgalileitradate.edu.it/albo-pretorio/bandi-e-gare"
-     }
-    ],
-    "voci": 10,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "I.C. UBOLDO \" MANZONI\" (Origgio)",
     "tipo": "Scuola",
     "sito": "https://www.vaic852002@istruzione.gov.it/",
@@ -6322,24 +6026,8 @@
      }
     ],
     "voci": 45,
-    "trovati": 0,
+    "trovati": 1,
     "secondi": 31
-   },
-   {
-    "nome": "I.C.BUSTO A. \"N. TOMMASEO\" (Busto Arsizio)",
-    "tipo": "Scuola",
-    "sito": "https://www.bustotommaseo.edu.com/",
-    "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.edu.com/"
-     }
-    ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 3
    },
    {
     "nome": "I.C.CARDANO AL CAMPO",
@@ -6363,7 +6051,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 35
    },
    {
     "nome": "I.C.CASTRONNO E.DE AMICIS",
@@ -6379,7 +6067,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 7
    },
    {
     "nome": "I.C.GAZZADA \"DON CAGNOLA\" (Gazzada Schianno)",
@@ -6427,7 +6115,7 @@
     ],
     "voci": 21,
     "trovati": 1,
-    "secondi": 18
+    "secondi": 29
    },
    {
     "nome": "I.C.SOLBIATE ARNO GALVALIGI (Oggiona Con Santo Stefano)",
@@ -6467,7 +6155,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "I.P.S.S.C.T. \"P.VERRI\" -BUSTO ARSIZIO",
@@ -6507,7 +6195,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 30
    },
    {
     "nome": "I.S.I.S. \"DA VINCI-PASCOLI\" (Gallarate)",
@@ -6542,8 +6230,8 @@
      }
     ],
     "voci": 35,
-    "trovati": 3,
-    "secondi": 44
+    "trovati": 2,
+    "secondi": 45
    },
    {
     "nome": "IC CARAVATE \"G. E A. FRATTINI\"",
@@ -6591,7 +6279,7 @@
     ],
     "voci": 29,
     "trovati": 1,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "IS VALCERESIO (Bisuschio)",
@@ -6607,7 +6295,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "ISAAC NEWTON (Varese)",
@@ -6623,7 +6311,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "IST.COMP. DI VIGGIU' M. LONGHI (Saltrio)",
@@ -6667,7 +6355,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 5
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. 'B.LUINI' LUINO",
@@ -6683,7 +6371,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. ANGERA",
@@ -6707,7 +6395,7 @@
     ],
     "voci": 31,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 41
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. AZZATE 'L. DA VINCI'",
@@ -6727,7 +6415,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 26
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CANTELLO 'GIOVANNI XXIII'",
@@ -6751,7 +6439,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CISLAGO ' ALDO MORO'",
@@ -6767,7 +6455,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CUNARDO 'VACCAROSSI'",
@@ -6807,7 +6495,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. GERMIGNAGA",
@@ -6851,7 +6539,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 25
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. MESENZANA 'D. ZURETTI'",
@@ -6871,7 +6559,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. S. 'G.P.CLERICI'",
@@ -6915,7 +6603,23 @@
     ],
     "voci": 20,
     "trovati": 1,
-    "secondi": 28
+    "secondi": 45
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - I.C. UBOLDO ' MANZONI'",
+    "tipo": "Scuola",
+    "sito": "https://www.ic-manzoni-uboldo.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.ic-manzoni-uboldo.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. VEDANO OLONA 'S.PELLICO'",
@@ -6935,7 +6639,7 @@
     ],
     "voci": 98,
     "trovati": 2,
-    "secondi": 41
+    "secondi": 49
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. VENEGONO SUP.'G. MARCONI'",
@@ -6991,7 +6695,7 @@
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 35
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC VARESE 3 VIDOLETTI",
@@ -7007,7 +6711,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO VARESE 1 DON RIMOLDI",
@@ -7034,32 +6738,20 @@
     "tipo": "Scuola",
     "sito": "https://www.ipcverri.edu.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.ipcverri.edu.it/"
-     }
-    ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 2
-   },
-   {
-    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'CARLO ALBERTO DALLA CHIESA'",
-    "tipo": "Scuola",
-    "sito": "https://www.superiorisesto.edu.it/",
-    "esito": "letto",
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.superiorisesto.edu.it/"
+      "nome": "Albo",
+      "url": "https://ipcverri.edu.it/albo-pretorio-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://ipcverri.edu.it/albo-online/"
      }
     ],
-    "voci": 1,
+    "voci": 12,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 9
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'DON MILANI'",
@@ -7087,7 +6779,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - ISIS ANDREA PONTI",
@@ -7107,23 +6799,23 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 9
    },
    {
-    "nome": "ISTRUZIONE SECONDARIA SUPERIORE - JOHN M. KEYNES",
+    "nome": "ITET VARESE \"DAVERIO-CASULA-NERVI\"",
     "tipo": "Scuola",
-    "sito": "https://www.isiskeynes.edu.it/",
+    "sito": "https://www.itetvarese.edu.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
+    "motivo": "",
     "pagine": [
      {
       "nome": "Home",
-      "url": "https://www.isiskeynes.edu.it/"
+      "url": "https://www.itetvarese.edu.it/"
      }
     ],
-    "voci": 0,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 5
    },
    {
     "nome": "Istituto Comprensivo Statale IQBAL MASIH Malnate",
@@ -7133,13 +6825,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.comprensivomalnate.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.comprensivomalnate.edu.it/"
      }
     ],
-    "voci": 10,
-    "trovati": 3,
-    "secondi": 60
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "L. ART. \"CANDIANI\" - BUSTO ARSIZIO",
@@ -7156,22 +6848,6 @@
     "voci": 1,
     "trovati": 0,
     "secondi": 7
-   },
-   {
-    "nome": "L. SCIENT. \"G. FERRARIS\" - VARESE",
-    "tipo": "Scuola",
-    "sito": "https://www.liceoferrarisvarese.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.liceoferrarisvarese.edu.it/"
-     }
-    ],
-    "voci": 2,
-    "trovati": 0,
-    "secondi": 3
    },
    {
     "nome": "LIC. CLASSICO \"LEGNANI\" - SARONNO",
@@ -7191,23 +6867,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 19
-   },
-   {
-    "nome": "LICEO SCIENTIFICO \"CURIE\" - TRADATE",
-    "tipo": "Scuola",
-    "sito": "https://www.liceocurie.it/",
-    "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.liceocurie.edu.it/"
-     }
-    ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 10
+    "secondi": 17
    },
    {
     "nome": "LICEO SCIENTIFICO - L. SCIENT. 'SERENI' - LUINO",

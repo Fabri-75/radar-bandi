@@ -2,44 +2,44 @@
  {
   "sigla": "BG",
   "nome": "Bergamo",
-  "aggiornato": "2026-11-25T20:00:57.665933+00:00",
-  "avvisi": 168
+  "aggiornato": "2026-11-25T21:27:53.940528+00:00",
+  "avvisi": 115
  },
  {
   "sigla": "BS",
   "nome": "Brescia",
-  "aggiornato": "2026-11-25T20:03:28.246505+00:00",
-  "avvisi": 177
+  "aggiornato": "2026-11-25T21:29:33.270009+00:00",
+  "avvisi": 154
  },
  {
   "sigla": "CO",
   "nome": "Como",
-  "aggiornato": "2026-11-25T19:52:07.434723+00:00",
-  "avvisi": 60
+  "aggiornato": "2026-11-25T21:20:09.718887+00:00",
+  "avvisi": 57
  },
  {
   "sigla": "CR",
   "nome": "Cremona",
-  "aggiornato": "2026-11-25T19:54:48.098995+00:00",
-  "avvisi": 46
+  "aggiornato": "2026-11-25T21:22:50.278360+00:00",
+  "avvisi": 44
  },
  {
   "sigla": "LC",
   "nome": "Lecco",
-  "aggiornato": "2026-11-25T20:05:44.286400+00:00",
-  "avvisi": 58
+  "aggiornato": "2026-11-25T21:32:57.491729+00:00",
+  "avvisi": 53
  },
  {
   "sigla": "LO",
   "nome": "Lodi",
-  "aggiornato": "2026-11-25T20:03:57.477727+00:00",
-  "avvisi": 28
+  "aggiornato": "2026-11-25T21:30:58.592395+00:00",
+  "avvisi": 24
  },
  {
   "sigla": "MI",
   "nome": "Milano",
-  "aggiornato": "2026-11-25T20:32:35.443588+00:00",
-  "avvisi": 189
+  "aggiornato": "2026-11-25T22:01:06.654918+00:00",
+  "avvisi": 191
  },
  {
   "sigla": "MB",
@@ -50,19 +50,19 @@
  {
   "sigla": "PV",
   "nome": "Pavia",
-  "aggiornato": "2026-11-25T20:34:11.459408+00:00",
-  "avvisi": 58
+  "aggiornato": "2026-11-25T21:59:31.524511+00:00",
+  "avvisi": 49
  },
  {
   "sigla": "SO",
   "nome": "Sondrio",
-  "aggiornato": "2026-11-25T20:26:38.333153+00:00",
-  "avvisi": 39
+  "aggiornato": "2026-11-25T21:51:22.274016+00:00",
+  "avvisi": 33
  },
  {
   "sigla": "VA",
   "nome": "Varese",
-  "aggiornato": "2026-11-25T20:40:08.685598+00:00",
-  "avvisi": 56
+  "aggiornato": "2026-11-25T22:03:40.356654+00:00",
+  "avvisi": 46
  }
 ]

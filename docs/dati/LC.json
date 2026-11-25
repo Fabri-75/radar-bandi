@@ -3,10 +3,10 @@
   "sigla": "LC",
   "nome": "Lecco"
  },
- "aggiornato": "2026-11-25T20:05:44.286400+00:00",
+ "aggiornato": "2026-11-25T21:32:57.491729+00:00",
  "giorni": 60,
- "durata_minuti": 13,
- "richieste": 1078,
+ "durata_minuti": 12,
+ "richieste": 1099,
  "righe": [
   {
    "ente": "ISTITUTO COMPRENSIVO - IST. COMPRENSIVO BOSISIO PARINI",
@@ -122,36 +122,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Mandello del Lario",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE per l’individuazione dei soggetti da invitare alla procedura ristretta per l’affidamento in concessione amministrativa del Nuovo Centro Remiero e della struttura multifunzionale (area...",
-   "pubblicazione": "2026-11-12",
-   "scadenza": "2026-12-02",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "manifestazione di interesse",
-    "avviso pubblico",
-    "affidamento"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.mandello.lc.it/it-it/amministrazione/bandi-di-gara",
-   "fonti": [
-    {
-     "nome": "sito comune.mandello.lc.it",
-     "link": "https://www.comune.mandello.lc.it/it-it/amministrazione/bandi-di-gara"
-    }
-   ],
-   "esito": false,
-   "cig": "BBFFB07A99",
-   "cf": "00629950130",
-   "id": "e59a860f47d4",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Calco",
    "tipo": "Comune",
    "titolo": "Avviso chiusura natalizia Uffici Comunali",
@@ -183,35 +153,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Mandello del Lario",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico di manifestazione di interesse per l'individuazione di n. 1 esperto in materie elettrotecniche (e relativi supplenti) quale componente esterno della Commissione Comunale Associata di Vigilanza sui locali di pubblico...",
-   "pubblicazione": "2026-11-24",
-   "scadenza": "2026-12-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "manifestazione di interesse",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.mandello.lc.it/it-it/amministrazione/bandi-di-concorso",
-   "fonti": [
-    {
-     "nome": "sito comune.mandello.lc.it",
-     "link": "https://www.comune.mandello.lc.it/it-it/amministrazione/bandi-di-concorso"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00629950130",
-   "id": "e8d7f4f36ce2",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Robbiate",
    "tipo": "Comune",
    "titolo": "AVVISO – DIVIETO TEMPORALE DI SPANDIMENTO DEGLI EFFLUENTI DI ALLEVAMENTO",
@@ -220,21 +161,10 @@
    "importo": null,
    "partecipanti": "Associazioni / ETS",
    "motivi": [
-    "eventi culturali",
-    "manifestazioni culturali",
-    "disagio giovanile",
-    "bibliotec",
-    "scuola dell'infanzia",
-    "centri estivi",
-    "estate",
-    "estiv"
+    "disagio giovanile"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Legalita e temi civici",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica"
+    "Legalita e temi civici"
    ],
    "link": "https://comune.robbiate.lc.it/tipi_notizia/avviso/",
    "fonti": [
@@ -316,14 +246,10 @@
    "importo": "€ 100,00",
    "partecipanti": null,
    "motivi": [
-    "legalita",
-    "bibliotec",
-    "animazione"
+    "legalita"
    ],
    "temi": [
-    "Legalita e temi civici",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
+    "Legalita e temi civici"
    ],
    "link": "https://www.comune.carenno.lc.it/Novita/Avvisi/Util-Autunno-Valle-San-Martino-2026",
    "fonti": [
@@ -336,33 +262,6 @@
    "cig": null,
    "cf": "00330080169",
    "id": "846d5b6e8231",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Osnago",
-   "tipo": "Comune",
-   "titolo": "Servizi Abitativi Pubblici (SAP): aperto il bando 2026.",
-   "pubblicazione": "2026-10-11",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.osnago.lc.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.osnago.lc.it",
-     "link": "https://www.comune.osnago.lc.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00556800134",
-   "id": "2ea58fd6663c",
    "nuovo": false
   },
   {
@@ -1480,9 +1379,7 @@
    "partecipanti": null,
    "motivi": [
     "drammatizzazione",
-    "narrazione",
     "esperto esterno",
-    "inclusione",
     "selezione"
    ],
    "temi": [
@@ -1512,9 +1409,7 @@
    "partecipanti": null,
    "motivi": [
     "drammatizzazione",
-    "narrazione",
     "esperto esterno",
-    "inclusione",
     "selezione"
    ],
    "temi": [
@@ -1647,69 +1542,6 @@
    "cf": "94024420138",
    "id": "86cdeb6f557e",
    "nuovo": false
-  },
-  {
-   "ente": "Comune di Santa Maria Hoe'",
-   "tipo": "Comune",
-   "titolo": "Avviso Convocazione del Consiglio Comunale",
-   "pubblicazione": "2026-11-27",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "per bambini",
-    "estate",
-    "estiv",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://comune.santamariahoe.lc.it/tipi_notizia/avviso/",
-   "fonti": [
-    {
-     "nome": "sito comune.santamariahoe.lc.it",
-     "link": "https://comune.santamariahoe.lc.it/tipi_notizia/avviso/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "85001330134",
-   "id": "aec0737c6834",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Paderno D'Adda",
-   "tipo": "Comune",
-   "titolo": "AVVISO C.I.E. (Carta Identità Elettronica)",
-   "pubblicazione": "2026-12-06",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "per famiglie",
-    "estate"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://comune.padernodadda.lc.it/tipi_notizia/avviso/",
-   "fonti": [
-    {
-     "nome": "sito comune.padernodadda.lc.it",
-     "link": "https://comune.padernodadda.lc.it/tipi_notizia/avviso/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "85000710138",
-   "id": "d5a3d9b3cb44",
-   "nuovo": false
   }
  ],
  "copertura": {
@@ -1836,17 +1668,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Cernusco Lombardone",
-    "tipo": "Comune",
-    "sito": "https://www.comune.cernuscolombardone.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 28
-   },
-   {
     "nome": "Comune di Cesana Brianza",
     "tipo": "Comune",
     "sito": "https://www.comune.cesana-brianza.lc.it/",
@@ -1880,17 +1701,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Colle Brianza",
-    "tipo": "Comune",
-    "sito": "https://www.comune.collebrianza.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Crandola Valsassina",
     "tipo": "Comune",
     "sito": "https://www.comune.crandola.lc.it/",
@@ -1899,7 +1709,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di Cremella",
@@ -1935,17 +1745,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Dorio",
-    "tipo": "Comune",
-    "sito": "https://www.comune.dorio.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
-   },
-   {
     "nome": "Comune di Ello",
     "tipo": "Comune",
     "sito": "https://www.comune.ello.lc.it/",
@@ -1965,7 +1764,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 3
    },
    {
     "nome": "Comune di Garlate",
@@ -1977,17 +1776,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Imbersago",
-    "tipo": "Comune",
-    "sito": "https://www.comune.imbersago.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
    },
    {
     "nome": "Comune di Merate",
@@ -2067,17 +1855,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Oliveto Lario",
-    "tipo": "Comune",
-    "sito": "https://www.comune.olivetolario.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Pagnona",
     "tipo": "Comune",
     "sito": "https://www.comune.pagnona.lc.it/",
@@ -2089,17 +1866,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Parlasco",
-    "tipo": "Comune",
-    "sito": "https://www.comune.parlasco.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
-   },
-   {
     "nome": "Comune di Premana",
     "tipo": "Comune",
     "sito": "https://www.comune.premana.lc.it/",
@@ -2108,7 +1874,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 5
    },
    {
     "nome": "Comune di Sirone",
@@ -2133,17 +1899,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Sueglio",
-    "tipo": "Comune",
-    "sito": "https://www.comune.sueglio.lc.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
-   },
-   {
     "nome": "Comune di Valgreghentino",
     "tipo": "Comune",
     "sito": "https://www.comune.valgreghentino.lc.it/",
@@ -2163,7 +1918,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Varenna",
@@ -2218,7 +1973,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 52
    },
    {
     "nome": "I.C. CALOLZIOCORTE (Erve)",
@@ -2369,13 +2124,29 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.villagreppi.it/"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/villagreppi/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/villagreppi/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/villagreppi/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/villagreppi/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/villagreppi/zf/index.php/bandi-di-gara/atti-programmazione/index"
      }
     ],
-    "voci": 6,
+    "voci": 25,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 41
    },
    {
     "nome": "Unione Dei Comuni Lombarda della Valletta",
@@ -2421,19 +2192,23 @@
       "url": "https://www.comune.abbadia-lariana.lc.it/it/news?type=3"
      },
      {
+      "nome": "Albo",
+      "url": "https://abbadialariana.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://abbadialariana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7497"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://abbadialariana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=7497"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.abbadia-lariana.lc.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.abbadia-lariana.lc.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.abbadia-lariana.lc.it/it/page/137157"
      }
     ],
-    "voci": 147,
+    "voci": 131,
     "trovati": 0,
     "secondi": 36
    },
@@ -2531,7 +2306,7 @@
     ],
     "voci": 224,
     "trovati": 2,
-    "secondi": 67
+    "secondi": 65
    },
    {
     "nome": "Comune di Calolziocorte",
@@ -2559,7 +2334,7 @@
     ],
     "voci": 56,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "Comune di Carenno",
@@ -2583,7 +2358,7 @@
     ],
     "voci": 40,
     "trovati": 1,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "Comune di Casargo",
@@ -2650,6 +2425,70 @@
     "secondi": 27
    },
    {
+    "nome": "Comune di Cernusco Lombardone",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cernuscolombardone.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cernuscolombardone.lc.it/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cernuscolombardone.lc.it/c097020/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cernuscolombardone.lc.it/c097020/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cernuscolombardone.lc.it/c097020/zf/index.php/bandi-gara/bandi-gara/dettaglio-bando/table-bandi-gara-page/3/bando/299"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cernuscolombardone.lc.it/c097020/zf/index.php/uffici/index/detail/id/50"
+     }
+    ],
+    "voci": 18,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
+    "nome": "Comune di Colle Brianza",
+    "tipo": "Comune",
+    "sito": "https://www.comune.collebrianza.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.collebrianza.lc.it/c097024/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.collebrianza.lc.it/c097024/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.collebrianza.lc.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.collebrianza.lc.it/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.collebrianza.lc.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+     }
+    ],
+    "voci": 67,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
     "nome": "Comune di Cortenova",
     "tipo": "Comune",
     "sito": "https://www.comune.cortenova.lc.it/",
@@ -2667,11 +2506,23 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cortenova.lc.it/Novita/Notizie"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097025/zf/index.php/trasparenza"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097025/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097025/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 41,
+    "voci": 48,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 42
    },
    {
     "nome": "Comune di Costa Masnaga",
@@ -2691,11 +2542,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.costamasnaga.lc.it/tipi_notizia/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097026/zf/index.php/trasparenza/"
      }
     ],
-    "voci": 12,
+    "voci": 16,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 22
    },
    {
     "nome": "Comune di Dervio",
@@ -2734,6 +2589,22 @@
     "secondi": 45
    },
    {
+    "nome": "Comune di Dorio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.dorio.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.dorio.lc.it/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 3
+   },
+   {
     "nome": "Comune di Erve",
     "tipo": "Comune",
     "sito": "https://www.comune.erve.lc.it/",
@@ -2751,11 +2622,23 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.erve.lc.it/Novita/Comunicati"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c097034/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c097034/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c097034/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 54,
+    "voci": 63,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 49
    },
    {
     "nome": "Comune di Esino Lario",
@@ -2818,6 +2701,30 @@
     "secondi": 12
    },
    {
+    "nome": "Comune di Imbersago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.imbersago.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.imbersago.lc.it/c097039/zf/index.php/trasparenza/index/index/categoria/216"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.imbersago.lc.it/c097039/zf/index.php/servizi-aggiuntivi/index/index/idservizio/10028"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.imbersago.lc.it/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 22,
+    "trovati": 0,
+    "secondi": 14
+   },
+   {
     "nome": "Comune di Introbio",
     "tipo": "Comune",
     "sito": "https://www.comune.introbio.lc.it/",
@@ -2825,17 +2732,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c097040/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c097040/zf/index.php/trasparenza/index/index/categoria/78"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.introbio.lc.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.introbio.lc.it/novita/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097040/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097040/zf/index.php/bandi-gara/bandi-gara/bandi"
      }
     ],
-    "voci": 172,
+    "voci": 186,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 61
    },
    {
     "nome": "Comune di La Valletta Brianza",
@@ -2859,7 +2782,7 @@
     ],
     "voci": 53,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 9
    },
    {
     "nome": "Comune di Lecco",
@@ -2871,10 +2794,6 @@
      {
       "nome": "Albo",
       "url": "https://lecco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13470"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://lecco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13470"
      },
      {
       "nome": "Albo",
@@ -2893,9 +2812,9 @@
       "url": "https://www.comune.lecco.it/Novita/Notizie"
      }
     ],
-    "voci": 244,
+    "voci": 269,
     "trovati": 0,
-    "secondi": 204
+    "secondi": 213
    },
    {
     "nome": "Comune di Lierna",
@@ -2919,7 +2838,7 @@
     ],
     "voci": 32,
     "trovati": 1,
-    "secondi": 9
+    "secondi": 8
    },
    {
     "nome": "Comune di Lomagna",
@@ -2955,7 +2874,7 @@
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 19
    },
    {
     "nome": "Comune di Malgrate",
@@ -2965,33 +2884,25 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://malgrate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://malgrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13565"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://malgrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13564"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://malgrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13564"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.malgrate.lc.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.malgrate.lc.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.malgrate.lc.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://malgrate.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 54,
+    "voci": 70,
     "trovati": 0,
-    "secondi": 119
+    "secondi": 77
    },
    {
     "nome": "Comune di Mandello del Lario",
@@ -3026,7 +2937,7 @@
      }
     ],
     "voci": 118,
-    "trovati": 2,
+    "trovati": 0,
     "secondi": 53
    },
    {
@@ -3047,11 +2958,23 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.margno.lc.it/Novita/Notizie"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097047/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097047/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097047/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 32,
+    "voci": 37,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 37
    },
    {
     "nome": "Comune di Monte Marenzo",
@@ -3095,11 +3018,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.montevecchia.lc.it/Novita/Comunicati"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c097053/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 44,
+    "voci": 47,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 18
    },
    {
     "nome": "Comune di Monticello Brianza",
@@ -3135,7 +3062,7 @@
     ],
     "voci": 45,
     "trovati": 3,
-    "secondi": 54
+    "secondi": 52
    },
    {
     "nome": "Comune di Nibionno",
@@ -3159,7 +3086,7 @@
     ],
     "voci": 39,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 12
    },
    {
     "nome": "Comune di Olgiate Molgora",
@@ -3171,10 +3098,6 @@
      {
       "nome": "Albo",
       "url": "https://olgiatemolgora.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=52389"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://olgiatemolgora.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=52389"
      },
      {
       "nome": "Albo",
@@ -3191,11 +3114,51 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.olgiatemolgora.lc.it/Novita/Comunicati"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://olgiatemolgora.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 36,
+    "voci": 39,
     "trovati": 1,
-    "secondi": 51
+    "secondi": 34
+   },
+   {
+    "nome": "Comune di Oliveto Lario",
+    "tipo": "Comune",
+    "sito": "https://www.comune.olivetolario.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.olivetolario.lc.it/c097060/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti/page/2"
+     }
+    ],
+    "voci": 72,
+    "trovati": 0,
+    "secondi": 21
    },
    {
     "nome": "Comune di Osnago",
@@ -3213,6 +3176,10 @@
       "url": "https://osnago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12558"
      },
      {
+      "nome": "Albo",
+      "url": "https://osnago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12558"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.osnago.lc.it/it/news?type=3"
      },
@@ -3223,15 +3190,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.osnago.lc.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://osnago.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 158,
-    "trovati": 3,
-    "secondi": 52
+    "voci": 155,
+    "trovati": 2,
+    "secondi": 72
    },
    {
     "nome": "Comune di Paderno D'Adda",
@@ -3254,8 +3217,24 @@
      }
     ],
     "voci": 46,
-    "trovati": 1,
+    "trovati": 0,
     "secondi": 18
+   },
+   {
+    "nome": "Comune di Parlasco",
+    "tipo": "Comune",
+    "sito": "https://www.comune.parlasco.lc.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.comune.parlasco.lc.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
    },
    {
     "nome": "Comune di Pasturo",
@@ -3303,7 +3282,7 @@
     ],
     "voci": 49,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Pescate",
@@ -3339,7 +3318,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 54
    },
    {
     "nome": "Comune di Primaluna",
@@ -3403,7 +3382,7 @@
     ],
     "voci": 2,
     "trovati": 1,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Santa Maria Hoe'",
@@ -3430,8 +3409,36 @@
      }
     ],
     "voci": 70,
-    "trovati": 1,
-    "secondi": 26
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Sueglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sueglio.lc.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sueglio.lc.it/c097077/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sueglio.lc.it/c097077/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sueglio.lc.it/c097077/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sueglio.lc.it/c097077/zf/index.php/trasparenza/index/index/categoria/85"
+     }
+    ],
+    "voci": 24,
+    "trovati": 0,
+    "secondi": 11
    },
    {
     "nome": "Comune di Suello",
@@ -3455,7 +3462,7 @@
     ],
     "voci": 51,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 13
    },
    {
     "nome": "Comune di Taceno",
@@ -3489,18 +3496,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://valmadrera.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13658"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://form.agid.gov.it/c_l634/comune_di_valmadrera_-_albo_pretorio_e_amministrazione_trasparente/dichiarazione"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://valmadrera.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.valmadrera.lc.it/it/news?type=3"
      },
@@ -3511,11 +3506,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.valmadrera.lc.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://valmadrera.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 128,
+    "voci": 131,
     "trovati": 0,
-    "secondi": 94
+    "secondi": 105
    },
    {
     "nome": "Comune di Vercurago",
@@ -3539,7 +3538,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 8
    },
    {
     "nome": "Comune di Verderio",
@@ -3563,11 +3562,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.verderio.lc.it/tipi_notizia/news/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/verderio/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 13,
+    "voci": 16,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 27
    },
    {
     "nome": "Comune di Vigano'",
@@ -3591,7 +3594,7 @@
     ],
     "voci": 43,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 15
    },
    {
     "nome": "ALESSANDRO GREPPI MONTICELLO (Monticello Brianza)",
@@ -3635,7 +3638,7 @@
     ],
     "voci": 77,
     "trovati": 2,
-    "secondi": 138
+    "secondi": 135
    },
    {
     "nome": "CPIA FABRIZIO DE ANDRE' (Lecco)",
@@ -3715,7 +3718,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "I.C. BARZANO'",
@@ -3767,7 +3770,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "I.C. CASATENOVO",
@@ -3795,7 +3798,7 @@
     ],
     "voci": 49,
     "trovati": 1,
-    "secondi": 120
+    "secondi": 115
    },
    {
     "nome": "I.C. CERNUSCO LOMBARDONE (Lomagna)",
@@ -3823,7 +3826,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 21
    },
    {
     "nome": "I.C. CIVATE (Suello)",
@@ -3843,7 +3846,7 @@
     ],
     "voci": 79,
     "trovati": 1,
-    "secondi": 139
+    "secondi": 130
    },
    {
     "nome": "I.C. GALBIATE",
@@ -3867,7 +3870,7 @@
     ],
     "voci": 91,
     "trovati": 2,
-    "secondi": 86
+    "secondi": 73
    },
    {
     "nome": "I.C. MOLTENO (Rogeno)",
@@ -3895,7 +3898,7 @@
     ],
     "voci": 34,
     "trovati": 3,
-    "secondi": 117
+    "secondi": 87
    },
    {
     "nome": "I.C. OLGIATE MOLGORA",
@@ -3923,7 +3926,7 @@
     ],
     "voci": 87,
     "trovati": 2,
-    "secondi": 99
+    "secondi": 76
    },
    {
     "nome": "I.C. ROBBIATE",
@@ -3967,7 +3970,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "I.C. VALMADRERA",
@@ -3991,7 +3994,7 @@
     ],
     "voci": 158,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 23
    },
    {
     "nome": "I.C.S. DON G. TICOZZI - LECCO 2",
@@ -4019,7 +4022,7 @@
     ],
     "voci": 39,
     "trovati": 2,
-    "secondi": 76
+    "secondi": 90
    },
    {
     "nome": "I.I.S. \"GIOVANNI BERTACCHI\" LECCO",
@@ -4043,7 +4046,7 @@
     ],
     "voci": 48,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 13
    },
    {
     "nome": "ICS Cassago Brianza Agostino di Ippona",
@@ -4091,7 +4094,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 73
    },
    {
     "nome": "ISTITUTO COMPRENSIVO \"FALCONE E BORSELLINO\" LECCO 1",
@@ -4115,7 +4118,7 @@
     ],
     "voci": 169,
     "trovati": 8,
-    "secondi": 221
+    "secondi": 222
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - DI CALOLZIOCORTE",
@@ -4131,7 +4134,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - DI COLICO",
@@ -4163,7 +4166,7 @@
     ],
     "voci": 15,
     "trovati": 2,
-    "secondi": 15
+    "secondi": 22
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. M. D'OGGIONO - OGGIONO",
@@ -4183,7 +4186,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 18
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C.S. 'GIOVANNI 23' PREMANA",
@@ -4207,7 +4210,7 @@
     ],
     "voci": 64,
     "trovati": 0,
-    "secondi": 123
+    "secondi": 125
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C.S. G.CARDUCCI - OLGINATE",
@@ -4315,7 +4318,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 77
+    "secondi": 76
    },
    {
     "nome": "ISTITUTO PROFESSIONALE PER I SERVIZI COMMERCIALI E TURISTICI - GRAZIELLA FUMAGALLI",
@@ -4339,7 +4342,7 @@
     ],
     "voci": 35,
     "trovati": 2,
-    "secondi": 121
+    "secondi": 125
    },
    {
     "nome": "ISTITUTO SUPERIORE P. A. FIOCCHI (Lecco)",
@@ -4419,7 +4422,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "Ic Rita Levi - Montalcini",
@@ -4443,7 +4446,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 135
+    "secondi": 134
    },
    {
     "nome": "Istituto Comprensivo Statale di La Valletta Brianza",
@@ -4467,7 +4470,7 @@
     ],
     "voci": 42,
     "trovati": 0,
-    "secondi": 288
+    "secondi": 293
    },
    {
     "nome": "Istituto Istruzione Superiore Medardo Rosso",
@@ -4495,7 +4498,7 @@
     ],
     "voci": 294,
     "trovati": 4,
-    "secondi": 211
+    "secondi": 212
    },
    {
     "nome": "LICEO SCIENTIFICO E MUSICALE G.B. GRASSI (Lecco)",
@@ -4543,7 +4546,7 @@
     ],
     "voci": 29,
     "trovati": 3,
-    "secondi": 288
+    "secondi": 283
    },
    {
     "nome": "MARCO POLO COLICO",
@@ -4563,7 +4566,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    }
   ],
   "fonti": [

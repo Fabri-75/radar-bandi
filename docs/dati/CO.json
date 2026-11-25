@@ -3,10 +3,10 @@
   "sigla": "CO",
   "nome": "Como"
  },
- "aggiornato": "2026-11-25T19:52:07.434723+00:00",
+ "aggiornato": "2026-11-25T21:20:09.718887+00:00",
  "giorni": 60,
  "durata_minuti": 12,
- "richieste": 1420,
+ "richieste": 1379,
  "righe": [
   {
    "ente": "I.C. APPIANO GENTILE",
@@ -157,11 +157,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "ptof",
     "mafie"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici"
    ],
    "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-giochi-matematici-scuola-secondaria-202627",
@@ -186,11 +184,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "ptof",
     "mafie"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici"
    ],
    "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-ket-scuola-secondaria-202627",
@@ -215,11 +211,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "ptof",
     "mafie"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici"
    ],
    "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-karate-scuola-classi-prime-seconde-e-terze-scuola-0",
@@ -364,17 +358,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "rassegn",
-    "per bambini",
-    "per famiglie",
-    "natalizi",
-    "natalizie"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie",
-    "Natale"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.comune.beregazzoconfigliaro.co.it/Notizie?idCat=1",
    "fonti": [
@@ -427,10 +414,7 @@
    "partecipanti": null,
    "motivi": [
     "piano estate",
-    "inclusione",
     "mafie",
-    "estate",
-    "estiv",
     "selezione"
    ],
    "temi": [
@@ -487,11 +471,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "ptof",
     "mafie"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici"
    ],
    "link": "https://www.iccermenate.edu.it/albo-pretorio/decreto-di-nomina-progetto-di-educazione-alla-lettura-emotiva-202627",
@@ -516,13 +498,9 @@
    "importo": "€ 2.231.000,00",
    "partecipanti": null,
    "motivi": [
-    "rassegn",
-    "inclusione",
     "concert"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Laboratori nelle scuole",
     "Estate e musica"
    ],
    "link": "https://www.comune.valsolda.co.it/avvisi/la-carta-dedicata-a-te-2026/",
@@ -536,66 +514,6 @@
    "cig": null,
    "cf": "00598360139",
    "id": "5a19c98993a9",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Como",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per la concessione di contributi a sostegno del pagamento delle utenze domestiche e per l'avvio di un nuovo contratto in locazione",
-   "pubblicazione": "2026-10-12",
-   "scadenza": "2027-01-24",
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "natalizi",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.como.it/novita/avvisi/",
-   "fonti": [
-    {
-     "nome": "sito comune.como.it",
-     "link": "https://www.comune.como.it/novita/avvisi/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80005370137",
-   "id": "6e45d9bf63ba",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Como",
-   "tipo": "Comune",
-   "titolo": "Presentazione di candidature per la partecipazione al progetto \"Student exchange Como Tokamachi\". Edizione 2026-2027",
-   "pubblicazione": "2026-10-26",
-   "scadenza": "2027-01-24",
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "natalizi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.como.it/novita/avvisi/",
-   "fonti": [
-    {
-     "nome": "sito comune.como.it",
-     "link": "https://www.comune.como.it/novita/avvisi/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80005370137",
-   "id": "d4ae5ae035ee",
    "nuovo": false
   },
   {
@@ -625,35 +543,6 @@
    "cig": null,
    "cf": "80005370137",
    "id": "eb8761b98d8a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Como",
-   "tipo": "Comune",
-   "titolo": "Open Masters Games Como Lake 2027: secondo avviso del Comune di Lecco per l'individuazione di sponsorizzazioni",
-   "pubblicazione": "2026-11-17",
-   "scadenza": "2027-01-24",
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "natalizi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.como.it/novita/avvisi/",
-   "fonti": [
-    {
-     "nome": "sito comune.como.it",
-     "link": "https://www.comune.como.it/novita/avvisi/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80005370137",
-   "id": "5b5e1a1b841e",
    "nuovo": false
   },
   {
@@ -711,6 +600,33 @@
    "cig": null,
    "cf": "81003850138",
    "id": "810213c322d7",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. OLGIATE COMASCO",
+   "tipo": "Scuola",
+   "titolo": "VII.6 - Obiettivi, incarichi, valutazione e disciplina",
+   "pubblicazione": "2026-10-26",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "educazione civica"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/17452/documento/COIC80700A",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/17452/documento/COIC80700A"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80013700135",
+   "id": "9e47d50d4ff2",
    "nuovo": false
   },
   {
@@ -778,12 +694,10 @@
    "partecipanti": null,
    "motivi": [
     "esperto esterno",
-    "natale",
     "selezione"
    ],
    "temi": [
-    "Laboratori nelle scuole",
-    "Natale"
+    "Laboratori nelle scuole"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/10229/documento/COIC83900T",
    "fonti": [
@@ -796,33 +710,6 @@
    "cig": null,
    "cf": "90020540135",
    "id": "51a9cbbc8995",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Olgiate Comasco",
-   "tipo": "Comune",
-   "titolo": "REALIZZAZIONE RAPPRESENTAZIONE TEATRALE IN OCCASIONE DELLA GIORNATA INTERNAZIONALE CONTRO LA VIOLENZA SULLE DONNE",
-   "pubblicazione": "2026-11-03",
-   "scadenza": null,
-   "importo": "€ 1.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "teatr"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://olgiate-comasco.portaletrasparenza.net/dettagli/attodigara/1838/realizzazione-rappresentazione-teatrale-in-occasione-della-giornata-internazionale-contro-la-violenza-sulle-donne.html",
-   "fonti": [
-    {
-     "nome": "sito olgiate-comasco.portaletrasparenza.net",
-     "link": "https://olgiate-comasco.portaletrasparenza.net/dettagli/attodigara/1838/realizzazione-rappresentazione-teatrale-in-occasione-della-giornata-internazionale-contro-la-violenza-sulle-donne.html"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00417080132",
-   "id": "eba1d2b4b3ea",
    "nuovo": false
   },
   {
@@ -1183,6 +1070,34 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Cabiate",
+   "tipo": "Comune",
+   "titolo": "CONCESSIONE CONTRIBUTO 2026 AL CORPO MUSICALE SANTA CECILIA APS - CABIATE.",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "musical",
+    "musicale"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio/-/papca/display/8511778",
+   "fonti": [
+    {
+     "nome": "sito cabiate.trasparenza-valutazione-merito.it",
+     "link": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio/-/papca/display/8511778"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00652960139",
+   "id": "af672628f41f",
+   "nuovo": false
+  },
+  {
    "ente": "IC CAPIAGO INTIMIANO (Senna Comasco)",
    "tipo": "Scuola",
    "titolo": "AVVISO di SELEZIONE - PROGETTO MUSICALE PRIMARIA MONTORFANO - a.s.26-27",
@@ -1379,38 +1294,6 @@
    "nuovo": false
   },
   {
-   "ente": "ISTITUTO COMPRENSIVO - IC PONTE LAMBRO",
-   "tipo": "Scuola",
-   "titolo": "Ragazzi, si parte!! Open day dell’I.C. di Ponte Lambro",
-   "pubblicazione": "2026-11-21",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "bibliotec",
-    "estate",
-    "pon"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Lettura e biblioteche",
-    "Estate e musica"
-   ],
-   "link": "https://icpontelambro.edu.it/ragazzi-si-parte-open-day-delli-c-di-ponte-lambro/",
-   "fonti": [
-    {
-     "nome": "sito icpontelambro.edu.it",
-     "link": "https://icpontelambro.edu.it/ragazzi-si-parte-open-day-delli-c-di-ponte-lambro/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82006820136",
-   "id": "17625327e8f0",
-   "nuovo": false
-  },
-  {
    "ente": "ISTITUTO COMPRENSIVO - IST. COMP. COMO CENTRO CITTA'",
    "tipo": "Scuola",
    "titolo": "Avviso esperti esterni \"Piano Estate\"",
@@ -1496,34 +1379,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Lurate Caccivio",
-   "tipo": "Comune",
-   "titolo": "CONTRIBUTI PER IL PAGAMENTO DELLE RETTE DI FREQUENZA - SCUOLE DELL'INFANZIA - A.S. 2026/2027 - SETTEMBRE 2026 - GIUGNO 2027 (IV PROVVEDIMENTO).",
-   "pubblicazione": "2026-11-25",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuole dell'infanzia",
-    "contributi"
-   ],
-   "temi": [
-    "Infanzia e famiglie"
-   ],
-   "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920",
-   "fonti": [
-    {
-     "nome": "sito luratecaccivio.trasparenza-valutazione-merito.it",
-     "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00415790138",
-   "id": "28255d4dc594",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Olgiate Comasco",
    "tipo": "Comune",
    "titolo": "DETERMINA A CONTRARRE CON CONTESTUALE AFFIDAMENTO DIRETTO DEL SERVIZIO DI ORGANIZZAZIONE DEL CONCERTO NATALIZIO POMERIDIANO IN PIAZZA ITALIA 19.12.2026 – CIG: BDF4E07791",
@@ -1551,6 +1406,34 @@
    "cig": "BDF4E07791",
    "cf": "00417080132",
    "id": "518a77f7d57f",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Lurate Caccivio",
+   "tipo": "Comune",
+   "titolo": "CONTRIBUTI PER IL PAGAMENTO DELLE RETTE DI FREQUENZA - SCUOLE DELL'INFANZIA - A.S. 2026/2027 - SETTEMBRE 2026 - GIUGNO 2027 (IV PROVVEDIMENTO).",
+   "pubblicazione": "2026-11-25",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuole dell'infanzia",
+    "contributi"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920",
+   "fonti": [
+    {
+     "nome": "sito luratecaccivio.trasparenza-valutazione-merito.it",
+     "link": "https://luratecaccivio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10666920"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00415790138",
+   "id": "28255d4dc594",
    "nuovo": false
   },
   {
@@ -1773,7 +1656,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Consorzio Depurazione Acque Reflue Comprensorio Torrente Livescia",
@@ -1793,7 +1676,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 28
    },
    {
     "nome": "Unione Dei Comuni Lombarda Lario e Monti",
@@ -1848,7 +1731,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 28
    },
    {
     "nome": "Comune di Alzate Brianza",
@@ -2200,7 +2083,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 27
    },
    {
     "nome": "Comune di Dizzasco",
@@ -2288,7 +2171,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 1
    },
    {
     "nome": "Comune di Gera Lario",
@@ -2321,7 +2204,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Inverigo",
@@ -2332,7 +2215,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 1
    },
    {
     "nome": "Comune di Laglio",
@@ -2365,7 +2248,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di Lasnigo",
@@ -2398,7 +2281,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 6
    },
    {
     "nome": "Comune di Lipomo",
@@ -2420,7 +2303,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Locate Varesino",
@@ -2431,7 +2314,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Lomazzo",
@@ -2442,7 +2325,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Longone al Segrino",
@@ -2464,7 +2347,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 3
    },
    {
     "nome": "Comune di Maslianico",
@@ -2475,7 +2358,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 28
    },
    {
     "nome": "Comune di Menaggio",
@@ -2541,7 +2424,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Mozzate",
@@ -2585,7 +2468,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 5
    },
    {
     "nome": "Comune di Peglio",
@@ -2596,7 +2479,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Pianello del Lario",
@@ -2673,7 +2556,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Rodero",
@@ -2695,7 +2578,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "Comune di Rovello Porro",
@@ -2706,7 +2589,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 5
    },
    {
     "nome": "Comune di Sala Comacina",
@@ -2717,7 +2600,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 27
    },
    {
     "nome": "Comune di San Fermo della Battaglia",
@@ -2728,7 +2611,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 5
    },
    {
     "nome": "Comune di Sorico",
@@ -2750,7 +2633,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 5
    },
    {
     "nome": "Comune di Stazzona",
@@ -2772,7 +2655,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 4
    },
    {
     "nome": "Comune di Torno",
@@ -2827,7 +2710,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 1
    },
    {
     "nome": "Comune di Vercana",
@@ -2838,7 +2721,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 7
    },
    {
     "nome": "Comune di Vertemate con Minoprio",
@@ -3058,7 +2941,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "Comune di Albiolo",
@@ -3106,7 +2989,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "Comune di Bene Lario",
@@ -3130,7 +3013,7 @@
     ],
     "voci": 97,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 20
    },
    {
     "nome": "Comune di Beregazzo Con Figliaro",
@@ -3166,7 +3049,7 @@
     ],
     "voci": 132,
     "trovati": 6,
-    "secondi": 33
+    "secondi": 48
    },
    {
     "nome": "Comune di Binago",
@@ -3190,7 +3073,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 32
    },
    {
     "nome": "Comune di Bizzarone",
@@ -3214,7 +3097,7 @@
     ],
     "voci": 49,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 13
    },
    {
     "nome": "Comune di Brunate",
@@ -3250,7 +3133,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 15
    },
    {
     "nome": "Comune di Cabiate",
@@ -3259,6 +3142,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cabiate.co.it/Novita/Avvisi"
@@ -3276,9 +3163,9 @@
       "url": "https://cabiate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 22,
-    "trovati": 0,
-    "secondi": 13
+    "voci": 45,
+    "trovati": 1,
+    "secondi": 18
    },
    {
     "nome": "Comune di Carimate",
@@ -3296,6 +3183,10 @@
       "url": "https://carimate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=23041"
      },
      {
+      "nome": "Albo",
+      "url": "https://carimate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=23041"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.carimate.co.it/it/news?type=3"
      },
@@ -3306,15 +3197,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.carimate.co.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.carimate.co.it/it/news?type=1"
      }
     ],
-    "voci": 59,
+    "voci": 44,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 23
    },
    {
     "nome": "Comune di Carugo",
@@ -3350,7 +3237,7 @@
     ],
     "voci": 47,
     "trovati": 3,
-    "secondi": 62
+    "secondi": 29
    },
    {
     "nome": "Comune di Cassina Rizzardi",
@@ -3386,7 +3273,7 @@
     ],
     "voci": 86,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "Comune di Castelnuovo Bozzente",
@@ -3418,7 +3305,7 @@
     ],
     "voci": 39,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 28
    },
    {
     "nome": "Comune di Cavargna",
@@ -3442,7 +3329,7 @@
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 15
    },
    {
     "nome": "Comune di Cermenate",
@@ -3452,25 +3339,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3212"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3212"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3213"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cermenate.co.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cermenate.co.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cermenate.co.it/it/news?type=2"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://cermenate.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 47,
+    "voci": 22,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 13
    },
    {
     "nome": "Comune di Claino con Osteno",
@@ -3498,7 +3393,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "Comune di Colonno",
@@ -3520,10 +3415,6 @@
       "url": "https://www.comune.colonno.co.it/it/menu/news"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.colonno.co.it/it/news?type=2"
-     },
-     {
       "nome": "Trasparenza",
       "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/trasparenza/trasparenzaamministrativa.aspx"
      },
@@ -3532,9 +3423,9 @@
       "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscolonno/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=220"
      }
     ],
-    "voci": 79,
+    "voci": 64,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 59
    },
    {
     "nome": "Comune di Colverde",
@@ -3558,7 +3449,7 @@
     ],
     "voci": 235,
     "trovati": 1,
-    "secondi": 52
+    "secondi": 53
    },
    {
     "nome": "Comune di Como",
@@ -3589,8 +3480,8 @@
      }
     ],
     "voci": 21,
-    "trovati": 7,
-    "secondi": 23
+    "trovati": 1,
+    "secondi": 20
    },
    {
     "nome": "Comune di Cucciago",
@@ -3614,7 +3505,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "Comune di Erba",
@@ -3626,6 +3517,10 @@
      {
       "nome": "Albo",
       "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12070"
      },
      {
       "nome": "Albo",
@@ -3642,15 +3537,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.erba.co.it/it/news?type=2"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://erba.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 105,
+    "voci": 84,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 27
    },
    {
     "nome": "Comune di Faloppio",
@@ -3686,7 +3577,7 @@
     ],
     "voci": 73,
     "trovati": 3,
-    "secondi": 60
+    "secondi": 61
    },
    {
     "nome": "Comune di Figino Serenza",
@@ -3834,7 +3725,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 23
    },
    {
     "nome": "Comune di Luisago",
@@ -3934,7 +3825,7 @@
     ],
     "voci": 202,
     "trovati": 1,
-    "secondi": 85
+    "secondi": 66
    },
    {
     "nome": "Comune di Magreglio",
@@ -3998,7 +3889,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 14
    },
    {
     "nome": "Comune di Montano Lucino",
@@ -4032,9 +3923,9 @@
       "url": "https://montanolucino.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 81,
+    "voci": 101,
     "trovati": 1,
-    "secondi": 64
+    "secondi": 45
    },
    {
     "nome": "Comune di Nesso",
@@ -4058,7 +3949,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "Comune di Novedrate",
@@ -4068,25 +3959,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/atti-amministrativi"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2008"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2007"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2008"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2007"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.novedrate.co.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.novedrate.co.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.novedrate.co.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://novedrate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 131,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 17
    },
    {
     "nome": "Comune di Olgiate Comasco",
@@ -4101,7 +4000,7 @@
      },
      {
       "nome": "Bandi/avvisi",
-      "url": "https://olgiate-comasco.portaletrasparenza.net/it/trasparenza/bandi-di-gara-e-contratti.html"
+      "url": "http://www.google.com"
      },
      {
       "nome": "Bandi/avvisi",
@@ -4117,12 +4016,12 @@
      },
      {
       "nome": "Trasparenza",
-      "url": "https://olgiate-comasco.portaletrasparenza.net/"
+      "url": "http://www.google.com"
      }
     ],
-    "voci": 79,
-    "trovati": 4,
-    "secondi": 79
+    "voci": 64,
+    "trovati": 3,
+    "secondi": 43
    },
    {
     "nome": "Comune di Ponte Lambro",
@@ -4156,9 +4055,9 @@
       "url": "https://www.comune.pontelambro.co.it/it/menu/news"
      }
     ],
-    "voci": 43,
+    "voci": 28,
     "trovati": 0,
-    "secondi": 77
+    "secondi": 11
    },
    {
     "nome": "Comune di Porlezza",
@@ -4186,7 +4085,7 @@
     ],
     "voci": 135,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 36
    },
    {
     "nome": "Comune di Pusiano",
@@ -4208,9 +4107,9 @@
       "url": "https://comune.pusiano.co.it/tipi_notizia/news/"
      }
     ],
-    "voci": 135,
+    "voci": 136,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 31
    },
    {
     "nome": "Comune di San Bartolomeo Val Cavargna",
@@ -4234,7 +4133,7 @@
     ],
     "voci": 84,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 118
    },
    {
     "nome": "Comune di San Nazzaro Val Cavargna",
@@ -4258,7 +4157,7 @@
     ],
     "voci": 62,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "Comune di San Siro",
@@ -4314,7 +4213,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 20
    },
    {
     "nome": "Comune di Solbiate Con Cagno",
@@ -4323,10 +4222,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=slbtcncgn1427"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.solbiateconcagno.co.it/Bandigare?Tipo=1"
@@ -4346,11 +4241,15 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.solbiateconcagno.co.it/Menu?IDVoceMenu=108988"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.solbiateconcagno.co.it/Menu?IDDettaglio=108998"
      }
     ],
     "voci": 64,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 41
    },
    {
     "nome": "Comune di Turate",
@@ -4381,12 +4280,12 @@
      },
      {
       "nome": "Bandi/avvisi",
-      "url": "https://comune.turate.co.it/it/news?type=3"
+      "url": "https://www.comune.turate.co.it/it/news?type=3"
      }
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 14
    },
    {
     "nome": "Comune di Uggiate con Ronago",
@@ -4422,7 +4321,7 @@
     ],
     "voci": 82,
     "trovati": 0,
-    "secondi": 54
+    "secondi": 50
    },
    {
     "nome": "Comune di Val Rezzo",
@@ -4446,7 +4345,7 @@
     ],
     "voci": 68,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "Comune di Valmorea",
@@ -4482,7 +4381,7 @@
     ],
     "voci": 140,
     "trovati": 0,
-    "secondi": 129
+    "secondi": 124
    },
    {
     "nome": "Comune di Valsolda",
@@ -4510,7 +4409,7 @@
     ],
     "voci": 107,
     "trovati": 5,
-    "secondi": 68
+    "secondi": 74
    },
    {
     "nome": "Comune di Veleso",
@@ -4534,7 +4433,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "Comune di Villa Guardia",
@@ -4553,24 +4452,24 @@
      },
      {
       "nome": "Albo",
+      "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=28441"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=28442"
+     },
+     {
+      "nome": "Albo",
       "url": "https://villaguardia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=28441"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.villaguardia.co.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.villaguardia.co.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.villaguardia.co.it/it/news?type=1"
      }
     ],
-    "voci": 140,
+    "voci": 20,
     "trovati": 0,
-    "secondi": 54
+    "secondi": 15
    },
    {
     "nome": "Comune di Zelbio",
@@ -4594,7 +4493,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "A.SANT'ELIA (Cantu')",
@@ -4626,7 +4525,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 19
    },
    {
     "nome": "CPIA 1 COMO (Lomazzo)",
@@ -4642,7 +4541,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 25
    },
    {
     "nome": "ENRICO FERMI (Cantu')",
@@ -4658,7 +4557,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 20
    },
    {
     "nome": "G.PESSINA (Como)",
@@ -4674,7 +4573,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 49
+    "secondi": 40
    },
    {
     "nome": "GIUSEPPE TERRAGNI (Olgiate Comasco)",
@@ -4694,7 +4593,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 25
    },
    {
     "nome": "I.C. \"DON ROBERTO MALGESINI\" (Peglio)",
@@ -4738,7 +4637,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 20
    },
    {
     "nome": "I.C. APPIANO GENTILE",
@@ -4770,7 +4669,7 @@
     ],
     "voci": 15,
     "trovati": 1,
-    "secondi": 21
+    "secondi": 19
    },
    {
     "nome": "I.C. CADORAGO (Guanzate)",
@@ -4786,7 +4685,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 12
    },
    {
     "nome": "I.C. CANTU' 2",
@@ -4802,7 +4701,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "I.C. COMO ALBATE",
@@ -4818,7 +4717,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 28
    },
    {
     "nome": "I.C. COMO BORGOVICO",
@@ -4842,7 +4741,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "I.C. COMO LAGO",
@@ -4862,7 +4761,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 29
    },
    {
     "nome": "I.C. COMO LORA-LIPOMO",
@@ -4878,7 +4777,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 90
+    "secondi": 82
    },
    {
     "nome": "I.C. DELLA TREMEZZINA (Argegno)",
@@ -4894,7 +4793,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 15
    },
    {
     "nome": "I.C. FIGINO SERENZA (Carimate)",
@@ -4914,7 +4813,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "I.C. FINO MORNASCO (Cassina Rizzardi)",
@@ -4938,7 +4837,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "I.C. G. PUECHER DI ERBA",
@@ -4962,7 +4861,7 @@
     ],
     "voci": 48,
     "trovati": 1,
-    "secondi": 41
+    "secondi": 33
    },
    {
     "nome": "I.C. LURAGO D'ERBA (Alserio)",
@@ -4978,7 +4877,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 25
    },
    {
     "nome": "I.C. LURATE CACCIVIO",
@@ -4994,7 +4893,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 29
    },
    {
     "nome": "I.C. MAGISTRI INTELVESI (Centro Valle Intelvi)",
@@ -5010,7 +4909,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "I.C. MENAGGIO",
@@ -5030,7 +4929,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 125
+    "secondi": 120
    },
    {
     "nome": "I.C. MONS. A. PIROVANO (Merone)",
@@ -5046,7 +4945,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 23
    },
    {
     "nome": "I.C. MOZZATE (Carbonate)",
@@ -5070,7 +4969,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 14
    },
    {
     "nome": "I.C. OLGIATE COMASCO",
@@ -5093,8 +4992,8 @@
      }
     ],
     "voci": 16,
-    "trovati": 0,
-    "secondi": 20
+    "trovati": 1,
+    "secondi": 12
    },
    {
     "nome": "I.C. PORLEZZA (Corrido)",
@@ -5114,7 +5013,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 22
    },
    {
     "nome": "I.C. ROVELLASCA",
@@ -5130,7 +5029,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 33
    },
    {
     "nome": "I.C. TAVERNERIO",
@@ -5170,7 +5069,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 11
    },
    {
     "nome": "I.C.CANTU' 1^",
@@ -5186,7 +5085,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 29
    },
    {
     "nome": "I.C.CERMENATE",
@@ -5222,7 +5121,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 29
    },
    {
     "nome": "IC CAPIAGO INTIMIANO (Senna Comasco)",
@@ -5250,7 +5149,7 @@
     ],
     "voci": 17,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 29
    },
    {
     "nome": "IC COMO NORD",
@@ -5270,7 +5169,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 35
    },
    {
     "nome": "IC Cucciago - Grandate - Casnate",
@@ -5302,7 +5201,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 73
+    "secondi": 71
    },
    {
     "nome": "IC FALOPPIO",
@@ -5318,7 +5217,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 3
    },
    {
     "nome": "ISIS G.D. ROMAGNOSI (Longone Al Segrino)",
@@ -5334,7 +5233,7 @@
     ],
     "voci": 11,
     "trovati": 3,
-    "secondi": 81
+    "secondi": 78
    },
    {
     "nome": "IST. COMP. \"DON MILANI\" (Mariano Comense)",
@@ -5350,7 +5249,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "IST.COMPR. \"A.ROSMINI\" (Eupilio)",
@@ -5366,7 +5265,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 46
+    "secondi": 35
    },
    {
     "nome": "ISTIT. COMPRENSIVO VILLAGUARDIA (Villa Guardia)",
@@ -5394,7 +5293,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 21
    },
    {
     "nome": "ISTITUTO COMPRENSIVO \"IV NOVEMB (Mariano Comense)",
@@ -5414,7 +5313,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 14
    },
    {
     "nome": "ISTITUTO COMPRENSIVO 'IV NOVEMBRE' di Mariano Comense (Co)",
@@ -5434,7 +5333,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 15
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. ASSO",
@@ -5450,7 +5349,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 60
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. BELLAGIO",
@@ -5470,7 +5369,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 20
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CANTU' 3",
@@ -5490,7 +5389,7 @@
     ],
     "voci": 47,
     "trovati": 1,
-    "secondi": 68
+    "secondi": 66
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CERNOBBIO",
@@ -5522,7 +5421,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 20
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. COMO PRESTINO/BRECCIA",
@@ -5538,7 +5437,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 34
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. COMO REBBIO",
@@ -5558,7 +5457,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. FENEGRO'",
@@ -5586,7 +5485,7 @@
     ],
     "voci": 40,
     "trovati": 9,
-    "secondi": 102
+    "secondi": 107
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. INVERIGO",
@@ -5610,7 +5509,7 @@
     ],
     "voci": 105,
     "trovati": 2,
-    "secondi": 109
+    "secondi": 113
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. LOMAZZO",
@@ -5634,7 +5533,7 @@
     ],
     "voci": 93,
     "trovati": 1,
-    "secondi": 46
+    "secondi": 50
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. VALMOREA",
@@ -5658,7 +5557,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 42
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC PONTE LAMBRO",
@@ -5685,8 +5584,8 @@
      }
     ],
     "voci": 17,
-    "trovati": 1,
-    "secondi": 37
+    "trovati": 0,
+    "secondi": 32
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IST. COMP. COMO CENTRO CITTA'",
@@ -5710,7 +5609,7 @@
     ],
     "voci": 55,
     "trovati": 1,
-    "secondi": 41
+    "secondi": 45
    },
    {
     "nome": "ISTITUTO COMPRENSIVO DI TURATE",
@@ -5782,7 +5681,7 @@
     ],
     "voci": 11,
     "trovati": 3,
-    "secondi": 31
+    "secondi": 30
    },
    {
     "nome": "Istituto Comprensivo Vertemate con Minoprio - Bregnano",
@@ -5798,7 +5697,7 @@
     ],
     "voci": 24,
     "trovati": 1,
-    "secondi": 48
+    "secondi": 52
    },
    {
     "nome": "LEONARDO DA VINCI - RIPAMONTI (Como)",
@@ -5822,7 +5721,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 27
    },
    {
     "nome": "LICEO ARTISTICO \"F. MELOTTI\" (Cantu')",
@@ -5838,7 +5737,7 @@
     ],
     "voci": 38,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 21
    },
    {
     "nome": "LICEO STATALE \" CARLO PORTA \" ERBA",
@@ -5854,7 +5753,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 26
    },
    {
     "nome": "LICEO TERESA CICERI (Como)",
@@ -5878,7 +5777,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 8
    },
    {
     "nome": "LS GALILEO GALILEI (Erba)",
@@ -5918,7 +5817,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "MENAGGIO",
@@ -5954,7 +5853,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 9
    },
    {
     "nome": "PAOLO GIOVIO (Como)",
@@ -5982,7 +5881,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 61
+    "secondi": 53
    }
   ],
   "fonti": [

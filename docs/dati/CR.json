@@ -3,10 +3,10 @@
   "sigla": "CR",
   "nome": "Cremona"
  },
- "aggiornato": "2026-11-25T19:54:48.098995+00:00",
+ "aggiornato": "2026-11-25T21:22:50.278360+00:00",
  "giorni": 60,
- "durata_minuti": 16,
- "richieste": 1758,
+ "durata_minuti": 15,
+ "richieste": 1662,
  "righe": [
   {
    "ente": "Comune di Castelleone",
@@ -143,7 +143,7 @@
     }
    ],
    "esito": false,
-   "cig": null,
+   "cig": "BDC243704D",
    "cf": "80003440197",
    "id": "2ebb6de2536b",
    "nuovo": false
@@ -176,62 +176,6 @@
    "cig": "BDCB8528BD",
    "cf": "81002190197",
    "id": "8ac4b8d5b024",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Scandolara Ripa D'Oglio",
-   "tipo": "Comune",
-   "titolo": "CARTA DEDICATA A TE - Fondo Alimentare 2026 e 2027 - Individuazione dei beneficiari del contributo economico previsto dall'articolo 1, commi 5 e 6 della legge 30 dicembre 2025 n. 199 - pubblicata la lista dei beneficiari della Carta Dedicata a Te",
-   "pubblicazione": "2026-11-02",
-   "scadenza": "2026-12-16",
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "per bambini",
-    "concert"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.scandolararipadoglio.cr.it/it/news/carta-dedicata-a-te-fondo-alimentare-2026-e-2027-individuazione-dei-beneficiari-del-contributo-economico-previsto-dall-articolo-1-commi-5-e-6-della-legge-30-dicembre-2025-n-199",
-   "fonti": [
-    {
-     "nome": "sito comune.scandolararipadoglio.cr.it",
-     "link": "https://www.comune.scandolararipadoglio.cr.it/it/news/carta-dedicata-a-te-fondo-alimentare-2026-e-2027-individuazione-dei-beneficiari-del-contributo-economico-previsto-dall-articolo-1-commi-5-e-6-della-legge-30-dicembre-2025-n-199"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00302890199",
-   "id": "46d16abcd5a6",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Cremona",
-   "tipo": "Comune",
-   "titolo": "Bando luna park di San Pietro 2027",
-   "pubblicazione": "2026-11-25",
-   "scadenza": "2027-01-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.cremona.it/novita/avvisi/bando-luna-park-san-pietro-2027",
-   "fonti": [
-    {
-     "nome": "sito comune.cremona.it",
-     "link": "https://www.comune.cremona.it/novita/avvisi/bando-luna-park-san-pietro-2027"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00297960197",
-   "id": "f405275e7c10",
    "nuovo": false
   },
   {
@@ -541,34 +485,6 @@
    "nuovo": false
   },
   {
-   "ente": "\"LUIGI CHIESA\" (Dovera)",
-   "tipo": "Scuola",
-   "titolo": "DETERMINA DI AFFIDAMENTO PER ACQUISTO ARREDO \"CASA MAGICA\" PER SCUOLA DELL'INFANZIA DI SPINO D'ADDA",
-   "pubblicazione": "2026-11-10",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "affidamento"
-   ],
-   "temi": [
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.icspinodadda.edu.it/albo-pretorio/determina-di-affidamento-acquisto-arredo-casa-magica-scuola-dellinfanzia-di-spino",
-   "fonti": [
-    {
-     "nome": "sito icspinodadda.edu.it",
-     "link": "https://www.icspinodadda.edu.it/albo-pretorio/determina-di-affidamento-acquisto-arredo-casa-magica-scuola-dellinfanzia-di-spino"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "",
-   "id": "c0b50d145f63",
-   "nuovo": false
-  },
-  {
    "ente": "IC CASTELVERDE \"U.FERRARI\" (Casalbuttano Ed Uniti)",
    "tipo": "Scuola",
    "titolo": "DETERMINA N. 30 ACQUISTO BIGLIETTI TEATRO BELLINI - VIA PAL - CLASSI 3^ 4^ 5^ PRIMARIA DI MCASALBUTTANO DELO 17 MARZO 2027",
@@ -620,6 +536,34 @@
    "cig": null,
    "cf": "93037630196",
    "id": "8f879cd6fffc",
+   "nuovo": false
+  },
+  {
+   "ente": "\"LUIGI CHIESA\" (Dovera)",
+   "tipo": "Scuola",
+   "titolo": "DETERMINA DI AFFIDAMENTO PER ACQUISTO ARREDO \"CASA MAGICA\" PER SCUOLA DELL'INFANZIA DI SPINO D'ADDA",
+   "pubblicazione": "2026-11-10",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia",
+    "affidamento"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://www.icspinodadda.edu.it/albo-pretorio/determina-di-affidamento-acquisto-arredo-casa-magica-scuola-dellinfanzia-di-spino",
+   "fonti": [
+    {
+     "nome": "sito icspinodadda.edu.it",
+     "link": "https://www.icspinodadda.edu.it/albo-pretorio/determina-di-affidamento-acquisto-arredo-casa-magica-scuola-dellinfanzia-di-spino"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "",
+   "id": "c0b50d145f63",
    "nuovo": false
   },
   {
@@ -761,7 +705,6 @@
    "partecipanti": null,
    "motivi": [
     "teatr",
-    "narrazione",
     "contributi"
    ],
    "temi": [
@@ -1344,6 +1287,17 @@
     "secondi": 107
    },
    {
+    "nome": "Unione Lombarda Terre di Pievi e Castelli",
+    "tipo": "Altro ente",
+    "sito": "http://www.halleyweb.com/utrpvcst/hh/index.php",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 14
+   },
+   {
     "nome": "Unione di Comuni Lombarda Terra di Cascine",
     "tipo": "Altro ente",
     "sito": "",
@@ -1381,7 +1335,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 3
    },
    {
     "nome": "Comune di Cicognolo",
@@ -1415,17 +1369,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 6
-   },
-   {
-    "nome": "Comune di Gussola",
-    "tipo": "Comune",
-    "sito": "https://www.comune.gussola.cr.it/",
-    "esito": "non letto",
-    "motivo": "sito troppo lento (tempo scaduto)",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 107
    },
    {
     "nome": "Comune di Izano",
@@ -1503,6 +1446,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 5
+   },
+   {
+    "nome": "Comune di San Giovanni In Croce",
+    "tipo": "Comune",
+    "sito": "http://www.comune.sangiovanniincroce.cr.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 18
    },
    {
     "nome": "Comune di Vescovato",
@@ -1634,7 +1588,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "Consorzio Casalasco Servizi Sociali",
@@ -1658,7 +1612,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 10
    },
    {
     "nome": "Unione Dei Comuni Centuriati di Bonemerse e Malagnino",
@@ -1714,7 +1668,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 11
    },
    {
     "nome": "Unione Dei Comuni Lombarda Terrae Fluminis",
@@ -1754,39 +1708,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 10
-   },
-   {
-    "nome": "Unione Lombarda Terre di Pievi e Castelli",
-    "tipo": "Altro ente",
-    "sito": "http://www.halleyweb.com/utrpvcst/hh/index.php",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Trasparenza",
-      "url": "http://www.halleyweb.com/utrpvcst/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://www.halleyweb.com/utrpvcst/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://www.halleyweb.com/utrpvcst/zf/index.php/bandi-gara/avvisi/avvisi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://www.halleyweb.com/utrpvcst/zf/index.php/trasparenza/index/index/categoria/81"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://www.halleyweb.com/utrpvcst/zf/index.php/trasparenza/index/index/categoria/8"
-     }
-    ],
-    "voci": 19,
-    "trovati": 0,
-    "secondi": 34
+    "secondi": 9
    },
    {
     "nome": "Unione Lombarda dei Comuni Oglio - Ciria",
@@ -1801,6 +1723,10 @@
      },
      {
       "nome": "Albo",
+      "url": "https://unionedeicomuniogliociria.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=22898"
+     },
+     {
+      "nome": "Albo",
       "url": "https://unionedeicomuniogliociria.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=22898"
      },
      {
@@ -1810,7 +1736,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 8
    },
    {
     "nome": "Unione Municipia",
@@ -1838,7 +1764,7 @@
     ],
     "voci": 30,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "Unione di Comuni Lombarda Casalbuttano ed Uniti e Corte De' Cortesi con Cignone",
@@ -1874,7 +1800,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 12
    },
    {
     "nome": "Unione di Comuni Lombarda Foedus",
@@ -1884,8 +1810,16 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.uclfoedus.it/it"
+      "nome": "Albo",
+      "url": "https://uclfoedus.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://uclfoedus.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10102"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://uclfoedus.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10102"
      }
     ],
     "voci": 6,
@@ -1942,7 +1876,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 15
    },
    {
     "nome": "Comune di Acquanegra Cremonese",
@@ -1973,12 +1907,12 @@
      },
      {
       "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsacquanegracr/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=80"
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsacquanegracr/portale/trasparenza/trasparenzaamministrativadocs.aspx?R=1&CP=80"
      }
     ],
     "voci": 94,
     "trovati": 0,
-    "secondi": 81
+    "secondi": 60
    },
    {
     "nome": "Comune di Agnadello",
@@ -1998,23 +1932,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.agnadello.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019002/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019002/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019002/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 43,
+    "voci": 34,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 31
    },
    {
     "nome": "Comune di Annicco",
@@ -2023,10 +1945,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "http://halleyweb.com/c019003/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://comune.annicco.cr.it/novita/3-avviso"
@@ -2038,19 +1956,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.annicco.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://halleyweb.com/c019003/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://halleyweb.com/c019003/zf/index.php/trasparenza/index/index/categoria/103"
      }
     ],
-    "voci": 15,
+    "voci": 2,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 28
    },
    {
     "nome": "Comune di Azzanello",
@@ -2078,7 +1988,7 @@
     ],
     "voci": 43,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 35
    },
    {
     "nome": "Comune di Bagnolo Cremasco",
@@ -2114,7 +2024,7 @@
     ],
     "voci": 65,
     "trovati": 1,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "Comune di Bonemerse",
@@ -2150,7 +2060,7 @@
     ],
     "voci": 42,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 17
    },
    {
     "nome": "Comune di Bordolano",
@@ -2194,7 +2104,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 9
    },
    {
     "nome": "Comune di Camisano",
@@ -2214,23 +2124,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.camisano.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019010/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019010/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019010/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 25,
+    "voci": 21,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 33
    },
    {
     "nome": "Comune di Campagnola Cremasca",
@@ -2262,7 +2160,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 27
    },
    {
     "nome": "Comune di Capergnanica",
@@ -2298,7 +2196,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "Comune di Cappella Cantone",
@@ -2322,19 +2220,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cappellacantone.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019013/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019013/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
      }
     ],
-    "voci": 27,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 18
    },
    {
     "nome": "Comune di Cappella De' Picenardi",
@@ -2354,7 +2244,7 @@
     ],
     "voci": 24,
     "trovati": 1,
-    "secondi": 36
+    "secondi": 34
    },
    {
     "nome": "Comune di Capralba",
@@ -2390,7 +2280,7 @@
     ],
     "voci": 7,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 15
    },
    {
     "nome": "Comune di Casalbuttano Ed Uniti",
@@ -2426,7 +2316,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 101
+    "secondi": 35
    },
    {
     "nome": "Comune di Casale Cremasco-vidolasco",
@@ -2462,7 +2352,7 @@
     ],
     "voci": 181,
     "trovati": 0,
-    "secondi": 76
+    "secondi": 74
    },
    {
     "nome": "Comune di Casaletto Ceredano",
@@ -2518,23 +2408,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.casalettovaprio.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019020/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019020/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019020/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
      }
     ],
-    "voci": 25,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 17
    },
    {
     "nome": "Comune di Casaletto di Sopra",
@@ -2544,33 +2422,17 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
+      "nome": "Notizie",
+      "url": "https://www.comune.casalettodisopra.cr.it/notizie"
      },
      {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25642"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25641"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25642"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25641"
+      "nome": "Trasparenza",
+      "url": "https://casalettodisopra.trasparenza-valutazione-merito.it:443/web/trasparenza/"
      }
     ],
-    "voci": 16,
+    "voci": 29,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 7
    },
    {
     "nome": "Comune di Casalmaggiore",
@@ -2606,7 +2468,7 @@
     ],
     "voci": 46,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 17
    },
    {
     "nome": "Comune di Casalmorano",
@@ -2642,7 +2504,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 20
    },
    {
     "nome": "Comune di Castel Gabbiano",
@@ -2674,7 +2536,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 21
    },
    {
     "nome": "Comune di Casteldidone",
@@ -2710,7 +2572,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 12
    },
    {
     "nome": "Comune di Castelleone",
@@ -2734,7 +2596,7 @@
     ],
     "voci": 661,
     "trovati": 1,
-    "secondi": 59
+    "secondi": 42
    },
    {
     "nome": "Comune di Castelverde",
@@ -2749,7 +2611,11 @@
      },
      {
       "nome": "Albo",
-      "url": "https://castelverde.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
+      "url": "https://castelverde.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6470"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://castelverde.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6470"
      },
      {
       "nome": "Albo",
@@ -2757,20 +2623,16 @@
      },
      {
       "nome": "Albo",
+      "url": "https://castelverde.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
       "url": "https://unioneterradicascine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio;jsessionid=027770694b619ce3987af0fbc1089c2b"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://unioneterradicascine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_resetFilter=true&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraLista"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://unioneterradicascine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=eseguiFiltro&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_categoriaId=0"
      }
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 59
+    "secondi": 15
    },
    {
     "nome": "Comune di Cella Dati",
@@ -2790,7 +2652,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "Comune di Chieve",
@@ -2826,7 +2688,7 @@
     ],
     "voci": 59,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 16
    },
    {
     "nome": "Comune di Cingia De' Botti",
@@ -2862,7 +2724,7 @@
     ],
     "voci": 153,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 24
    },
    {
     "nome": "Comune di Corte de' Cortesi con Cignone",
@@ -2898,7 +2760,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 12
    },
    {
     "nome": "Comune di Corte de' Frati",
@@ -2908,13 +2770,25 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://cortedefrati.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cortedefrati.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=20198"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cortedefrati.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=20198"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.cortedefrati.cr.it/it/news"
      }
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 8
    },
    {
     "nome": "Comune di Credera Rubbiano",
@@ -2938,15 +2812,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.crederarubbiano.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019034/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 24,
+    "voci": 21,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "Comune di Crema",
@@ -2966,11 +2836,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.crema.cr.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://crema.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 110,
+    "voci": 114,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 32
    },
    {
     "nome": "Comune di Cremona",
@@ -3005,8 +2879,8 @@
      }
     ],
     "voci": 212,
-    "trovati": 2,
-    "secondi": 89
+    "trovati": 1,
+    "secondi": 86
    },
    {
     "nome": "Comune di Cremosano",
@@ -3042,7 +2916,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 19
    },
    {
     "nome": "Comune di Cumignano sul Naviglio",
@@ -3074,7 +2948,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 25
    },
    {
     "nome": "Comune di Derovere",
@@ -3146,7 +3020,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Formigara",
@@ -3178,7 +3052,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 11
    },
    {
     "nome": "Comune di Gabbioneta Binanuova",
@@ -3210,7 +3084,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 36
    },
    {
     "nome": "Comune di Gadesco Pieve Delmona",
@@ -3246,7 +3120,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 18
    },
    {
     "nome": "Comune di Genivolta",
@@ -3274,7 +3148,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 19
    },
    {
     "nome": "Comune di Gerre de' Caprioli",
@@ -3310,7 +3184,7 @@
     ],
     "voci": 68,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 14
    },
    {
     "nome": "Comune di Gombito",
@@ -3320,29 +3194,17 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://gombito.halleyweb.it/mc/mc_p_ricerca.php"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.halleyweb.com/c019049/zf/index.php/bandi-di-concorso"
-     },
-     {
       "nome": "Notizie",
       "url": "https://comune.gombito.cr.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.gombito.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://gombito.halleyweb.it/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 29,
+    "voci": 15,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 27
    },
    {
     "nome": "Comune di Grontardo",
@@ -3370,7 +3232,39 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 20
+   },
+   {
+    "nome": "Comune di Gussola",
+    "tipo": "Comune",
+    "sito": "https://www.comune.gussola.cr.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://comune.gussola.cr.it/amministrazione/albo-pretorio-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://comune.gussola.cr.it/tipi_notizia/avviso/"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.gussola.cr.it/amministrazione/bandi-di-gara-e-contratti/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.gussola.cr.it/novita/"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://comune.gussola.cr.it/tipi_notizia/news/"
+     }
+    ],
+    "voci": 39,
+    "trovati": 0,
+    "secondi": 17
    },
    {
     "nome": "Comune di Isola Dovarese",
@@ -3394,7 +3288,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "Comune di Malagnino",
@@ -3445,6 +3339,10 @@
      },
      {
       "nome": "Albo",
+      "url": "https://martignanadipo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=41627"
+     },
+     {
+      "nome": "Albo",
       "url": "https://martignanadipo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=41627"
      },
      {
@@ -3458,15 +3356,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.martignanadipo.cr.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://martignanadipo.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 24,
+    "voci": 21,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Monte Cremasco",
@@ -3502,7 +3396,7 @@
     ],
     "voci": 44,
     "trovati": 2,
-    "secondi": 48
+    "secondi": 45
    },
    {
     "nome": "Comune di Montodine",
@@ -3522,23 +3416,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.montodine.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019059/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019059/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://halleyweb.com/c019059/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 23,
+    "voci": 17,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 19
    },
    {
     "nome": "Comune di Moscazzano",
@@ -3566,13 +3448,9 @@
      {
       "nome": "Notizie",
       "url": "https://comune.moscazzano.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "http://halleyweb.com/c019060/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 3,
+    "voci": 2,
     "trovati": 0,
     "secondi": 19
    },
@@ -3610,7 +3488,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "Comune di Offanengo",
@@ -3646,7 +3524,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "Comune di Olmeneta",
@@ -3658,6 +3536,10 @@
      {
       "nome": "Albo",
       "url": "https://olmeneta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://olmeneta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=20498"
      },
      {
       "nome": "Albo",
@@ -3680,10 +3562,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.ostiano.cr.it/novita/?categoria=433"
-     },
-     {
       "nome": "Notizie",
       "url": "https://www.comune.ostiano.cr.it/novita/"
      },
@@ -3692,9 +3570,9 @@
       "url": "https://www.comune.ostiano.cr.it/novita/?categoria=431"
      }
     ],
-    "voci": 25,
+    "voci": 18,
     "trovati": 1,
-    "secondi": 35
+    "secondi": 30
    },
    {
     "nome": "Comune di Paderno Ponchielli",
@@ -3717,20 +3595,20 @@
      },
      {
       "nome": "Albo",
+      "url": "https://padernoponchielli.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8870"
+     },
+     {
+      "nome": "Albo",
       "url": "https://padernoponchielli.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8870"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.padernoponchielli.cr.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.padernoponchielli.cr.it/it/menu/news"
      }
     ],
-    "voci": 25,
-    "trovati": 2,
-    "secondi": 20
+    "voci": 16,
+    "trovati": 1,
+    "secondi": 15
    },
    {
     "nome": "Comune di Pandino",
@@ -3748,6 +3626,10 @@
       "url": "https://pandino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8670"
      },
      {
+      "nome": "Albo",
+      "url": "https://pandino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8670"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.pandino.cr.it/novita/3-avviso"
      },
@@ -3758,15 +3640,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.pandino.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://comune.pandino.cr.it/amministrazione-trasparente"
      }
     ],
-    "voci": 28,
+    "voci": 26,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 13
    },
    {
     "nome": "Comune di Pescarolo Ed Uniti",
@@ -3794,7 +3672,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 17
    },
    {
     "nome": "Comune di Pessina Cremonese",
@@ -3814,23 +3692,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pessinacremonese.cr.it/Novita/Notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019070/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019070/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019070/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 40,
+    "voci": 33,
     "trovati": 1,
-    "secondi": 27
+    "secondi": 15
    },
    {
     "nome": "Comune di Piadena Drizzona",
@@ -3878,7 +3744,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 18
    },
    {
     "nome": "Comune di Pieranica",
@@ -3914,7 +3780,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "Comune di Pieve D'Olmi",
@@ -3926,6 +3792,10 @@
      {
       "nome": "Albo",
       "url": "https://pievedolmi.trasparenza-valutazione-merito.it:443/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pievedolmi.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=60000"
      },
      {
       "nome": "Albo",
@@ -3942,13 +3812,9 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pievedolmi.cr.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://pievedolmi.trasparenza-valutazione-merito.it:443/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 147,
+    "voci": 144,
     "trovati": 0,
     "secondi": 39
    },
@@ -3978,7 +3844,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "Comune di Pizzighettone",
@@ -4014,7 +3880,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 12
    },
    {
     "nome": "Comune di Quintano",
@@ -4086,7 +3952,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "Comune di Ripalta Cremasca",
@@ -4158,7 +4024,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 19
    },
    {
     "nome": "Comune di Rivarolo del Re Ed Uniti",
@@ -4230,7 +4096,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 10
    },
    {
     "nome": "Comune di Romanengo",
@@ -4257,16 +4123,16 @@
      },
      {
       "nome": "Albo",
-      "url": "https://romanengo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio;jsessionid=4BE50734DC6ECB9C096672B0F35147E8"
+      "url": "https://romanengo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.romanengo.cr.it/it/news?type=3"
+      "nome": "Albo",
+      "url": "https://romanengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25442"
      }
     ],
-    "voci": 22,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 12
    },
    {
     "nome": "Comune di Salvirola",
@@ -4294,7 +4160,7 @@
     ],
     "voci": 40,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 40
    },
    {
     "nome": "Comune di San Daniele Po",
@@ -4329,34 +4195,6 @@
     "secondi": 8
    },
    {
-    "nome": "Comune di San Giovanni In Croce",
-    "tipo": "Comune",
-    "sito": "http://www.comune.sangiovanniincroce.cr.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.sangiovanniincroce.cr.it/c019090/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.sangiovanniincroce.cr.it/c019090/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.sangiovanniincroce.cr.it/c019090/zf/index.php/bandi-gara/avvisi/avvisi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.sangiovanniincroce.cr.it/c019090/zf/index.php/trasparenza/index/index/categoria/161"
-     }
-    ],
-    "voci": 28,
-    "trovati": 0,
-    "secondi": 52
-   },
-   {
     "nome": "Comune di San Martino del Lago",
     "tipo": "Comune",
     "sito": "https://www.comune.sanmartinodellago.cr.it/",
@@ -4370,7 +4208,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 40
+    "secondi": 39
    },
    {
     "nome": "Comune di Scandolara Ravara",
@@ -4406,7 +4244,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 10
    },
    {
     "nome": "Comune di Scandolara Ripa D'Oglio",
@@ -4432,9 +4270,9 @@
       "url": "https://www.comune.scandolararipadoglio.cr.it/it/news"
      }
     ],
-    "voci": 22,
-    "trovati": 2,
-    "secondi": 96
+    "voci": 7,
+    "trovati": 0,
+    "secondi": 20
    },
    {
     "nome": "Comune di Sergnano",
@@ -4470,7 +4308,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 19
    },
    {
     "nome": "Comune di Sesto Ed Uniti",
@@ -4516,10 +4354,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=slrlrnr1728"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.solarolorainerio.cr.it/bandi/"
      },
@@ -4528,9 +4362,9 @@
       "url": "https://www.comune.solarolorainerio.cr.it/notizie/"
      }
     ],
-    "voci": 48,
+    "voci": 33,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 33
    },
    {
     "nome": "Comune di Soncino",
@@ -4566,7 +4400,7 @@
     ],
     "voci": 38,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 11
    },
    {
     "nome": "Comune di Soresina",
@@ -4578,6 +4412,10 @@
      {
       "nome": "Albo",
       "url": "https://soresina.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11670"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://soresina.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11670"
      },
      {
       "nome": "Albo",
@@ -4594,15 +4432,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.soresina.cr.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://soresina.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 58,
+    "voci": 55,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 21
    },
    {
     "nome": "Comune di Sospiro",
@@ -4626,7 +4460,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "Comune di Spinadesco",
@@ -4635,18 +4469,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://spinadesco.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://spinadesco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=33759"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://spinadesco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=33759"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.spinadesco.cr.it/it/news?type=3"
@@ -4658,11 +4480,19 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.spinadesco.cr.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.spinadesco.cr.it/it/news?type=1&from_menu=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://spinadesco.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 150,
+    "voci": 168,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 31
    },
    {
     "nome": "Comune di Spineda",
@@ -4688,17 +4518,17 @@
       "url": "https://spineda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=9303"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.spineda.cr.it/it/news?type=3"
+      "nome": "Albo",
+      "url": "https://spineda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=9302"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.spineda.cr.it/it/menu/news"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.spineda.cr.it/it/news?type=3"
      }
     ],
-    "voci": 24,
+    "voci": 17,
     "trovati": 0,
-    "secondi": 58
+    "secondi": 11
    },
    {
     "nome": "Comune di Spino d'Adda",
@@ -4718,15 +4548,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.spinodadda.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019102/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 14,
+    "voci": 11,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 25
    },
    {
     "nome": "Comune di Stagno Lombardo",
@@ -4750,7 +4576,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 12
    },
    {
     "nome": "Comune di Ticengo",
@@ -4769,6 +4595,10 @@
      },
      {
       "nome": "Albo",
+      "url": "https://ticengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=25541"
+     },
+     {
+      "nome": "Albo",
       "url": "https://ticengo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
      },
      {
@@ -4782,7 +4612,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 11
    },
    {
     "nome": "Comune di Torlino Vimercati",
@@ -4791,10 +4621,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://halleyweb.com/c019105/zf/index.php/trasparenza/index/index/categoria/245"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://comune.torlinovimercati.cr.it/novita/3-avviso"
@@ -4806,15 +4632,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.torlinovimercati.cr.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019105/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 17,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 28
    },
    {
     "nome": "Comune di Tornata",
@@ -4838,7 +4660,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Torre De' Picenardi",
@@ -4858,23 +4680,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.torredepicenardi.cr.it/Novita/Notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019107/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019107/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c019107/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 34,
+    "voci": 27,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 14
    },
    {
     "nome": "Comune di Torricella del Pizzo",
@@ -4930,7 +4740,7 @@
     ],
     "voci": 52,
     "trovati": 0,
-    "secondi": 58
+    "secondi": 41
    },
    {
     "nome": "Comune di Trigolo",
@@ -4994,7 +4804,7 @@
     ],
     "voci": 39,
     "trovati": 1,
-    "secondi": 47
+    "secondi": 42
    },
    {
     "nome": "Comune di Vailate",
@@ -5066,7 +4876,7 @@
     ],
     "voci": 65,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 25
    },
    {
     "nome": "Comune di Voltido",
@@ -5080,9 +4890,9 @@
       "url": "https://comune.voltido.cr.it/bandi/"
      }
     ],
-    "voci": 48,
+    "voci": 69,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 42
    },
    {
     "nome": "\"A. GHISLERI - BELTRAMI\" (Cremona)",
@@ -5106,7 +4916,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "\"ANTONIO STRADIVARI\" (Cremona)",
@@ -5162,7 +4972,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "\"G. ASELLI\" (Cremona)",
@@ -5190,7 +5000,7 @@
     ],
     "voci": 45,
     "trovati": 2,
-    "secondi": 154
+    "secondi": 157
    },
    {
     "nome": "\"G. ROMANI\" (Casalmaggiore)",
@@ -5218,7 +5028,7 @@
     ],
     "voci": 147,
     "trovati": 1,
-    "secondi": 97
+    "secondi": 99
    },
    {
     "nome": "\"J. TORRIANI\" (Cremona)",
@@ -5238,7 +5048,7 @@
     ],
     "voci": 92,
     "trovati": 1,
-    "secondi": 46
+    "secondi": 45
    },
    {
     "nome": "\"LUIGI CHIESA\" (Dovera)",
@@ -5258,7 +5068,7 @@
     ],
     "voci": 259,
     "trovati": 2,
-    "secondi": 64
+    "secondi": 63
    },
    {
     "nome": "\"P.SRAFFA\" (Crema)",
@@ -5274,7 +5084,7 @@
     ],
     "voci": 10,
     "trovati": 2,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "\"STANGA\" (Cremona)",
@@ -5290,7 +5100,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 189
+    "secondi": 182
    },
    {
     "nome": "CPIA 1 CREMONA",
@@ -5310,7 +5120,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 8
    },
    {
     "nome": "I.I.S LUCA PACIOLI (Crema)",
@@ -5326,7 +5136,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 31
    },
    {
     "nome": "I.I.S. \"G. GALILEI (Crema)",
@@ -5346,7 +5156,7 @@
     ],
     "voci": 53,
     "trovati": 1,
-    "secondi": 198
+    "secondi": 201
    },
    {
     "nome": "IC \"RITA LEVI-MONTALCINI\" (Monte Cremasco)",
@@ -5362,7 +5172,7 @@
     ],
     "voci": 82,
     "trovati": 9,
-    "secondi": 279
+    "secondi": 281
    },
    {
     "nome": "IC CASALMAGGIORE \"DIOTTI\"",
@@ -5382,7 +5192,7 @@
     ],
     "voci": 55,
     "trovati": 4,
-    "secondi": 43
+    "secondi": 42
    },
    {
     "nome": "IC CASALMAGGIORE \"G.MARCONI\"",
@@ -5406,7 +5216,7 @@
     ],
     "voci": 57,
     "trovati": 1,
-    "secondi": 37
+    "secondi": 34
    },
    {
     "nome": "IC CASTELVERDE \"U.FERRARI\" (Casalbuttano Ed Uniti)",
@@ -5430,7 +5240,7 @@
     ],
     "voci": 209,
     "trovati": 2,
-    "secondi": 205
+    "secondi": 190
    },
    {
     "nome": "IC CREMA TRE - NELSON MANDELA",
@@ -5474,7 +5284,7 @@
     ],
     "voci": 57,
     "trovati": 0,
-    "secondi": 86
+    "secondi": 85
    },
    {
     "nome": "IC CREMONA DUE",
@@ -5498,7 +5308,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 65
    },
    {
     "nome": "IC CREMONA QUATTRO",
@@ -5526,7 +5336,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 20
    },
    {
     "nome": "IC CREMONA TRE",
@@ -5554,7 +5364,7 @@
     ],
     "voci": 57,
     "trovati": 0,
-    "secondi": 164
+    "secondi": 160
    },
    {
     "nome": "IC CREMONA UNO",
@@ -5602,7 +5412,7 @@
     ],
     "voci": 110,
     "trovati": 0,
-    "secondi": 46
+    "secondi": 45
    },
    {
     "nome": "IC PIADENA \"G.M. SACCHI\" (Piadena Drizzona)",
@@ -5626,7 +5436,7 @@
     ],
     "voci": 22,
     "trovati": 1,
-    "secondi": 30
+    "secondi": 28
    },
    {
     "nome": "IC PIZZIGHETTONE SAN BASSANO",
@@ -5654,7 +5464,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 69
    },
    {
     "nome": "IC SERGNANO \"PRIMO LEVI\" (Camisano)",
@@ -5706,7 +5516,7 @@
     ],
     "voci": 54,
     "trovati": 0,
-    "secondi": 126
+    "secondi": 134
    },
    {
     "nome": "IC SORESINA \"G. BERTESI\"",
@@ -5726,7 +5536,7 @@
     ],
     "voci": 114,
     "trovati": 1,
-    "secondi": 63
+    "secondi": 64
    },
    {
     "nome": "IC SOSPIRO \"G.B.PUERARI\"",
@@ -5750,7 +5560,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 145
+    "secondi": 110
    },
    {
     "nome": "IC TRESCORE CREMASCO (Vailate)",
@@ -5794,7 +5604,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 44
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 'PROF.E.CALVI'",
@@ -5822,7 +5632,7 @@
     ],
     "voci": 96,
     "trovati": 0,
-    "secondi": 239
+    "secondi": 240
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. VISCONTEO DI PANDINO",
@@ -5846,7 +5656,7 @@
     ],
     "voci": 69,
     "trovati": 0,
-    "secondi": 207
+    "secondi": 208
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C.'DEDALO 2000' (GUSSOLA)",
@@ -5870,7 +5680,7 @@
     ],
     "voci": 88,
     "trovati": 1,
-    "secondi": 180
+    "secondi": 183
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC 'E.FERMI' (MONTODINE)",
@@ -5890,7 +5700,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC 'P. SENTATI' (CASTELLEONE)",
@@ -5918,7 +5728,7 @@
     ],
     "voci": 42,
     "trovati": 2,
-    "secondi": 232
+    "secondi": 238
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'ANTONIO STRADIVARI'",
@@ -5954,7 +5764,7 @@
     ],
     "voci": 53,
     "trovati": 1,
-    "secondi": 129
+    "secondi": 133
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'L.EINAUDI'",
@@ -5974,7 +5784,7 @@
     ],
     "voci": 58,
     "trovati": 2,
-    "secondi": 46
+    "secondi": 43
    },
    {
     "nome": "Istituto Comprensivo Crema Due",
@@ -5998,7 +5808,7 @@
     ],
     "voci": 162,
     "trovati": 0,
-    "secondi": 111
+    "secondi": 113
    },
    {
     "nome": "Istituto di Istruzione Superiore P. Sraffa",
@@ -6014,7 +5824,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 4
    },
    {
     "nome": "L.SC.UMANE\"S. ANGUISSOLA\" (Cremona)",
@@ -6038,7 +5848,7 @@
     ],
     "voci": 121,
     "trovati": 1,
-    "secondi": 92
+    "secondi": 91
    },
    {
     "nome": "RACCHETTI - DA VINCI (Crema)",

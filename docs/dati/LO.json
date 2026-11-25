@@ -3,10 +3,10 @@
   "sigla": "LO",
   "nome": "Lodi"
  },
- "aggiornato": "2026-11-25T20:03:57.477727+00:00",
+ "aggiornato": "2026-11-25T21:30:58.592395+00:00",
  "giorni": 60,
  "durata_minuti": 8,
- "richieste": 886,
+ "richieste": 839,
  "righe": [
   {
    "ente": "Comune di Codogno",
@@ -35,35 +35,6 @@
    "cig": "BD6925A76F",
    "cf": "02031600154",
    "id": "95b002d3ac79",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Codogno",
-   "tipo": "Comune",
-   "titolo": "Bando SAP 2026 n. 13942 – Alloggi Edilizia Residenziale Pubblica",
-   "pubblicazione": "2026-12-31",
-   "scadenza": "2026-12-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "centri estivi",
-    "estiv"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://comune.codogno.lo.it/tipi_notizia/bando/",
-   "fonti": [
-    {
-     "nome": "sito comune.codogno.lo.it",
-     "link": "https://comune.codogno.lo.it/tipi_notizia/bando/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "02031600154",
-   "id": "f3c0ad77505d",
    "nuovo": false
   },
   {
@@ -103,8 +74,7 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "spettacol"
+    "teatr"
    ],
    "temi": [
     "Teatro e spettacoli"
@@ -120,60 +90,6 @@
    "cig": null,
    "cf": "84503320156",
    "id": "3b2f73057c13",
-   "nuovo": false
-  },
-  {
-   "ente": "Consorzio per La Formazione Professionale e per L'Educazione Permanente",
-   "tipo": "Altro ente",
-   "titolo": "Il decreto legislativo n. 33/2013 “Riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle Pubbliche Amministrazioni” entrato in vigore il 20 aprile 2013, stabilisce obblighi di pubblicità, trasparenza e diffusione di informazioni da ",
-   "pubblicazione": null,
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.cfpcons.lodi.it/",
-   "fonti": [
-    {
-     "nome": "sito cfpcons.lodi.it",
-     "link": "https://www.cfpcons.lodi.it/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "06273760154",
-   "id": "622256959ab5",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pieve Fissiraga",
-   "tipo": "Comune",
-   "titolo": "Aggiornamento degli oneri di urbanizzazione e del contributo di costruzione",
-   "pubblicazione": "2026-10-02",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.pieve-fissiraga.lo.it/it-it/novita/avvisi/2026/aggiornamento-degli-oneri-di-urbanizzazione-e-del-contributo-di-costruzione-403489-1-8ae9c74feafd683e42bb41d556d36cfe",
-   "fonti": [
-    {
-     "nome": "sito comune.pieve-fissiraga.lo.it",
-     "link": "https://www.comune.pieve-fissiraga.lo.it/it-it/novita/avvisi/2026/aggiornamento-degli-oneri-di-urbanizzazione-e-del-contributo-di-costruzione-403489-1-8ae9c74feafd683e42bb41d556d36cfe"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "84506650153",
-   "id": "8590a6d8537b",
    "nuovo": false
   },
   {
@@ -257,38 +173,6 @@
    "cig": null,
    "cf": "92559830150",
    "id": "3c58f3dfbfe0",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di San Fiorano",
-   "tipo": "Comune",
-   "titolo": "Approvazione manifestazione di interesse e documenti allegati per la locazione commerciale di un immobile di proprietà del Comune di San Fiorano",
-   "pubblicazione": "2026-11-10",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "giornata della memoria",
-    "per le famiglie",
-    "sagra",
-    "manifestazione di interesse"
-   ],
-   "temi": [
-    "Legalita e temi civici",
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://comune.sanfiorano.lo.it/tipi_notizia/avvisi/",
-   "fonti": [
-    {
-     "nome": "sito comune.sanfiorano.lo.it",
-     "link": "https://comune.sanfiorano.lo.it/tipi_notizia/avvisi/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "03946020157",
-   "id": "43d76761d87d",
    "nuovo": false
   },
   {
@@ -584,6 +468,36 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Valera Fratta",
+   "tipo": "Comune",
+   "titolo": "ORGANIZZAZIONE DELLE MANIFESTAZIONI NATALIZIE 2026.CONCESSIONE PATROCINIO GRATUITO E CONTRIBUTO INDIRETTO AI SENSI DELL’ART. 2 COMMA 3 DEL REGOLAMENTO PER LA CONCESSIONE DI CONTRIBUTI, ED ALTRE EROGAZIONI ECONOMICHE A FAVORE DI PERSONE E SOGGETTI PUBBLICI E PRIVATI IN RELAZIONE ALLA CONCESSIONE DELL",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natalizi",
+    "natalizie",
+    "contributi",
+    "patrocinio"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://valerafratta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/8525414",
+   "fonti": [
+    {
+     "nome": "sito valerafratta.trasparenza-valutazione-merito.it",
+     "link": "https://valerafratta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/8525414"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "84503080156",
+   "id": "f8ce7c2e71b9",
+   "nuovo": false
+  },
+  {
    "ente": "IC DI CASALPUSTERLENGO",
    "tipo": "Scuola",
    "titolo": "Graduatoria provvisoria avviso 7811 del 12/11/2026 (7 moduli) piano estate 3",
@@ -666,36 +580,6 @@
    "cig": null,
    "cf": "92517390156",
    "id": "3a44b672cb1e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Valera Fratta",
-   "tipo": "Comune",
-   "titolo": "ORGANIZZAZIONE DELLE MANIFESTAZIONI NATALIZIE 2026.CONCESSIONE PATROCINIO GRATUITO E CONTRIBUTO INDIRETTO AI SENSI DELL’ART. 2 COMMA 3 DEL REGOLAMENTO PER LA CONCESSIONE DI CONTRIBUTI, ED ALTRE EROGAZIONI ECONOMICHE A FAVORE DI PERSONE E SOGGETTI PUBBLICI E PRIVATI IN RELAZIONE ALLA CONCESSIONE DELL",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natalizi",
-    "natalizie",
-    "contributi",
-    "patrocinio"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "https://valerafratta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/8525414",
-   "fonti": [
-    {
-     "nome": "sito valerafratta.trasparenza-valutazione-merito.it",
-     "link": "https://valerafratta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/8525414"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "84503080156",
-   "id": "f8ce7c2e71b9",
    "nuovo": false
   },
   {
@@ -791,14 +675,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "giornata della memoria",
-    "per le famiglie",
-    "sagra"
+    "giornata della memoria"
    ],
    "temi": [
-    "Legalita e temi civici",
-    "Infanzia e famiglie",
-    "Estate e musica"
+    "Legalita e temi civici"
    ],
    "link": "https://comune.sanfiorano.lo.it/tipi_notizia/avvisi/",
    "fonti": [
@@ -858,7 +738,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 31
    },
    {
     "nome": "Comune di Livraga",
@@ -902,7 +782,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 28
    },
    {
     "nome": "Comune di Mairago",
@@ -935,7 +815,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 6
    },
    {
     "nome": "Comune di Villanova del Sillaro",
@@ -1085,8 +965,8 @@
      }
     ],
     "voci": 163,
-    "trovati": 1,
-    "secondi": 13
+    "trovati": 0,
+    "secondi": 11
    },
    {
     "nome": "Unione Lodigiana Grifone",
@@ -1096,13 +976,21 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://unionelodigianagrifone.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://unionelodigianagrifone.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+     },
+     {
       "nome": "Trasparenza",
       "url": "https://unionelodigianagrifone.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 4,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 50
+    "secondi": 7
    },
    {
     "nome": "Unione Nord Lodigiano",
@@ -1170,7 +1058,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Bertonico",
@@ -1206,7 +1094,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 36
    },
    {
     "nome": "Comune di Boffalora d'Adda",
@@ -1230,7 +1118,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 11
    },
    {
     "nome": "Comune di Borghetto Lodigiano",
@@ -1260,13 +1148,13 @@
       "url": "https://borghettolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.borghettolodigiano.lo.it/it/news?type=3"
+      "nome": "Albo",
+      "url": "https://borghettolodigiano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=58599"
      }
     ],
-    "voci": 22,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 21
    },
    {
     "nome": "Comune di Borgo San Giovanni",
@@ -1285,7 +1173,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://borgosangiovanni.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12598"
+      "url": "https://borgosangiovanni.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12599"
      },
      {
       "nome": "Albo",
@@ -1293,7 +1181,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://borgosangiovanni.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12599"
+      "url": "https://borgosangiovanni.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12598"
      },
      {
       "nome": "Trasparenza",
@@ -1302,7 +1190,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 28
    },
    {
     "nome": "Comune di Brembio",
@@ -1325,10 +1213,6 @@
      },
      {
       "nome": "Albo",
-      "url": "https://brembio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=59586"
-     },
-     {
-      "nome": "Albo",
       "url": "https://brembio.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
      },
      {
@@ -1336,9 +1220,9 @@
       "url": "https://brembio.trasparenza-valutazione-merito.it:443/"
      }
     ],
-    "voci": 14,
+    "voci": 13,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 27
    },
    {
     "nome": "Comune di Casaletto Lodigiano",
@@ -1384,6 +1268,18 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=33257"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=33256"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.casalmaiocco.lo.it/it/news?type=3"
      },
@@ -1394,15 +1290,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.casalmaiocco.lo.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://casalmaiocco.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza;jsessionid=D13E00925E0B500AE9C20B82F91040C0"
      }
     ],
-    "voci": 27,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 27
    },
    {
     "nome": "Comune di Casalpusterlengo",
@@ -1474,7 +1366,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 46
    },
    {
     "nome": "Comune di Caselle Lurani",
@@ -1542,7 +1434,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 44
+    "secondi": 15
    },
    {
     "nome": "Comune di Castiglione d'Adda",
@@ -1558,7 +1450,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 16
    },
    {
     "nome": "Comune di Castiraga Vidardo",
@@ -1590,7 +1482,7 @@
     ],
     "voci": 38,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 23
    },
    {
     "nome": "Comune di Cavenago D'Adda",
@@ -1626,7 +1518,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 34
    },
    {
     "nome": "Comune di Cervignano d'Adda",
@@ -1638,10 +1530,6 @@
      {
       "nome": "Albo",
       "url": "https://cervignanodadda.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cervignanodadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3995"
      },
      {
       "nome": "Albo",
@@ -1658,11 +1546,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cervignanodadda.lo.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cervignanodadda.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 44,
+    "voci": 47,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 30
    },
    {
     "nome": "Comune di Codogno",
@@ -1697,8 +1589,8 @@
      }
     ],
     "voci": 310,
-    "trovati": 4,
-    "secondi": 56
+    "trovati": 3,
+    "secondi": 43
    },
    {
     "nome": "Comune di Corno Giovine",
@@ -1728,13 +1620,13 @@
       "url": "https://cornogiovine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Albo",
-      "url": "https://cornogiovine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=55771"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.cornogiovine.lo.it/it/news?type=3"
      }
     ],
-    "voci": 9,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 20
    },
    {
     "nome": "Comune di Corte Palasio",
@@ -1758,7 +1650,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 8
    },
    {
     "nome": "Comune di Crespiatica",
@@ -1782,7 +1674,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Fombio",
@@ -1794,6 +1686,10 @@
      {
       "nome": "Albo",
       "url": "https://fombio.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://fombio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=34941"
      },
      {
       "nome": "Albo",
@@ -1810,15 +1706,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.fombio.lo.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://fombio.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 120,
+    "voci": 117,
     "trovati": 0,
-    "secondi": 57
+    "secondi": 51
    },
    {
     "nome": "Comune di Galgagnano",
@@ -1827,10 +1719,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://galgagnano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.galgagnano.lo.it/it/news?type=3"
@@ -1842,9 +1730,13 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.galgagnano.lo.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://galgagnano.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 44,
+    "voci": 48,
     "trovati": 0,
     "secondi": 51
    },
@@ -1856,25 +1748,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49599"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49600"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49599"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49600"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.graffignana.lo.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.graffignana.lo.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.graffignana.lo.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://graffignana.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 40,
+    "voci": 16,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 64
    },
    {
     "nome": "Comune di Guardamiglio",
@@ -1910,7 +1810,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 39
    },
    {
     "nome": "Comune di Maleo",
@@ -1946,7 +1846,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "Comune di Marudo",
@@ -1969,20 +1869,20 @@
      },
      {
       "nome": "Albo",
-      "url": "https://marudo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=34542"
-     },
-     {
-      "nome": "Albo",
       "url": "https://marudo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=34541"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.marudo.lo.it/it/news?type=3"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.marudo.lo.it/it/menu/news"
      }
     ],
-    "voci": 22,
+    "voci": 31,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 25
    },
    {
     "nome": "Comune di Massalengo",
@@ -2018,7 +1918,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 16
    },
    {
     "nome": "Comune di Merlino",
@@ -2042,7 +1942,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "Comune di Montanaso Lombardo",
@@ -2078,7 +1978,7 @@
     ],
     "voci": 88,
     "trovati": 0,
-    "secondi": 192
+    "secondi": 70
    },
    {
     "nome": "Comune di Mulazzano",
@@ -2114,7 +2014,7 @@
     ],
     "voci": 32,
     "trovati": 3,
-    "secondi": 38
+    "secondi": 41
    },
    {
     "nome": "Comune di Orio Litta",
@@ -2138,7 +2038,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "Comune di Ospedaletto Lodigiano",
@@ -2174,7 +2074,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 33
    },
    {
     "nome": "Comune di Ossago Lodigiano",
@@ -2210,7 +2110,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "Comune di Pieve Fissiraga",
@@ -2241,8 +2141,8 @@
      }
     ],
     "voci": 19,
-    "trovati": 1,
-    "secondi": 31
+    "trovati": 0,
+    "secondi": 19
    },
    {
     "nome": "Comune di Salerano Sul Lambro",
@@ -2257,7 +2157,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://saleranosullambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=271"
+      "url": "https://saleranosullambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=270"
      },
      {
       "nome": "Bandi/avvisi",
@@ -2278,7 +2178,7 @@
     ],
     "voci": 138,
     "trovati": 0,
-    "secondi": 124
+    "secondi": 70
    },
    {
     "nome": "Comune di San Fiorano",
@@ -2301,8 +2201,8 @@
      }
     ],
     "voci": 106,
-    "trovati": 2,
-    "secondi": 32
+    "trovati": 1,
+    "secondi": 22
    },
    {
     "nome": "Comune di San Martino In Strada",
@@ -2321,24 +2221,24 @@
      },
      {
       "nome": "Albo",
+      "url": "https://sanmartinoinstrada.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13071"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://sanmartinoinstrada.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13072"
+     },
+     {
+      "nome": "Albo",
       "url": "https://sanmartinoinstrada.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=13071"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.sanmartinoinstrada.lo.it/novita/3-avviso"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.sanmartinoinstrada.lo.it/novita"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.sanmartinoinstrada.lo.it/novita/1-news"
      }
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 18
    },
    {
     "nome": "Comune di San Rocco al Porto",
@@ -2374,7 +2274,7 @@
     ],
     "voci": 45,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 19
    },
    {
     "nome": "Comune di Sant'Angelo Lodigiano",
@@ -2410,7 +2310,7 @@
     ],
     "voci": 247,
     "trovati": 2,
-    "secondi": 68
+    "secondi": 65
    },
    {
     "nome": "Comune di Santo Stefano Lodigiano",
@@ -2434,7 +2334,7 @@
     ],
     "voci": 38,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 9
    },
    {
     "nome": "Comune di Secugnago",
@@ -2458,7 +2358,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "Comune di Senna Lodigiana",
@@ -2477,7 +2377,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://sennalodigiana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1492"
+      "url": "https://sennalodigiana.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1492"
      },
      {
       "nome": "Bandi/avvisi",
@@ -2494,7 +2394,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 93
+    "secondi": 23
    },
    {
     "nome": "Comune di Somaglia",
@@ -2530,7 +2430,7 @@
     ],
     "voci": 126,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Sordio",
@@ -2558,7 +2458,7 @@
     ],
     "voci": 96,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "Comune di Tavazzano con Villavesco",
@@ -2594,7 +2494,7 @@
     ],
     "voci": 232,
     "trovati": 5,
-    "secondi": 39
+    "secondi": 38
    },
    {
     "nome": "Comune di Terranova Dei Passerini",
@@ -2626,7 +2526,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 14
    },
    {
     "nome": "Comune di Valera Fratta",
@@ -2658,7 +2558,7 @@
     ],
     "voci": 78,
     "trovati": 1,
-    "secondi": 126
+    "secondi": 40
    },
    {
     "nome": "Comune di Zelo Buon Persico",
@@ -2668,21 +2568,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://zelobuonpersico.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://zelobuonpersico.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=16172"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://zelobuonpersico.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=16172"
+      "nome": "Trasparenza",
+      "url": "https://zelobuonpersico.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 8,
+    "voci": 11,
     "trovati": 1,
-    "secondi": 80
+    "secondi": 14
    },
    {
     "nome": "Centro Provinciale per L'Istruzione Degli Adulti - Lodi",
@@ -2702,7 +2594,7 @@
     ],
     "voci": 96,
     "trovati": 1,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "I.I.S. ALESSANDRO VOLTA DI LODI",
@@ -2754,7 +2646,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "I.P. LUIGI EINAUDI DI LODI",
@@ -2778,7 +2670,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 16
    },
    {
     "nome": "I.T. AGOSTINO BASSI DI LODI",
@@ -2798,7 +2690,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 10
    },
    {
     "nome": "I.T. ANTONIO TOSI DI CODOGNO",
@@ -2818,7 +2710,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 15
    },
    {
     "nome": "IC - BORGHETTO LODIGIANO (Villanova Del Sillaro)",
@@ -2846,7 +2738,7 @@
     ],
     "voci": 98,
     "trovati": 2,
-    "secondi": 22
+    "secondi": 33
    },
    {
     "nome": "IC ANTONIO GRAMSCI DI MULAZZANO",
@@ -2862,7 +2754,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 23
    },
    {
     "nome": "IC DI CASALPUSTERLENGO",
@@ -2886,7 +2778,7 @@
     ],
     "voci": 105,
     "trovati": 3,
-    "secondi": 30
+    "secondi": 42
    },
    {
     "nome": "IC DI CODOGNO (San Fiorano)",
@@ -2902,7 +2794,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "IC DI LODI I",
@@ -2938,7 +2830,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 34
    },
    {
     "nome": "IC DI LODI V",
@@ -2958,7 +2850,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 20
    },
    {
     "nome": "IC DI SOMAGLIA (San Rocco Al Porto)",
@@ -2990,7 +2882,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 27
    },
    {
     "nome": "IC MARIA SCOGLIO DI LIVRAGA (Senna Lodigiana)",
@@ -3010,7 +2902,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 17
    },
    {
     "nome": "IC ROMEO FUSARI DI CASTIGLIONE (Castiglione D'Adda)",
@@ -3026,7 +2918,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GRAMSCI - LODI VECCHIO",
@@ -3050,7 +2942,7 @@
     ],
     "voci": 69,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO COMPLETO",
@@ -3110,7 +3002,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 25
    },
    {
     "nome": "Istituto Comprensivo Carlo Collodi",
@@ -3126,7 +3018,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 55
+    "secondi": 60
    },
    {
     "nome": "Istituto Comprensivo Ic Riccardo Morzenti",
@@ -3142,7 +3034,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 34
    },
    {
     "nome": "Istituto Comprensivo Iv Circolo Lodi",
@@ -3178,7 +3070,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 33
    },
    {
     "nome": "Istituto Comprensivo di Somaglia",
@@ -3194,7 +3086,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 61
+    "secondi": 67
    },
    {
     "nome": "LICEO GIOVANNI GANDINI DI LODI",
@@ -3214,7 +3106,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 39
    },
    {
     "nome": "LICEO GIUSEPPE NOVELLO DI CODOGNO",
@@ -3234,7 +3126,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 10
    },
    {
     "nome": "LICEO MAFFEO VEGIO DI LODI",
@@ -3250,7 +3142,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 11
    }
   ],
   "fonti": [

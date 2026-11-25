@@ -3,10 +3,10 @@
   "sigla": "BG",
   "nome": "Bergamo"
  },
- "aggiornato": "2026-11-25T20:00:57.665933+00:00",
+ "aggiornato": "2026-11-25T21:27:53.940528+00:00",
  "giorni": 60,
- "durata_minuti": 22,
- "richieste": 4087,
+ "durata_minuti": 20,
+ "richieste": 3777,
  "righe": [
   {
    "ente": "Comune di Orio Al Serio",
@@ -36,43 +36,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l’erogazione della Misura Sostegno e della Misura Servizi rivolte a persone anziane non autosufficienti a basso bisogno assistenziale e alle persone con disabilità e necessità di sostegno intensivo elevato – FNA 2025 (esercizio 2026)",
-   "pubblicazione": "2026-09-29",
-   "scadenza": "2026-10-09",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "7d9c2bd911c4",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Pontirolo Nuovo",
    "tipo": "Comune",
    "titolo": "AFFIDAMENTO DIRETTO SERVIZIO SPAZIO GIOCO",
@@ -98,38 +61,6 @@
    "cig": "BD444D9E14",
    "cf": "00676850167",
    "id": "d7a30163d8c6",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Mozzanica",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per la ricerca di sponsorizzazioni per il noleggio e l’installazione delle",
-   "pubblicazione": "2026-10-13",
-   "scadenza": "2026-10-30",
-   "importo": "€ 3.900,00",
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.mozzanica.bg.it/bandiegare/avviso-pubblico-ricerca-sponsorizzazioni-noleggio-linstallazione-delle-luminarie-0",
-   "fonti": [
-    {
-     "nome": "sito comune.mozzanica.bg.it",
-     "link": "https://www.comune.mozzanica.bg.it/bandiegare/avviso-pubblico-ricerca-sponsorizzazioni-noleggio-linstallazione-delle-luminarie-0"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00307380162",
-   "id": "4ce47dde44ce",
    "nuovo": false
   },
   {
@@ -181,122 +112,31 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Colzate",
+   "ente": "Comune di Villa di Serio",
    "tipo": "Comune",
-   "titolo": "Apertura avviso pubblico servizi abitativi pubblici 2026 per l'ambito…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-16",
+   "titolo": "AVVISO PUBBLICO PER LA PARTECIPAZIONE AI MERCATINI DI NATALE DEL 20 DICEMBRE 2026 - Scadenza presentazione domande: 15.11.2026",
+   "pubblicazione": "2026-10-19",
+   "scadenza": "2026-11-15",
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "scuola dell'infanzia",
-    "estiv",
+    "natale",
     "avviso pubblico"
    ],
    "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.colzate.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.colzate.bg.it",
-     "link": "https://www.comune.colzate.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "81002520161",
-   "id": "4a33f219b671",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Colzate",
-   "tipo": "Comune",
-   "titolo": "Apertura avviso pubblico servizi abitativi pubblici 2026 per l'…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "estiv",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.colzate.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.colzate.bg.it",
-     "link": "https://www.comune.colzate.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "81002520161",
-   "id": "6c24eede2b1a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Colzate",
-   "tipo": "Comune",
-   "titolo": "Apertura avviso pubblico servizi abitativi pubblici 2026 per l'ambito Valle Seriana",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "estiv",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.colzate.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.colzate.bg.it",
-     "link": "https://www.comune.colzate.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "81002520161",
-   "id": "589ffb8e8a54",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pognano",
-   "tipo": "Comune",
-   "titolo": "Servizi Demografici - Avviso Apertura Sabato Novembre e Dicembre 2026",
-   "pubblicazione": "2026-11-03",
-   "scadenza": "2026-11-19",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
     "Natale"
    ],
-   "link": "https://www.comune.pognano.bg.it/novita/news",
+   "link": "https://www.halleyweb.com/c016240/zf/index.php/bandi-gara/avvisi/dettaglio-avviso/avviso/18",
    "fonti": [
     {
-     "nome": "sito comune.pognano.bg.it",
-     "link": "https://www.comune.pognano.bg.it/novita/news"
+     "nome": "sito halleyweb.com",
+     "link": "https://www.halleyweb.com/c016240/zf/index.php/bandi-gara/avvisi/dettaglio-avviso/avviso/18"
     }
    ],
    "esito": false,
    "cig": null,
-   "cf": "84002150161",
-   "id": "57022eb23051",
+   "cf": "80023530167",
+   "id": "17639fd097db",
    "nuovo": false
   },
   {
@@ -328,95 +168,30 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Vertova",
+   "ente": "Comune di Albano Sant'Alessandro",
    "tipo": "Comune",
-   "titolo": "CER (Comunità Energetica Rinnovabile). Presentazione e raccolta manifestazioni di interesse.",
-   "pubblicazione": "2026-09-30",
-   "scadenza": "2026-11-30",
-   "importo": null,
+   "titolo": "Oggetto: IMPEGNO DI SPESA DI EURO 3.200,00 A CUI ANDRANNO AGGIUNTI IL CONTRIBUTO INARCASSA AL 4% E L'IVA AL 22% A FAVORE DEL DOTT DIEGO MARSETTI, TITOLARE DI ECOGEO PER LA REVISIONE DELLE TAVOLE PAI-PGRA E DELLA COMPONENTE GEOLOGICA , IDROGEOLOGICA E SISMICA, A SEGUITO DELL'APPROVAZIONE DELLA VARAIN",
+   "pubblicazione": "2026-11-25",
+   "scadenza": "2026-11-25",
+   "importo": "€ 3.200,00",
    "partecipanti": null,
    "motivi": [
-    "bibliotec",
-    "natale",
-    "manifestazioni di interesse"
+    "legalita"
    ],
    "temi": [
-    "Lettura e biblioteche",
-    "Natale"
+    "Legalita e temi civici"
    ],
-   "link": "https://www.comune.vertova.bg.it/novita/",
+   "link": "https://albano.e-pal.it/AlboOnline/dettaglioAlbo/3124021",
    "fonti": [
     {
-     "nome": "sito comune.vertova.bg.it",
-     "link": "https://www.comune.vertova.bg.it/novita/"
+     "nome": "sito albano.e-pal.it",
+     "link": "https://albano.e-pal.it/AlboOnline/dettaglioAlbo/3124021"
     }
    ],
-   "esito": false,
+   "esito": true,
    "cig": null,
-   "cf": "00238520167",
-   "id": "a56fbe3507ee",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Villa D'ogna",
-   "tipo": "Comune",
-   "titolo": "Bando per l’erogazione delle misure sostegno e servizi rivolti alle persone anziane non autosufficienti a basso bisogno assistenziale e alle persone con disabilità con necessità di sostegno intensivo elevato",
-   "pubblicazione": "2026-10-12",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "letture animate",
-    "per bambini",
-    "per le famiglie"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.villadogna.bg.it/novita/tipologia/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.villadogna.bg.it",
-     "link": "https://www.comune.villadogna.bg.it/novita/tipologia/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00330180167",
-   "id": "7a163689ca23",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Suisio",
-   "tipo": "Comune",
-   "titolo": "Bando Borse di Studio Consorzio del Bacino Imbrifero Montano di…",
-   "pubblicazione": "2026-10-20",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "concert",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.suisio.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.suisio.bg.it",
-     "link": "https://www.comune.suisio.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00321890162",
-   "id": "bf0dec9d4710",
+   "cf": "00684170160",
+   "id": "7ce2bb2dc38b",
    "nuovo": false
   },
   {
@@ -428,13 +203,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "letture animate",
-    "per bambini",
-    "per le famiglie"
+    "letture animate"
    ],
    "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
+    "Lettura e biblioteche"
    ],
    "link": "https://www.comune.villadogna.bg.it/novita/tipologia/avvisi",
    "fonti": [
@@ -478,187 +250,6 @@
    "cig": null,
    "cf": "82000590164",
    "id": "119f59f0863e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Boltiere",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico - scadenza loculi",
-   "pubblicazione": "2026-11-03",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "per le famiglie",
-    "natale",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.boltiere.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.boltiere.bg.it",
-     "link": "https://www.comune.boltiere.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "84002910168",
-   "id": "f742de7e61fb",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Capriate San Gervasio",
-   "tipo": "Comune",
-   "titolo": "La Carta Dedicata a Te è un contributo economico previsto il biennio 2026-2027…",
-   "pubblicazione": "2026-11-03",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "per le famiglie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.capriate-san-gervasio.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.capriate-san-gervasio.bg.it",
-     "link": "https://www.comune.capriate-san-gervasio.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00325440162",
-   "id": "fff6f4dbe97f",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Villa D'ogna",
-   "tipo": "Comune",
-   "titolo": "Pubblicazione avviso servizi abitativi pubblici anno 2026",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "letture animate",
-    "per bambini",
-    "per le famiglie"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.villadogna.bg.it/novita/tipologia/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.villadogna.bg.it",
-     "link": "https://www.comune.villadogna.bg.it/novita/tipologia/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00330180167",
-   "id": "25426ec35572",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Boltiere",
-   "tipo": "Comune",
-   "titolo": "Contributo regionale di solidarietà anno 2026",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "per le famiglie",
-    "natale"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.boltiere.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.boltiere.bg.it",
-     "link": "https://www.comune.boltiere.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "84002910168",
-   "id": "0423befcc354",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Vertova",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'assegnazione di unità abitative destinate a servizi abitativi pubblici disponibili nell' ambito territoriale Valle Seriana anno 2026",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://www.comune.vertova.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.vertova.bg.it",
-     "link": "https://www.comune.vertova.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00238520167",
-   "id": "5a7f2d128338",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Suisio",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'assegnazione dei servizi abitativi pubblici disponibili nell'Ambito Territoriale Isola Bergamasca e Bassa Val San Martino",
-   "pubblicazione": "2026-11-23",
-   "scadenza": "2026-11-30",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "concert",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.suisio.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.suisio.bg.it",
-     "link": "https://www.comune.suisio.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00321890162",
-   "id": "fb0c9a74923c",
    "nuovo": false
   },
   {
@@ -802,152 +393,16 @@
   {
    "ente": "Comune di Ambivere",
    "tipo": "Comune",
-   "titolo": "Avviso - Sportello IMU Anno 2026",
-   "pubblicazione": "2026-10-31",
-   "scadenza": "2026-12-16",
+   "titolo": "Bando \"Accanto\" - Sostegno per le famiglie",
+   "pubblicazione": "2026-10-06",
+   "scadenza": "2026-12-31",
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "eventi culturali",
-    "natale"
+    "per le famiglie"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.ambivere.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.ambivere.bg.it",
-     "link": "https://www.comune.ambivere.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "91026230168",
-   "id": "2bbeb2e8b07f",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ambivere",
-   "tipo": "Comune",
-   "titolo": "Piscine Ponte - Corsi e promozioni per i residenti anno 2027",
-   "pubblicazione": "2026-11-23",
-   "scadenza": "2026-12-16",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale",
-    "pon"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.ambivere.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.ambivere.bg.it",
-     "link": "https://www.comune.ambivere.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "91026230168",
-   "id": "d296bf1422f7",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso - Calendario Regionale delle Fiere e delle Sagre 2027",
-   "pubblicazione": "2026-11-02",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "37207cdf8ca9",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico - Sponsorizzazioni per finanziamento di installazioni…",
-   "pubblicazione": "2026-11-02",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "7d0720ef1224",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ambivere",
-   "tipo": "Comune",
-   "titolo": "Bando SAP 2026 - Avviso per l’assegnazione di alloggi popolari",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "per le famiglie",
-    "centri estivi",
-    "estiv",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
+    "Infanzia e famiglie"
    ],
    "link": "https://www.comune.ambivere.bg.it/novita/avvisi",
    "fonti": [
@@ -959,211 +414,7 @@
    "esito": false,
    "cig": "ZE63CED303",
    "cf": "91026230168",
-   "id": "2661f95d39fa",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso apertura domanda alloggi pubblici - anno 2026",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "0ef3799cde45",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico di assegnazione posteggi per fiera \"Madonna di…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "4020300e04c7",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Villa D'Adda",
-   "tipo": "Comune",
-   "titolo": "Bando SAP 2026 - Avviso per l’assegnazione di alloggi SAP. Istanze…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "centro estivo",
-    "estiv"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.villadadda.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.villadadda.bg.it",
-     "link": "https://www.comune.villadadda.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00616720165",
-   "id": "e132018254d1",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Villa D'Adda",
-   "tipo": "Comune",
-   "titolo": "Bando SAP 2026 - Avviso per l’assegnazione di alloggi SAP. Istanze dal 16.11.2026 al 18.12.2026",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-12-18",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "centro estivo",
-    "estiv"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.villadadda.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.villadadda.bg.it",
-     "link": "https://www.comune.villadadda.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00616720165",
-   "id": "94a57730c0b4",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Bando per il sostegno al mantenimento dell'alloggio in locazione sul libero mercato",
-   "pubblicazione": "2026-04-18",
-   "scadenza": "2026-12-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "15987d297621",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pontida",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico di assegnazione posteggi per fiera \"Madonna di Ca' de Rizzi\" – 19 Marzo 2027",
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2027-01-15",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "centri estivi",
-    "estiv",
-    "natalizi",
-    "natalizie",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontida.bg.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.pontida.bg.it",
-     "link": "https://www.comune.pontida.bg.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000590164",
-   "id": "7aa331f92dcf",
+   "id": "e9cb245f57b6",
    "nuovo": false
   },
   {
@@ -1195,37 +446,6 @@
    "cig": null,
    "cf": "81001640168",
    "id": "f7c7e1592640",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Fara Olivana Con Sola",
-   "tipo": "Comune",
-   "titolo": "Corso gratuito per diventare autista di autobus: selezioni il 15 dicembre",
-   "pubblicazione": "2026-11-06",
-   "scadenza": "2027-01-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "per le famiglie",
-    "festa patronale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.faraolivanaconsola.bg.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.faraolivanaconsola.bg.it",
-     "link": "https://www.comune.faraolivanaconsola.bg.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83000890166",
-   "id": "05d7ba58cff3",
    "nuovo": false
   },
   {
@@ -1369,36 +589,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Ponte San Pietro",
-   "tipo": "Comune",
-   "titolo": "Piscine di Ponte San Pietro: convenzione residenti",
-   "pubblicazione": "2026-10-01",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "natale",
-    "pon"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontesanpietro.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.pontesanpietro.bg.it",
-     "link": "https://www.comune.pontesanpietro.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250450160",
-   "id": "c55bb5839904",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Pontirolo Nuovo",
    "tipo": "Biblioteca",
    "titolo": "Orari invernali biblioteca Pontirolo Nuovo",
@@ -1427,94 +617,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Romano di Lombardia",
-   "tipo": "Comune",
-   "titolo": "Ginnastica Preventiva Adattata",
-   "pubblicazione": "2026-10-01",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "natalizi"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "https://www.comune.romano.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.romano.bg.it",
-     "link": "https://www.comune.romano.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00622580165",
-   "id": "d95a9e77e3a4",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ponte San Pietro",
-   "tipo": "Comune",
-   "titolo": "Cimitero di Ponte San Pietro - Avviso scadenza concessioni loculi campata L9",
-   "pubblicazione": "2026-10-02",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "natale",
-    "pon"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontesanpietro.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.pontesanpietro.bg.it",
-     "link": "https://www.comune.pontesanpietro.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250450160",
-   "id": "f82cea0e290a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ponte San Pietro",
-   "tipo": "Comune",
-   "titolo": "Cimitero di Ponte San Pietro - Avviso scadenza concessioni loculi campata L8",
-   "pubblicazione": "2026-10-02",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "natale",
-    "pon"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontesanpietro.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.pontesanpietro.bg.it",
-     "link": "https://www.comune.pontesanpietro.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250450160",
-   "id": "e204cf8e7160",
-   "nuovo": false
-  },
-  {
    "ente": "ISTITUTO COMPRENSIVO - LEFFE ISTITUTO COMPRENSIVO",
    "tipo": "Scuola",
    "titolo": "AVVISO PUBBLICO PER REPERIMENTO DI ESPERTI ESTERNI PROGETTO PILOTA MADRELINGUA INGLESE SCUOLA PRIMARIA DI LEFFE 2026-2027",
@@ -1540,66 +642,6 @@
    "cig": null,
    "cf": "90017470163",
    "id": "9133549b8a06",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ponte San Pietro",
-   "tipo": "Comune",
-   "titolo": "Corsi di Ginnastica Preventiva Adattata 2026-2027",
-   "pubblicazione": "2026-10-08",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "natale"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontesanpietro.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.pontesanpietro.bg.it",
-     "link": "https://www.comune.pontesanpietro.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250450160",
-   "id": "73e7272a18f4",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Treviglio",
-   "tipo": "Comune",
-   "titolo": "Misura B2 FNA 2026/2027: aperto il bando per persone con disabilità e anziani non autosufficienti",
-   "pubblicazione": "2026-10-08",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "natale",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.treviglio.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.treviglio.bg.it",
-     "link": "https://www.comune.treviglio.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00230810160",
-   "id": "7521317c0335",
    "nuovo": false
   },
   {
@@ -1646,11 +688,11 @@
     "Infanzia e famiglie",
     "Estate e musica"
    ],
-   "link": "https://comune.ranica.bg.it/it/news?type=3",
+   "link": "https://www.comune.ranica.bg.it/it/news?type=3",
    "fonti": [
     {
      "nome": "sito comune.ranica.bg.it",
-     "link": "https://comune.ranica.bg.it/it/news?type=3"
+     "link": "https://www.comune.ranica.bg.it/it/news?type=3"
     }
    ],
    "esito": false,
@@ -1745,36 +787,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Costa Valle Imagna",
-   "tipo": "Comune",
-   "titolo": "Convenzione Piscine Ponte San Pietro anno 2027",
-   "pubblicazione": "2026-10-20",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "pon"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.comune.costavalleimagna.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.costavalleimagna.bg.it",
-     "link": "https://www.comune.costavalleimagna.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00550800163",
-   "id": "a0668ef7bdb1",
-   "nuovo": false
-  },
-  {
    "ente": "TREVIGLIO \"DE AMICIS\"",
    "tipo": "Scuola",
    "titolo": "Determina di aggiudicazione definitiva per incarico Progetto \"educazione teatrale\"",
@@ -1799,65 +811,6 @@
    "cig": null,
    "cf": "",
    "id": "fc7d93fe9f03",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Nembro",
-   "tipo": "Comune",
-   "titolo": "DoteComune: Selezione di N° 103 tirocinanti per la realizzazione di progetti di “DoteComune” in Lombardia",
-   "pubblicazione": "2026-10-22",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "selezione"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.nembro.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nembro.bg.it",
-     "link": "https://www.comune.nembro.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00221710163",
-   "id": "c15728022f5c",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Bariano",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico assegnazione contributi economici",
-   "pubblicazione": "2026-10-23",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.bariano.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.bariano.bg.it",
-     "link": "https://www.comune.bariano.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83000390167",
-   "id": "cb5f86376b6b",
    "nuovo": false
   },
   {
@@ -1997,37 +950,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Gazzaniga",
-   "tipo": "Comune",
-   "titolo": "CONTRIBUTI A SOSTEGNO DEL MANTENIMENTO DELL’ALLOGGIO IN LOCAZIONE",
-   "pubblicazione": "2026-10-30",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "scuola dell'infanzia",
-    "per bambini",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.gazzaniga.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.gazzaniga.bg.it",
-     "link": "https://www.comune.gazzaniga.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250930161",
-   "id": "a6a2d7771cc6",
-   "nuovo": false
-  },
-  {
    "ente": "ISTITUTO COMPRENSIVO - LEFFE ISTITUTO COMPRENSIVO",
    "tipo": "Scuola",
    "titolo": "DETERMINA N.16 APPROFONDIMENTO LINGUISTICO INGLESE-SPETTACOLO TEATRALE A.S.2026/2027",
@@ -2053,35 +975,6 @@
    "cig": null,
    "cf": "90017470163",
    "id": "d473432688ee",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Nembro",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'erogazione di contributi a sostegno del mantenimento dell'alloggio in locazione 2026",
-   "pubblicazione": "2026-11-02",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.nembro.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nembro.bg.it",
-     "link": "https://www.comune.nembro.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00221710163",
-   "id": "417234db8c36",
    "nuovo": false
   },
   {
@@ -2121,13 +1014,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "eventi culturali",
-    "bibliotec"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.comune.entratico.bg.it/novita/news",
    "fonti": [
@@ -2309,44 +1199,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Rogno",
-   "tipo": "Comune",
-   "titolo": "BANDO APERTO* Leva civica lombarda volontaria FSE+ avvio 4 gennaio 2027 bis",
-   "pubblicazione": "2026-11-11",
-   "scadenza": null,
-   "importo": "€ 594,15",
-   "partecipanti": null,
-   "motivi": [
-    "estiv",
-    "natalizi",
-    "fse",
-    "inclusione",
-    "bibliotec"
-   ],
-   "temi": [
-    "Estate e musica",
-    "Natale",
-    "Laboratori nelle scuole",
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.comune.rogno.bg.it/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.rogno.bg.it",
-     "link": "https://www.comune.rogno.bg.it/avvisi"
-    },
-    {
-     "nome": "sito comune.rogno.bg.it",
-     "link": "https://www.comune.rogno.bg.it/avviso/bando-aperto-leva-civica-lombarda-volontaria-fse-avvio-4-gennaio-2027-bis"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00542510169",
-   "id": "64cf724287cd",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Serina",
    "tipo": "Comune",
    "titolo": "Delibera: Giunta Comunale N.104 DEL 11/11/2026: SERATE A TEMA ORGANIZZATE DAL CAI - SOTTOSEZIONE VALSERINA UGO CARRARA O.D.V. - PATROCINIO GRATUITO DEL COMUNE DI SERINA PER LE INIZIATIVE IN PROGRAMMA E UTILIZZO SALA CIVICA.",
@@ -2445,12 +1297,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "rassegn",
-    "eventi culturali",
     "concert"
    ],
    "temi": [
-    "Teatro e spettacoli",
     "Estate e musica"
    ],
    "link": "https://www.comune.cividatealpiano.bg.it/novita/news",
@@ -2464,36 +1313,6 @@
    "cig": null,
    "cf": "00666770169",
    "id": "d76399bbaaa7",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pianico",
-   "tipo": "Biblioteca",
-   "titolo": "DETERMINA AREA AMMINISTRATIVA FINANZIARIA N° 95/37 del 05/11/26 Oggetto: ORGANIZZAZIONE LETTURA-LABORATORIO PER BAMBINI IN BIBLIOTECA CON L'ARTISTA CLARA GRASSI, IN OCCASIONE DEL PROGETTO \"NATI PER LEGGERE\" 2026.",
-   "pubblicazione": "2026-11-12",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "nati per leggere",
-    "bibliotec",
-    "per bambini"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=1286&RicCro=1&CE=pnc1516",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=1286&RicCro=1&CE=pnc1516"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00347890162",
-   "id": "eb175ce3f977",
    "nuovo": false
   },
   {
@@ -2810,155 +1629,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Cisano Bergamasco",
-   "tipo": "Comune",
-   "titolo": "Bando SAP (Servizi Abitativi Pubblici) 2026",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "scuola dell'infanzia"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.cisano.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.cisano.bg.it",
-     "link": "https://www.comune.cisano.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82001390168",
-   "id": "5af0d63ce8e4",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Gazzaniga",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO NR. 14462 PER L'ASSEGNAZIONE DI ABITAZIONI DEI…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "scuola dell'infanzia",
-    "per bambini",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.gazzaniga.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.gazzaniga.bg.it",
-     "link": "https://www.comune.gazzaniga.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250930161",
-   "id": "4938276ec7c0",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Gazzaniga",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO NR. 14462 PER L'ASSEGNAZIONE DI ABITAZIONI DEI SERVIZI ABITATIVI PUBBLICI",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "scuola dell'infanzia",
-    "per bambini",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.gazzaniga.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.gazzaniga.bg.it",
-     "link": "https://www.comune.gazzaniga.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250930161",
-   "id": "35474d171374",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Nembro",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO NR. 14462 per l’assegnazione delle unità abitative destinate ai Servizi Abitativi Pubblici disponibili nell’ambito territoriale della Valle Seriana",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.nembro.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nembro.bg.it",
-     "link": "https://www.comune.nembro.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00221710163",
-   "id": "529fb85ab2ec",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Terno d'Isola",
-   "tipo": "Comune",
-   "titolo": "Avviso Pubblico per l’assegnazione delle unità abitative destinate ai…",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.ternodisola.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.ternodisola.bg.it",
-     "link": "https://www.comune.ternodisola.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82005730161",
-   "id": "eabac06d6b6d",
-   "nuovo": false
-  },
-  {
    "ente": "GRUMELLO DEL MONTE",
    "tipo": "Scuola",
    "titolo": "Esito avviso selezione per esperti esterni PDS 2026/2027",
@@ -3099,66 +1769,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Terno d'Isola",
-   "tipo": "Comune",
-   "titolo": "La Ginnastica Preventiva Adattata a Terno d'Isola raddoppia!!",
-   "pubblicazione": "2026-11-17",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.ternodisola.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.ternodisola.bg.it",
-     "link": "https://www.comune.ternodisola.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82005730161",
-   "id": "142baebd5be5",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Villa di Serio",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per assegnazione unità abitative SAP",
-   "pubblicazione": "2026-11-17",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "scuola dell'infanzia",
-    "per bambini",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comune.villadiserio.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.villadiserio.bg.it",
-     "link": "https://www.comune.villadiserio.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80023530167",
-   "id": "0ba2375d84b5",
-   "nuovo": false
-  },
-  {
    "ente": "ALZANO LOMBARDO",
    "tipo": "Scuola",
    "titolo": "DETERMINA A CONTRARRE PER PROGETTO \" I PERSONAGGI FANNO TEATRO\" #137/2026",
@@ -3271,37 +1881,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Bariano",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico contributi anno educativo 2025/2026",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "natale",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.bariano.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.bariano.bg.it",
-     "link": "https://www.comune.bariano.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83000390167",
-   "id": "bb0cde76a8e3",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Mozzanica",
    "tipo": "Comune",
    "titolo": "Delibera: Giunta Comunale N.120 DEL 18/11/2026: ASSEGNAZIONE CONTRIBUTO AL CORPO MUSICALE PARROCCHIALE DON GASPARE PALTENGHI ANNO 2026.",
@@ -3381,66 +1960,6 @@
    "cig": null,
    "cf": "00547750166",
    "id": "0acc7be38670",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Sotto il Monte Giovanni XXIII",
-   "tipo": "Comune",
-   "titolo": "Avviso Pubblico per l’assegnazione delle unità abitative destinate ai…",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.comune.sottoilmontegiovannixxiii.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.sottoilmontegiovannixxiii.bg.it",
-     "link": "https://www.comune.sottoilmontegiovannixxiii.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82003830161",
-   "id": "4002a09aad3c",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Sotto il Monte Giovanni XXIII",
-   "tipo": "Comune",
-   "titolo": "Avviso Pubblico per l’assegnazione delle unità abitative destinate ai servizi abitativi pubblici disponibili nell’ambito territoriale Isola Bergamasca e Bassa Val San Martino",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "bibliotec",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.comune.sottoilmontegiovannixxiii.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.sottoilmontegiovannixxiii.bg.it",
-     "link": "https://www.comune.sottoilmontegiovannixxiii.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82003830161",
-   "id": "c201ad3334a7",
    "nuovo": false
   },
   {
@@ -3669,34 +2188,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Nembro",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per candidature a prestazione gratuita di consulenza sportello comunale \"DILLO ALL'AVVOCATO\"",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://www.comune.nembro.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nembro.bg.it",
-     "link": "https://www.comune.nembro.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00221710163",
-   "id": "b462120782ef",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Piazza Brembana",
    "tipo": "Biblioteca",
    "titolo": "Delibera: Consiglio Comunale N.26 DEL 19/11/2026: APPROVAZIONE CONVENZIONE RETE BIBLIOTECARIA BERGAMASCA (RBBG) UNA RETE DI BIBLIOTECHE AL SERVIZIO DELLE COMUNITA' PER IL TRIENNIO 2027/2029.",
@@ -3725,63 +2216,6 @@
    "cig": null,
    "cf": "85002330166",
    "id": "b3cf29066305",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Romano di Lombardia",
-   "tipo": "Comune",
-   "titolo": "Avviso Convocazione del Consiglio Comunale il 25 novembre 2026",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "natalizi"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "https://www.comune.romano.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.romano.bg.it",
-     "link": "https://www.comune.romano.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00622580165",
-   "id": "ba0bd278e70b",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Rogno",
-   "tipo": "Comune",
-   "titolo": "Avviso di convocazione Consiglio Comunale",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "estiv",
-    "natalizi"
-   ],
-   "temi": [
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.rogno.bg.it/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.rogno.bg.it",
-     "link": "https://www.comune.rogno.bg.it/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00542510169",
-   "id": "f753e819a17f",
    "nuovo": false
   },
   {
@@ -3923,33 +2357,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Onore",
-   "tipo": "Biblioteca",
-   "titolo": "DETERMINAZIONI SEGRETERIA-AFFARI GENERALI N° 224/109 del 09/11/26 Oggetto: SERVIZIO BIBLIOTECA. IMPEGNO E LIQUIDAZIONE DI SPESA PER QUOTA ADESIONE AL SISTEMA BIBLIOTECARIO VALLE SERIANA - ANNO 2026",
-   "pubblicazione": "2026-11-20",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec"
-   ],
-   "temi": [
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2113&RicCro=1&CE=nr1557",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2113&RicCro=1&CE=nr1557"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "00636350167",
-   "id": "0dd00e0d3bc4",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Treviglio",
    "tipo": "Comune",
    "titolo": "AFFIDAMENTO DIRETTO DELLA REALIZZAZIONE DI UNA SCENOGRAFIA NATALIZIA .IMPEGNO DI SPESA. CIG. BDDBD33179",
@@ -3964,11 +2371,11 @@
    "temi": [
     "Natale"
    ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5807245?p_auth=7DRv4SYp",
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5807245?p_auth=WKDuWQft",
    "fonti": [
     {
      "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5807245?p_auth=7DRv4SYp"
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5807245?p_auth=WKDuWQft"
     }
    ],
    "esito": true,
@@ -3992,11 +2399,11 @@
    "temi": [
     "Natale"
    ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5806440?p_auth=7DRv4SYp",
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5806440?p_auth=WKDuWQft",
    "fonti": [
     {
      "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5806440?p_auth=7DRv4SYp"
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5806440?p_auth=WKDuWQft"
     }
    ],
    "esito": true,
@@ -4068,12 +2475,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "rassegn",
-    "eventi culturali",
     "concert"
    ],
    "temi": [
-    "Teatro e spettacoli",
     "Estate e musica"
    ],
    "link": "https://www.comune.cividatealpiano.bg.it/novita/news",
@@ -4116,35 +2520,6 @@
    "cig": null,
    "cf": "00307380162",
    "id": "d70d9025129f",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Rogno",
-   "tipo": "Comune",
-   "titolo": "Bando a sostegno di progetti di valorizzazione e promozione dei presepi e della tradizione presepistica lombarda. Edizione 2026-2027",
-   "pubblicazione": "2026-11-23",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "estiv",
-    "natalizi"
-   ],
-   "temi": [
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.rogno.bg.it/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.rogno.bg.it",
-     "link": "https://www.comune.rogno.bg.it/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00542510169",
-   "id": "e0cc6edda384",
    "nuovo": false
   },
   {
@@ -4233,40 +2608,6 @@
    "cig": null,
    "cf": "00684170160",
    "id": "0d8096a43711",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ciserano",
-   "tipo": "Comune",
-   "titolo": "Contributo regionale di solidarietà - anno 2026",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "eventi culturali",
-    "bibliotec",
-    "animazione",
-    "natale"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.ciserano.bg.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.ciserano.bg.it",
-     "link": "https://www.comune.ciserano.bg.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00335130167",
-   "id": "8fd739a18d79",
    "nuovo": false
   },
   {
@@ -4384,6 +2725,123 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Selvino",
+   "tipo": "Comune",
+   "titolo": "ISTITUZIONE DELLA ZONA A TRAFFICO LIMITATO IN CORSO MILANO, VIA CAMPANA E CORSO MONTE ROSA - PONTE IMMACOLATA E VACANZE NATALIZIE 2026",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "natalizi",
+    "natalizie",
+    "pon"
+   ],
+   "temi": [
+    "Natale"
+   ],
+   "link": "https://halleyweb.com/c016197/mc/mc_p_ricerca.php",
+   "fonti": [
+    {
+     "nome": "sito halleyweb.com",
+     "link": "https://halleyweb.com/c016197/mc/mc_p_ricerca.php"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "00631310166",
+   "id": "cea60d64bc51",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Treviglio",
+   "tipo": "Biblioteca",
+   "titolo": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI FACCHINAGGIO PER LE NUOVE SEDI DELLE BIBLIOTECHE CASTEL CERRETO E MAST E DISALLESTIMENTO SEDI PRECEDENTI. IMPEGNO DI SPESA. CIG. BDE96B9303",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5813072?p_auth=WKDuWQft",
+   "fonti": [
+    {
+     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5813072?p_auth=WKDuWQft"
+    }
+   ],
+   "esito": true,
+   "cig": "BDE96B9303",
+   "cf": "00230810160",
+   "id": "9c02adf8678e",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Treviglio",
+   "tipo": "Comune",
+   "titolo": "AFFIDAMENTO DIRETTO DELLA REALIZZAZIONE DI UNO SPETTACOLO ITINERANTE DENOMINATO “BIANCO NATALE” NELL’AMBITO DELLE INIZIATIVE DI WINTER IN TREVIGLIO. IMPEGNO DI SPESA. CIG. BDE98054FC",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol",
+    "natale",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Natale"
+   ],
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812964?p_auth=WKDuWQft",
+   "fonti": [
+    {
+     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812964?p_auth=WKDuWQft"
+    }
+   ],
+   "esito": true,
+   "cig": "BDE98054FC",
+   "cf": "00230810160",
+   "id": "e4fd78a607ab",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Treviglio",
+   "tipo": "Comune",
+   "titolo": "AFFIDAMENTO DIRETTO DELLA REALIZZAZIONE DI UNO SPETTACOLO E DI DUE LABORATORI DI BURATTINI INSERITI NELL’INIZIATIVA “IN VIAGGIO CON GIOPPINO” DA SVOLGERSI IN OCCASIONE DELLE INIZIATIVE DI WINTER IN TREVIGLIO. IMPEGNO DI SPESA. CIG. BDE96F86FF",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol",
+    "burattini",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli",
+    "Infanzia e famiglie"
+   ],
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812961?p_auth=WKDuWQft",
+   "fonti": [
+    {
+     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812961?p_auth=WKDuWQft"
+    }
+   ],
+   "esito": true,
+   "cig": "BDE96F86FF",
+   "cf": "00230810160",
+   "id": "df983e909724",
+   "nuovo": false
+  },
+  {
    "ente": "VILLA D'ALME (Alme')",
    "tipo": "Scuola",
    "titolo": "AVVISO SELEZIONE TUTOR PN21-27 PIANO SCUOLA ESTATE (2)",
@@ -4412,94 +2870,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Treviglio",
-   "tipo": "Biblioteca",
-   "titolo": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI FACCHINAGGIO PER LE NUOVE SEDI DELLE BIBLIOTECHE CASTEL CERRETO E MAST E DISALLESTIMENTO SEDI PRECEDENTI. IMPEGNO DI SPESA. CIG. BDE96B9303",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "affidamento"
-   ],
-   "temi": [
-    "Lettura e biblioteche"
-   ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5813072?p_auth=7DRv4SYp",
-   "fonti": [
-    {
-     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5813072?p_auth=7DRv4SYp"
-    }
-   ],
-   "esito": true,
-   "cig": "BDE96B9303",
-   "cf": "00230810160",
-   "id": "9c02adf8678e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Treviglio",
-   "tipo": "Comune",
-   "titolo": "AFFIDAMENTO DIRETTO DELLA REALIZZAZIONE DI UNO SPETTACOLO ITINERANTE DENOMINATO “BIANCO NATALE” NELL’AMBITO DELLE INIZIATIVE DI WINTER IN TREVIGLIO. IMPEGNO DI SPESA. CIG. BDE98054FC",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "natale",
-    "affidamento"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812964?p_auth=7DRv4SYp",
-   "fonti": [
-    {
-     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812964?p_auth=7DRv4SYp"
-    }
-   ],
-   "esito": true,
-   "cig": "BDE98054FC",
-   "cf": "00230810160",
-   "id": "e4fd78a607ab",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Treviglio",
-   "tipo": "Comune",
-   "titolo": "AFFIDAMENTO DIRETTO DELLA REALIZZAZIONE DI UNO SPETTACOLO E DI DUE LABORATORI DI BURATTINI INSERITI NELL’INIZIATIVA “IN VIAGGIO CON GIOPPINO” DA SVOLGERSI IN OCCASIONE DELLE INIZIATIVE DI WINTER IN TREVIGLIO. IMPEGNO DI SPESA. CIG. BDE96F86FF",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "burattini",
-    "affidamento"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812961?p_auth=7DRv4SYp",
-   "fonti": [
-    {
-     "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5812961?p_auth=7DRv4SYp"
-    }
-   ],
-   "esito": true,
-   "cig": "BDE96F86FF",
-   "cf": "00230810160",
-   "id": "df983e909724",
-   "nuovo": false
-  },
-  {
    "ente": "STEZZANO \"CAROLI\"",
    "tipo": "Scuola",
    "titolo": "Avviso di selezione di esperti persone fisiche-Secondo avviso",
@@ -4508,13 +2878,10 @@
    "importo": "€ 2.852,00",
    "partecipanti": "Esperti / persone fisiche",
    "motivi": [
-    "inclusione",
     "musical",
-    "musicale",
     "selezione"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Estate e musica"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/4711/documento/BGIC87900D",
@@ -4641,6 +3008,33 @@
    "nuovo": false
   },
   {
+   "ente": "\" GIACOMO E PIO MANZU' \" (Bergamo)",
+   "tipo": "Scuola",
+   "titolo": "DETERMINA A CONTRARRE/LIQUIDAZIONE - N.1 VOLUME BERGANTINI 2027 + RASSEGNA GIURIDICA NORMATIVA + BANCA DATI OMLINE",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "rassegn"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/BGLA0001/fu6nuntv0u",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BGLA0001/fu6nuntv0u"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "",
+   "id": "e2c59b2e84e1",
+   "nuovo": false
+  },
+  {
    "ente": "ISTITUTO COMPRENSIVO - GORLAGO - ALDO MORO",
    "tipo": "Scuola",
    "titolo": "DECISIONE A CONTRARRE PER L'AFFIDAMENTO USCITA DIDATTICA TEATRO ALZANO PRIMARIA GORLAGO",
@@ -4744,11 +3138,11 @@
    "temi": [
     "Teatro e spettacoli"
    ],
-   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5816188?p_auth=7DRv4SYp",
+   "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5816188?p_auth=WKDuWQft",
    "fonti": [
     {
      "nome": "sito treviglio.trasparenza-valutazione-merito.it",
-     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5816188?p_auth=7DRv4SYp"
+     "link": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5816188?p_auth=WKDuWQft"
     }
    ],
    "esito": true,
@@ -4871,81 +3265,10 @@
    "cf": "00342670163",
    "id": "a7c6fa23a289",
    "nuovo": false
-  },
-  {
-   "ente": "Comune di Treviglio",
-   "tipo": "Comune",
-   "titolo": "Distretto Urbano del Commercio: un bando da 170.000 euro per le attività di Treviglio",
-   "pubblicazione": "2026-11-30",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "natale",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Natale"
-   ],
-   "link": "https://www.comune.treviglio.bg.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.treviglio.bg.it",
-     "link": "https://www.comune.treviglio.bg.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00230810160",
-   "id": "9fd5c46ed268",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ponte San Pietro",
-   "tipo": "Comune",
-   "titolo": "Avviso apertura domanda alloggi pubblici - anno 2026",
-   "pubblicazione": "2026-12-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia",
-    "natale"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.pontesanpietro.bg.it/novita/",
-   "fonti": [
-    {
-     "nome": "sito comune.pontesanpietro.bg.it",
-     "link": "https://www.comune.pontesanpietro.bg.it/novita/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00250450160",
-   "id": "442e9f9ec74e",
-   "nuovo": false
   }
  ],
  "copertura": {
   "enti": [
-   {
-    "nome": "Consorzio Ambiente Territorio e Servizi",
-    "tipo": "Altro ente",
-    "sito": "https://www.consorzioats.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 28
-   },
    {
     "nome": "Consorzio Polizia Locale Isola B.sca",
     "tipo": "Altro ente",
@@ -4958,17 +3281,6 @@
     "secondi": 5
    },
    {
-    "nome": "Unione Insieme sul Serio",
-    "tipo": "Altro ente",
-    "sito": "https://www.unionesulserio.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Unione Media Val Cavallina",
     "tipo": "Altro ente",
     "sito": "https://www.unione.media-val-cavallina.bg.it/",
@@ -4977,7 +3289,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 106
+    "secondi": 107
    },
    {
     "nome": "Unione di Comuni Alto Serio",
@@ -5033,17 +3345,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Bedulita",
-    "tipo": "Comune",
-    "sito": "https://www.comune.bedulita.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Berbenno",
     "tipo": "Comune",
     "sito": "https://www.comune.berbenno.bg.it/",
@@ -5066,17 +3367,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Bossico",
-    "tipo": "Comune",
-    "sito": "https://www.comune.bossico.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Branzi",
     "tipo": "Comune",
     "sito": "https://www.comune.branzi.bg.it/",
@@ -5088,17 +3378,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Brumano",
-    "tipo": "Comune",
-    "sito": "https://www.comune.brumano.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Capizzone",
     "tipo": "Comune",
     "sito": "https://www.comune.capizzone.bg.it/",
@@ -5108,28 +3387,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Carobbio Degli Angeli",
-    "tipo": "Comune",
-    "sito": "https://www.comune.carobbio.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
-    "nome": "Comune di Carvico",
-    "tipo": "Comune",
-    "sito": "https://www.comune.carvico.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
    },
    {
     "nome": "Comune di Castelli Calepio",
@@ -5152,17 +3409,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Cenate Sopra",
-    "tipo": "Comune",
-    "sito": "https://www.comune.cenatesopra.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
    },
    {
     "nome": "Comune di Cenate Sotto",
@@ -5220,17 +3466,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Filago",
-    "tipo": "Comune",
-    "sito": "https://www.comune.filago.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Fontanella",
     "tipo": "Comune",
     "sito": "https://www.comune.fontanella.bg.it/",
@@ -5251,28 +3486,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Fuipiano Valle Imagna",
-    "tipo": "Comune",
-    "sito": "https://www.comune.fuipianovalleimagna.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
-    "nome": "Comune di Gaverina Terme",
-    "tipo": "Comune",
-    "sito": "https://www.comune.gaverina-terme.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
    },
    {
     "nome": "Comune di Gorle",
@@ -5297,17 +3510,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Isso",
-    "tipo": "Comune",
-    "sito": "https://www.comune.isso.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Lallio",
     "tipo": "Comune",
     "sito": "https://www.comune.lallio.bg.it/",
@@ -5316,7 +3518,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 1
    },
    {
     "nome": "Comune di Levate",
@@ -5339,17 +3541,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Misano di Gera D'Adda",
-    "tipo": "Comune",
-    "sito": "https://www.comune.misano.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
    },
    {
     "nome": "Comune di Moio De' Calvi",
@@ -5385,17 +3576,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Oltre il Colle",
-    "tipo": "Comune",
-    "sito": "https://www.comune.oltreilcolle.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 26
-   },
-   {
     "nome": "Comune di Oltressenda Alta",
     "tipo": "Comune",
     "sito": "https://www.comune.oltressendaalta.bg.it/",
@@ -5429,17 +3609,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Ponte Nossa",
-    "tipo": "Comune",
-    "sito": "https://www.comune.pontenossa.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Premolo",
     "tipo": "Comune",
     "sito": "https://www.comune.premolo.bg.it/",
@@ -5470,7 +3639,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di San Giovanni Bianco",
@@ -5482,17 +3651,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
-   },
-   {
-    "nome": "Comune di Sant'Omobono Terme",
-    "tipo": "Comune",
-    "sito": "https://www.comune.santomobonoterme.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
    },
    {
     "nome": "Comune di Schilpario",
@@ -5517,28 +3675,6 @@
     "secondi": 1
    },
    {
-    "nome": "Comune di Sorisole",
-    "tipo": "Comune",
-    "sito": "https://www.comune.sorisole.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
-    "nome": "Comune di Strozza",
-    "tipo": "Comune",
-    "sito": "https://www.comune.strozza.bg.it/",
-    "esito": "non letto",
-    "motivo": "sito irraggiungibile",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 27
-   },
-   {
     "nome": "Comune di Telgate",
     "tipo": "Comune",
     "sito": "https://www.comune.telgate.bg.it/",
@@ -5547,7 +3683,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di Torre Pallavicina",
@@ -5636,6 +3772,17 @@
     "secondi": 5
    },
    {
+    "nome": "\"IVAN PIANA\" (Lovere)",
+    "tipo": "Scuola",
+    "sito": "https://www.ispiana.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
     "nome": "\"PIETRO PALEOCAPA\" (Bergamo)",
     "tipo": "Scuola",
     "sito": "https://www.itispaleocapa.it/",
@@ -5647,17 +3794,6 @@
     "secondi": 141
    },
    {
-    "nome": "\"SERAFINO RIVA\" (Sarnico)",
-    "tipo": "Scuola",
-    "sito": "https://www.istitutoriva.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
     "nome": "\"SIMONE WEIL\" (Treviglio)",
     "tipo": "Scuola",
     "sito": "https://www.isweil.edu.it/",
@@ -5666,7 +3802,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "\"VALLE D'ARGON\" (San Paolo D'Argon)",
@@ -5677,7 +3813,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 39
    },
    {
     "nome": "\"VALLE SERIANA\" (Gazzaniga)",
@@ -5810,17 +3946,6 @@
     "secondi": 5
    },
    {
-    "nome": "GORLE",
-    "tipo": "Scuola",
-    "sito": "https://www.icgorle.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 6
-   },
-   {
     "nome": "GROMO - SORELLE DE MARCHI (Valgoglio)",
     "tipo": "Scuola",
     "sito": "https://www.icgromo.gov.it/",
@@ -5885,6 +4010,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 3
+   },
+   {
+    "nome": "Istituto Statale di Istruzione Superiore Guido Galli",
+    "tipo": "Scuola",
+    "sito": "https://www.isgalli.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
    },
    {
     "nome": "LEFFE",
@@ -6011,6 +4147,22 @@
     "secondi": 5
    },
    {
+    "nome": "Consorzio Ambiente Territorio e Servizi",
+    "tipo": "Altro ente",
+    "sito": "https://www.consorzioats.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.consorzioats.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
+   },
+   {
     "nome": "Consorzio Servizi Val Cavallina",
     "tipo": "Altro ente",
     "sito": "https://www.consorzioservizi.valcavallina.bg.it/",
@@ -6104,7 +4256,23 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 10
+   },
+   {
+    "nome": "Unione Insieme sul Serio",
+    "tipo": "Altro ente",
+    "sito": "https://www.unionesulserio.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.unionesulserio.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
    },
    {
     "nome": "Unione dei Comuni Lombarda Alme' e Villa D'Alme'",
@@ -6118,17 +4286,29 @@
       "url": "https://www.unionealmevilladalme.it/albo-online"
      },
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/ucalme/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.unionealmevilladalme.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://www.unionealmevilladalme.it/novita/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/ucalme/zf/index.php/trasparenza"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/ucalme/zf/index.php/bandi-gara/bandi-gara/bandi"
      }
     ],
-    "voci": 30,
+    "voci": 46,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 35
    },
    {
     "nome": "Unione di Comuni Isola Bergamasca",
@@ -6174,6 +4354,10 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://adrarasm.halleyweb.it/mc/mc_p_ricerca.php"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.adrarasanmartino.bg.it/novita/3-avviso"
      },
@@ -6184,11 +4368,19 @@
      {
       "nome": "Notizie",
       "url": "https://comune.adrarasanmartino.bg.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://adrarasm.halleyweb.it/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://adrarasm.halleyweb.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
      }
     ],
-    "voci": 6,
+    "voci": 26,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 14
    },
    {
     "nome": "Comune di Adrara San Rocco",
@@ -6219,12 +4411,12 @@
      },
      {
       "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsadrarasanrocco/portale/trasparenza/trasparenzaamministrativadocs.aspx?R=1&CP=81"
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsadrarasanrocco/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
      }
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 50
+    "secondi": 48
    },
    {
     "nome": "Comune di Albano Sant'Alessandro",
@@ -6255,8 +4447,8 @@
      }
     ],
     "voci": 76,
-    "trovati": 1,
-    "secondi": 48
+    "trovati": 2,
+    "secondi": 50
    },
    {
     "nome": "Comune di Albino",
@@ -6278,21 +4470,21 @@
       "url": "https://albino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11969"
      },
      {
-      "nome": "Albo",
-      "url": "https://albino.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.albino.bg.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.albino.bg.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.albino.bg.it/it/news?type=1"
      }
     ],
-    "voci": 135,
+    "voci": 148,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 59
    },
    {
     "nome": "Comune di Algua",
@@ -6338,6 +4530,10 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016005/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.alme.bg.it/novita"
      },
@@ -6350,9 +4546,9 @@
       "url": "https://www.comune.alme.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 180,
+    "voci": 193,
     "trovati": 0,
-    "secondi": 71
+    "secondi": 63
    },
    {
     "nome": "Comune di Almenno San Bartolomeo",
@@ -6388,7 +4584,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 44
+    "secondi": 11
    },
    {
     "nome": "Comune di Almenno San Salvatore",
@@ -6424,7 +4620,7 @@
     ],
     "voci": 122,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 25
    },
    {
     "nome": "Comune di Alzano Lombardo",
@@ -6460,7 +4656,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 14
    },
    {
     "nome": "Comune di Ambivere",
@@ -6491,8 +4687,8 @@
      }
     ],
     "voci": 65,
-    "trovati": 9,
-    "secondi": 44
+    "trovati": 1,
+    "secondi": 34
    },
    {
     "nome": "Comune di Antegnate",
@@ -6528,7 +4724,7 @@
     ],
     "voci": 169,
     "trovati": 2,
-    "secondi": 47
+    "secondi": 31
    },
    {
     "nome": "Comune di Arcene",
@@ -6564,7 +4760,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 23
    },
    {
     "nome": "Comune di Ardesio",
@@ -6600,7 +4796,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 57
    },
    {
     "nome": "Comune di Averara",
@@ -6636,7 +4832,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 15
    },
    {
     "nome": "Comune di Aviatico",
@@ -6672,7 +4868,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 20
    },
    {
     "nome": "Comune di Azzano San Paolo",
@@ -6708,7 +4904,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 65
+    "secondi": 14
    },
    {
     "nome": "Comune di Bagnatica",
@@ -6732,7 +4928,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 24
    },
    {
     "nome": "Comune di Bariano",
@@ -6755,8 +4951,40 @@
      }
     ],
     "voci": 101,
-    "trovati": 3,
+    "trovati": 0,
     "secondi": 45
+   },
+   {
+    "nome": "Comune di Bedulita",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bedulita.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.bedulita.bg.it/c016022/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.bedulita.bg.it/c016022/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.bedulita.bg.it/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.bedulita.bg.it/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.bedulita.bg.it/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 71,
+    "trovati": 0,
+    "secondi": 14
    },
    {
     "nome": "Comune di Bergamo",
@@ -6792,7 +5020,7 @@
     ],
     "voci": 237,
     "trovati": 0,
-    "secondi": 120
+    "secondi": 85
    },
    {
     "nome": "Comune di Berzo San Fermo",
@@ -6828,7 +5056,7 @@
     ],
     "voci": 59,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 27
    },
    {
     "nome": "Comune di Bianzano",
@@ -6860,7 +5088,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 11
    },
    {
     "nome": "Comune di Blello",
@@ -6924,7 +5152,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 22
    },
    {
     "nome": "Comune di Boltiere",
@@ -6947,8 +5175,8 @@
      }
     ],
     "voci": 29,
-    "trovati": 4,
-    "secondi": 21
+    "trovati": 0,
+    "secondi": 14
    },
    {
     "nome": "Comune di Bonate Sopra",
@@ -6966,6 +5194,10 @@
       "url": "https://www.comune.bonatesopra.bg.it/amministrazione/informazioni-utili/bandi-di-concorso/"
      },
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016030/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.bonatesopra.bg.it/novita/avvisi/"
      },
@@ -6976,15 +5208,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.bonatesopra.bg.it/novita/notizie/"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.bonatesopra.bg.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 31,
+    "voci": 36,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 37
    },
    {
     "nome": "Comune di Borgo di Terzo",
@@ -7009,6 +5237,22 @@
     "voci": 35,
     "trovati": 0,
     "secondi": 9
+   },
+   {
+    "nome": "Comune di Bossico",
+    "tipo": "Comune",
+    "sito": "https://www.comune.bossico.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.bossico.bg.it/c016033/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 15,
+    "trovati": 0,
+    "secondi": 18
    },
    {
     "nome": "Comune di Bottanuco",
@@ -7044,7 +5288,7 @@
     ],
     "voci": 207,
     "trovati": 0,
-    "secondi": 70
+    "secondi": 55
    },
    {
     "nome": "Comune di Bracca",
@@ -7106,9 +5350,9 @@
       "url": "https://www.comune.brembate.bg.it/it/news?type=1"
      }
     ],
-    "voci": 152,
+    "voci": 107,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 23
    },
    {
     "nome": "Comune di Brembate di Sopra",
@@ -7122,6 +5366,14 @@
       "url": "https://brembatedisopra.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
      },
      {
+      "nome": "Albo",
+      "url": "https://brembatedisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=57100"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://brembatedisopra.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=57100"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.brembatedisopra.bg.it/it/news?type=3"
      },
@@ -7132,15 +5384,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.brembatedisopra.bg.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://brembatedisopra.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 47,
+    "voci": 46,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 19
    },
    {
     "nome": "Comune di Brignano Gera d'Adda",
@@ -7160,11 +5408,39 @@
      {
       "nome": "Notizie",
       "url": "https://comune.brignano.bg.it/novita/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016040/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016040/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016040/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 6,
+    "voci": 14,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 34
+   },
+   {
+    "nome": "Comune di Brumano",
+    "tipo": "Comune",
+    "sito": "https://www.comune.brumano.bg.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.comune.brumano.bg.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
    },
    {
     "nome": "Comune di Brusaporto",
@@ -7196,7 +5472,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "Comune di Calcinate",
@@ -7228,7 +5504,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 22
    },
    {
     "nome": "Comune di Calcio",
@@ -7282,6 +5558,10 @@
       "url": "https://caluscodadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6560"
      },
      {
+      "nome": "Albo",
+      "url": "https://caluscodadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6560"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.caluscodadda.bg.it/novita"
      },
@@ -7292,15 +5572,11 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.caluscodadda.bg.it/amministrazione/amministrazione-trasparente"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.caluscodadda.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 171,
+    "voci": 169,
     "trovati": 0,
-    "secondi": 44
+    "secondi": 39
    },
    {
     "nome": "Comune di Calvenzano",
@@ -7336,7 +5612,7 @@
     ],
     "voci": 67,
     "trovati": 6,
-    "secondi": 62
+    "secondi": 57
    },
    {
     "nome": "Comune di Camerata Cornello",
@@ -7368,7 +5644,7 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "Comune di Canonica d'Adda",
@@ -7404,7 +5680,7 @@
     ],
     "voci": 186,
     "trovati": 0,
-    "secondi": 63
+    "secondi": 59
    },
    {
     "nome": "Comune di Capriate San Gervasio",
@@ -7418,17 +5694,25 @@
       "url": "https://www.comune.capriate-san-gervasio.bg.it/novita/avvisi"
      },
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016051/zf/index.php/trasparenza/index/index"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.capriate-san-gervasio.bg.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.capriate-san-gervasio.bg.it/novita/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016051/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 51,
-    "trovati": 1,
-    "secondi": 39
+    "voci": 63,
+    "trovati": 0,
+    "secondi": 31
    },
    {
     "nome": "Comune di Caprino Bergamasco",
@@ -7442,17 +5726,29 @@
       "url": "https://www.comune.caprinobergamasco.bg.it/novita/avvisi"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.caprinobergamasco.bg.it/novita"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016052/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016052/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016052/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016052/zf/index.php/trasparenza/index/index/categoria/80"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.caprinobergamasco.bg.it/novita/news"
+      "url": "https://www.comune.caprinobergamasco.bg.it/novita"
      }
     ],
-    "voci": 40,
+    "voci": 39,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 31
    },
    {
     "nome": "Comune di Caravaggio",
@@ -7491,6 +5787,38 @@
     "secondi": 24
    },
    {
+    "nome": "Comune di Carobbio Degli Angeli",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carobbio.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.carobbio.bg.it/c016055/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carobbio.bg.it/c016055/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carobbio.bg.it/c016055/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carobbio.bg.it/c016055/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carobbio.bg.it/c016055/zf/index.php/organi-politico-amministrativo/index/detail/idOrganoAT/G-XpBdwT-A/1/idOrgano/1/G-XpVegT-A/G-XpjeAT-A/idOrgano/G-XprNAT-A"
+     }
+    ],
+    "voci": 52,
+    "trovati": 0,
+    "secondi": 16
+   },
+   {
     "nome": "Comune di Carona",
     "tipo": "Comune",
     "sito": "https://www.comune.carona.bg.it/",
@@ -7524,7 +5852,39 @@
     ],
     "voci": 57,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 35
+   },
+   {
+    "nome": "Comune di Carvico",
+    "tipo": "Comune",
+    "sito": "https://www.comune.carvico.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.carvico.bg.it/c016057/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carvico.bg.it/c016057/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carvico.bg.it/c016057/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carvico.bg.it/c016057/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.carvico.bg.it/c016057/zf/index.php/uffici/index/detail/categoria/81/id/25"
+     }
+    ],
+    "voci": 32,
+    "trovati": 0,
+    "secondi": 17
    },
    {
     "nome": "Comune di Casazza",
@@ -7556,7 +5916,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 14
    },
    {
     "nome": "Comune di Casirate D'Adda",
@@ -7592,7 +5952,7 @@
     ],
     "voci": 66,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 35
    },
    {
     "nome": "Comune di Casnigo",
@@ -7628,7 +5988,7 @@
     ],
     "voci": 189,
     "trovati": 0,
-    "secondi": 55
+    "secondi": 45
    },
    {
     "nome": "Comune di Cassiglio",
@@ -7637,6 +5997,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "http://www.halleyweb.com/c016061/mc/mc_p_ricerca.php"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cassiglio.bg.it/comune/bandi-di-gara-e-di-concorso/bandi-di-concorso/"
@@ -7658,9 +6022,9 @@
       "url": "https://www.comune.cassiglio.bg.it/amministrazione-trasparente/bandi-di-gara-e-contratti/informazioni-sulle-singole-procedure-in-formato-tabellare/"
      }
     ],
-    "voci": 9,
+    "voci": 16,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 29
    },
    {
     "nome": "Comune di Castel Rozzone",
@@ -7684,11 +6048,15 @@
      {
       "nome": "Albo",
       "url": "https://castelrozzone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11535"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://castelrozzone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11534"
      }
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 21
    },
    {
     "nome": "Comune di Castione della Presolana",
@@ -7748,7 +6116,7 @@
     ],
     "voci": 53,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 23
    },
    {
     "nome": "Comune di Cavernago",
@@ -7757,6 +6125,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016066/mc/mc_gridev_messi.php?x=&servizio=&bck="
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cavernago.bg.it/novita/avvisi/"
@@ -7774,9 +6146,25 @@
       "url": "https://www.comune.cavernago.bg.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 21,
+    "voci": 38,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
+   },
+   {
+    "nome": "Comune di Cenate Sopra",
+    "tipo": "Comune",
+    "sito": "https://www.comune.cenatesopra.bg.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.comune.cenatesopra.bg.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
    },
    {
     "nome": "Comune di Cene",
@@ -7803,16 +6191,16 @@
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.cene.bg.it/it/news?type=1"
+      "url": "https://www.comune.cene.bg.it/it/menu/news"
      },
      {
-      "nome": "Trasparenza",
-      "url": "https://cene.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+      "nome": "Notizie",
+      "url": "https://www.comune.cene.bg.it/it/news?type=1"
      }
     ],
-    "voci": 40,
+    "voci": 95,
     "trovati": 0,
-    "secondi": 56
+    "secondi": 26
    },
    {
     "nome": "Comune di Cerete",
@@ -7821,10 +6209,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=crt1555"
-     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.cerete.bg.it/Notizie"
@@ -7842,9 +6226,9 @@
       "url": "https://www.comune.cerete.bg.it/Menu?IDDettaglio=206627"
      }
     ],
-    "voci": 51,
+    "voci": 50,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 43
    },
    {
     "nome": "Comune di Chignolo d Isola",
@@ -7854,17 +6238,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "http://halleyweb.com/c016072/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://halleyweb.com/c016072/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://halleyweb.com/c016072/zf/index.php/trasparenza/index/index/categoria/261"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.chignolodisola.bg.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.chignolodisola.bg.it/novita/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c016072/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 172,
+    "voci": 187,
     "trovati": 0,
-    "secondi": 55
+    "secondi": 59
    },
    {
     "nome": "Comune di Cisano Bergamasco",
@@ -7882,6 +6282,10 @@
       "url": "https://www.comune.cisano.bg.it/bandi-di-gara-e-contratti"
      },
      {
+      "nome": "Albo",
+      "url": "https://halleyweb.com/c016074/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.cisano.bg.it/novita"
      },
@@ -7894,9 +6298,9 @@
       "url": "https://www.comune.cisano.bg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 167,
-    "trovati": 2,
-    "secondi": 53
+    "voci": 178,
+    "trovati": 0,
+    "secondi": 57
    },
    {
     "nome": "Comune di Ciserano",
@@ -7905,6 +6309,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016075/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.ciserano.bg.it/novita"
@@ -7918,9 +6326,9 @@
       "url": "https://www.comune.ciserano.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 180,
-    "trovati": 4,
-    "secondi": 60
+    "voci": 183,
+    "trovati": 3,
+    "secondi": 56
    },
    {
     "nome": "Comune di Cividate al Piano",
@@ -7956,7 +6364,7 @@
     ],
     "voci": 13,
     "trovati": 2,
-    "secondi": 37
+    "secondi": 14
    },
    {
     "nome": "Comune di Clusone",
@@ -7992,7 +6400,7 @@
     ],
     "voci": 119,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 33
    },
    {
     "nome": "Comune di Cologno al Serio",
@@ -8028,7 +6436,7 @@
     ],
     "voci": 206,
     "trovati": 0,
-    "secondi": 59
+    "secondi": 50
    },
    {
     "nome": "Comune di Colzate",
@@ -8046,6 +6454,10 @@
       "url": "https://www.comune.colzate.bg.it/bandi-di-gara-e-contratti"
      },
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016080/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.colzate.bg.it/novita/avvisi"
      },
@@ -8056,15 +6468,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.colzate.bg.it/novita/news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.colzate.bg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 56,
-    "trovati": 3,
-    "secondi": 35
+    "voci": 66,
+    "trovati": 0,
+    "secondi": 25
    },
    {
     "nome": "Comune di Comun Nuovo",
@@ -8132,7 +6540,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 30
    },
    {
     "nome": "Comune di Cortenuova",
@@ -8192,7 +6600,7 @@
     ],
     "voci": 65,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 44
    },
    {
     "nome": "Comune di Costa Valle Imagna",
@@ -8204,6 +6612,10 @@
      {
       "nome": "Albo",
       "url": "https://www.comune.costavalleimagna.bg.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016085/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
      },
      {
       "nome": "Notizie",
@@ -8222,9 +6634,9 @@
       "url": "https://www.comune.costavalleimagna.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 35,
-    "trovati": 1,
-    "secondi": 26
+    "voci": 45,
+    "trovati": 0,
+    "secondi": 27
    },
    {
     "nome": "Comune di Costa Volpino",
@@ -8243,24 +6655,24 @@
      },
      {
       "nome": "Albo",
+      "url": "https://costavolpino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12770"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://costavolpino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12771"
+     },
+     {
+      "nome": "Albo",
       "url": "https://costavolpino.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12770"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.costavolpino.bg.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.costavolpino.bg.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.costavolpino.bg.it/it/news?type=1"
      }
     ],
-    "voci": 35,
+    "voci": 22,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 16
    },
    {
     "nome": "Comune di Costa di Mezzate",
@@ -8292,7 +6704,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 10
    },
    {
     "nome": "Comune di Credaro",
@@ -8330,6 +6742,14 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016089/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/s%E2%80%A6"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016089/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.curno.bg.it/novita"
      },
@@ -8342,9 +6762,9 @@
       "url": "https://www.comune.curno.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 183,
+    "voci": 201,
     "trovati": 0,
-    "secondi": 58
+    "secondi": 53
    },
    {
     "nome": "Comune di Cusio",
@@ -8380,7 +6800,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "Comune di Dalmine",
@@ -8389,6 +6809,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://dalmine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://dalmine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24170"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://dalmine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24170"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.dalmine.bg.it/it/news?type=3"
@@ -8400,15 +6832,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.dalmine.bg.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://dalmine.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 127,
+    "voci": 124,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 35
    },
    {
     "nome": "Comune di Dossena",
@@ -8439,12 +6867,12 @@
      },
      {
       "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsdossena/portale/trasparenza/trasparenzaamministrativadocs.aspx?R=1&CP=158"
+      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmsdossena/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=158"
      }
     ],
     "voci": 48,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "Comune di Endine Gaiano",
@@ -8480,7 +6908,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "Comune di Entratico",
@@ -8489,6 +6917,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016094/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016094/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.entratico.bg.it/novita"
@@ -8502,9 +6938,9 @@
       "url": "https://www.comune.entratico.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 35,
+    "voci": 40,
     "trovati": 2,
-    "secondi": 35
+    "secondi": 41
    },
    {
     "nome": "Comune di Fara Gera D'Adda",
@@ -8540,7 +6976,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 27
    },
    {
     "nome": "Comune di Fara Olivana Con Sola",
@@ -8549,10 +6985,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?ce=frlvncnsl1688"
-     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.faraolivanaconsola.bg.it/Notizie"
@@ -8566,9 +6998,29 @@
       "url": "https://www.comune.faraolivanaconsola.bg.it/Menu?IDVoceMenu=330625"
      }
     ],
-    "voci": 95,
-    "trovati": 3,
-    "secondi": 11
+    "voci": 94,
+    "trovati": 0,
+    "secondi": 31
+   },
+   {
+    "nome": "Comune di Filago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.filago.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://halleyweb.com/c016098/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.filago.bg.it/c016098/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 31,
+    "trovati": 0,
+    "secondi": 28
    },
    {
     "nome": "Comune di Fino del Monte",
@@ -8577,10 +7029,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=fndlmnt1556"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.finodelmonte.bg.it/Notizie?idCat=3"
@@ -8600,11 +7048,15 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.finodelmonte.bg.it/Menu?IDDettaglio=224498"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.finodelmonte.bg.it/Bandigare"
      }
     ],
-    "voci": 71,
+    "voci": 56,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 37
    },
    {
     "nome": "Comune di Fiorano Al Serio",
@@ -8640,7 +7092,7 @@
     ],
     "voci": 46,
     "trovati": 1,
-    "secondi": 39
+    "secondi": 37
    },
    {
     "nome": "Comune di Fonteno",
@@ -8704,7 +7156,7 @@
     ],
     "voci": 49,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 38
    },
    {
     "nome": "Comune di Fornovo San Giovanni",
@@ -8740,7 +7192,35 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 36
+   },
+   {
+    "nome": "Comune di Fuipiano Valle Imagna",
+    "tipo": "Comune",
+    "sito": "https://www.comune.fuipianovalleimagna.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.fuipianovalleimagna.bg.it/c016106/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.fuipianovalleimagna.bg.it/c016106/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.fuipianovalleimagna.bg.it/c016106/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.fuipianovalleimagna.bg.it/c016106/zf/index.php/bandi-gara/avvisi/avvisi"
+     }
+    ],
+    "voci": 30,
+    "trovati": 0,
+    "secondi": 8
    },
    {
     "nome": "Comune di Gandellino",
@@ -8776,7 +7256,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 73
+    "secondi": 68
    },
    {
     "nome": "Comune di Gandino",
@@ -8808,7 +7288,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 18
    },
    {
     "nome": "Comune di Gandosso",
@@ -8844,7 +7324,23 @@
     ],
     "voci": 34,
     "trovati": 0,
-    "secondi": 42
+    "secondi": 43
+   },
+   {
+    "nome": "Comune di Gaverina Terme",
+    "tipo": "Comune",
+    "sito": "https://www.comune.gaverina-terme.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.gaverina-terme.bg.it/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 21,
+    "trovati": 0,
+    "secondi": 28
    },
    {
     "nome": "Comune di Gazzaniga",
@@ -8863,7 +7359,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://gazzaniga.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+      "url": "https://gazzaniga.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=34475"
      },
      {
       "nome": "Albo",
@@ -8879,8 +7375,8 @@
      }
     ],
     "voci": 29,
-    "trovati": 3,
-    "secondi": 20
+    "trovati": 0,
+    "secondi": 16
    },
    {
     "nome": "Comune di Ghisalba",
@@ -8916,7 +7412,7 @@
     ],
     "voci": 31,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 12
    },
    {
     "nome": "Comune di Gorlago",
@@ -8926,11 +7422,19 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016114/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://comune.gorlago.bg.it/novita/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016114/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 3,
+    "voci": 11,
     "trovati": 0,
     "secondi": 33
    },
@@ -8942,6 +7446,14 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016117/mc/mc_p_ricerca.php?noHeaderFooter=1&multiente=c016117"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016117/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.grassobbio.bg.it/novita/3-avviso"
      },
@@ -8952,11 +7464,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.grassobbio.bg.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016117/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 29,
+    "voci": 49,
     "trovati": 1,
-    "secondi": 35
+    "secondi": 43
    },
    {
     "nome": "Comune di Gromo",
@@ -8992,7 +7508,7 @@
     ],
     "voci": 94,
     "trovati": 0,
-    "secondi": 40
+    "secondi": 43
    },
    {
     "nome": "Comune di Grone",
@@ -9001,6 +7517,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "http://halleyweb.com/c016119/mc/mc_p_ricerca.php"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.grone.bg.it/avvisi"
@@ -9022,9 +7542,9 @@
       "url": "https://www.comune.grone.bg.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 25,
+    "voci": 29,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 23
    },
    {
     "nome": "Comune di Grumello del Monte",
@@ -9036,6 +7556,10 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.grumellodelmonte.bg.it/novita/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://www.halleyweb.com/c016120/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
      },
      {
       "nome": "Notizie",
@@ -9050,9 +7574,9 @@
       "url": "https://www.comune.grumellodelmonte.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 180,
+    "voci": 196,
     "trovati": 1,
-    "secondi": 51
+    "secondi": 58
    },
    {
     "nome": "Comune di Isola di Fondra",
@@ -9088,7 +7612,35 @@
     ],
     "voci": 49,
     "trovati": 1,
-    "secondi": 14
+    "secondi": 13
+   },
+   {
+    "nome": "Comune di Isso",
+    "tipo": "Comune",
+    "sito": "https://www.comune.isso.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.isso.bg.it/c016122/po/elenco_news.php?x=&area=&tags=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.isso.bg.it/c016122/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.isso.bg.it/c016122/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.isso.bg.it/c016122/zf/index.php/bandi-gara/avvisi/avvisi"
+     }
+    ],
+    "voci": 19,
+    "trovati": 0,
+    "secondi": 9
    },
    {
     "nome": "Comune di Leffe",
@@ -9124,7 +7676,7 @@
     ],
     "voci": 45,
     "trovati": 0,
-    "secondi": 80
+    "secondi": 15
    },
    {
     "nome": "Comune di Lenna",
@@ -9160,7 +7712,7 @@
     ],
     "voci": 58,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 38
    },
    {
     "nome": "Comune di Lovere",
@@ -9192,7 +7744,7 @@
     ],
     "voci": 162,
     "trovati": 0,
-    "secondi": 54
+    "secondi": 43
    },
    {
     "nome": "Comune di Lurano",
@@ -9201,6 +7753,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://www.halleyweb.com/c016129/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.lurano.bg.it/novita/avvisi/"
@@ -9218,9 +7774,9 @@
       "url": "https://www.comune.lurano.bg.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 16,
+    "voci": 17,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 21
    },
    {
     "nome": "Comune di Luzzana",
@@ -9244,7 +7800,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "Comune di Madone",
@@ -9280,7 +7836,7 @@
     ],
     "voci": 90,
     "trovati": 2,
-    "secondi": 83
+    "secondi": 82
    },
    {
     "nome": "Comune di Mapello",
@@ -9289,6 +7845,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016132/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.mapello.bg.it/novita/avvisi/"
@@ -9300,11 +7860,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.mapello.bg.it/novita/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016132/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 21,
+    "voci": 35,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 27
    },
    {
     "nome": "Comune di Martinengo",
@@ -9324,11 +7888,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.martinengo.bg.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016133/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 54,
+    "voci": 59,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 27
    },
    {
     "nome": "Comune di Medolago",
@@ -9352,7 +7920,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "Comune di Mezzoldo",
@@ -9391,6 +7959,42 @@
     "secondi": 38
    },
    {
+    "nome": "Comune di Misano di Gera D'Adda",
+    "tipo": "Comune",
+    "sito": "https://www.comune.misano.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.misano.bg.it/c016135/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.misano.bg.it/c016135/zf/index.php/bandi-di-concorso/index/index/concorsi/attivi/table-bandi-index-page/2"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.misano.bg.it/c016135/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.misano.bg.it/c016135/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.misano.bg.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/scaduti"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.misano.bg.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     }
+    ],
+    "voci": 453,
+    "trovati": 0,
+    "secondi": 47
+   },
+   {
     "nome": "Comune di Monasterolo del Castello",
     "tipo": "Comune",
     "sito": "https://www.comune.monasterolo-del-castello.bg.it/",
@@ -9416,7 +8020,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 16
    },
    {
     "nome": "Comune di Morengo",
@@ -9452,7 +8056,7 @@
     ],
     "voci": 45,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 40
    },
    {
     "nome": "Comune di Mozzanica",
@@ -9475,8 +8079,8 @@
      }
     ],
     "voci": 94,
-    "trovati": 6,
-    "secondi": 115
+    "trovati": 5,
+    "secondi": 89
    },
    {
     "nome": "Comune di Mozzo",
@@ -9494,6 +8098,10 @@
       "url": "https://www.comune.mozzo.bg.it/bandi-di-gara-e-contratti"
      },
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016143/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.mozzo.bg.it/novita/avvisi"
      },
@@ -9504,15 +8112,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.mozzo.bg.it/novita/news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.mozzo.bg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 189,
+    "voci": 198,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 60
    },
    {
     "nome": "Comune di Nembro",
@@ -9530,6 +8134,10 @@
       "url": "https://www.comune.nembro.bg.it/it/news?type=3"
      },
      {
+      "nome": "Albo",
+      "url": "http://halleyweb.com/c016144/mc/mc_p_ricerca.php?noHeaderFooter=1&multiente=c016144"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.nembro.bg.it/it/menu/news"
      },
@@ -9540,14 +8148,10 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.nembro.bg.it/it/page/amministrazione-trasparente"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.nembro.bg.it/it/page/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 48,
-    "trovati": 6,
+    "voci": 64,
+    "trovati": 0,
     "secondi": 25
    },
    {
@@ -9584,7 +8188,31 @@
     ],
     "voci": 35,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 12
+   },
+   {
+    "nome": "Comune di Oltre il Colle",
+    "tipo": "Comune",
+    "sito": "https://www.comune.oltreilcolle.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.oltreilcolle.bg.it/c016146/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.oltreilcolle.bg.it/c016146/zf/index.php/bandi-gara/avvisi/avvisi?table-avvisi-page=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.oltreilcolle.bg.it/c016146/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 29,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "Comune di Oneta",
@@ -9626,10 +8254,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=nr1557"
-     },
-     {
       "nome": "Notizie",
       "url": "https://www.comune.onore.bg.it/Notizie"
      },
@@ -9646,9 +8270,9 @@
       "url": "https://www.comune.onore.bg.it/Menu?IDDettaglio=206805"
      }
     ],
-    "voci": 79,
-    "trovati": 1,
-    "secondi": 30
+    "voci": 53,
+    "trovati": 0,
+    "secondi": 37
    },
    {
     "nome": "Comune di Orio Al Serio",
@@ -9658,23 +8282,31 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11369"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11369"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11370"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=11370"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.orioalserio.bg.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.orioalserio.bg.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.orioalserio.bg.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://orioalserio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 32,
+    "voci": 21,
     "trovati": 0,
     "secondi": 16
    },
@@ -9685,6 +8317,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "http://www.halleyweb.com/c016151/mc/mc_p_ricerca.php"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.ornica.bg.it/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-attivi/"
@@ -9706,9 +8342,9 @@
       "url": "https://www.comune.ornica.bg.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 20,
+    "voci": 27,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 16
    },
    {
     "nome": "Comune di Osio Sopra",
@@ -9780,7 +8416,7 @@
     ],
     "voci": 119,
     "trovati": 0,
-    "secondi": 74
+    "secondi": 40
    },
    {
     "nome": "Comune di Pagazzano",
@@ -9828,11 +8464,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.palazzago.bg.it/tipi_notizia/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "http://halleyweb.com/c016156/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 53,
+    "voci": 73,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 24
    },
    {
     "nome": "Comune di Palosco",
@@ -9884,7 +8524,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 32
    },
    {
     "nome": "Comune di Pedrengo",
@@ -9894,25 +8534,33 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.pedrengo.bg.it/it/news?type=3"
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.pedrengo.bg.it/it/menu/news"
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489183469"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.pedrengo.bg.it/it/news?type=1"
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489183469"
      },
      {
-      "nome": "Trasparenza",
-      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489183470"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pedrengo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489183470"
      }
     ],
-    "voci": 107,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 57
+    "secondi": 14
    },
    {
     "nome": "Comune di Peia",
@@ -9948,7 +8596,7 @@
     ],
     "voci": 43,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 17
    },
    {
     "nome": "Comune di Pianico",
@@ -9957,10 +8605,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=pnc1516"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.pianico.bg.it/Menu?IDVoceMenu=191592"
@@ -9982,9 +8626,9 @@
       "url": "https://www.comune.pianico.bg.it/Menu?IDVoceMenu=191533"
      }
     ],
-    "voci": 63,
-    "trovati": 1,
-    "secondi": 40
+    "voci": 33,
+    "trovati": 0,
+    "secondi": 37
    },
    {
     "nome": "Comune di Piario",
@@ -10008,11 +8652,19 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.piario.bg.it/novita/tipologia/comunicati/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://piario.halleyweb.it/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://piario.halleyweb.it/zf/index.php/bandi-gara/bandi-gara/bandi"
      }
     ],
-    "voci": 41,
+    "voci": 45,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 16
    },
    {
     "nome": "Comune di Piazza Brembana",
@@ -10084,7 +8736,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 40
    },
    {
     "nome": "Comune di Piazzolo",
@@ -10120,7 +8772,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 42
    },
    {
     "nome": "Comune di Pognano",
@@ -10132,6 +8784,10 @@
      {
       "nome": "Albo",
       "url": "https://www.comune.pognano.bg.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016167/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
      },
      {
       "nome": "Notizie",
@@ -10146,9 +8802,37 @@
       "url": "https://www.comune.pognano.bg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 34,
-    "trovati": 1,
-    "secondi": 33
+    "voci": 39,
+    "trovati": 0,
+    "secondi": 27
+   },
+   {
+    "nome": "Comune di Ponte Nossa",
+    "tipo": "Comune",
+    "sito": "https://www.comune.pontenossa.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.pontenossa.bg.it/c016168/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.pontenossa.bg.it/c016168/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.pontenossa.bg.it/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.pontenossa.bg.it/zf/index.php/atti-generali/index/index/table-atti-generali-public-page/2"
+     }
+    ],
+    "voci": 24,
+    "trovati": 0,
+    "secondi": 12
    },
    {
     "nome": "Comune di Ponte San Pietro",
@@ -10179,8 +8863,8 @@
      }
     ],
     "voci": 37,
-    "trovati": 6,
-    "secondi": 32
+    "trovati": 0,
+    "secondi": 21
    },
    {
     "nome": "Comune di Ponteranica",
@@ -10216,7 +8900,7 @@
     ],
     "voci": 119,
     "trovati": 3,
-    "secondi": 15
+    "secondi": 18
    },
    {
     "nome": "Comune di Pontida",
@@ -10228,6 +8912,10 @@
      {
       "nome": "Albo",
       "url": "https://www.comune.pontida.bg.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "http://www.halleyweb.com/c016171/mc/mc_p_ricerca.php"
      },
      {
       "nome": "Albo",
@@ -10244,15 +8932,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pontida.bg.it/novita"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.pontida.bg.it/novita/news"
      }
     ],
-    "voci": 57,
-    "trovati": 10,
-    "secondi": 46
+    "voci": 54,
+    "trovati": 1,
+    "secondi": 22
    },
    {
     "nome": "Comune di Pontirolo Nuovo",
@@ -10261,6 +8945,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://halleyweb.com/c016172/mc/mc_p_ricerca.php"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.pontirolonuovo.bg.it/it/news?type=3"
@@ -10272,11 +8960,19 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pontirolonuovo.bg.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c016172/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c016172/zf/index.php/bandi-gara/bandi-gara/bandi"
      }
     ],
-    "voci": 45,
+    "voci": 59,
     "trovati": 1,
-    "secondi": 26
+    "secondi": 34
    },
    {
     "nome": "Comune di Pradalunga",
@@ -10285,6 +8981,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016173/mc/mc_p_ricerca.php"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016173/zf/index.php/trasparenza/index/index/categoria/266"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.pradalunga.bg.it/novita/3-avviso"
@@ -10296,11 +9000,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pradalunga.bg.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016173/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 34,
+    "voci": 55,
     "trovati": 0,
-    "secondi": 54
+    "secondi": 63
    },
    {
     "nome": "Comune di Predore",
@@ -10332,7 +9040,7 @@
     ],
     "voci": 50,
     "trovati": 2,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "Comune di Presezzo",
@@ -10366,7 +9074,7 @@
       "url": "https://www.comune.presezzo.bg.it/it/news?type=1"
      }
     ],
-    "voci": 37,
+    "voci": 46,
     "trovati": 0,
     "secondi": 27
    },
@@ -10404,7 +9112,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 17
    },
    {
     "nome": "Comune di Ranica",
@@ -10415,28 +9123,28 @@
     "pagine": [
      {
       "nome": "Bandi/avvisi",
-      "url": "https://comune.ranica.bg.it/it/news?type=3"
+      "url": "https://www.comune.ranica.bg.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
-      "url": "https://comune.ranica.bg.it/it/menu/news"
+      "url": "https://www.comune.ranica.bg.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://comune.ranica.bg.it/it/news?type=2"
+      "url": "https://www.comune.ranica.bg.it/it/news?type=2"
      },
      {
       "nome": "Trasparenza",
-      "url": "https://comune.ranica.bg.it/it/menu/356547"
+      "url": "https://www.comune.ranica.bg.it/it/menu/356547"
      },
      {
       "nome": "Trasparenza",
-      "url": "https://comune.ranica.bg.it/it/page/bandi-di-gara-e-contratti"
+      "url": "https://www.comune.ranica.bg.it/it/page/bandi-di-gara-e-contratti"
      }
     ],
     "voci": 39,
     "trovati": 1,
-    "secondi": 28
+    "secondi": 20
    },
    {
     "nome": "Comune di Riva di Solto",
@@ -10445,10 +9153,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=rvdslt1580"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.rivadisolto.bg.it/Bandigare"
@@ -10470,9 +9174,9 @@
       "url": "https://www.comune.rivadisolto.bg.it/Menu?IDVoceMenu=286449"
      }
     ],
-    "voci": 33,
+    "voci": 21,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 34
    },
    {
     "nome": "Comune di Rogno",
@@ -10499,8 +9203,8 @@
      }
     ],
     "voci": 72,
-    "trovati": 5,
-    "secondi": 38
+    "trovati": 0,
+    "secondi": 33
    },
    {
     "nome": "Comune di Romano di Lombardia",
@@ -10531,8 +9235,8 @@
      }
     ],
     "voci": 26,
-    "trovati": 3,
-    "secondi": 23
+    "trovati": 0,
+    "secondi": 22
    },
    {
     "nome": "Comune di Roncobello",
@@ -10543,11 +9247,11 @@
     "pagine": [
      {
       "nome": "Albo",
-      "url": "https://comune.roncobello.bg.it/it/page/139558"
+      "url": "https://www.comune.roncobello.bg.it/it/page/139558"
      },
      {
       "nome": "Albo",
-      "url": "https://comune.roncobello.bg.it/it/news?type=3"
+      "url": "https://www.comune.roncobello.bg.it/it/news?type=3"
      },
      {
       "nome": "Albo",
@@ -10555,11 +9259,11 @@
      },
      {
       "nome": "Notizie",
-      "url": "https://comune.roncobello.bg.it/it/menu/news"
+      "url": "https://www.comune.roncobello.bg.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://comune.roncobello.bg.it/it/news?type=1"
+      "url": "https://www.comune.roncobello.bg.it/it/news?type=1"
      },
      {
       "nome": "Trasparenza",
@@ -10568,7 +9272,7 @@
     ],
     "voci": 70,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 42
    },
    {
     "nome": "Comune di Roncola",
@@ -10582,21 +9286,29 @@
       "url": "https://www.comune.roncola.bg.it/novita/avvisi"
      },
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016185/zf/index.php/trasparenza/index/index/categoria/225"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016185/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016185/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://halleyweb.com/c016185/zf/index.php/trasparenza/index/index/categoria/81"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.roncola.bg.it/novita"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.roncola.bg.it/novita/news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.roncola.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 33,
+    "voci": 30,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 32
    },
    {
     "nome": "Comune di Rovetta",
@@ -10632,7 +9344,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 14
    },
    {
     "nome": "Comune di San Paolo D'Argon",
@@ -10652,11 +9364,23 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.sanpaolodargon.bg.it/novita/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016189/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016189/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016189/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 15,
+    "voci": 30,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 38
    },
    {
     "nome": "Comune di San Pellegrino Terme",
@@ -10680,11 +9404,31 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.sanpellegrinoterme.bg.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c016190/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 47,
+    "voci": 51,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
+   },
+   {
+    "nome": "Comune di Sant'Omobono Terme",
+    "tipo": "Comune",
+    "sito": "https://www.comune.santomobonoterme.bg.it/",
+    "esito": "letto",
+    "motivo": "sezione avvisi non trovata",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.comune.santomobonoterme.bg.it/hh/index.php"
+     }
+    ],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 2
    },
    {
     "nome": "Comune di Santa Brigida",
@@ -10720,7 +9464,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 11
    },
    {
     "nome": "Comune di Sarnico",
@@ -10756,7 +9500,7 @@
     ],
     "voci": 131,
     "trovati": 1,
-    "secondi": 51
+    "secondi": 48
    },
    {
     "nome": "Comune di Scanzorosciate",
@@ -10788,7 +9532,7 @@
     ],
     "voci": 90,
     "trovati": 2,
-    "secondi": 77
+    "secondi": 34
    },
    {
     "nome": "Comune di Sedrina",
@@ -10816,11 +9560,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.sedrina.bg.it/novita/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "http://www.halleyweb.com/c016196/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 31,
+    "voci": 33,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "Comune di Selvino",
@@ -10846,17 +9594,17 @@
       "url": "https://www.comune.selvino.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti-fino-al-31122023"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.selvino.bg.it/novita/avvisi"
+      "nome": "Albo",
+      "url": "https://halleyweb.com/c016197/mc/mc_p_ricerca.php"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.selvino.bg.it/novita"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.selvino.bg.it/novita/avvisi"
      }
     ],
-    "voci": 35,
-    "trovati": 0,
-    "secondi": 14
+    "voci": 31,
+    "trovati": 1,
+    "secondi": 15
    },
    {
     "nome": "Comune di Seriate",
@@ -10892,7 +9640,7 @@
     ],
     "voci": 12,
     "trovati": 1,
-    "secondi": 36
+    "secondi": 38
    },
    {
     "nome": "Comune di Serina",
@@ -10928,7 +9676,7 @@
     ],
     "voci": 100,
     "trovati": 8,
-    "secondi": 15
+    "secondi": 13
    },
    {
     "nome": "Comune di Solza",
@@ -10937,6 +9685,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016251/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016251/zf/index.php/trasparenza/index/index"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.solza.bg.it/bandi-e-gare"
@@ -10954,9 +9710,9 @@
       "url": "https://www.comune.solza.bg.it/novita/news"
      }
     ],
-    "voci": 36,
+    "voci": 40,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 34
    },
    {
     "nome": "Comune di Songavazzo",
@@ -10991,6 +9747,30 @@
     "secondi": 45
    },
    {
+    "nome": "Comune di Sorisole",
+    "tipo": "Comune",
+    "sito": "https://www.comune.sorisole.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.sorisole.bg.it/c016202/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.sorisole.bg.it/c016202/po/elenco_news.php?x=&area=&tags=7"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sorisole.bg.it/zf/index.php/trasparenza/index/index"
+     }
+    ],
+    "voci": 44,
+    "trovati": 0,
+    "secondi": 15
+   },
+   {
     "nome": "Comune di Sotto il Monte Giovanni XXIII",
     "tipo": "Comune",
     "sito": "https://www.comune.sottoilmontegiovannixxiii.bg.it/",
@@ -11019,8 +9799,8 @@
      }
     ],
     "voci": 56,
-    "trovati": 2,
-    "secondi": 26
+    "trovati": 0,
+    "secondi": 13
    },
    {
     "nome": "Comune di Sovere",
@@ -11039,24 +9819,20 @@
      },
      {
       "nome": "Albo",
-      "url": "https://sovere.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3198"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://sovere.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3199"
-     },
-     {
-      "nome": "Albo",
       "url": "https://sovere.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3198"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://sovere.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-trasparenza?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=3151&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3153"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.sovere.bg.it/tutte-le-novita/1235-amministrazione-trasparente"
      }
     ],
-    "voci": 5,
+    "voci": 6,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 12
    },
    {
     "nome": "Comune di Spinone Al  Lago",
@@ -11088,7 +9864,7 @@
     ],
     "voci": 43,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 9
    },
    {
     "nome": "Comune di Spirano",
@@ -11108,9 +9884,13 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.spirano.bg.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://halleyweb.com/c016206/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 31,
+    "voci": 34,
     "trovati": 3,
     "secondi": 22
    },
@@ -11132,11 +9912,51 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.stezzano.bg.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://stezzano.halleyweb.it/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 47,
+    "voci": 51,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 11
+   },
+   {
+    "nome": "Comune di Strozza",
+    "tipo": "Comune",
+    "sito": "https://www.comune.strozza.bg.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.strozza.bg.it/c016208/po/elenco_news.php?x=&area=&tags=1"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.strozza.bg.it/c016208/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.strozza.bg.it/c016208/zf/index.php/trasparenza/index/index/categoria/189"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.strozza.bg.it/c016208/zf/index.php/bandi-di-concorso"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.strozza.bg.it/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.strozza.bg.it/c016208/zf/index.php/bandi-gara/avvisi/avvisi"
+     }
+    ],
+    "voci": 83,
+    "trovati": 0,
+    "secondi": 20
    },
    {
     "nome": "Comune di Suisio",
@@ -11145,6 +9965,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016209/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016209/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016209/zf/index.php/trasparenza/index/index/categoria/63"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.suisio.bg.it/novita"
@@ -11156,23 +9988,11 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.suisio.bg.it/amministrazione/amministrazione-trasparente"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.suisio.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.suisio.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/bandi-di-gara-e-contratti"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.suisio.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti/avvisi"
      }
     ],
-    "voci": 184,
-    "trovati": 3,
-    "secondi": 69
+    "voci": 188,
+    "trovati": 0,
+    "secondi": 70
    },
    {
     "nome": "Comune di Taleggio",
@@ -11208,7 +10028,7 @@
     ],
     "voci": 45,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 23
    },
    {
     "nome": "Comune di Tavernola Bergamasca",
@@ -11240,7 +10060,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 58
    },
    {
     "nome": "Comune di Terno d'Isola",
@@ -11249,6 +10069,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016213/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016213/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.ternodisola.bg.it/novita"
@@ -11266,9 +10094,9 @@
       "url": "https://www.comune.ternodisola.bg.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 184,
-    "trovati": 2,
-    "secondi": 70
+    "voci": 186,
+    "trovati": 0,
+    "secondi": 76
    },
    {
     "nome": "Comune di Torre Boldone",
@@ -11288,9 +10116,13 @@
      {
       "nome": "Notizie",
       "url": "https://comune.torreboldone.bg.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016214/zf/index.php/trasparenza"
      }
     ],
-    "voci": 3,
+    "voci": 6,
     "trovati": 0,
     "secondi": 21
    },
@@ -11310,6 +10142,14 @@
       "url": "https://www.comune.torre-debusi.bg.it/novita/avvisi"
      },
      {
+      "nome": "Albo",
+      "url": "https://halleyweb.com/c097080/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://halleyweb.com/c097080/zf/index.php/trasparenza/index/index/categoria/134"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.torre-debusi.bg.it/novita"
      },
@@ -11318,9 +10158,9 @@
       "url": "https://www.comune.torre-debusi.bg.it/novita/news"
      }
     ],
-    "voci": 41,
+    "voci": 47,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 48
    },
    {
     "nome": "Comune di Torre de' Roveri",
@@ -11356,7 +10196,7 @@
     ],
     "voci": 71,
     "trovati": 1,
-    "secondi": 23
+    "secondi": 22
    },
    {
     "nome": "Comune di Treviglio",
@@ -11386,9 +10226,9 @@
       "url": "https://treviglio.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 142,
-    "trovati": 9,
-    "secondi": 264
+    "voci": 196,
+    "trovati": 6,
+    "secondi": 64
    },
    {
     "nome": "Comune di Treviolo",
@@ -11410,21 +10250,21 @@
       "url": "https://treviolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=864"
      },
      {
+      "nome": "Albo",
+      "url": "https://treviolo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.treviolo.bg.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.treviolo.bg.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.treviolo.bg.it/it/news?type=1"
      }
     ],
-    "voci": 42,
+    "voci": 32,
     "trovati": 1,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "Comune di Ubiale Clanezzo",
@@ -11460,7 +10300,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 11
    },
    {
     "nome": "Comune di Urgnano",
@@ -11470,13 +10310,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Bandi/avvisi",
+      "url": "https://servizionline.comune.urgnano.bg.it/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.urgnano.bg.it/novita/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.comune.urgnano.bg.it/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.comune.urgnano.bg.it/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.comune.urgnano.bg.it/zf/index.php/trasparenza/index/index/categoria/284"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://servizionline.comune.urgnano.bg.it/zf/index.php/trasparenza/index/index/categoria/93"
      }
     ],
-    "voci": 13,
+    "voci": 39,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 21
    },
    {
     "nome": "Comune di Val Brembilla",
@@ -11512,7 +10372,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 104
+    "secondi": 13
    },
    {
     "nome": "Comune di Valbondione",
@@ -11548,7 +10408,7 @@
     ],
     "voci": 73,
     "trovati": 6,
-    "secondi": 38
+    "secondi": 29
    },
    {
     "nome": "Comune di Valbrembo",
@@ -11562,17 +10422,25 @@
       "url": "https://www.comune.valbrembo.bg.it/albo-online"
      },
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016224/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.valbrembo.bg.it/novita"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.valbrembo.bg.it/novita/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016224/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 26,
+    "voci": 84,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 20
    },
    {
     "nome": "Comune di Valgoglio",
@@ -11608,7 +10476,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 40
    },
    {
     "nome": "Comune di Valleve",
@@ -11644,7 +10512,7 @@
     ],
     "voci": 54,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 12
    },
    {
     "nome": "Comune di Valnegra",
@@ -11680,7 +10548,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 37
    },
    {
     "nome": "Comune di Valtorta",
@@ -11708,7 +10576,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 10
    },
    {
     "nome": "Comune di Vedeseta",
@@ -11717,6 +10585,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016230/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016230/zf/index.php/bandi-di-concorso"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016230/zf/index.php/trasparenza/index/index/categoria/138"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.vedeseta.bg.it/amministrazione/documenti-e-dati/"
@@ -11728,19 +10608,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.vedeseta.bg.it/novita/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.vedeseta.bg.it/novita/notizie/"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.vedeseta.bg.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 21,
+    "voci": 23,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "Comune di Verdello",
@@ -11768,7 +10640,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 8
    },
    {
     "nome": "Comune di Vertova",
@@ -11803,8 +10675,8 @@
      }
     ],
     "voci": 62,
-    "trovati": 4,
-    "secondi": 38
+    "trovati": 2,
+    "secondi": 36
    },
    {
     "nome": "Comune di Viadanica",
@@ -11840,7 +10712,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 40
    },
    {
     "nome": "Comune di Vigano San Martino",
@@ -11860,11 +10732,23 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.vigano-san-martino.bg.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016236/zf/index.php/trasparenza/index/index"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016236/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.halleyweb.com/c016236/zf/index.php/bandi-gara/avvisi/avvisi"
      }
     ],
-    "voci": 35,
+    "voci": 43,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 34
    },
    {
     "nome": "Comune di Vigolo",
@@ -11896,7 +10780,7 @@
     ],
     "voci": 43,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 33
    },
    {
     "nome": "Comune di Villa D'Adda",
@@ -11908,6 +10792,10 @@
      {
       "nome": "Albo",
       "url": "https://www.comune.villadadda.bg.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016238/zf/index.php/bandi-di-gara/bandi-di-gara/tabelle-riassuntive"
      },
      {
       "nome": "Bandi/avvisi",
@@ -11926,9 +10814,9 @@
       "url": "https://www.comune.villadadda.bg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 183,
-    "trovati": 2,
-    "secondi": 48
+    "voci": 193,
+    "trovati": 0,
+    "secondi": 47
    },
    {
     "nome": "Comune di Villa D'Alme'",
@@ -11937,6 +10825,10 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "http://www.halleyweb.com/c016239/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.villadalme.bg.it/novita"
@@ -11950,9 +10842,9 @@
       "url": "https://www.comune.villadalme.bg.it/amministrazione-trasparente-esterna"
      }
     ],
-    "voci": 175,
+    "voci": 186,
     "trovati": 0,
-    "secondi": 59
+    "secondi": 51
    },
    {
     "nome": "Comune di Villa D'ogna",
@@ -11980,11 +10872,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.villadogna.bg.it/novita/tipologia/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://villadogna.halleyweb.it/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 43,
-    "trovati": 7,
-    "secondi": 32
+    "voci": 45,
+    "trovati": 3,
+    "secondi": 19
    },
    {
     "nome": "Comune di Villa di Serio",
@@ -11993,6 +10889,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016240/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016240/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016240/zf/index.php/trasparenza/index/index"
+     },
      {
       "nome": "Notizie",
       "url": "https://www.comune.villadiserio.bg.it/novita"
@@ -12006,9 +10914,9 @@
       "url": "https://www.comune.villadiserio.bg.it/amministrazione/amministrazione-trasparente"
      }
     ],
-    "voci": 185,
-    "trovati": 3,
-    "secondi": 60
+    "voci": 199,
+    "trovati": 2,
+    "secondi": 87
    },
    {
     "nome": "Comune di Villongo",
@@ -12039,12 +10947,12 @@
      },
      {
       "nome": "Bandi/avvisi",
-      "url": "https://comune.villongo.bg.it/it/news?type=3"
+      "url": "https://www.comune.villongo.bg.it/it/news?type=3"
      }
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 12
    },
    {
     "nome": "Comune di Zandobbio",
@@ -12054,21 +10962,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://www.halleyweb.com/c016244/mc/mc_p_ricerca.php"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016244/zf/index.php/bandi-gara/bandi-gara/bandi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016244/zf/index.php/bandi-gara/avvisi/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.halleyweb.com/c016244/zf/index.php/bandi-di-gara/atti-programmazione"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.zandobbio.bg.it/novita/3-avviso"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.zandobbio.bg.it/novita"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.zandobbio.bg.it/novita/1-news"
      }
     ],
-    "voci": 27,
+    "voci": 51,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 63
    },
    {
     "nome": "Comune di Zogno",
@@ -12102,25 +11022,25 @@
       "url": "https://www.comune.zogno.bg.it/aree/governo/amministrazione-trasparente/"
      }
     ],
-    "voci": 58,
+    "voci": 61,
     "trovati": 0,
-    "secondi": 51
+    "secondi": 35
    },
    {
     "nome": "\" GIACOMO E PIO MANZU' \" (Bergamo)",
     "tipo": "Scuola",
     "sito": "https://www.lasbg.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
+    "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.lasbg.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.lasbg.it/amministrazione-trasparente"
      }
     ],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 3
+    "voci": 9,
+    "trovati": 1,
+    "secondi": 40
    },
    {
     "nome": "\"ALDA MERINI\" SCANZOROSCIATE",
@@ -12136,7 +11056,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "\"ALFREDO SONZOGNI\" (Nembro)",
@@ -12156,7 +11076,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "\"ANDREA FANTONI\" (Clusone)",
@@ -12228,7 +11148,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 17
    },
    {
     "nome": "\"DAVID MARIA TUROLDO\" (Zogno)",
@@ -12276,7 +11196,7 @@
     ],
     "voci": 52,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 24
    },
    {
     "nome": "\"DON LORENZO MILANI\" (Romano Di Lombardia)",
@@ -12308,7 +11228,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 14
    },
    {
     "nome": "\"ETTORE MAJORANA\" (Seriate)",
@@ -12318,13 +11238,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.ettoremajorana.edu.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.ettoremajorana.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 4,
+    "voci": 14,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 42
    },
    {
     "nome": "\"FILIPPO LUSSANA\" (Bergamo)",
@@ -12340,7 +11260,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 15
    },
    {
     "nome": "\"G.B. RUBINI\" (Romano Di Lombardia)",
@@ -12356,7 +11276,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "\"GAETANO CANTONI\" (Treviglio)",
@@ -12380,7 +11300,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "\"GALILEO GALILEI\" (Caravaggio)",
@@ -12396,7 +11316,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "\"GIACOMO QUARENGHI\" (Bergamo)",
@@ -12416,7 +11336,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "\"GINO STRADA\" - CASIRATE (Arzago D'Adda)",
@@ -12444,7 +11364,7 @@
     ],
     "voci": 36,
     "trovati": 2,
-    "secondi": 82
+    "secondi": 87
    },
    {
     "nome": "\"GIOVANNI FALCONE\" (Bergamo)",
@@ -12484,7 +11404,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 21
    },
    {
     "nome": "\"GUGLIELMO OBERDAN\" (Treviglio)",
@@ -12532,23 +11452,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 20
-   },
-   {
-    "nome": "\"IVAN PIANA\" (Lovere)",
-    "tipo": "Scuola",
-    "sito": "https://www.ispiana.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.ispiana.edu.it/"
-     }
-    ],
-    "voci": 3,
-    "trovati": 0,
-    "secondi": 4
+    "secondi": 15
    },
    {
     "nome": "\"LORENZO FEDERICI\" (Trescore Balneario)",
@@ -12568,7 +11472,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 18
    },
    {
     "nome": "\"LORENZO LOTTO\" (Trescore Balneario)",
@@ -12592,7 +11496,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 10
    },
    {
     "nome": "\"LORENZO MASCHERONI\" (Bergamo)",
@@ -12644,7 +11548,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 16
    },
    {
     "nome": "\"MAIRONI DA PONTE\" (Presezzo)",
@@ -12654,13 +11558,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.bettyambiveri.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.bettyambiveri.edu.it/"
      }
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 12
    },
    {
     "nome": "\"MARIAGRAZIA MAMOLI\" (Bergamo)",
@@ -12732,7 +11636,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 11
    },
    {
     "nome": "\"OSCAR ARNULFO ROMERO\" (Albino)",
@@ -12772,7 +11676,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "\"PAOLO SARPI\" (Bergamo)",
@@ -12804,7 +11708,23 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
+   },
+   {
+    "nome": "\"SERAFINO RIVA\" (Sarnico)",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutoriva.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.istitutoriva.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 3
    },
    {
     "nome": "\"VITTORIO EMANUELE II\" (Bergamo)",
@@ -12820,7 +11740,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "\"ZENALE E BUTINONE\" (Treviglio)",
@@ -12846,13 +11766,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.icalbino.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.icalbino.edu.it/"
      }
     ],
-    "voci": 10,
+    "voci": 1,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 4
    },
    {
     "nome": "ALMENNO S.SALV. -GIOVANNI XXIII (Almenno San Salvatore)",
@@ -12908,7 +11828,7 @@
     ],
     "voci": 19,
     "trovati": 1,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "BARIANO",
@@ -12932,7 +11852,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 46
    },
    {
     "nome": "BERGAMO \"I MILLE\"",
@@ -12972,7 +11892,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 47
    },
    {
     "nome": "BERGAMO - DONADONI",
@@ -12992,7 +11912,7 @@
     ],
     "voci": 58,
     "trovati": 2,
-    "secondi": 45
+    "secondi": 54
    },
    {
     "nome": "BERGAMO - G.D. PETTENI (Torre Boldone)",
@@ -13040,7 +11960,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "BERGAMO - S.LUCIA",
@@ -13056,7 +11976,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 9
    },
    {
     "nome": "BORGO DI TERZO (Vigano San Martino)",
@@ -13104,7 +12024,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 8
    },
    {
     "nome": "C.P.I.A. 1 BERGAMO",
@@ -13156,7 +12076,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 5
    },
    {
     "nome": "CALUSCO D'ADDA",
@@ -13184,7 +12104,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 8
    },
    {
     "nome": "CARVICO - E. FERMI",
@@ -13204,7 +12124,7 @@
     ],
     "voci": 41,
     "trovati": 5,
-    "secondi": 49
+    "secondi": 45
    },
    {
     "nome": "CASAZZA (Monasterolo Del Castello)",
@@ -13236,7 +12156,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 9
    },
    {
     "nome": "CASTELLI CAL.- FRA A.DA CALEPIO (Castelli Calepio)",
@@ -13272,7 +12192,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "CISERANO",
@@ -13312,7 +12232,7 @@
     ],
     "voci": 28,
     "trovati": 1,
-    "secondi": 20
+    "secondi": 21
    },
    {
     "nome": "COLOGNO - \"ABATE G.BRAVI\" (Cologno Al Serio)",
@@ -13352,7 +12272,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 51
+    "secondi": 52
    },
    {
     "nome": "COVO - L. LOTTO",
@@ -13362,13 +12282,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.scuolecovo.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.scuolecovo.edu.it/"
      }
     ],
-    "voci": 8,
+    "voci": 1,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 8
    },
    {
     "nome": "CPIA 2 BERGAMO (Verdellino)",
@@ -13428,7 +12348,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 54
+    "secondi": 50
    },
    {
     "nome": "GAZZANIGA (Cene)",
@@ -13452,7 +12372,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "GIULIA GABRIELI (Brusaporto)",
@@ -13468,7 +12388,23 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 10
+   },
+   {
+    "nome": "GORLE",
+    "tipo": "Scuola",
+    "sito": "https://www.icgorle.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.portaleargo.it/albopretorio/online/#/SC21821/atti"
+     }
+    ],
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 13
    },
    {
     "nome": "GRUMELLO DEL MONTE",
@@ -13500,7 +12436,7 @@
     ],
     "voci": 45,
     "trovati": 2,
-    "secondi": 90
+    "secondi": 95
    },
    {
     "nome": "I. C. \"G. CARDUCCI\" (Dalmine)",
@@ -13516,7 +12452,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 9
+    "secondi": 6
    },
    {
     "nome": "I.C. SARNICO - E. DONADONI",
@@ -13536,7 +12472,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 25
    },
    {
     "nome": "I.T. TECNOLOGICO ED ECONOMICO VILMINORE (Vilminore Di Scalve)",
@@ -13556,7 +12492,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 23
    },
    {
     "nome": "IC MASTRI CARAVAGGINI (Caravaggio)",
@@ -13576,7 +12512,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "IC VALLE SERINA-S.PELLEGRINO T. (San Pellegrino Terme)",
@@ -13604,7 +12540,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO \"RITA LEVI-MONTALCINI\" (Bottanuco)",
@@ -13628,7 +12564,7 @@
     ],
     "voci": 11,
     "trovati": 1,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO \"C. ZONCA\" (Treviolo)",
@@ -13656,7 +12592,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ALMENNO S.B. LUIGI ANGELINI",
@@ -13708,7 +12644,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 15
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - BERGAMO DE AMICIS",
@@ -13748,7 +12684,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 19
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - BONATE SOPRA - ALDO MORO",
@@ -13768,7 +12704,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 9
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - BONATE SOTTO I C. 'CLARA LEVI'",
@@ -13784,7 +12720,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 13
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - BREMBATE SOTTO",
@@ -13812,7 +12748,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - CAPRIATE S.G. ' A. MANZONI'",
@@ -13828,7 +12764,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 10
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - COLOGNO AL SERIO 'BRAVI'",
@@ -13848,7 +12784,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - FARA D'ADDA",
@@ -13864,7 +12800,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 13
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GORLAGO - ALDO MORO",
@@ -13892,7 +12828,7 @@
     ],
     "voci": 30,
     "trovati": 4,
-    "secondi": 83
+    "secondi": 85
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GROMO - SORELLE DE MARCHI",
@@ -13912,7 +12848,7 @@
     ],
     "voci": 56,
     "trovati": 1,
-    "secondi": 10
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - LEFFE ISTITUTO COMPRENSIVO",
@@ -13932,7 +12868,7 @@
     ],
     "voci": 77,
     "trovati": 2,
-    "secondi": 69
+    "secondi": 73
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - OSIO SOPRA",
@@ -13960,7 +12896,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - PONTE S. PIETRO",
@@ -14004,23 +12940,31 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 2
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - SAN PAOLO D'ARGON",
     "tipo": "Scuola",
     "sito": "https://www.icvalledargon.edu.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
+    "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.icvalledargon.edu.it/"
+      "nome": "Albo",
+      "url": "https://www.icvalledargon.edu.it/pagine/albo-online"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.portaleargo.it/albopretorio/online/#/error"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icvalledargon.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 0,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 60
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - SERIATE - ALDO MORO",
@@ -14072,7 +13016,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - URGNANO 'B. COLLEONI'",
@@ -14096,7 +13040,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 42
+    "secondi": 44
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - VILLONGO",
@@ -14120,7 +13064,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 50
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ZANICA ISTITUTO COMPRENSIVO",
@@ -14136,7 +13080,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 15
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ZOGNO",
@@ -14156,7 +13100,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO AZZANOS.P. (Azzano San Paolo)",
@@ -14216,7 +13160,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 28
    },
    {
     "nome": "ISTITUTO TECNICO INDUSTRIALE - PIETRO PALEOCAPA",
@@ -14232,7 +13176,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'LUIGI EINAUDI'",
@@ -14372,7 +13316,7 @@
     ],
     "voci": 13,
     "trovati": 1,
-    "secondi": 27
+    "secondi": 38
    },
    {
     "nome": "Istituto Comprensivo Dalmine A.Moro",
@@ -14407,22 +13351,6 @@
     "secondi": 3
    },
    {
-    "nome": "Istituto Statale di Istruzione Superiore Guido Galli",
-    "tipo": "Scuola",
-    "sito": "https://www.isgalli.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.isgalli.edu.it/"
-     }
-    ],
-    "voci": 17,
-    "trovati": 0,
-    "secondi": 6
-   },
-   {
     "nome": "Istituto Superiore Bortolo Belotti",
     "tipo": "Scuola",
     "sito": "https://www.isbelotti.edu.it/",
@@ -14440,7 +13368,7 @@
     ],
     "voci": 18,
     "trovati": 1,
-    "secondi": 16
+    "secondi": 22
    },
    {
     "nome": "LOVERE",
@@ -14464,7 +13392,7 @@
     ],
     "voci": 52,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 17
    },
    {
     "nome": "MAPELLO - PIERA GELPI",
@@ -14484,7 +13412,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 9
    },
    {
     "nome": "MARTINENGO",
@@ -14516,7 +13444,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 14
    },
    {
     "nome": "NEMBRO - E.TALPINO",
@@ -14556,7 +13484,7 @@
     ],
     "voci": 37,
     "trovati": 1,
-    "secondi": 52
+    "secondi": 62
    },
    {
     "nome": "PONTE NOSSA",
@@ -14584,7 +13512,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 17
    },
    {
     "nome": "PONTE S. PIETRO (Ponte San Pietro)",
@@ -14648,7 +13576,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 32
    },
    {
     "nome": "ROVETTA - IC ANDREA FANTONI",
@@ -14728,7 +13656,7 @@
     ],
     "voci": 31,
     "trovati": 2,
-    "secondi": 57
+    "secondi": 59
    },
    {
     "nome": "SERIATE - CESARE BATTISTI",
@@ -14748,7 +13676,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 5
    },
    {
     "nome": "SORISOLE \"A. LANFRANCHI\"",
@@ -14768,7 +13696,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 15
    },
    {
     "nome": "SOVERE \"DANIELE SPADA\"",
@@ -14784,7 +13712,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "SPIRANO",
@@ -14800,7 +13728,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "STEZZANO \"CAROLI\"",
@@ -14828,7 +13756,7 @@
     ],
     "voci": 12,
     "trovati": 1,
-    "secondi": 46
+    "secondi": 60
    },
    {
     "nome": "TAVERNOLA BERGAMASCA",
@@ -14864,7 +13792,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 101
+    "secondi": 105
    },
    {
     "nome": "TERNO ISOLA -PADRE C.ALBISETTI (Terno D'Isola)",
@@ -14884,7 +13812,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 19
    },
    {
     "nome": "TREVIGLIO \"DE AMICIS\"",
@@ -14908,7 +13836,7 @@
     ],
     "voci": 136,
     "trovati": 6,
-    "secondi": 187
+    "secondi": 189
    },
    {
     "nome": "VAL BREMBILLA-GIOVANNI XXIII",
@@ -15028,7 +13956,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 14
    },
    {
     "nome": "VILLA D'ALME (Alme')",
@@ -15052,7 +13980,7 @@
     ],
     "voci": 23,
     "trovati": 4,
-    "secondi": 28
+    "secondi": 25
    },
    {
     "nome": "VILLA DI SERIO - F.NULLO",
@@ -15076,7 +14004,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 14
    },
    {
     "nome": "ZANICA",

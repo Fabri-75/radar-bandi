@@ -3,10 +3,10 @@
   "sigla": "MI",
   "nome": "Milano"
  },
- "aggiornato": "2026-11-25T20:32:35.443588+00:00",
+ "aggiornato": "2026-11-25T22:01:06.654918+00:00",
  "giorni": 60,
- "durata_minuti": 29,
- "richieste": 4835,
+ "durata_minuti": 31,
+ "richieste": 4691,
  "righe": [
   {
    "ente": "Comune di San Giuliano Milanese",
@@ -1100,6 +1100,34 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Trezzano Sul Naviglio",
+   "tipo": "Comune",
+   "titolo": "Oggetto: AFFIDAMENTO DIRETTO PER INTERVENTO DI VIDEO ISPEZIONE TUBAZIONE DI SCARICO CANILE COMUNALE VIA DARWIN 31 IN TREZZANO SUL NAVIGLIO (MI), ALLA DITTA SMART SERVICE S.R.L. - CIG BDD314BD29.",
+   "pubblicazione": "2026-11-18",
+   "scadenza": "2026-11-20",
+   "importo": "€ 5.000,00",
+   "partecipanti": null,
+   "motivi": [
+    "mafie",
+    "affidamento"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://trezzano.e-pal.it/AlboOnline/dettaglioAlbo/7580312",
+   "fonti": [
+    {
+     "nome": "sito trezzano.e-pal.it",
+     "link": "https://trezzano.e-pal.it/AlboOnline/dettaglioAlbo/7580312"
+    }
+   ],
+   "esito": true,
+   "cig": "BDD314BD29",
+   "cf": "03029240151",
+   "id": "d04b327fd16f",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Milano",
    "tipo": "Comune",
    "titolo": "Natale nei cortili",
@@ -1321,12 +1349,10 @@
    "importo": "€ 2.358.093,01",
    "partecipanti": null,
    "motivi": [
-    "scuole dell'infanzia",
     "concert",
     "pnrr"
    ],
    "temi": [
-    "Infanzia e famiglie",
     "Estate e musica"
    ],
    "link": "https://www.comune.tribiano.mi.it/it-it/amministrazione/atti-pubblicazioni/bandi-di-gara/2025/pnrr-procedura-di-gara-aperta-ai-sensi-degli-artt-54-e-60-del-d-lgs-n-50-2016-da-realizzarsi-48789-1-d4c2f23c1913f53aa4e423433a3774e7",
@@ -1398,42 +1424,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Inzago",
-   "tipo": "Comune",
-   "titolo": "Avviso Pubblico per nomina componenti Consiglio di Indirizzo presso Fondazione Ospedale L. Marchesi di Inzago",
-   "pubblicazione": "2026-11-27",
-   "scadenza": "2026-11-27",
-   "importo": "€ 1.750.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "rassegn",
-    "bibliotec",
-    "estate",
-    "estiv",
-    "natalizi",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://comune.inzago.mi.it/tipi_notizia/notizie/",
-   "fonti": [
-    {
-     "nome": "sito comune.inzago.mi.it",
-     "link": "https://comune.inzago.mi.it/tipi_notizia/notizie/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83503270155",
-   "id": "3c37234a43f7",
-   "nuovo": false
-  },
-  {
    "ente": "ISTITUTO TECNICO E LICEO - E. CONTI (Milano)",
    "tipo": "Scuola",
    "titolo": "Determina incarichi Piano Estate 2026/2027",
@@ -1474,8 +1464,6 @@
     "teatr",
     "drammatizzazione",
     "improvvisazione",
-    "dispersione scolastica",
-    "inclusione",
     "selezione"
    ],
    "temi": [
@@ -1504,10 +1492,7 @@
    "importo": "€ 78.780,00",
    "partecipanti": "Esperti / persone fisiche, Personale interno / altre scuole",
    "motivi": [
-    "piano estate",
-    "inclusione",
-    "estate",
-    "estiv"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -1536,20 +1521,13 @@
    "partecipanti": null,
    "motivi": [
     "teatr",
-    "spettacol",
-    "rassegn",
     "educazione digitale",
-    "per le famiglie",
-    "concert",
-    "natale",
-    "natalizi"
+    "concert"
    ],
    "temi": [
     "Teatro e spettacoli",
     "Legalita e temi civici",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
+    "Estate e musica"
    ],
    "link": "https://www.comune.cinisello-balsamo.mi.it/spip.php?mot242",
    "fonti": [
@@ -1573,8 +1551,7 @@
    "importo": "€ 51.480,00",
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -1660,14 +1637,11 @@
    "partecipanti": null,
    "motivi": [
     "teatr",
-    "intrattenimento",
-    "inclusione",
     "legalita",
     "concert"
    ],
    "temi": [
     "Teatro e spettacoli",
-    "Laboratori nelle scuole",
     "Legalita e temi civici",
     "Estate e musica"
    ],
@@ -1775,35 +1749,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Buscate",
-   "tipo": "Comune",
-   "titolo": "Bando di concorso per l'assegnazione di borse di studio e premi per merito agli studenti delle scuole secondarie di 1° e 2° grado a.s. 2025/26",
-   "pubblicazione": "2026-11-20",
-   "scadenza": "2026-12-21",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "https://www.comune.buscate.mi.it/Notizie?idCat=1",
-   "fonti": [
-    {
-     "nome": "sito comune.buscate.mi.it",
-     "link": "https://www.comune.buscate.mi.it/Notizie?idCat=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "03391930157",
-   "id": "271a8d0df4b5",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Trezzo Sull'Adda",
    "tipo": "Comune",
    "titolo": "Avviso pubblico per manifestazione di interesse alla sponsorizzazione di eventi culturali, sportivi e turistici - anno 2026",
@@ -1830,35 +1775,6 @@
    "cig": null,
    "cf": "83502130152",
    "id": "8de2c24e650e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Bellinzago Lombardo",
-   "tipo": "Comune",
-   "titolo": "19° Bando di concorso borse di studio anno scolastico 2025/2026 – Scadenza 31/12/2026",
-   "pubblicazione": "2026-11-13",
-   "scadenza": "2026-12-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natale"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://comune.bellinzagolombardo.mi.it/category/notizie-ed-eventi/",
-   "fonti": [
-    {
-     "nome": "sito comune.bellinzagolombardo.mi.it",
-     "link": "https://comune.bellinzagolombardo.mi.it/category/notizie-ed-eventi/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "01554230159",
-   "id": "25bc73f6b410",
    "nuovo": false
   },
   {
@@ -1897,15 +1813,10 @@
    "importo": null,
    "partecipanti": "Cooperative",
    "motivi": [
-    "teatr",
-    "spettacol",
-    "scuole dell'infanzia",
-    "estiv"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Infanzia e famiglie",
-    "Estate e musica"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.comune.rho.mi.it/it-it/amministrazione/bandi-di-gara",
    "fonti": [
@@ -1918,6 +1829,34 @@
    "cig": "BD441AF1A9",
    "cf": "00893240150",
    "id": "2366ce9f5099",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Sesto San Giovanni",
+   "tipo": "Comune",
+   "titolo": "Oggetto: AFFIDAMENTO DEL \"SERVIZIO DI SUPPORTO ALL'INCLUSIONE SOCIALE PER I BENEFICIARI DELL'ASSEGNO DI INCLUSIONE (ADI) E CITTADINI IN CONDIZIONE DI POVERTÀ RESIDENTI NEI COMUNI DI SESTO SAN GIOVANNI E COLOGNO MONZESE\" - PER IL PERIODO DAL 26 NOVEMBRE 2026 AL 25 NOVEMBRE 2029. AGGIUDICAZIONE A SPAZ",
+   "pubblicazione": "2026-11-25",
+   "scadenza": "2027-01-28",
+   "importo": "€ 86.981,36",
+   "partecipanti": null,
+   "motivi": [
+    "inclusione",
+    "affidamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://servizi-sestosangiovanni.e-pal.it/AlboOnline/dettaglioAlbo/2794548",
+   "fonti": [
+    {
+     "nome": "sito servizi-sestosangiovanni.e-pal.it",
+     "link": "https://servizi-sestosangiovanni.e-pal.it/AlboOnline/dettaglioAlbo/2794548"
+    }
+   ],
+   "esito": true,
+   "cig": "BC6DEEB667",
+   "cf": "02253930156",
+   "id": "be9d3cff30bc",
    "nuovo": false
   },
   {
@@ -1948,41 +1887,6 @@
    "cig": null,
    "cf": "83503670156",
    "id": "e1c942661d7a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Inzago",
-   "tipo": "Comune",
-   "titolo": "Bando Regionale per l’assegnazione di ambiti carenti per Medici di Assistenza Primaria e Pediatri di Libera Scelta",
-   "pubblicazione": "2026-11-17",
-   "scadenza": "2027-01-31",
-   "importo": "€ 1.750.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "rassegn",
-    "bibliotec",
-    "estate",
-    "estiv",
-    "natalizi"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://comune.inzago.mi.it/tipi_notizia/notizie/",
-   "fonti": [
-    {
-     "nome": "sito comune.inzago.mi.it",
-     "link": "https://comune.inzago.mi.it/tipi_notizia/notizie/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "83503270155",
-   "id": "849701418545",
    "nuovo": false
   },
   {
@@ -2024,8 +1928,7 @@
    "importo": "€ 51.480,00",
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -2053,15 +1956,11 @@
    "importo": null,
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
-    "narrazione",
     "esperti esterni",
     "piano estate",
-    "inclusione",
-    "estate",
     "selezione"
    ],
    "temi": [
-    "Teatro e spettacoli",
     "Laboratori nelle scuole",
     "Estate e musica"
    ],
@@ -2087,12 +1986,9 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "inclusione",
-    "musical",
-    "musicale"
+    "musical"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Estate e musica"
    ],
    "link": "https://www.icdanielamauro.edu.it/albo-pretorio/decreto_avvio_procedure_selettive_insieme_si_puo",
@@ -2106,6 +2002,33 @@
    "cig": null,
    "cf": "91546730150",
    "id": "3ecafe28b34f",
+   "nuovo": false
+  },
+  {
+   "ente": "IC E. DE AMICIS (Marcallo Con Casone)",
+   "tipo": "Scuola",
+   "titolo": "Decreto Legislativo 14 marzo 2013, n. 33 – Riordino della disciplina riguardante gli obblighi di pubblicità",
+   "pubblicazione": null,
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "legalita"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "http://icmarcallo.edu.it/wp-content/uploads/sites/22/decreto-legislativo-14-marzo-2013-n-33.pdf?x49802",
+   "fonti": [
+    {
+     "nome": "sito icmarcallo.edu.it",
+     "link": "http://icmarcallo.edu.it/wp-content/uploads/sites/22/decreto-legislativo-14-marzo-2013-n-33.pdf?x49802"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "93018810155",
+   "id": "f350e800ae67",
    "nuovo": false
   },
   {
@@ -2145,13 +2068,10 @@
    "partecipanti": null,
    "motivi": [
     "musical",
-    "musicale",
-    "formazione del personale",
     "selezione"
    ],
    "temi": [
-    "Estate e musica",
-    "Formazione e team building"
+    "Estate e musica"
    ],
    "link": "https://www.liceoquasimodo.edu.it/albo-pretorio/avviso-di-selezione-dm-38-formazione-linguistica",
    "fonti": [
@@ -2164,6 +2084,34 @@
    "cig": null,
    "cf": "93005930156",
    "id": "dea6d9193625",
+   "nuovo": false
+  },
+  {
+   "ente": "Comune di Cerro al Lambro",
+   "tipo": "Comune",
+   "titolo": "Mostra itinerante \"Libri, educatori silenziosi. Costruiamo ponti sulle orme di Jella Lepman\"",
+   "pubblicazione": "2026-09-29",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "falcone",
+    "pon"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.comune.cerroallambro.mi.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.cerroallambro.mi.it",
+     "link": "https://www.comune.cerroallambro.mi.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "84503860151",
+   "id": "b2deea46bbff",
    "nuovo": false
   },
   {
@@ -2249,37 +2197,6 @@
    "cig": null,
    "cf": "83049760156",
    "id": "74704e1a6dcc",
-   "nuovo": false
-  },
-  {
-   "ente": "ISTITUTO COMPRENSIVO - S. AMBROGIO",
-   "tipo": "Scuola",
-   "titolo": "BANDO SCUOLE APERTE – “LA SCUOLA INCONTRA LE FAMIGLIE”",
-   "pubblicazione": "2026-10-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "intrattenimento",
-    "inclusione",
-    "per le famiglie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Laboratori nelle scuole",
-    "Infanzia e famiglie"
-   ],
-   "link": "https://www.comprensivosantambrogio.edu.it/bando-scuole-aperte-la-scuola-incontra-le-famiglie/",
-   "fonti": [
-    {
-     "nome": "sito comprensivosantambrogio.edu.it",
-     "link": "https://www.comprensivosantambrogio.edu.it/bando-scuole-aperte-la-scuola-incontra-le-famiglie/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80196170155",
-   "id": "909f3b6d0e3a",
    "nuovo": false
   },
   {
@@ -2464,11 +2381,11 @@
     "Laboratori nelle scuole",
     "Estate e musica"
    ],
-   "link": "https://www.comprensivoturbigo.edu.it/index.php/albo-pretorio/decreto-incarico-oneroso-dirigente-scolastico-pn-21-27-piano-estate-26-27",
+   "link": "https://www.comprensivoturbigo.edu.it/albo-pretorio/decreto-incarico-oneroso-dirigente-scolastico-pn-21-27-piano-estate-26-27",
    "fonti": [
     {
      "nome": "sito comprensivoturbigo.edu.it",
-     "link": "https://www.comprensivoturbigo.edu.it/index.php/albo-pretorio/decreto-incarico-oneroso-dirigente-scolastico-pn-21-27-piano-estate-26-27"
+     "link": "https://www.comprensivoturbigo.edu.it/albo-pretorio/decreto-incarico-oneroso-dirigente-scolastico-pn-21-27-piano-estate-26-27"
     }
    ],
    "esito": false,
@@ -2504,6 +2421,35 @@
    "cig": null,
    "cf": "00893240150",
    "id": "fc4e162714aa",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO TECNICO E LICEO - E. MOLINARI (Milano)",
+   "tipo": "Scuola",
+   "titolo": "Determina a contrarre e di affidamento per uscita didattica spettacoli teatrali: “WIDER THAN THE SKY” (CIG_ BD85004D79) – “MAI MOLLARE” (CIG_ BD84F3C86F) – Classi: 4C LSA e 5C LSADetermina a contrarre",
+   "pubblicazione": "2026-10-27",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/ovg6tnkjr7",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/ovg6tnkjr7"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80112230158",
+   "id": "e583b4b27513",
    "nuovo": false
   },
   {
@@ -2595,59 +2541,32 @@
    "nuovo": false
   },
   {
-   "ente": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO BASIANO",
+   "ente": "ISTITUTO TECNICO E LICEO - E. MOLINARI (Milano)",
    "tipo": "Scuola",
-   "titolo": "Apertura servizio di biblioteca scolastica digitale",
-   "pubblicazione": "2026-10-29",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec"
-   ],
-   "temi": [
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.icbasiano.edu.it/circolare/apertura-servizio-di-biblioteca-scolastica-digitale-35/",
-   "fonti": [
-    {
-     "nome": "sito icbasiano.edu.it",
-     "link": "https://www.icbasiano.edu.it/circolare/apertura-servizio-di-biblioteca-scolastica-digitale-35/"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "91510900151",
-   "id": "fa8931136ab8",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Melegnano",
-   "tipo": "Comune",
-   "titolo": "Bando servizi abitativi pubblici (SAP)",
+   "titolo": "Determina a contrarre e di affidamento per uscita didattica spettacolo teatrale del 30 Novembre: “WIDER THAN THE SKY” – BD983439A3 – Classe: 4C INF",
    "pubblicazione": "2026-11-02",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "bibliotec",
-    "natalizi"
+    "teatr",
+    "spettacol",
+    "affidamento"
    ],
    "temi": [
-    "Lettura e biblioteche",
-    "Natale"
+    "Teatro e spettacoli"
    ],
-   "link": "https://www.comune.melegnano.mi.it/it/news?type=3",
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/44q6k7j3l9",
    "fonti": [
     {
-     "nome": "sito comune.melegnano.mi.it",
-     "link": "https://www.comune.melegnano.mi.it/it/news?type=3"
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/44q6k7j3l9"
     }
    ],
-   "esito": false,
+   "esito": true,
    "cig": null,
-   "cf": "84507510158",
-   "id": "62b1b87086d4",
+   "cf": "80112230158",
+   "id": "2a2fda1afbab",
    "nuovo": false
   },
   {
@@ -2660,9 +2579,6 @@
    "partecipanti": "Operatori economici",
    "motivi": [
     "piano estate",
-    "inclusione",
-    "estate",
-    "estiv",
     "orchestra",
     "selezione"
    ],
@@ -2771,36 +2687,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Melegnano",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico Candidature presso Enti",
-   "pubblicazione": "2026-11-09",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natalizi",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://www.comune.melegnano.mi.it/it/news?type=3",
-   "fonti": [
-    {
-     "nome": "sito comune.melegnano.mi.it",
-     "link": "https://www.comune.melegnano.mi.it/it/news?type=3"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "84507510158",
-   "id": "bcf5dcb4802a",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Pessano Con Bornago",
    "tipo": "Biblioteca",
    "titolo": "DETERMINA N.564 DEL 10/11/2026 - AREA 1: CONCORSO DI POESIA ANNUALE INDETTO DALL'ASSESSORATO ALLA CULTURA E DALLA BIBLIOTECA CIVICA F. TARCHI - IMPEGNI DI SPESA",
@@ -2890,6 +2776,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Cerro al Lambro",
+   "tipo": "Comune",
+   "titolo": "AVVISO di adozione, deposito e pubblicazione degli atti relativi Piano Attuativo in Variante al PGT denominato “AT-8 VIA MONTENERO”",
+   "pubblicazione": "2026-11-11",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "falcone"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://www.comune.cerroallambro.mi.it/it/news?type=3",
+   "fonti": [
+    {
+     "nome": "sito comune.cerroallambro.mi.it",
+     "link": "https://www.comune.cerroallambro.mi.it/it/news?type=3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "84503860151",
+   "id": "975e6edf5fed",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Peschiera Borromeo",
    "tipo": "Comune",
    "titolo": "DETERMINA N.929 DEL 11/11/2026 - SETTORE III POLITICHE SOCIALI, EDUCATIVE, GIOVANILI E DEL LAVORO: IMPEGNO DI SPESA COLLABORAZIONE CON GPS GIOVANI PROGETTI PER LA REALIZZAZIONE DEL PERCORSO: EDUCAZIONE ALL’AFFETTIVITA’ CRESCERE, CONOSCERSI, RISPETTARSI - OTTOBRE/DICEMBRE 2026",
@@ -2918,33 +2831,6 @@
    "cig": null,
    "cf": "80101570150",
    "id": "ed51df152080",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Pessano Con Bornago",
-   "tipo": "Biblioteca",
-   "titolo": "DETERMINA N.567 DEL 11/11/2026 - AREA 5: PROGETTO DI ACCOGLIENZA NUCLEO FAMIGLIARE IN HOUSING SOCIALE PRESSO UNITA' ABITATIVA - CASA SEGALE, CASCINA NIBAI - DELLA CASCINA BIBLIOTECA SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA' A R.L. DI MILANO. IMPEGNO DI SPESA. CIG. BDBFEE75BC.",
-   "pubblicazione": "2026-11-11",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec"
-   ],
-   "temi": [
-    "Lettura e biblioteche"
-   ],
-   "link": "https://servizionline.comune.pessanoconbornago.mi.it/cmspessano/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
-   "fonti": [
-    {
-     "nome": "sito servizionline.comune.pessanoconbornago.mi.it",
-     "link": "https://servizionline.comune.pessanoconbornago.mi.it/cmspessano/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
-    }
-   ],
-   "esito": true,
-   "cig": "BDBFEE75BC",
-   "cf": "03064000155",
-   "id": "a657551c6c49",
    "nuovo": false
   },
   {
@@ -3485,6 +3371,34 @@
    "nuovo": false
   },
   {
+   "ente": "IC MANZONI AD ORDINAM. MUSICALE (Cologno Monzese)",
+   "tipo": "Scuola",
+   "titolo": "Bando per l’avvio di selezione pubblica per il reperimento di n. 1 esperto interno – per il Progetto “PSICOMOTRICITÀ IN MOVIMENTO” – Scuola dell’Infanzia relativo all'ampliamento dell’offerta formativa a.s. 2026-27.",
+   "pubblicazione": "2026-11-17",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "musical",
+    "selezione"
+   ],
+   "temi": [
+    "Estate e musica"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/9370/documento/MIIC822008",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/9370/documento/MIIC822008"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "94566360155",
+   "id": "e2d7fbee6e67",
+   "nuovo": false
+  },
+  {
    "ente": "IC DELLA MARGHERITA (Dresano)",
    "tipo": "Scuola",
    "titolo": "Avviso pubblico per la selezione di esperti interni/esterni per l’attuazione di progetti finalizzati all’ampliamento dell’offerta formativa relativi al Diritto allo Studio per il progetto «Dolce Natale»–Laboratorio di pasticceria –Scuola primaria Dresano",
@@ -3540,37 +3454,6 @@
    "cig": null,
    "cf": "92508780159",
    "id": "a30f3b79a3b4",
-   "nuovo": false
-  },
-  {
-   "ente": "IC MANZONI AD ORDINAM. MUSICALE (Cologno Monzese)",
-   "tipo": "Scuola",
-   "titolo": "Bando per l’avvio di selezione pubblica per il reperimento di n. 1 esperto interno – per il Progetto “PSICOMOTRICITÀ IN MOVIMENTO” – Scuola dell’Infanzia relativo all'ampliamento dell’offerta formativa a.s. 2026-27.",
-   "pubblicazione": "2026-11-17",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "animazione",
-    "musical",
-    "musicale",
-    "selezione"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://nuvola.madisoft.it/bacheca-digitale/9370/documento/MIIC822008",
-   "fonti": [
-    {
-     "nome": "sito nuvola.madisoft.it",
-     "link": "https://nuvola.madisoft.it/bacheca-digitale/9370/documento/MIIC822008"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "94566360155",
-   "id": "e2d7fbee6e67",
    "nuovo": false
   },
   {
@@ -3728,7 +3611,6 @@
    "partecipanti": null,
    "motivi": [
     "musical",
-    "musicale",
     "avviso pubblico",
     "selezione"
    ],
@@ -3813,11 +3695,9 @@
    "importo": null,
    "partecipanti": "Esperti / persone fisiche, Operatori economici",
    "motivi": [
-    "inclusione",
     "legalita"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici"
    ],
    "link": "https://anci.lombardia.it/dettaglio-circolari/202611191655-regione-lombardia-pubblicazione-criteri-avviso-potenziamento-dei-servizi-integrati-all’utenza-per-l’accompagnamento-all’accesso-e-al-mantenimento-d/",
@@ -3888,6 +3768,33 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Buccinasco",
+   "tipo": "Comune",
+   "titolo": "ACCERTAMENTO SOMME PER BANDO INCLUSIONE SCOLASTICA STUDENTI CON DISABILITA’ SCUOLE SUPERIORI SALDO ANNO 2025/26 ( CODICE RLW12025047463) E ACCONTO ANNO 2026-27 (CODICE RLW12025050925)",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5802004?p_auth=Rb6d1h2c",
+   "fonti": [
+    {
+     "nome": "sito buccinasco.trasparenza-valutazione-merito.it",
+     "link": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5802004?p_auth=Rb6d1h2c"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "03482920158",
+   "id": "f00170c33e2e",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Peschiera Borromeo",
    "tipo": "Comune",
    "titolo": "DETERMINA N.958 DEL 19/11/2026 - SETTORE IV INNOVAZIONE TECNOLOGICA, CULTURA, SPORT E PARTECIPAZIONE: NOLEGGIO DI SERVIZI IGIENICI MOBILI PER VILLAGGIO DI NATALE 2026 PRESSO PARCO BORROMEO CIG BDD592E78D",
@@ -3916,33 +3823,6 @@
    "cig": "BDD592E78D",
    "cf": "80101570150",
    "id": "bedb0f72d323",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Buccinasco",
-   "tipo": "Comune",
-   "titolo": "ACCERTAMENTO SOMME PER BANDO INCLUSIONE SCOLASTICA STUDENTI CON DISABILITA’ SCUOLE SUPERIORI SALDO ANNO 2025/26 ( CODICE RLW12025047463) E ACCONTO ANNO 2026-27 (CODICE RLW12025050925)",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5802004?p_auth=bvFbBQPJ",
-   "fonti": [
-    {
-     "nome": "sito buccinasco.trasparenza-valutazione-merito.it",
-     "link": "https://buccinasco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5802004?p_auth=bvFbBQPJ"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "03482920158",
-   "id": "f00170c33e2e",
    "nuovo": false
   },
   {
@@ -3999,6 +3879,60 @@
    "cig": null,
    "cf": "80127050153",
    "id": "2d10a54a0d08",
+   "nuovo": false
+  },
+  {
+   "ente": "IC IQBAL MASIH (Milano)",
+   "tipo": "Scuola",
+   "titolo": "DECISIONE A CONTRARRE N. 121 TEATRO CABOTO 21-12-2026 CL. 2^A/B/C FORZE ARMATE",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/9fnoso52mu",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/9fnoso52mu"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "97505860151",
+   "id": "f98ba1b1a069",
+   "nuovo": false
+  },
+  {
+   "ente": "IC G.DEZZA (Melegnano)",
+   "tipo": "Scuola",
+   "titolo": "AVVISO ESPERTI INTERNI E ESPERTI ESTERNI, COLLABORAZIONI PLURIME PROGETTUALITA' DI ISTITUTO A.S. 2026-2027",
+   "pubblicazione": "2026-11-19",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "esperti esterni"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/5491/documento/MIIC89800D",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/5491/documento/MIIC89800D"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "97272320157",
+   "id": "d3a04c162d0a",
    "nuovo": false
   },
   {
@@ -4085,61 +4019,6 @@
    "cig": null,
    "cf": "90015620157",
    "id": "455420a57d3e",
-   "nuovo": false
-  },
-  {
-   "ente": "IC G.DEZZA (Melegnano)",
-   "tipo": "Scuola",
-   "titolo": "AVVISO ESPERTI INTERNI E ESPERTI ESTERNI, COLLABORAZIONI PLURIME PROGETTUALITA' DI ISTITUTO A.S. 2026-2027",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": "€ 50,00",
-   "partecipanti": null,
-   "motivi": [
-    "esperti esterni"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://nuvola.madisoft.it/bacheca-digitale/5491/documento/MIIC89800D",
-   "fonti": [
-    {
-     "nome": "sito nuvola.madisoft.it",
-     "link": "https://nuvola.madisoft.it/bacheca-digitale/5491/documento/MIIC89800D"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "97272320157",
-   "id": "d3a04c162d0a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Liscate",
-   "tipo": "Comune",
-   "titolo": "COMUNE DI LISCATE - CONCESSIONE DEL PATROCINIO NON ONEROSO ALL'ASSOCIAZIONE AVIS PER LA GIORNATA, IN OCCASIONE DEL S. NATALE 2026, DI RINGRAZIAMENTO AI DONATORI DI LISCATE",
-   "pubblicazione": "2026-11-20",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "patrocinio"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "http://www.halleyweb.com/c015122/mc/mc_p_ricerca.php",
-   "fonti": [
-    {
-     "nome": "sito halleyweb.com",
-     "link": "http://www.halleyweb.com/c015122/mc/mc_p_ricerca.php"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "83503450153",
-   "id": "e1124f6b2484",
    "nuovo": false
   },
   {
@@ -4253,6 +4132,64 @@
    "nuovo": false
   },
   {
+   "ente": "ISTITUTO TECNICO E LICEO - E. MOLINARI (Milano)",
+   "tipo": "Scuola",
+   "titolo": "Determina a contrarre e di affidamento per uscita didattica spettacolo teatrale “BOYS WILL BE BOYS ” del 03_12_2026 Clas",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/6n2tnkrbk8",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/6n2tnkrbk8"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80112230158",
+   "id": "09d51a4030a9",
+   "nuovo": false
+  },
+  {
+   "ente": "ISTITUTO TECNICO E LICEO - E. MOLINARI (Milano)",
+   "tipo": "Scuola",
+   "titolo": "Determina a contrarre e di affidamento per uscita didattica spettacolo teatrale “SCATENIAMO L’INFERNO ” del 01_12_2026 Classe 3C INF",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "teatr",
+    "spettacol",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/lpmmgorhv1",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIIT0022/lpmmgorhv1"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "80112230158",
+   "id": "616b01703a96",
+   "nuovo": false
+  },
+  {
    "ente": "IC DI INZAGO",
    "tipo": "Scuola",
    "titolo": "Determina avvio procedura progetto musicale Io Canto- Sturiale Inzago",
@@ -4316,12 +4253,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "esperti esterni"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Laboratori nelle scuole"
+    "Teatro e spettacoli"
    ],
    "link": "https://icadanegri.edu.it/comunicati/926-pubblicazione-bandi-per-n-3-progetti-da-realizzare-alla-scuola-primaria-san-francesco-dassisi-a-vanzaghello",
    "fonti": [
@@ -4687,6 +4622,33 @@
    "nuovo": false
   },
   {
+   "ente": "IC MANZONI AD ORDINAM. MUSICALE (Cologno Monzese)",
+   "tipo": "Scuola",
+   "titolo": "Decreto di valutazione in autonomia delle candidature da parte del Dirigente Scolastico: Bando Psicomotricità Scuola dell'Infanzia a.s. 2026-2027.",
+   "pubblicazione": "2026-11-23",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "scuola dell'infanzia"
+   ],
+   "temi": [
+    "Infanzia e famiglie"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/9398/documento/MIIC822008",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/9398/documento/MIIC822008"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "94566360155",
+   "id": "8d2a4a8a009e",
+   "nuovo": false
+  },
+  {
    "ente": "IC DELLA MARGHERITA (Dresano)",
    "tipo": "Scuola",
    "titolo": "N.43 Determina di aggiudicazione definitiva Selezione di esperti Interni/esterni mediante avviso pubblico per l’attuazione di progetti finalizzati all’ampliamento dell’offerta formativa a.s.26/27 prog.Dolce Natale-laboratorio di pasticceria",
@@ -4741,33 +4703,6 @@
    "cig": null,
    "cf": "92508780159",
    "id": "766bbd6c9103",
-   "nuovo": false
-  },
-  {
-   "ente": "IC MANZONI AD ORDINAM. MUSICALE (Cologno Monzese)",
-   "tipo": "Scuola",
-   "titolo": "Decreto di valutazione in autonomia delle candidature da parte del Dirigente Scolastico: Bando Psicomotricità Scuola dell'Infanzia a.s. 2026-2027.",
-   "pubblicazione": "2026-11-23",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia"
-   ],
-   "temi": [
-    "Infanzia e famiglie"
-   ],
-   "link": "https://nuvola.madisoft.it/bacheca-digitale/9398/documento/MIIC822008",
-   "fonti": [
-    {
-     "nome": "sito nuvola.madisoft.it",
-     "link": "https://nuvola.madisoft.it/bacheca-digitale/9398/documento/MIIC822008"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "94566360155",
-   "id": "8d2a4a8a009e",
    "nuovo": false
   },
   {
@@ -4921,18 +4856,14 @@
    "partecipanti": null,
    "motivi": [
     "teatr",
-    "spettacol",
     "esperto esterno",
     "esperti esterni",
-    "ptof",
-    "inclusione",
-    "scuola dell'infanzia",
-    "per bambini"
+    "musical",
+    "avviso pubblico"
    ],
    "temi": [
     "Teatro e spettacoli",
     "Laboratori nelle scuole",
-    "Infanzia e famiglie",
     "Estate e musica"
    ],
    "link": "https://www.icwojtylagarbagnate.edu.it/avviso-pubblico-esperti-piano-diritto-allo-studio-2026-2027/",
@@ -5317,6 +5248,66 @@
    "nuovo": false
   },
   {
+   "ente": "IC IQBAL MASIH (Milano)",
+   "tipo": "Scuola",
+   "titolo": "BANDO per il RECLUTAMENTO DI ESPERTI E TUTOR INTERNI PIANO ESTATE (LINGUA INGLESE (TRINITY 1 E TRINITY 2)",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "reclutamento"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/6798hlk35l",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/6798hlk35l"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "97505860151",
+   "id": "afb761a608e4",
+   "nuovo": false
+  },
+  {
+   "ente": "IC IQBAL MASIH (Milano)",
+   "tipo": "Scuola",
+   "titolo": "Determina avvio procedure di selezione tutor ed esperti per PIANO ESTATE",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate",
+    "selezione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/ghtt1r5qt3",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/MIME0233/ghtt1r5qt3"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "97505860151",
+   "id": "b84cc0e33af1",
+   "nuovo": false
+  },
+  {
    "ente": "ISTITUTO COMPRENSIVO - IC A.DIAZ - VAPRIO D'ADDA",
    "tipo": "Scuola",
    "titolo": "Avviso reclutamento esperti esterni diritto allo studio VAPRIO-POZZO A.S. 26-27 -",
@@ -5636,31 +5627,30 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Liscate",
-   "tipo": "Comune",
-   "titolo": "COMUNE DI LISCATE - CONCESSIONE PATROCINIO NON ONEROSO ALL' ASSOCIAZIONE \"TENNIS CLUB LISCATE ASD\" PER LO SVOLGIMENTO DELL'EVENTO \"NATALE COUNTRY\" DEL 19/12/2026",
-   "pubblicazione": "2026-12-19",
+   "ente": "Anci Lombardia",
+   "tipo": "Altro ente",
+   "titolo": "WEBINAR - Servizi educativi 0-3 in Lombardia: dal bando al servizio, progetto ANITA Hub",
+   "pubblicazione": "2026-11-30",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "natale",
-    "patrocinio"
+    "legalita"
    ],
    "temi": [
-    "Natale"
+    "Legalita e temi civici"
    ],
-   "link": "http://www.halleyweb.com/c015122/mc/mc_p_dettaglio.php?id_pubbl=3594",
+   "link": "https://anci.lombardia.it/dettaglio-agenda/202611301235-webinar-servizi-educativi-0-3-in-lombardia-dal-bando-al-servizio-progetto-anita-hub/",
    "fonti": [
     {
-     "nome": "sito halleyweb.com",
-     "link": "http://www.halleyweb.com/c015122/mc/mc_p_dettaglio.php?id_pubbl=3594"
+     "nome": "sito anci.lombardia.it",
+     "link": "https://anci.lombardia.it/dettaglio-agenda/202611301235-webinar-servizi-educativi-0-3-in-lombardia-dal-bando-al-servizio-progetto-anita-hub/"
     }
    ],
-   "esito": true,
+   "esito": false,
    "cig": null,
-   "cf": "83503450153",
-   "id": "6de333be77c8",
+   "cf": "80160390151",
+   "id": "e3162be8f99e",
    "nuovo": false
   }
  ],
@@ -5674,6 +5664,17 @@
     "motivo": "nessun sito indicato negli open data",
     "pagine": [],
     "trovati": 0
+   },
+   {
+    "nome": "Comune di Albairate",
+    "tipo": "Comune",
+    "sito": "https://www.comune.albairate.mi.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 27
    },
    {
     "nome": "Comune di Basiglio",
@@ -5731,6 +5732,17 @@
     "secondi": 1
    },
    {
+    "nome": "Comune di Casarile",
+    "tipo": "Comune",
+    "sito": "https://www.comune.casarile.mi.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 29
+   },
+   {
     "nome": "Comune di Casorezzo",
     "tipo": "Comune",
     "sito": "https://www.comune.casorezzo.mi.it/",
@@ -5750,7 +5762,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Cusago",
@@ -5762,6 +5774,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
+   },
+   {
+    "nome": "Comune di Grezzago",
+    "tipo": "Comune",
+    "sito": "https://www.comune.grezzago.mi.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 230
    },
    {
     "nome": "Comune di Gudo Visconti",
@@ -5805,7 +5828,18 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 110
+    "secondi": 107
+   },
+   {
+    "nome": "Comune di Robecco Sul Naviglio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.robeccosulnaviglio.mi.it/",
+    "esito": "non letto",
+    "motivo": "sito irraggiungibile",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 30
    },
    {
     "nome": "Comune di Rodano",
@@ -5816,7 +5850,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 2
    },
    {
     "nome": "Comune di Solaro",
@@ -5987,6 +6021,17 @@
     "secondi": 3
    },
    {
+    "nome": "G. GALILEI (Milano)",
+    "tipo": "Scuola",
+    "sito": "https://www.galilux.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
     "nome": "G. MENDEL (Villa Cortese)",
     "tipo": "Scuola",
     "sito": "https://www.agrariomendel.gov.it/",
@@ -6071,6 +6116,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 3
+   },
+   {
+    "nome": "I.C. LEONARDO DA VINCI (Senago)",
+    "tipo": "Scuola",
+    "sito": "https://icleonardodavincisenago.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 109
    },
    {
     "nome": "I.C. LUCIANO MANARA (Milano)",
@@ -6183,17 +6239,6 @@
     "secondi": 5
    },
    {
-    "nome": "I.I.S. DI INVERUNO",
-    "tipo": "Scuola",
-    "sito": "https://www.iisinveruno.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
     "nome": "I.P. - A. VESPUCCI (Milano)",
     "tipo": "Scuola",
     "sito": "https://www.ipsarvespucci.edu.it/",
@@ -6268,7 +6313,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 108
+    "secondi": 109
    },
    {
     "nome": "IC A.B. SABIN (Segrate)",
@@ -6356,7 +6401,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 3
    },
    {
     "nome": "IC BORSI (Milano)",
@@ -6376,7 +6421,18 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
+   },
+   {
+    "nome": "IC CARDUCCI (San Vittore Olona)",
+    "tipo": "Scuola",
+    "sito": "https://www.icscarducci.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 108
    },
    {
     "nome": "IC CARLO E. BUSCAGLIA (Cinisello Balsamo)",
@@ -6412,6 +6468,17 @@
     "secondi": 5
    },
    {
+    "nome": "IC D. ALIGHIERI (Rescaldina)",
+    "tipo": "Scuola",
+    "sito": "https://www.alighierirescaldina.edu.it/wordpress/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 132
+   },
+   {
     "nome": "IC DON CARLO GNOCCHI (San Colombano Al Lambro)",
     "tipo": "Scuola",
     "sito": "https://www.icdongnocchisancolombano.gov.it/",
@@ -6420,7 +6487,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "IC E. FERMI (Cusano Milanino)",
@@ -6453,7 +6520,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "IC G. FALCONE E P. BORSELLINO (Castano Primo)",
@@ -6639,17 +6706,6 @@
     "secondi": 5
    },
    {
-    "nome": "IC PISACANE E POERIO (Milano)",
-    "tipo": "Scuola",
-    "sito": "https://www.icpisacanepoerio.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 5
-   },
-   {
     "nome": "IC R FRANCESCHI (Trezzano Sul Naviglio)",
     "tipo": "Scuola",
     "sito": "https://www.icfranceschi.gov.it/",
@@ -6680,7 +6736,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 106
+    "secondi": 108
    },
    {
     "nome": "IC RICCARDO MASSA (Milano)",
@@ -6692,6 +6748,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 107
+   },
+   {
+    "nome": "IC ROSANNA GALBUSERA (Segrate)",
+    "tipo": "Scuola",
+    "sito": "https://www.icsanfelice.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 212
    },
    {
     "nome": "IC S.AMBROGIO (Milano)",
@@ -6791,15 +6858,26 @@
     "trovati": 0
    },
    {
-    "nome": "IIS EVANGELISTA TORRICELLI",
+    "nome": "ISTITUTO COMPRENSIVO - 'ALDO MORO'-CANEGRATE",
     "tipo": "Scuola",
-    "sito": "https://www.torricellimi.edu.it/",
+    "sito": "https://icscanegrate.edu.it/",
     "esito": "non letto",
-    "motivo": "errore 509",
+    "motivo": "sito troppo lento (tempo scaduto)",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 108
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - B.DE LA RIVA-LEGNANO",
+    "tipo": "Scuola",
+    "sito": "https://www.icsbonvesin.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 108
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - GALILEI-CORSICO",
@@ -6835,6 +6913,39 @@
     "secondi": 5
    },
    {
+    "nome": "ISTITUTO COMPRENSIVO - IC A STROBINO",
+    "tipo": "Scuola",
+    "sito": "https://www.scuoledicerro.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - IC VIA DEI SALICI",
+    "tipo": "Scuola",
+    "sito": "https://www.icsviadeisalici.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 108
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO BASIANO",
+    "tipo": "Scuola",
+    "sito": "https://www.icbasiano.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 107
+   },
+   {
     "nome": "ISTITUTO COMPRENSIVO - RITA LEVI MONTALCINI",
     "tipo": "Scuola",
     "sito": "https://www.icsmontalcini.edu.it/pvw/app/MIME0087/pvw_sito.php",
@@ -6857,15 +6968,15 @@
     "secondi": 5
    },
    {
-    "nome": "ISTITUTO TECNICO E LICEO - CARTESIO (Cinisello Balsamo)",
+    "nome": "ISTITUTO TECNICO E LICEO - M. CURIE (Cernusco Sul Naviglio)",
     "tipo": "Scuola",
-    "sito": "https://www.cartesio.edu.it/",
+    "sito": "https://www.itsos-mariecurie.edu.it/",
     "esito": "non letto",
     "motivo": "errore 509",
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO TECNICO INDUSTRIALE - CARTESIO",
@@ -6934,6 +7045,17 @@
     "secondi": 5
    },
    {
+    "nome": "L. ARTISTICO - U. BOCCIONI (Milano)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceoartisticoboccioni.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 107
+   },
+   {
     "nome": "L. CREMONA (Milano)",
     "tipo": "Scuola",
     "sito": "https://www.iisfloriani.gov.it/",
@@ -6964,7 +7086,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "LEONARDO DA VINCI (Cologno Monzese)",
@@ -6987,6 +7109,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 6
+   },
+   {
+    "nome": "LICEO - G. BRUNO (Melzo)",
+    "tipo": "Scuola",
+    "sito": "https://www.liceo-melzocassano.edu.it/",
+    "esito": "non letto",
+    "motivo": "sito troppo lento (tempo scaduto)",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 107
    },
    {
     "nome": "LICEO - P. LEVI (San Giuliano Milanese)",
@@ -7071,8 +7204,8 @@
      }
     ],
     "voci": 40,
-    "trovati": 2,
-    "secondi": 20
+    "trovati": 3,
+    "secondi": 22
    },
    {
     "nome": "Azienda Sociale Sud Est Milano",
@@ -7096,7 +7229,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 9
    },
    {
     "nome": "Unione Dei Comuni I Fontanili",
@@ -7126,14 +7259,6 @@
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Documenti+albo+pretorio?open"
      },
      {
-      "nome": "Albo",
-      "url": "http://halleyweb.com/c015014/mc/mc_p_ricerca.php?menu=350&sa=0&tipohtml=1&rrfupro=../mc/mc_p_ricerca.php&nodo=17&&x=390d42052ff7974808bcaad24e3e28e6&fun=350&abi=0&server=&ente=c015014&DOABKPR=23&sigla=E1&fogliaClick=root_16&fnode=16#16La"
-     },
-     {
-      "nome": "Albo",
-      "url": "http://halleyweb.com/ucbasianomasate/mc/mc_p_ricerca.php?menu=350&sa=0&tipohtml=1&rrfupro=../mc/mc_p_ricerca.php&nodo=15&&x=a3e043d729eca1ec016863fe340a1d3a&fun=350&abi=0&server=&ente=ucbasianomasate&DOABKPR=23&sigla=E1&fogliaClick=root_14&fnode=14#14"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Avvisi?open"
      },
@@ -7144,11 +7269,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Novit%C3%A0?open"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.unione.basianomasate.mi.it/site/aree/Notizie?open"
      }
     ],
-    "voci": 29,
+    "voci": 28,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 24
    },
    {
     "nome": "Unione di Comuni Lombarda Adda Martesana",
@@ -7157,10 +7286,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "http://www.halleyweb.com/unddamart/mc/mc_p_ricerca.php"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://unioneaddamartesana.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
@@ -7174,9 +7299,9 @@
       "url": "https://unioneaddamartesana.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 26,
+    "voci": 19,
     "trovati": 2,
-    "secondi": 21
+    "secondi": 25
    },
    {
     "nome": "Comune di Abbiategrasso",
@@ -7212,43 +7337,7 @@
     ],
     "voci": 156,
     "trovati": 1,
-    "secondi": 40
-   },
-   {
-    "nome": "Comune di Albairate",
-    "tipo": "Comune",
-    "sito": "https://www.comune.albairate.mi.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.albairate.mi.it/c015005/po/elenco_news.php?x=&area=&tags=15"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.albairate.mi.it/c015005/po/elenco_news.php?x=&area=&tags=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.albairate.mi.it/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.albairate.mi.it/zf/index.php/bandi-gara/avvisi/avvisi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.albairate.mi.it/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.albairate.mi.it/zf/index.php/trasparenza/index/index/categoria/187"
-     }
-    ],
-    "voci": 69,
-    "trovati": 0,
-    "secondi": 14
+    "secondi": 54
    },
    {
     "nome": "Comune di Arconate",
@@ -7278,10 +7367,6 @@
       "url": "https://arese.trasparenza-valutazione-merito.it/it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://comune.arese.mi.it/novita/notizia/tipologia/avviso/"
-     },
-     {
       "nome": "Notizie",
       "url": "https://comune.arese.mi.it/novita/"
      },
@@ -7296,7 +7381,7 @@
     ],
     "voci": 46,
     "trovati": 1,
-    "secondi": 70
+    "secondi": 108
    },
    {
     "nome": "Comune di Arluno",
@@ -7324,15 +7409,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.arluno.mi.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015010/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 29,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 32
    },
    {
     "nome": "Comune di Assago",
@@ -7368,7 +7449,7 @@
     ],
     "voci": 123,
     "trovati": 0,
-    "secondi": 68
+    "secondi": 58
    },
    {
     "nome": "Comune di Baranzate",
@@ -7380,10 +7461,6 @@
      {
       "nome": "Albo",
       "url": "https://comune-baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://comune-baranzate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3658"
      },
      {
       "nome": "Albo",
@@ -7400,11 +7477,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.baranzate.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.baranzate.mi.it/it/page/47870"
      }
     ],
-    "voci": 48,
+    "voci": 49,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 32
    },
    {
     "nome": "Comune di Bareggio",
@@ -7436,7 +7517,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 16
    },
    {
     "nome": "Comune di Basiano",
@@ -7450,14 +7531,6 @@
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Documenti+albo+pretorio?open"
      },
      {
-      "nome": "Albo",
-      "url": "http://halleyweb.com/c015014/mc/mc_p_ricerca.php?menu=350&sa=0&tipohtml=1&rrfupro=../mc/mc_p_ricerca.php&nodo=17&&x=390d42052ff7974808bcaad24e3e28e6&fun=350&abi=0&server=&ente=c015014&DOABKPR=23&sigla=E1&fogliaClick=root_16&fnode=16#16La"
-     },
-     {
-      "nome": "Albo",
-      "url": "http://halleyweb.com/ucbasianomasate/mc/mc_p_ricerca.php?menu=350&sa=0&tipohtml=1&rrfupro=../mc/mc_p_ricerca.php&nodo=15&&x=a3e043d729eca1ec016863fe340a1d3a&fun=350&abi=0&server=&ente=ucbasianomasate&DOABKPR=23&sigla=E1&fogliaClick=root_14&fnode=14#14"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Avvisi?open"
      },
@@ -7468,11 +7541,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.unione.basianomasate.mi.it/site/aree/Novit%C3%A0?open"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.unione.basianomasate.mi.it/site/aree/Notizie?open"
      }
     ],
-    "voci": 28,
+    "voci": 29,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 31
    },
    {
     "nome": "Comune di Bellinzago Lombardo",
@@ -7482,10 +7559,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "http://www.halleyweb.com/c015016/mc/mc_p_ricerca.php"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.bellinzagolombardo.mi.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
      },
@@ -7494,9 +7567,9 @@
       "url": "https://comune.bellinzagolombardo.mi.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 20,
-    "trovati": 1,
-    "secondi": 21
+    "voci": 13,
+    "trovati": 0,
+    "secondi": 20
    },
    {
     "nome": "Comune di Bernate Ticino",
@@ -7520,7 +7593,7 @@
     ],
     "voci": 60,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "Comune di Binasco",
@@ -7532,10 +7605,6 @@
      {
       "nome": "Albo",
       "url": "https://binasco.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://binasco.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62900"
      },
      {
       "nome": "Albo",
@@ -7552,11 +7621,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.binasco.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://binasco.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 47,
+    "voci": 49,
     "trovati": 0,
-    "secondi": 44
+    "secondi": 24
    },
    {
     "nome": "Comune di Bollate",
@@ -7592,7 +7665,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 21
    },
    {
     "nome": "Comune di Bresso",
@@ -7624,7 +7697,7 @@
     ],
     "voci": 262,
     "trovati": 3,
-    "secondi": 37
+    "secondi": 40
    },
    {
     "nome": "Comune di Bubbiano",
@@ -7654,9 +7727,9 @@
       "url": "https://www.comune.bubbiano.mi.it/amministrazione/documenti-e-dati/amministrazione-trasparente"
      }
     ],
-    "voci": 29,
+    "voci": 28,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 17
    },
    {
     "nome": "Comune di Buccinasco",
@@ -7688,7 +7761,7 @@
     ],
     "voci": 195,
     "trovati": 1,
-    "secondi": 307
+    "secondi": 251
    },
    {
     "nome": "Comune di Buscate",
@@ -7723,8 +7796,8 @@
      }
     ],
     "voci": 117,
-    "trovati": 3,
-    "secondi": 32
+    "trovati": 0,
+    "secondi": 31
    },
    {
     "nome": "Comune di Bussero",
@@ -7760,7 +7833,7 @@
     ],
     "voci": 94,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 21
    },
    {
     "nome": "Comune di Busto Garolfo",
@@ -7796,7 +7869,7 @@
     ],
     "voci": 185,
     "trovati": 1,
-    "secondi": 50
+    "secondi": 51
    },
    {
     "nome": "Comune di Calvignasco",
@@ -7812,27 +7885,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.calvignasco.mi.it/it-it/novita"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015042/zf/index.php/trasparenza/index/index"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015042/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015042/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015042/zf/index.php/trasparenza/index/index/categoria/127"
      }
     ],
-    "voci": 24,
+    "voci": 16,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 21
    },
    {
     "nome": "Comune di Cambiago",
@@ -7868,7 +7925,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "Comune di Canegrate",
@@ -7877,10 +7934,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "http://www.halleyweb.com/c015046/mc/mc_p_ricerca.php"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://comune.canegrate.mi.it/novita/notizia/tipologia/avvisi/"
@@ -7902,45 +7955,9 @@
       "url": "https://comune.canegrate.mi.it/amministrazione-trasparente/sezione/bandi-di-gara-e-contratti/"
      }
     ],
-    "voci": 44,
+    "voci": 36,
     "trovati": 0,
-    "secondi": 20
-   },
-   {
-    "nome": "Comune di Casarile",
-    "tipo": "Comune",
-    "sito": "https://www.comune.casarile.mi.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1795637280&nodo=nodo3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1795637281&nodo=nodo3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1795637283&nodo=nodo3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1795637284&nodo=nodo3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casarile.mi.it/c015055/zf/index.php/bandi-gara/bandi-gara/bandi?sat=1795637286&nodo=nodo3"
-     }
-    ],
-    "voci": 21,
-    "trovati": 0,
-    "secondi": 20
+    "secondi": 60
    },
    {
     "nome": "Comune di Cassano d'Adda",
@@ -7963,20 +7980,20 @@
      },
      {
       "nome": "Albo",
-      "url": "https://cassanodadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2264"
-     },
-     {
-      "nome": "Albo",
       "url": "https://cassanodadda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2264"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.cassanodadda.mi.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.cassanodadda.mi.it/it/news?type=2"
      }
     ],
-    "voci": 88,
+    "voci": 91,
     "trovati": 0,
-    "secondi": 40
+    "secondi": 39
    },
    {
     "nome": "Comune di Cassina De' Pecchi",
@@ -7999,20 +8016,20 @@
      },
      {
       "nome": "Albo",
+      "url": "https://cassinadepecchi.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21771"
+     },
+     {
+      "nome": "Albo",
       "url": "https://cassinadepecchi.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=21770"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cassinadepecchi.mi.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cassinadepecchi.mi.it/it/menu/news"
      }
     ],
-    "voci": 32,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 15
    },
    {
     "nome": "Comune di Castano Primo",
@@ -8022,33 +8039,25 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38949"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38949"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=38950"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.castanoprimo.mi.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.castanoprimo.mi.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.castanoprimo.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://castanoprimo.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 137,
+    "voci": 155,
     "trovati": 0,
-    "secondi": 65
+    "secondi": 55
    },
    {
     "nome": "Comune di Cernusco sul Naviglio",
@@ -8072,7 +8081,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 45
    },
    {
     "nome": "Comune di Cerro Maggiore",
@@ -8088,7 +8097,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "Comune di Cerro al Lambro",
@@ -8107,6 +8116,10 @@
      },
      {
       "nome": "Albo",
+      "url": "https://cerroallambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=19568"
+     },
+     {
+      "nome": "Albo",
       "url": "https://cerroallambro.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=19568"
      },
      {
@@ -8116,15 +8129,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cerroallambro.mi.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cerroallambro.mi.it/it/news?type=1"
      }
     ],
-    "voci": 132,
-    "trovati": 0,
-    "secondi": 67
+    "voci": 117,
+    "trovati": 3,
+    "secondi": 59
    },
    {
     "nome": "Comune di Cesano Boscone",
@@ -8142,6 +8151,10 @@
       "url": "https://cesanoboscone.trasparenza-valutazione-merito.it:443/web/trasparenza/albo-pretorio"
      },
      {
+      "nome": "Albo",
+      "url": "https://cesanoboscone.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.cesano-boscone.mi.it/novita/"
      },
@@ -8156,7 +8169,7 @@
     ],
     "voci": 29,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 24
    },
    {
     "nome": "Comune di Cesate",
@@ -8179,20 +8192,20 @@
      },
      {
       "nome": "Albo",
+      "url": "https://cesate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
       "url": "https://cesate.trasparenza-valutazione-merito.it/albo-pretorio?ID_MacroMenu=1"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.cesate.mi.it/notizie/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://comune.cesate.mi.it/novita/notizia/tipologia/comunicati/"
      }
     ],
-    "voci": 11,
+    "voci": 9,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 21
    },
    {
     "nome": "Comune di Cinisello Balsamo",
@@ -8228,7 +8241,7 @@
     ],
     "voci": 65,
     "trovati": 1,
-    "secondi": 19
+    "secondi": 20
    },
    {
     "nome": "Comune di Cisliano",
@@ -8252,7 +8265,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "Comune di Cologno Monzese",
@@ -8288,7 +8301,7 @@
     ],
     "voci": 143,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 38
    },
    {
     "nome": "Comune di Colturano",
@@ -8320,7 +8333,7 @@
     ],
     "voci": 154,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 42
    },
    {
     "nome": "Comune di Corbetta",
@@ -8356,7 +8369,7 @@
     ],
     "voci": 204,
     "trovati": 6,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "Comune di Cormano",
@@ -8365,18 +8378,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://cormano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cormano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17288"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://cormano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17288"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cormano.mi.it/it/news?type=3"
@@ -8388,11 +8389,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cormano.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://cormano.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 35,
+    "voci": 40,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 13
    },
    {
     "nome": "Comune di Cornaredo",
@@ -8402,10 +8407,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://comune.cornaredo.mi.it/amministrazione-trasparente/sezione/bandi-di-gara-e-contratti/"
-     },
-     {
       "nome": "Notizie",
       "url": "https://comune.cornaredo.mi.it/novita/"
      },
@@ -8414,9 +8415,9 @@
       "url": "https://comune.cornaredo.mi.it/novita/notizia/tipologia/notizie/"
      }
     ],
-    "voci": 48,
+    "voci": 38,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 88
    },
    {
     "nome": "Comune di Corsico",
@@ -8448,7 +8449,7 @@
     ],
     "voci": 66,
     "trovati": 0,
-    "secondi": 112
+    "secondi": 100
    },
    {
     "nome": "Comune di Cuggiono",
@@ -8472,7 +8473,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 14
    },
    {
     "nome": "Comune di Cusano Milanino",
@@ -8508,7 +8509,7 @@
     ],
     "voci": 28,
     "trovati": 1,
-    "secondi": 84
+    "secondi": 103
    },
    {
     "nome": "Comune di Dairago",
@@ -8532,7 +8533,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 135
+    "secondi": 111
    },
    {
     "nome": "Comune di Dresano",
@@ -8541,18 +8542,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=64976"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=64976"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.dresano.mi.it/it/news?type=3"
@@ -8564,11 +8553,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.dresano.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://dresano.trasparenza-valutazione-merito.it/web/trasparenza/menu-trasparenza"
      }
     ],
-    "voci": 141,
+    "voci": 144,
     "trovati": 0,
-    "secondi": 84
+    "secondi": 59
    },
    {
     "nome": "Comune di Gaggiano",
@@ -8604,7 +8597,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 14
    },
    {
     "nome": "Comune di Garbagnate Milanese",
@@ -8630,17 +8623,17 @@
       "url": "https://garbagnatemilanese.trasparenza-valutazione-merito.it/web/trasparenzaj/dettaglio-trasparenza?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=29243859&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=29243861"
      },
      {
-      "nome": "Notizie",
-      "url": "https://comune.garbagnate-milanese.mi.it/novita/"
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.garbagnate-milanese.mi.it/novita/notizia/tipologia/avviso/"
      },
      {
       "nome": "Notizie",
-      "url": "https://comune.garbagnate-milanese.mi.it/novita/notizia/tipologia/notizie/"
+      "url": "https://comune.garbagnate-milanese.mi.it/novita/"
      }
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 69
+    "secondi": 48
    },
    {
     "nome": "Comune di Gessate",
@@ -8668,15 +8661,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.gessate.mi.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://trasparenza.comune.gessate.mi.it/c015106/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 48,
+    "voci": 46,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 39
    },
    {
     "nome": "Comune di Gorgonzola",
@@ -8691,15 +8680,11 @@
      },
      {
       "nome": "Albo",
-      "url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17869"
+      "url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
      },
      {
       "nome": "Albo",
       "url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17869"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://gorgonzola.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
      },
      {
       "nome": "Bandi/avvisi",
@@ -8708,31 +8693,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.gorgonzola.mi.it/novita/"
-     }
-    ],
-    "voci": 15,
-    "trovati": 0,
-    "secondi": 37
-   },
-   {
-    "nome": "Comune di Grezzago",
-    "tipo": "Comune",
-    "sito": "https://www.comune.grezzago.mi.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.grezzago.mi.it/c015110/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
      },
      {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.grezzago.mi.it/c015110/zf/index.php/trasparenza/index/index"
+      "nome": "Notizie",
+      "url": "https://comune.gorgonzola.mi.it/novita/notizia/tipologia/notizie/"
      }
     ],
-    "voci": 26,
+    "voci": 29,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 37
    },
    {
     "nome": "Comune di Inveruno",
@@ -8768,7 +8737,7 @@
     ],
     "voci": 53,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 35
    },
    {
     "nome": "Comune di Inzago",
@@ -8803,8 +8772,8 @@
      }
     ],
     "voci": 124,
-    "trovati": 3,
-    "secondi": 18
+    "trovati": 1,
+    "secondi": 23
    },
    {
     "nome": "Comune di Lacchiarella",
@@ -8840,7 +8809,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 84
+    "secondi": 79
    },
    {
     "nome": "Comune di Lainate",
@@ -8859,24 +8828,24 @@
      },
      {
       "nome": "Albo",
-      "url": "https://lainate.trasparenza-valutazione-merito.it/web/trasparenza/menu-albo-pretorio"
+      "url": "https://lainate.trasparenza-valutazione-merito.it:443/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489180165"
      },
      {
       "nome": "Albo",
       "url": "https://lainate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489180165"
      },
      {
-      "nome": "Albo",
-      "url": "https://lainate.trasparenza-valutazione-merito.it:443/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1489180165"
+      "nome": "Bandi/avvisi",
+      "url": "https://comune.lainate.mi.it/novita/notizia/tipologia/avviso/"
      },
      {
-      "nome": "Albo",
-      "url": "https://lainate.trasparenza-valutazione-merito.it:443/web/trasparenza/menu-albo-pretorio"
+      "nome": "Notizie",
+      "url": "https://comune.lainate.mi.it/novita/"
      }
     ],
-    "voci": 5,
+    "voci": 14,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 27
    },
    {
     "nome": "Comune di Legnano",
@@ -8904,7 +8873,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 14
    },
    {
     "nome": "Comune di Liscate",
@@ -8918,10 +8887,6 @@
       "url": "https://www.comune.liscate.mi.it/il-comune-informa/albo-pretorio/"
      },
      {
-      "nome": "Albo",
-      "url": "http://www.halleyweb.com/c015122/mc/mc_p_ricerca.php"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.liscate.mi.it/trasparenza/bandi-di-gara-e-contratti-2/bandi-di-gara-e-contratti/"
      },
@@ -8930,9 +8895,9 @@
       "url": "https://www.comune.liscate.mi.it/amministrazione-trasparente/"
      }
     ],
-    "voci": 25,
-    "trovati": 2,
-    "secondi": 17
+    "voci": 17,
+    "trovati": 0,
+    "secondi": 16
    },
    {
     "nome": "Comune di Locate di Triulzi",
@@ -8958,18 +8923,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://magenta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://magenta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6240"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://magenta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6240"
-     },
-     {
       "nome": "Notizie",
       "url": "https://comune.magenta.mi.it/novita/"
      },
@@ -8984,7 +8937,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 10
    },
    {
     "nome": "Comune di Magnago",
@@ -9018,9 +8971,9 @@
       "url": "https://comune.magnago.mi.it/sezioni/bandi-di-gara-e-contratti/"
      }
     ],
-    "voci": 29,
-    "trovati": 2,
-    "secondi": 22
+    "voci": 20,
+    "trovati": 1,
+    "secondi": 23
    },
    {
     "nome": "Comune di Marcallo con Casone",
@@ -9048,7 +9001,7 @@
     ],
     "voci": 180,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 31
    },
    {
     "nome": "Comune di Mediglia",
@@ -9076,7 +9029,7 @@
     ],
     "voci": 42,
     "trovati": 0,
-    "secondi": 74
+    "secondi": 75
    },
    {
     "nome": "Comune di Melegnano",
@@ -9091,15 +9044,7 @@
      },
      {
       "nome": "Albo",
-      "url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62985"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62986"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62985"
+      "url": "https://melegnano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=62986"
      },
      {
       "nome": "Bandi/avvisi",
@@ -9108,11 +9053,19 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.melegnano.mi.it/it/news?type=3&from_menu=1"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.melegnano.mi.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.melegnano.mi.it/it/news?type=1"
      }
     ],
-    "voci": 39,
-    "trovati": 4,
-    "secondi": 31
+    "voci": 62,
+    "trovati": 0,
+    "secondi": 23
    },
    {
     "nome": "Comune di Melzo",
@@ -9128,7 +9081,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Comune di Mesero",
@@ -9138,21 +9091,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.halleyweb.com/c015144/mc/mc_p_ricerca.php"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.mesero.mi.it/it-it/amministrazione/atti-pubblicazioni/bandi-di-gara"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015144/zf/index.php/trasparenza/index/index"
      }
     ],
-    "voci": 39,
+    "voci": 26,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 19
    },
    {
     "nome": "Comune di Milano",
@@ -9180,7 +9125,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 49
+    "secondi": 50
    },
    {
     "nome": "Comune di Morimondo",
@@ -9216,7 +9161,7 @@
     ],
     "voci": 49,
     "trovati": 1,
-    "secondi": 30
+    "secondi": 32
    },
    {
     "nome": "Comune di Motta Visconti",
@@ -9288,7 +9233,7 @@
     ],
     "voci": 72,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "Comune di Novate Milanese",
@@ -9324,7 +9269,7 @@
     ],
     "voci": 46,
     "trovati": 2,
-    "secondi": 55
+    "secondi": 58
    },
    {
     "nome": "Comune di Noviglio",
@@ -9360,7 +9305,7 @@
     ],
     "voci": 72,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "Comune di Ossona",
@@ -9396,7 +9341,7 @@
     ],
     "voci": 68,
     "trovati": 2,
-    "secondi": 14
+    "secondi": 11
    },
    {
     "nome": "Comune di Ozzero",
@@ -9428,7 +9373,7 @@
     ],
     "voci": 85,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 41
    },
    {
     "nome": "Comune di Paderno Dugnano",
@@ -9464,7 +9409,7 @@
     ],
     "voci": 51,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 31
    },
    {
     "nome": "Comune di Pantigliate",
@@ -9500,7 +9445,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 15
    },
    {
     "nome": "Comune di Paullo",
@@ -9536,7 +9481,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 67
+    "secondi": 33
    },
    {
     "nome": "Comune di Pero",
@@ -9572,7 +9517,7 @@
     ],
     "voci": 48,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "Comune di Peschiera Borromeo",
@@ -9608,7 +9553,7 @@
     ],
     "voci": 265,
     "trovati": 24,
-    "secondi": 28
+    "secondi": 30
    },
    {
     "nome": "Comune di Pessano Con Bornago",
@@ -9643,8 +9588,8 @@
      }
     ],
     "voci": 213,
-    "trovati": 5,
-    "secondi": 45
+    "trovati": 4,
+    "secondi": 46
    },
    {
     "nome": "Comune di Pieve Emanuele",
@@ -9653,6 +9598,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://pieveemanuele.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10070"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pieveemanuele.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10070"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://pieveemanuele.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.pieveemanuele.mi.it/it/news?type=3"
@@ -9664,15 +9621,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pieveemanuele.mi.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://pieveemanuele.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 163,
+    "voci": 53,
     "trovati": 0,
-    "secondi": 102
+    "secondi": 60
    },
    {
     "nome": "Comune di Pioltello",
@@ -9708,7 +9661,7 @@
     ],
     "voci": 77,
     "trovati": 0,
-    "secondi": 79
+    "secondi": 47
    },
    {
     "nome": "Comune di Pogliano Milanese",
@@ -9732,7 +9685,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 15
    },
    {
     "nome": "Comune di Pozzo D'Adda",
@@ -9752,15 +9705,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.pozzodadda.mi.it/pageicardext/novit%C3%A0?tipo=notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015177/zf/index.php/trasparenza"
      }
     ],
-    "voci": 62,
+    "voci": 61,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 28
    },
    {
     "nome": "Comune di Pozzuolo Martesana",
@@ -9812,7 +9761,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 24
    },
    {
     "nome": "Comune di Rescaldina",
@@ -9827,6 +9776,14 @@
      },
      {
       "nome": "Albo",
+      "url": "https://rescaldina.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=31241"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://rescaldina.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=31242"
+     },
+     {
+      "nome": "Albo",
       "url": "https://rescaldina.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
@@ -9836,19 +9793,11 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.rescaldina.mi.it/it/news?type=3"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://rescaldina.trasparenza-valutazione-merito.it/web/trasparenza/pga-g?p_p_id=jcitygovgare_WAR_jcitygovalbiportlet&p_p_mode=view&p_p_state=pop_up&p_p_col_id=column-1&p_p_col_count=1&_jcitygovgare_WAR_jcitygovalbiportlet_action=ricerca&_jcitygovgare_WAR_jcitygovalbiportlet_cur=1&_jcitygovgare_WAR_jcitygovalbiportlet_delta=10&_jcitygovgare_WAR_jcitygovalbiportlet_keywords=&_jcitygovgare_WAR_jcitygovalbiportlet_advancedSearch=false&_jcitygovgare_WAR_jcitygovalbiportlet_andOperator=true&_jcitygovgare_WAR_jcitygovalbiportlet_orderByCol=data_pubblicazione_dataset&_jcitygovgare_WAR_jcitygovalbiportlet_orderByType=desc&_jcitygovgare_WAR_jcitygovalbiportlet_idMenuItem=55976"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.rescaldina.mi.it/it/menu/news"
      }
     ],
-    "voci": 147,
+    "voci": 23,
     "trovati": 0,
-    "secondi": 76
+    "secondi": 20
    },
    {
     "nome": "Comune di Rho",
@@ -9884,7 +9833,7 @@
     ],
     "voci": 701,
     "trovati": 2,
-    "secondi": 134
+    "secondi": 151
    },
    {
     "nome": "Comune di Robecchetto con Induno",
@@ -9920,27 +9869,7 @@
     ],
     "voci": 51,
     "trovati": 4,
-    "secondi": 47
-   },
-   {
-    "nome": "Comune di Robecco Sul Naviglio",
-    "tipo": "Comune",
-    "sito": "https://www.comune.robeccosulnaviglio.mi.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Bandi/avvisi",
-      "url": "http://www.comune.robeccosulnaviglio.mi.it/c015184/zf/index.php/bandi-di-gara/bandi-di-gara/elenco/sezione/attivi"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.robeccosulnaviglio.mi.it/c015184/zf/index.php/trasparenza/index/index"
-     }
-    ],
-    "voci": 20,
-    "trovati": 0,
-    "secondi": 17
+    "secondi": 59
    },
    {
     "nome": "Comune di Rosate",
@@ -9950,33 +9879,25 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-pag"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8370"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=8370"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.rosate.mi.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.rosate.mi.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.rosate.mi.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://rosate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 137,
+    "voci": 154,
     "trovati": 0,
-    "secondi": 78
+    "secondi": 48
    },
    {
     "nome": "Comune di Rozzano",
@@ -9990,14 +9911,6 @@
       "url": "https://trasparenza.comune.rozzano.mi.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Albo",
-      "url": "https://trasparenza.comune.rozzano.mi.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2170"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://trasparenza.comune.rozzano.mi.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2170"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.rozzano.mi.it/it/news?type=3&from_menu=1"
      },
@@ -10008,11 +9921,19 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.rozzano.mi.it/it/menu/news"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.rozzano.mi.it/it/news?type=2"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://trasparenza.comune.rozzano.mi.it/"
      }
     ],
-    "voci": 129,
+    "voci": 147,
     "trovati": 0,
-    "secondi": 87
+    "secondi": 69
    },
    {
     "nome": "Comune di San Colombano al Lambro",
@@ -10048,7 +9969,7 @@
     ],
     "voci": 142,
     "trovati": 0,
-    "secondi": 80
+    "secondi": 62
    },
    {
     "nome": "Comune di San Donato Milanese",
@@ -10076,7 +9997,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "Comune di San Giorgio Su Legnano",
@@ -10108,7 +10029,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 17
    },
    {
     "nome": "Comune di San Giuliano Milanese",
@@ -10144,7 +10065,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 21
    },
    {
     "nome": "Comune di San Vittore Olona",
@@ -10160,7 +10081,7 @@
     ],
     "voci": 7,
     "trovati": 1,
-    "secondi": 11
+    "secondi": 13
    },
    {
     "nome": "Comune di San Zenone al Lambro",
@@ -10192,7 +10113,7 @@
     ],
     "voci": 122,
     "trovati": 2,
-    "secondi": 69
+    "secondi": 35
    },
    {
     "nome": "Comune di Santo Stefano Ticino",
@@ -10212,7 +10133,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 19
    },
    {
     "nome": "Comune di Sedriano",
@@ -10244,7 +10165,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 24
    },
    {
     "nome": "Comune di Segrate",
@@ -10268,7 +10189,7 @@
     ],
     "voci": 2,
     "trovati": 1,
-    "secondi": 68
+    "secondi": 70
    },
    {
     "nome": "Comune di Senago",
@@ -10286,6 +10207,10 @@
       "url": "https://senago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12965"
      },
      {
+      "nome": "Albo",
+      "url": "https://senago.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=12965"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://comune.senago.mi.it/novita/notizia/tipologia/avvisi/"
      },
@@ -10296,15 +10221,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.senago.mi.it/novita/notizia/tipologia/comunicati/"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://senago.trasparenza-valutazione-merito.it/web/trasparenza/"
      }
     ],
-    "voci": 25,
+    "voci": 22,
     "trovati": 0,
-    "secondi": 126
+    "secondi": 56
    },
    {
     "nome": "Comune di Sesto San Giovanni",
@@ -10338,9 +10259,9 @@
       "url": "https://www.comune.sestosangiovanni.mi.it/it/novita"
      }
     ],
-    "voci": 160,
-    "trovati": 1,
-    "secondi": 73
+    "voci": 164,
+    "trovati": 2,
+    "secondi": 86
    },
    {
     "nome": "Comune di Settala",
@@ -10350,13 +10271,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.halleyweb.com/c015210/zf/index.php/trasparenza/index/#new_tab"
+      "nome": "Home",
+      "url": "https://www.comune.settala.mi.it/"
      }
     ],
-    "voci": 633,
+    "voci": 44,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 18
    },
    {
     "nome": "Comune di Settimo Milanese",
@@ -10376,7 +10297,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Trezzano Rosa",
@@ -10412,7 +10333,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 18
    },
    {
     "nome": "Comune di Trezzano Sul Naviglio",
@@ -10443,8 +10364,8 @@
      }
     ],
     "voci": 77,
-    "trovati": 0,
-    "secondi": 48
+    "trovati": 1,
+    "secondi": 49
    },
    {
     "nome": "Comune di Trezzo Sull'Adda",
@@ -10454,8 +10375,16 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://trezzosulladda.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.trezzosulladda.mi.it/novita/avvisi"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://trezzosulladda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-trasparenza?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=29232439&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=29232473"
      },
      {
       "nome": "Notizie",
@@ -10468,15 +10397,11 @@
      {
       "nome": "Trasparenza",
       "url": "https://www.comune.trezzosulladda.mi.it/amministrazione/amministrazione-trasparente"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.trezzosulladda.mi.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 200,
+    "voci": 204,
     "trovati": 1,
-    "secondi": 125
+    "secondi": 69
    },
    {
     "nome": "Comune di Tribiano",
@@ -10504,7 +10429,7 @@
     ],
     "voci": 20,
     "trovati": 1,
-    "secondi": 19
+    "secondi": 22
    },
    {
     "nome": "Comune di Truccazzano",
@@ -10532,7 +10457,7 @@
     ],
     "voci": 30,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 15
    },
    {
     "nome": "Comune di Turbigo",
@@ -10568,7 +10493,7 @@
     ],
     "voci": 120,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 41
    },
    {
     "nome": "Comune di Vanzaghello",
@@ -10604,7 +10529,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "Comune di Vanzago",
@@ -10624,7 +10549,7 @@
     ],
     "voci": 70,
     "trovati": 1,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "Comune di Vaprio d'Adda",
@@ -10648,7 +10573,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Vermezzo Con Zelo",
@@ -10680,7 +10605,7 @@
     ],
     "voci": 85,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 28
    },
    {
     "nome": "Comune di Vernate",
@@ -10703,20 +10628,20 @@
      },
      {
       "nome": "Albo",
-      "url": "https://vernate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6961"
+      "url": "https://vernate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6961"
      },
      {
       "nome": "Albo",
       "url": "https://vernate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.vernate.mi.it/it/news?type=3"
+      "nome": "Albo",
+      "url": "https://vernate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6961"
      }
     ],
-    "voci": 23,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 78
+    "secondi": 12
    },
    {
     "nome": "Comune di Vignate",
@@ -10734,17 +10659,25 @@
       "url": "https://vignate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1797"
      },
      {
+      "nome": "Albo",
+      "url": "https://vignate.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1797"
+     },
+     {
       "nome": "Notizie",
       "url": "https://comune.vignate.mi.it/novita/"
      },
      {
       "nome": "Notizie",
       "url": "https://comune.vignate.mi.it/novita/notizia/tipologia/notizie/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://vignate.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 17,
+    "voci": 24,
     "trovati": 0,
-    "secondi": 97
+    "secondi": 23
    },
    {
     "nome": "Comune di Villa Cortese",
@@ -10776,7 +10709,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Vimodrone",
@@ -10800,7 +10733,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 93
+    "secondi": 83
    },
    {
     "nome": "Comune di Vittuone",
@@ -10836,7 +10769,7 @@
     ],
     "voci": 101,
     "trovati": 3,
-    "secondi": 22
+    "secondi": 19
    },
    {
     "nome": "Comune di Vizzolo Predabissi",
@@ -10872,7 +10805,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 44
+    "secondi": 15
    },
    {
     "nome": "Comune di Zibido San Giacomo",
@@ -10881,10 +10814,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "http://www.halleyweb.com/c015247/mc/mc_p_ricerca.php"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.zibidosangiacomo.mi.it/it/news?type=3"
@@ -10906,9 +10835,9 @@
       "url": "https://www.comune.zibidosangiacomo.mi.it/it/page/amministrazione-trasparente"
      }
     ],
-    "voci": 84,
+    "voci": 77,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 54
    },
    {
     "nome": "A. BERNOCCHI (Legnano)",
@@ -10928,7 +10857,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "B. RUSSELL (Garbagnate Milanese)",
@@ -10944,7 +10873,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "B. RUSSELL (Milano)",
@@ -10960,7 +10889,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 14
    },
    {
     "nome": "C. CATTANEO (Milano)",
@@ -10976,7 +10905,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "C. DELL'ACQUA (Legnano)",
@@ -10992,7 +10921,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 29
    },
    {
     "nome": "C. E. GADDA (Paderno Dugnano)",
@@ -11002,13 +10931,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.iisgadda.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.iisgadda.edu.it/"
      }
     ],
-    "voci": 17,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 5
    },
    {
     "nome": "C. VARALLI (Milano)",
@@ -11044,7 +10973,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "CPIA 4 MILANO (Bollate)",
@@ -11060,7 +10989,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 10
    },
    {
     "nome": "Centro Provinciale per l'Istruzione degli adulti 5 Milano",
@@ -11084,7 +11013,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "Cpia 2 Milano",
@@ -11100,7 +11029,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 10
    },
    {
     "nome": "E. ALESSANDRINI (Abbiategrasso)",
@@ -11116,7 +11045,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 144
+    "secondi": 146
    },
    {
     "nome": "E. ALESSANDRINI (Vittuone)",
@@ -11140,7 +11069,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "F. BESTA (Milano)",
@@ -11164,7 +11093,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "G. CARDANO (Milano)",
@@ -11180,7 +11109,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 5
    },
    {
     "nome": "G. FALCONE - A. RIGHI (Corsico)",
@@ -11196,23 +11125,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 20
-   },
-   {
-    "nome": "G. GALILEI (Milano)",
-    "tipo": "Scuola",
-    "sito": "https://www.galilux.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.galilux.edu.it/"
-     }
-    ],
-    "voci": 13,
-    "trovati": 0,
-    "secondi": 3
+    "secondi": 24
    },
    {
     "nome": "G. GIORGI (Milano)",
@@ -11260,7 +11173,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 5
    },
    {
     "nome": "GIOVANNI XXIII (Cusano Milanino)",
@@ -11284,7 +11197,7 @@
     ],
     "voci": 101,
     "trovati": 1,
-    "secondi": 40
+    "secondi": 42
    },
    {
     "nome": "I. C. CLAUDIO ABBADO (Vimodrone)",
@@ -11300,7 +11213,7 @@
     ],
     "voci": 18,
     "trovati": 1,
-    "secondi": 16
+    "secondi": 14
    },
    {
     "nome": "I.C . \"NAZARIO SAURO\" (Milano)",
@@ -11316,7 +11229,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 27
    },
    {
     "nome": "I.C DI VIA PALMIERI (Milano)",
@@ -11336,7 +11249,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 15
    },
    {
     "nome": "I.C. ALDA FAIP0' (Cambiago)",
@@ -11360,7 +11273,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 18
    },
    {
     "nome": "I.C. ALDO MORO (Ozzero)",
@@ -11432,7 +11345,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 19
    },
    {
     "nome": "I.C. EZIO FRANCESCHINI (Rho)",
@@ -11456,7 +11369,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "I.C. GUIDO GALLI (Milano)",
@@ -11476,7 +11389,7 @@
     ],
     "voci": 56,
     "trovati": 1,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "I.C. IQBAL MASIH (Pioltello)",
@@ -11492,27 +11405,7 @@
     ],
     "voci": 9,
     "trovati": 1,
-    "secondi": 38
-   },
-   {
-    "nome": "I.C. LEONARDO DA VINCI (Senago)",
-    "tipo": "Scuola",
-    "sito": "https://icleonardodavincisenago.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://icleonardodavincisenago.edu.it/pagina/albo-online-10/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://icleonardodavincisenago.edu.it/notizie/"
-     }
-    ],
-    "voci": 17,
-    "trovati": 0,
-    "secondi": 30
+    "secondi": 31
    },
    {
     "nome": "I.C. LOCATELLI-QUASIMODO (Milano)",
@@ -11544,7 +11437,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "I.C. MARGHERITA HACK (San Donato Milanese)",
@@ -11560,7 +11453,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 17
    },
    {
     "nome": "I.C. MONTESSORI (Bollate)",
@@ -11576,7 +11469,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "I.C. P.ZZA L. DA VINCI (Milano)",
@@ -11620,7 +11513,7 @@
     ],
     "voci": 18,
     "trovati": 3,
-    "secondi": 31
+    "secondi": 23
    },
    {
     "nome": "I.C. TIZIANO TERZANI (Cassinetta Di Lugagnano)",
@@ -11652,7 +11545,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 18
    },
    {
     "nome": "I.C. VIA DE ANDREIS (Milano)",
@@ -11676,7 +11569,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 23
    },
    {
     "nome": "I.C. VIA DELLA COMMENDA (Milano)",
@@ -11692,7 +11585,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 13
    },
    {
     "nome": "I.C. VIA L. DA VINCI (Cornaredo)",
@@ -11716,7 +11609,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "I.C. VIA LINNEO (Milano)",
@@ -11744,7 +11637,7 @@
     ],
     "voci": 53,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "I.C. VIA MANIAGO (Milano)",
@@ -11760,7 +11653,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 20
    },
    {
     "nome": "I.C. VIA MOISE' LORIA (Milano)",
@@ -11796,7 +11689,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 21
    },
    {
     "nome": "I.C. VIALE LIGURIA (Rozzano)",
@@ -11816,7 +11709,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 23
    },
    {
     "nome": "I.C. Via Don Sturzo Bresso",
@@ -11840,7 +11733,7 @@
     ],
     "voci": 19,
     "trovati": 3,
-    "secondi": 17
+    "secondi": 19
    },
    {
     "nome": "I.C.BREDA (Sesto San Giovanni)",
@@ -11856,7 +11749,43 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
+   },
+   {
+    "nome": "I.I.S. DI INVERUNO",
+    "tipo": "Scuola",
+    "sito": "https://www.iisinveruno.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/print/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/albo"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/print/albo"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/albo-pretorio/comitato-la-valutazione-dei-docenti"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://lnx.iisinveruno.edu.it/albo-pretorio/bandi-e-gare"
+     }
+    ],
+    "voci": 8,
+    "trovati": 0,
+    "secondi": 19
    },
    {
     "nome": "I.P. - C. PORTA (Milano)",
@@ -11872,7 +11801,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 7
    },
    {
     "nome": "I.P. - E. FALCK (Cinisello Balsamo)",
@@ -11888,7 +11817,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "I.P. - V. KANDINSKY (Milano)",
@@ -11904,7 +11833,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 67
+    "secondi": 90
    },
    {
     "nome": "I.T. ECON. E TECNOL. - A. MAGGIOLINI (Parabiago)",
@@ -11924,7 +11853,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "I.T. ECONOMICO E TECNOLOGICO- E. MATTEI (Rho)",
@@ -11940,7 +11869,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "I.T. ECONOMICO E TECNOLOGICO- J. NIZZOLA (Trezzo Sull'Adda)",
@@ -11956,7 +11885,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 9
    },
    {
     "nome": "IC \"G. PASCOLI\" (Milano)",
@@ -11972,7 +11901,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 16
    },
    {
     "nome": "IC A. BENEDETTI MICHELANGELI (Zibido San Giacomo)",
@@ -12012,7 +11941,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 38
    },
    {
     "nome": "IC A. MANZONI (Rescaldina)",
@@ -12032,7 +11961,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "IC A. RIZZOLI (Pregnana Milanese)",
@@ -12064,7 +11993,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "IC A.MANZONI (Legnano)",
@@ -12080,7 +12009,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 17
    },
    {
     "nome": "IC A.MANZONI (Truccazzano)",
@@ -12112,7 +12041,7 @@
     ],
     "voci": 12,
     "trovati": 1,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "IC ADA NEGRI (Magnago)",
@@ -12128,7 +12057,7 @@
     ],
     "voci": 14,
     "trovati": 2,
-    "secondi": 349
+    "secondi": 529
    },
    {
     "nome": "IC AI NOSTRI CADUTI (Trezzo Sull'Adda)",
@@ -12152,7 +12081,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "IC ALBERT SCHWEITZER (Segrate)",
@@ -12168,7 +12097,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "IC ALDO MORO (Corbetta)",
@@ -12184,7 +12113,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 12
    },
    {
     "nome": "IC BALILLA PAGANELLI (Cinisello Balsamo)",
@@ -12216,7 +12145,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "IC BRUNO MUNARI (Milano)",
@@ -12232,7 +12161,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 8
    },
    {
     "nome": "IC C. CANTU' (Milano)",
@@ -12252,7 +12181,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 21
    },
    {
     "nome": "IC CARDARELLI MASSAUA (Milano)",
@@ -12268,27 +12197,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 25
-   },
-   {
-    "nome": "IC CARDUCCI (San Vittore Olona)",
-    "tipo": "Scuola",
-    "sito": "https://www.icscarducci.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.icscarducci.edu.it/pagina/albo-online-4/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.icscarducci.edu.it/notizie/"
-     }
-    ],
-    "voci": 22,
-    "trovati": 0,
-    "secondi": 12
+    "secondi": 24
    },
    {
     "nome": "IC CARLO FONTANA (Magenta)",
@@ -12308,7 +12217,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "IC COPERNICO (Corsico)",
@@ -12327,26 +12236,6 @@
     "secondi": 2
    },
    {
-    "nome": "IC D. ALIGHIERI (Rescaldina)",
-    "tipo": "Scuola",
-    "sito": "https://www.alighierirescaldina.edu.it/wordpress/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.alighierirescaldina.edu.it/pagina/albo-online-2/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.alighierirescaldina.edu.it/notizie/"
-     }
-    ],
-    "voci": 13,
-    "trovati": 0,
-    "secondi": 12
-   },
-   {
     "nome": "IC D.ALIGHIERI DI VITTUONE",
     "tipo": "Scuola",
     "sito": "https://www.icsvittuone.edu.it/",
@@ -12360,7 +12249,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 17
    },
    {
     "nome": "IC DANIELA MAURO (Pessano Con Bornago)",
@@ -12384,7 +12273,7 @@
     ],
     "voci": 118,
     "trovati": 5,
-    "secondi": 137
+    "secondi": 210
    },
    {
     "nome": "IC DANTE ALIGHIERI (Opera)",
@@ -12404,7 +12293,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 9
    },
    {
     "nome": "IC DANTE ALIGHIERI (Sesto San Giovanni)",
@@ -12420,7 +12309,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 33
    },
    {
     "nome": "IC DE MARCHI (Paderno Dugnano)",
@@ -12440,7 +12329,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 19
    },
    {
     "nome": "IC DELLA MARGHERITA (Dresano)",
@@ -12464,7 +12353,7 @@
     ],
     "voci": 43,
     "trovati": 5,
-    "secondi": 47
+    "secondi": 52
    },
    {
     "nome": "IC DI CARUGATE",
@@ -12484,7 +12373,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 14
    },
    {
     "nome": "IC DI INZAGO",
@@ -12500,7 +12389,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 71
+    "secondi": 61
    },
    {
     "nome": "IC DI PERO",
@@ -12516,7 +12405,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "IC DI VIA CAIROLI (Lainate)",
@@ -12552,7 +12441,7 @@
     ],
     "voci": 190,
     "trovati": 0,
-    "secondi": 45
+    "secondi": 44
    },
    {
     "nome": "IC DON LORENZO MILANI (Turbigo)",
@@ -12563,20 +12452,16 @@
     "pagine": [
      {
       "nome": "Albo",
-      "url": "https://www.comprensivoturbigo.edu.it/index.php/novita/albo-pretorio"
+      "url": "https://www.comprensivoturbigo.edu.it/novita/albo-pretorio"
      },
      {
       "nome": "Albo",
       "url": "https://www.comprensivoturbigo.edu.it/albo-pretorio"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comprensivoturbigo.edu.it/index.php/"
      }
     ],
-    "voci": 530,
+    "voci": 524,
     "trovati": 2,
-    "secondi": 141
+    "secondi": 272
    },
    {
     "nome": "IC DON MILANI (Novate Milanese)",
@@ -12596,7 +12481,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 21
    },
    {
     "nome": "IC DON MILANI LOCATE DI TRIULZI",
@@ -12636,7 +12521,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 18
    },
    {
     "nome": "IC DON PINO PUGLISI (Bresso)",
@@ -12660,7 +12545,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 19
    },
    {
     "nome": "IC DUCA D'AOSTA (Santo Stefano Ticino)",
@@ -12676,7 +12561,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 42
    },
    {
     "nome": "IC E. ALESSANDRINI (Cesano Boscone)",
@@ -12696,7 +12581,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 36
    },
    {
     "nome": "IC E. DE AMICIS (Marcallo Con Casone)",
@@ -12719,8 +12604,8 @@
      }
     ],
     "voci": 7,
-    "trovati": 0,
-    "secondi": 19
+    "trovati": 1,
+    "secondi": 25
    },
    {
     "nome": "IC EMANUELA LOI (Mediglia)",
@@ -12736,7 +12621,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 24
    },
    {
     "nome": "IC ENRICO FERMI (San Giuliano Milanese)",
@@ -12756,7 +12641,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 15
    },
    {
     "nome": "IC ERASMO DA ROTTERDAM (Cisliano)",
@@ -12780,7 +12665,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 29
    },
    {
     "nome": "IC EUROPA UNITA (Arese)",
@@ -12796,7 +12681,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "IC FABRIZIO DE ANDRE' (Peschiera Borromeo)",
@@ -12812,7 +12697,7 @@
     ],
     "voci": 11,
     "trovati": 2,
-    "secondi": 36
+    "secondi": 43
    },
    {
     "nome": "IC FABRIZIO DE ANDRE' (Rho)",
@@ -12828,7 +12713,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "IC FRANCESCHI (Milano)",
@@ -12868,7 +12753,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 24
    },
    {
     "nome": "IC G. CAPPONI (Milano)",
@@ -12908,7 +12793,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 5
    },
    {
     "nome": "IC G. RODARI (Vermezzo Con Zelo)",
@@ -12932,7 +12817,7 @@
     ],
     "voci": 36,
     "trovati": 5,
-    "secondi": 60
+    "secondi": 62
    },
    {
     "nome": "IC G. TARRA (Busto Garolfo)",
@@ -12960,7 +12845,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "IC G.B. PERASSO (Milano)",
@@ -12996,7 +12881,7 @@
     ],
     "voci": 39,
     "trovati": 1,
-    "secondi": 44
+    "secondi": 50
    },
    {
     "nome": "IC G.DEZZA (Melegnano)",
@@ -13028,7 +12913,7 @@
     ],
     "voci": 33,
     "trovati": 1,
-    "secondi": 391
+    "secondi": 409
    },
    {
     "nome": "IC G.UNGARETTI (Melzo)",
@@ -13052,7 +12937,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 11
    },
    {
     "nome": "IC GIANNI RODARI (Baranzate)",
@@ -13068,7 +12953,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 35
    },
    {
     "nome": "IC GIOSUE' CARDUCCI (Legnano)",
@@ -13084,7 +12969,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "IC GIOVANNI TESTORI (Novate Milanese)",
@@ -13100,7 +12985,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 17
    },
    {
     "nome": "IC GIOVANNI XXIII (Cesate)",
@@ -13116,7 +13001,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 25
    },
    {
     "nome": "IC GIUSTI - D'ASSISI (Milano)",
@@ -13126,13 +13011,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.icgiusti.edu.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.icgiusti.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 1,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 9
    },
    {
     "nome": "IC GOBETTI (Trezzano Sul Naviglio)",
@@ -13148,7 +13033,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 26
    },
    {
     "nome": "IC IQBAL MASIH (Milano)",
@@ -13158,13 +13043,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.icsiqbalmasih.edu.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.icsiqbalmasih.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 13,
-    "trovati": 0,
-    "secondi": 9
+    "voci": 23,
+    "trovati": 3,
+    "secondi": 71
    },
    {
     "nome": "IC L.CADORNA (Milano)",
@@ -13180,7 +13065,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 10
    },
    {
     "nome": "IC LEONARDO DA VINCI (Cesano Boscone)",
@@ -13216,7 +13101,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 12
    },
    {
     "nome": "IC M. GANDHI (Trezzano Rosa)",
@@ -13236,7 +13121,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 28
    },
    {
     "nome": "IC M.TERESA DI CALCUTTA (Milano)",
@@ -13276,7 +13161,7 @@
     ],
     "voci": 130,
     "trovati": 2,
-    "secondi": 37
+    "secondi": 41
    },
    {
     "nome": "IC MARCO POLO (Senago)",
@@ -13300,7 +13185,7 @@
     ],
     "voci": 26,
     "trovati": 0,
-    "secondi": 151
+    "secondi": 164
    },
    {
     "nome": "IC MARGHERITA HACK (Cernusco Sul Naviglio)",
@@ -13332,7 +13217,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 30
    },
    {
     "nome": "IC MONTE GRAPPA (Bussero)",
@@ -13356,7 +13241,7 @@
     ],
     "voci": 35,
     "trovati": 1,
-    "secondi": 44
+    "secondi": 43
    },
    {
     "nome": "IC MOROSINI MANARA (Milano)",
@@ -13376,7 +13261,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "IC NARCISI (Milano)",
@@ -13396,7 +13281,7 @@
     ],
     "voci": 203,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "IC NERVIANO",
@@ -13416,7 +13301,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 15
    },
    {
     "nome": "IC NOVIGLIO-CASARILE",
@@ -13432,7 +13317,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 31
    },
    {
     "nome": "IC P. THOUAR E L. GONZAGA (Milano)",
@@ -13460,7 +13345,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 21
    },
    {
     "nome": "IC PADERNO DUGNANO VIA MANZONI",
@@ -13516,7 +13401,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 24
    },
    {
     "nome": "IC PAOLO E LARISSA PINI (Milano)",
@@ -13556,7 +13441,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 22
    },
    {
     "nome": "IC PAOLO NEGLIA (Pogliano Milanese)",
@@ -13572,7 +13457,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 14
    },
    {
     "nome": "IC PASQUALE SOTTOCORNO (Milano)",
@@ -13588,7 +13473,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 25
    },
    {
     "nome": "IC PIAZZA COSTA (Cinisello Balsamo)",
@@ -13604,7 +13489,23 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 6
+   },
+   {
+    "nome": "IC PISACANE E POERIO (Milano)",
+    "tipo": "Scuola",
+    "sito": "https://www.icpisacanepoerio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icpisacanepoerio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 11,
+    "trovati": 0,
+    "secondi": 18
    },
    {
     "nome": "IC PRIMO LEVI (Milano)",
@@ -13628,7 +13529,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 54
    },
    {
     "nome": "IC Q.DI VONA-TITO SPERI (Milano)",
@@ -13644,7 +13545,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 16
    },
    {
     "nome": "IC QUINTINO DI VONA (Cassano D'Adda)",
@@ -13660,7 +13561,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 25
    },
    {
     "nome": "IC R. ZANDONAI (Cinisello Balsamo)",
@@ -13680,7 +13581,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 24
    },
    {
     "nome": "IC R0VANI (Sesto San Giovanni)",
@@ -13700,7 +13601,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 9
    },
    {
     "nome": "IC REGINA ELENA (Solaro)",
@@ -13714,9 +13615,9 @@
       "url": "https://icsolaro.edu.it/servizio/albo-online/"
      }
     ],
-    "voci": 8,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 35
+    "secondi": 39
    },
    {
     "nome": "IC RINNOVATA PIZZIGONI (Milano)",
@@ -13748,7 +13649,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 353
+    "secondi": 415
    },
    {
     "nome": "IC RITA LEVI MONTALCINI (Gorgonzola)",
@@ -13768,7 +13669,7 @@
     ],
     "voci": 160,
     "trovati": 4,
-    "secondi": 75
+    "secondi": 73
    },
    {
     "nome": "IC RITA LEVI-MONTALCINI",
@@ -13784,27 +13685,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 35
-   },
-   {
-    "nome": "IC ROSANNA GALBUSERA (Segrate)",
-    "tipo": "Scuola",
-    "sito": "https://www.icsanfelice.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.icgalbusera.edu.it/pagina/albo-online-2/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.icgalbusera.edu.it/notizie/"
-     }
-    ],
-    "voci": 16,
-    "trovati": 0,
-    "secondi": 10
+    "secondi": 22
    },
    {
     "nome": "IC S. ALLENDE (Paderno Dugnano)",
@@ -13836,7 +13717,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 33
    },
    {
     "nome": "IC SEDRIANO",
@@ -13852,7 +13733,7 @@
     ],
     "voci": 8,
     "trovati": 1,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "IC SIMONA GIORGI (Milano)",
@@ -13876,7 +13757,7 @@
     ],
     "voci": 14,
     "trovati": 1,
-    "secondi": 8
+    "secondi": 18
    },
    {
     "nome": "IC SORELLE AGAZZI (Milano)",
@@ -13932,7 +13813,7 @@
     ],
     "voci": 30,
     "trovati": 2,
-    "secondi": 21
+    "secondi": 24
    },
    {
     "nome": "IC TOMMASO GROSSI (Milano)",
@@ -13948,7 +13829,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "IC TRILUSSA (Milano)",
@@ -13964,7 +13845,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 16
    },
    {
     "nome": "IC VIA IV NOVEMBRE (Parabiago)",
@@ -13996,7 +13877,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 22
    },
    {
     "nome": "IC VIA LIBERTA' (San Donato Milanese)",
@@ -14020,7 +13901,7 @@
     ],
     "voci": 6,
     "trovati": 1,
-    "secondi": 12
+    "secondi": 15
    },
    {
     "nome": "IC VIA PAPA GIOVANNI PAOLO II (Magenta)",
@@ -14072,7 +13953,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 21
    },
    {
     "nome": "IC VIA VIQUARTERIO (Pieve Emanuele)",
@@ -14092,7 +13973,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 5
    },
    {
     "nome": "IC VIALE LEGNANO (Parabiago)",
@@ -14108,7 +13989,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 35
    },
    {
     "nome": "IC VIALE LOMBARDIA (Cologno Monzese)",
@@ -14124,7 +14005,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 34
    },
    {
     "nome": "IC VILLA CORTESE",
@@ -14144,7 +14025,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 15
    },
    {
     "nome": "IC. DI ROSATE (Bubbiano)",
@@ -14168,7 +14049,7 @@
     ],
     "voci": 26,
     "trovati": 3,
-    "secondi": 17
+    "secondi": 20
    },
    {
     "nome": "ICS GIOVANNI FALCONE (Cassina De' Pecchi)",
@@ -14188,7 +14069,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 10
    },
    {
     "nome": "IIS \"B.Cavalieri - D.Marignoni\"",
@@ -14204,7 +14085,23 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 14
+   },
+   {
+    "nome": "IIS EVANGELISTA TORRICELLI",
+    "tipo": "Scuola",
+    "sito": "https://www.torricellimi.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.torricellimi.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 7
    },
    {
     "nome": "IIS MARELLI DUDOVICH (Milano)",
@@ -14220,7 +14117,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 13
    },
    {
     "nome": "IS PIERO DELLA FRANCESCA (San Donato Milanese)",
@@ -14252,7 +14149,7 @@
     ],
     "voci": 7,
     "trovati": 1,
-    "secondi": 27
+    "secondi": 18
    },
    {
     "nome": "IST. OMNICOMPRENSIVO MUSICALE (Milano)",
@@ -14269,26 +14166,6 @@
     "voci": 1,
     "trovati": 0,
     "secondi": 21
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - 'ALDO MORO'-CANEGRATE",
-    "tipo": "Scuola",
-    "sito": "https://icscanegrate.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://icscanegrate.edu.it/pagina/albo-online-2/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://icscanegrate.edu.it/notizie/"
-     }
-    ],
-    "voci": 19,
-    "trovati": 0,
-    "secondi": 15
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 'COPERNICO' CORSICO",
@@ -14312,7 +14189,7 @@
     ],
     "voci": 107,
     "trovati": 6,
-    "secondi": 86
+    "secondi": 74
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 'E.FERMI' - CUSANO M.",
@@ -14328,7 +14205,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 'ILARIA ALPI'",
@@ -14344,7 +14221,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 'ROSMINI'",
@@ -14360,7 +14237,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 17
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - 25 APRILE - CORMANO",
@@ -14384,7 +14261,7 @@
     ],
     "voci": 110,
     "trovati": 2,
-    "secondi": 27
+    "secondi": 23
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - A. RIZZOLI",
@@ -14400,7 +14277,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - A.SCARPA - MILANO",
@@ -14456,27 +14333,7 @@
     ],
     "voci": 12,
     "trovati": 1,
-    "secondi": 28
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - B.DE LA RIVA-LEGNANO",
-    "tipo": "Scuola",
-    "sito": "https://www.icsbonvesin.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.icsbonvesin.edu.it/pagine/albo-pretorio/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.icsbonvesin.edu.it/news/news/"
-     }
-    ],
-    "voci": 7,
-    "trovati": 0,
-    "secondi": 21
+    "secondi": 22
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - CINQUE GIORNATE - MILANO",
@@ -14496,7 +14353,7 @@
     ],
     "voci": 69,
     "trovati": 0,
-    "secondi": 50
+    "secondi": 20
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - CONFALONIERI-MILANO",
@@ -14520,7 +14377,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 25
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - D.GNOCCHI-S.COLOMBANO AL LAMBRO",
@@ -14536,7 +14393,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - EUGENIO CURIEL/PAULLO",
@@ -14552,7 +14409,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - FABRIZIO DE ANDRE'",
@@ -14620,7 +14477,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 21
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - G.PASCOLI- SESTO S.GIOVANNI",
@@ -14636,7 +14493,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 32
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I. C. ' VIA CAVOUR '",
@@ -14660,7 +14517,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.BAROZZI - MILANO",
@@ -14676,7 +14533,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. A.MANZONI - CORMANO",
@@ -14692,7 +14549,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 21
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. BUONARROTI-CORSICO",
@@ -14716,7 +14573,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 26
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. LUIGI GALVANI - MILANO",
@@ -14732,7 +14589,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. RINNOVATA PIZZIGONI",
@@ -14748,7 +14605,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 19
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C.'BALILLA PAGANELLI' CINISEL",
@@ -14772,7 +14629,7 @@
     ],
     "voci": 97,
     "trovati": 1,
-    "secondi": 69
+    "secondi": 77
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.CALVINO-MILANO",
@@ -14799,22 +14656,6 @@
     "secondi": 12
    },
    {
-    "nome": "ISTITUTO COMPRENSIVO - IC A STROBINO",
-    "tipo": "Scuola",
-    "sito": "https://www.scuoledicerro.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.scuoledicerro.edu.it/"
-     }
-    ],
-    "voci": 1,
-    "trovati": 0,
-    "secondi": 3
-   },
-   {
     "nome": "ISTITUTO COMPRENSIVO - IC A.DIAZ - VAPRIO D'ADDA",
     "tipo": "Scuola",
     "sito": "https://www.icsdiazvaprio.edu.it/",
@@ -14836,7 +14677,7 @@
     ],
     "voci": 27,
     "trovati": 2,
-    "secondi": 60
+    "secondi": 50
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC GIORGIO PERLASCA/BAREGGIO",
@@ -14884,23 +14725,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 12
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - IC VIA DEI SALICI",
-    "tipo": "Scuola",
-    "sito": "https://www.icsviadeisalici.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Notizie",
-      "url": "https://www.icsviadeisalici.edu.it/news/news-12/"
-     }
-    ],
-    "voci": 16,
-    "trovati": 0,
-    "secondi": 11
+    "secondi": 14
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC' ALESSANDRO VOLTA'/COLOGNO",
@@ -14920,7 +14745,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 10
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ICS BORSI - MILANO",
@@ -14960,7 +14785,7 @@
     ],
     "voci": 93,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 4
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IST.TO COMPR.VO LACCHIARELLA",
@@ -14976,7 +14801,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO A.B. SABIN",
@@ -14992,27 +14817,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 15
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO BASIANO",
-    "tipo": "Scuola",
-    "sito": "https://www.icbasiano.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.icbasiano.edu.it/pagina/albo-online-2/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.icbasiano.edu.it/notizie/"
-     }
-    ],
-    "voci": 18,
-    "trovati": 1,
-    "secondi": 34
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO CAVALIERI",
@@ -15052,7 +14857,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO L.DA VINCI",
@@ -15068,7 +14873,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IV/E. MONTALE - COLOGNO M.",
@@ -15084,7 +14889,7 @@
     ],
     "voci": 6,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - L. MANARA - MILANO",
@@ -15112,7 +14917,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 19
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - MADRE TERESA DI CALCUTTA",
@@ -15168,7 +14973,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - MILANO - SPIGA",
@@ -15236,7 +15041,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 9
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - S. AMBROGIO",
@@ -15255,8 +15060,8 @@
      }
     ],
     "voci": 29,
-    "trovati": 1,
-    "secondi": 55
+    "trovati": 0,
+    "secondi": 37
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - SANDRO PERTINI",
@@ -15292,7 +15097,7 @@
     ],
     "voci": 13,
     "trovati": 1,
-    "secondi": 53
+    "secondi": 40
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - VIA CONSOLE MARCELLO - MILANO",
@@ -15312,7 +15117,7 @@
     ],
     "voci": 16,
     "trovati": 2,
-    "secondi": 56
+    "secondi": 39
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - VIA VIQUARTERIO",
@@ -15332,7 +15137,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 9
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - VITTORIO LOCCHI - MILANO",
@@ -15348,7 +15153,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 26
    },
    {
     "nome": "ISTITUTO COMPRENSIVO ALDA MERINI",
@@ -15358,13 +15163,13 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.icsaldamerini.edu.it/"
+      "nome": "Trasparenza",
+      "url": "https://www.icsaldamerini.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 1,
+    "voci": 10,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 25
    },
    {
     "nome": "ISTITUTO COMPRENSIVO DI BINASCO",
@@ -15380,7 +15185,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 20
    },
    {
     "nome": "ISTITUTO COMPRENSIVO STATALE ERMANNO OLMI",
@@ -15400,7 +15205,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 34
    },
    {
     "nome": "ISTITUTO COMPRENSIVO V.DELLE FORZE ARMATE MILANO",
@@ -15416,7 +15221,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "ISTITUTO COMPRENSIVO VIA BIZET - PIOLTELLO",
@@ -15432,7 +15237,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 34
    },
    {
     "nome": "ISTITUTO PROFESSIONALE PER I SERVIZI COMMERCIALI E TURISTICI - E.FALCK",
@@ -15448,7 +15253,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO SUPERIORE - E.ALESSANDRINI",
@@ -15472,7 +15277,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 7
    },
    {
     "nome": "ISTITUTO SUPERIORE - GREGORIO MENDEL",
@@ -15496,7 +15301,7 @@
     ],
     "voci": 17,
     "trovati": 1,
-    "secondi": 22
+    "secondi": 10
    },
    {
     "nome": "ISTITUTO SUPERIORE - PUECHER - OLIVETTI",
@@ -15516,7 +15321,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 12
    },
    {
     "nome": "ISTITUTO SUPERIORE - VITTORIO BACHELET",
@@ -15548,7 +15353,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 51
    },
    {
     "nome": "ISTITUTO TECNICO COMMERCIALE - IST. TEC. STAT. AD ORDINAMENTO SPECIALE",
@@ -15564,7 +15369,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 51
+    "secondi": 52
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO - A. STEINER (Milano)",
@@ -15581,6 +15386,22 @@
     "voci": 10,
     "trovati": 0,
     "secondi": 17
+   },
+   {
+    "nome": "ISTITUTO TECNICO E LICEO - CARTESIO (Cinisello Balsamo)",
+    "tipo": "Scuola",
+    "sito": "https://www.cartesio.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.cartesio.edu.it/amministrazione-trasparente"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO - E. CONTI (Milano)",
@@ -15624,7 +15445,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 12
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO - E. MOLINARI (Milano)",
@@ -15634,13 +15455,17 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://www.istitutomolinari.edu.it/albo-online"
+     },
+     {
       "nome": "Trasparenza",
       "url": "https://www.istitutomolinari.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 11,
-    "trovati": 5,
-    "secondi": 274
+    "voci": 68,
+    "trovati": 14,
+    "secondi": 285
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO - G. MARCONI (Gorgonzola)",
@@ -15660,7 +15485,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 29
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO - G. NATTA (Milano)",
@@ -15680,23 +15505,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 129
-   },
-   {
-    "nome": "ISTITUTO TECNICO E LICEO - M. CURIE (Cernusco Sul Naviglio)",
-    "tipo": "Scuola",
-    "sito": "https://www.itsos-mariecurie.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.itsos-mariecurie.edu.it/"
-     }
-    ],
-    "voci": 1,
-    "trovati": 0,
-    "secondi": 7
+    "secondi": 37
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO -A. GENTILESCHI (Milano)",
@@ -15712,7 +15521,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO -G. FELTRINELLI (Milano)",
@@ -15728,7 +15537,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 87
    },
    {
     "nome": "ISTITUTO TECNICO E LICEO-P. P. PASOLINI (Milano)",
@@ -15744,7 +15553,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 46
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - 'ORIANI-MAZZINI' MILANO",
@@ -15760,7 +15569,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - ALTIERO SPINELLI",
@@ -15776,7 +15585,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 43
+    "secondi": 32
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - CREMONA",
@@ -15808,7 +15617,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 42
+    "secondi": 29
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - ENRICO DE NICOLA",
@@ -15868,7 +15677,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 24
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - ITALO CALVINO",
@@ -15884,7 +15693,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 47
+    "secondi": 36
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - LEONARDO DA VINCI",
@@ -15900,7 +15709,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 19
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - SALVADOR ALLENDE",
@@ -15910,6 +15719,14 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://allendecustodi.edu.it/albo-online/"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://allendecustodi.edu.it/bandi-di-gara-albo/"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://allendecustodi.edu.it/categoria/avvisi/"
      },
@@ -15918,9 +15735,9 @@
       "url": "https://allendecustodi.edu.it/categoria/news/"
      }
     ],
-    "voci": 1,
+    "voci": 72,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 13
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - SEVERI - CORRENTI",
@@ -15940,7 +15757,7 @@
     ],
     "voci": 55,
     "trovati": 4,
-    "secondi": 42
+    "secondi": 43
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - VINCENZO BENINI",
@@ -15956,7 +15773,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 48
+    "secondi": 40
    },
    {
     "nome": "Istituto Comprensivo A.Frank",
@@ -15972,7 +15789,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 20
    },
    {
     "nome": "Istituto Comprensivo Anna Frank",
@@ -15988,7 +15805,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 29
    },
    {
     "nome": "Istituto Comprensivo Croci di Paderno Dugnano",
@@ -16024,7 +15841,7 @@
     ],
     "voci": 30,
     "trovati": 2,
-    "secondi": 17
+    "secondi": 14
    },
    {
     "nome": "Istituto Comprensivo Margherita Hack",
@@ -16040,7 +15857,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 29
    },
    {
     "nome": "Istituto Comprensivo Molino Vecchio - Gorgonzola",
@@ -16092,7 +15909,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 27
    },
    {
     "nome": "Istituto Comprensivo Orchidee",
@@ -16112,7 +15929,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 28
    },
    {
     "nome": "Istituto Comprensivo Statale - Morante Filzi",
@@ -16124,15 +15941,11 @@
      {
       "nome": "Albo",
       "url": "https://www.portaleargo.it/albopretorio/online/#/error"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.icsmorantefilzi.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 19,
+    "voci": 9,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 9
    },
    {
     "nome": "Istituto Comprensivo Statale Arcadia",
@@ -16148,7 +15961,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 30
    },
    {
     "nome": "Istituto Comprensivo Statale Di Settimo Milanese",
@@ -16176,7 +15989,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Istituto Comprensivo Statale di Via Gattamelata 35",
@@ -16192,7 +16005,7 @@
     ],
     "voci": 483,
     "trovati": 5,
-    "secondi": 64
+    "secondi": 58
    },
    {
     "nome": "Istituto Comprensivo Tommaso Grossi",
@@ -16212,7 +16025,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 30
    },
    {
     "nome": "Istituto Comprensivo Via IV Novembre Cornaredo",
@@ -16256,27 +16069,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 14
-   },
-   {
-    "nome": "L. ARTISTICO - U. BOCCIONI (Milano)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceoartisticoboccioni.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.liceoartisticoboccioni.edu.it/pagina/albo-online-3/"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.liceoartisticoboccioni.edu.it/notizie/"
-     }
-    ],
-    "voci": 24,
-    "trovati": 0,
-    "secondi": 9
+    "secondi": 11
    },
    {
     "nome": "L. CLASSICO - A. MANZONI (Milano)",
@@ -16308,7 +16101,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 17
    },
    {
     "nome": "L. CLASSICO - G PARINI (Milano)",
@@ -16340,7 +16133,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 34
    },
    {
     "nome": "L. CLASSICO - G. BERCHET (Milano)",
@@ -16356,7 +16149,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 15
    },
    {
     "nome": "L. CLASSICO - G. CARDUCCI (Milano)",
@@ -16376,7 +16169,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 20
    },
    {
     "nome": "L. EINAUDI - L. DA VINCI (Magenta)",
@@ -16400,7 +16193,7 @@
     ],
     "voci": 21,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 18
    },
    {
     "nome": "L. SCIENTIFICO - A. EINSTEIN (Milano)",
@@ -16416,7 +16209,7 @@
     ],
     "voci": 18,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 29
    },
    {
     "nome": "L. SCIENTIFICO - A. VOLTA (Milano)",
@@ -16432,7 +16225,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "L. SCIENTIFICO - E. VITTORINI (Milano)",
@@ -16448,7 +16241,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 34
    },
    {
     "nome": "L. SCIENTIFICO - L. DA VINCI (Milano)",
@@ -16468,7 +16261,7 @@
     ],
     "voci": 20,
     "trovati": 1,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "L. SCIENTIFICO - R.DONATELLI-B.PASCAL (Milano)",
@@ -16484,7 +16277,7 @@
     ],
     "voci": 148,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 4
    },
    {
     "nome": "L. V. BERTARELLI - FERRARIS (Milano)",
@@ -16500,7 +16293,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "L.CLASSICO - C. BECCARIA (Milano)",
@@ -16540,7 +16333,7 @@
     ],
     "voci": 15,
     "trovati": 2,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "LICEO - C. TENCA (Milano)",
@@ -16576,7 +16369,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 28
    },
    {
     "nome": "LICEO - D. BRAMANTE (Magenta)",
@@ -16616,7 +16409,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "LICEO - G. AGNESI (Milano)",
@@ -16640,7 +16433,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 23
    },
    {
     "nome": "LICEO - G. B. VICO (Corsico)",
@@ -16663,22 +16456,6 @@
      }
     ],
     "voci": 4,
-    "trovati": 0,
-    "secondi": 7
-   },
-   {
-    "nome": "LICEO - G. BRUNO (Melzo)",
-    "tipo": "Scuola",
-    "sito": "https://www.liceo-melzocassano.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.liceo-melzocassano.edu.it/albo-pretorio-pubblicita-legale/"
-     }
-    ],
-    "voci": 3,
     "trovati": 0,
     "secondi": 9
    },
@@ -16716,7 +16493,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "LICEO - G.MARCONI (Milano)",
@@ -16744,7 +16521,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "LICEO - TITO LIVIO (Milano)",
@@ -16760,7 +16537,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "LICEO - VIRGILIO (Milano)",
@@ -16812,7 +16589,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "LICEO ARTISTICO CARAVAGGIO (Milano)",
@@ -16828,7 +16605,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 13
    },
    {
     "nome": "LICEO CLASSICO - C. REBORA (Rho)",
@@ -16872,7 +16649,7 @@
     ],
     "voci": 26,
     "trovati": 10,
-    "secondi": 44
+    "secondi": 45
    },
    {
     "nome": "LICEO E ISTITUTO TECNICO - P. LEVI (Bollate)",
@@ -16892,7 +16669,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 16
    },
    {
     "nome": "LICEO E ISTITUTO TECNICO-E. DA ROTTERDAM (Bollate)",
@@ -16908,7 +16685,7 @@
     ],
     "voci": 13,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 21
    },
    {
     "nome": "LICEO SCIENTIFICO - PRIMO LEVI",
@@ -16932,7 +16709,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 15
    },
    {
     "nome": "LICEO SCIENTIFICO - VITTORIO VENETO",
@@ -16964,7 +16741,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "LICEO SCIENTIFICO - VOLTA",
@@ -16996,7 +16773,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 19
    },
    {
     "nome": "M. CURIE - P. SRAFFA (Milano)",
@@ -17016,7 +16793,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 16
    },
    {
     "nome": "N. MACHIAVELLI (Pioltello)",
@@ -17052,7 +16829,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "N. MORESCHI (Milano)",
@@ -17068,7 +16845,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 21
    },
    {
     "nome": "P. VERRI (Milano)",
@@ -17088,7 +16865,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "PAOLO FRISI (Milano)",
@@ -17118,9 +16895,9 @@
       "url": "https://www.iisfrisi.edu.it/atti/amministrazione-trasparente/"
      }
     ],
-    "voci": 127,
+    "voci": 128,
     "trovati": 0,
-    "secondi": 91
+    "secondi": 97
    },
    {
     "nome": "S. ALLENDE (Milano)",
@@ -17152,7 +16929,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 14
    },
    {
     "nome": "SEC.I GR S.CARRARO DALLA CHIESA (Milano)",
@@ -17172,7 +16949,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 6
    },
    {
     "nome": "SECON. I GR. CONVITTO LONGONE (Milano)",
@@ -17192,7 +16969,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 23
    },
    {
     "nome": "SMS VIVAIO \"PER CIECHI\" (Milano)",
@@ -17216,7 +16993,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 15
    },
    {
     "nome": "V. F. PARETO (Milano)",

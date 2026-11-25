@@ -3,10 +3,10 @@
   "sigla": "BS",
   "nome": "Brescia"
  },
- "aggiornato": "2026-11-25T20:03:28.246505+00:00",
+ "aggiornato": "2026-11-25T21:29:33.270009+00:00",
  "giorni": 60,
- "durata_minuti": 24,
- "richieste": 4316,
+ "durata_minuti": 21,
+ "richieste": 4034,
  "righe": [
   {
    "ente": "Comune di Corte Franca",
@@ -37,36 +37,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Avviso per manifestazione di interesse gestione degli spazi espositivi del centro storico in occasione della 69^ Fiera Agricola, Artigianale e Commerciale Regionale di Lonato del Garda anno 2027",
-   "pubblicazione": "2026-10-06",
-   "scadenza": "2026-10-22",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "manifestazione di interesse"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "42d92c61367e",
-   "nuovo": false
-  },
-  {
    "ente": "I.C. UNICO DI LUMEZZANE",
    "tipo": "Scuola",
    "titolo": "Avviso pubblico per l’individuazione interna di n.4 docenti esperti e n.4 docenti tutor per percorsi di alfabetizzazione per gli studenti stranieri Primaria (n. 4 edizioni da 30h ciascuna).",
@@ -76,7 +46,6 @@
    "partecipanti": null,
    "motivi": [
     "esperto esterno",
-    "inclusione",
     "avviso pubblico"
    ],
    "temi": [
@@ -93,66 +62,6 @@
    "cig": null,
    "cf": "94016560172",
    "id": "de1fa46a685b",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Adro",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico: assegnazione unità abitative nell'ambito Monte Orfano",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-11-09",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "musical",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.adro.bs.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.adro.bs.it",
-     "link": "https://www.comune.adro.bs.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000850170",
-   "id": "7904e878375e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Adro",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico: assegnazione unità abitative nell'ambito Monte…",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-11-09",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "eventi culturali",
-    "musical",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.adro.bs.it/novita/news",
-   "fonti": [
-    {
-     "nome": "sito comune.adro.bs.it",
-     "link": "https://www.comune.adro.bs.it/novita/news"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "82000850170",
-   "id": "937f643dd317",
    "nuovo": false
   },
   {
@@ -301,35 +210,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Lograto",
-   "tipo": "Comune",
-   "titolo": "Scadenza invio domande martedì 24.11.2026. Leggi il bando.",
-   "pubblicazione": "2026-11-09",
-   "scadenza": "2026-11-24",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "centri estivi",
-    "estiv"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lograto.bs.it/Novita/Notizie/Bando-Centri-Estivi-2026",
-   "fonti": [
-    {
-     "nome": "sito comune.lograto.bs.it",
-     "link": "https://www.comune.lograto.bs.it/Novita/Notizie/Bando-Centri-Estivi-2026"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00855700175",
-   "id": "ae741293ea7d",
-   "nuovo": false
-  },
-  {
    "ente": "STATALE DI GARDONE V.T. (Gardone Val Trompia)",
    "tipo": "Scuola",
    "titolo": "Pubblicazione determina graduatoria provvisoria per la selezione di formatori/tutor/FA",
@@ -340,8 +220,6 @@
    "motivi": [
     "teatr",
     "laboratorio teatrale",
-    "dispersione scolastica",
-    "inclusione",
     "mafie",
     "selezione"
    ],
@@ -455,35 +333,6 @@
   {
    "ente": "I.C. UNICO DI LUMEZZANE",
    "tipo": "Scuola",
-   "titolo": "DECRETO DI NOMINA DELLA COMMISSIONE DI VALUTAZIONE PER LA COSTITUZIONE TEAM DI LAVORO _ PIANO ESTATE 25/27-IC POLO UNICO DI LUMEZZANE",
-   "pubblicazione": "2026-11-19",
-   "scadenza": "2026-11-25",
-   "importo": "€ 51.725,00",
-   "partecipanti": null,
-   "motivi": [
-    "piano estate",
-    "estate"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://icunicodilumezzane.edu.it/albo-pretorio/decreto-di-nomina-della-commissione-di-valutazione-la-costituzione-team-di-lavoro-_",
-   "fonti": [
-    {
-     "nome": "sito icunicodilumezzane.edu.it",
-     "link": "https://icunicodilumezzane.edu.it/albo-pretorio/decreto-di-nomina-della-commissione-di-valutazione-la-costituzione-team-di-lavoro-_"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "98239050176",
-   "id": "f6a13226328d",
-   "nuovo": false
-  },
-  {
-   "ente": "I.C. UNICO DI LUMEZZANE",
-   "tipo": "Scuola",
    "titolo": "DETERMINA PROCEDURA TRATTIVA DIRETTA GRAND-PRIX TARGHE-PIANO ESTATE 25-26 EX POLO OVEST",
    "pubblicazione": "2026-11-11",
    "scadenza": "2026-11-26",
@@ -579,13 +428,10 @@
    "importo": "€ 1.369.749,52",
    "partecipanti": null,
    "motivi": [
-    "dispersione scolastica",
-    "inclusione",
     "disagio giovanile",
     "concert"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici",
     "Estate e musica"
    ],
@@ -611,14 +457,10 @@
    "importo": null,
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
-    "teatr",
-    "ptof",
-    "dispersione scolastica",
-    "inclusione"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Laboratori nelle scuole"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.iclapira.edu.it/albo-pretorio/decreto-assegnazione-incarichi-agenda-nord",
    "fonti": [
@@ -642,14 +484,10 @@
    "importo": null,
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
-    "teatr",
-    "ptof",
-    "dispersione scolastica",
-    "inclusione"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Laboratori nelle scuole"
+    "Teatro e spettacoli"
    ],
    "link": "https://www.iclapira.edu.it/albo-pretorio/decreto-di-pubblicazione-graduatorie-definitive",
    "fonti": [
@@ -703,12 +541,7 @@
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
     "teatr",
-    "ptof",
-    "piano estate",
-    "dispersione scolastica",
-    "inclusione",
-    "estate",
-    "estiv"
+    "piano estate"
    ],
    "temi": [
     "Teatro e spettacoli",
@@ -726,36 +559,6 @@
    "cig": null,
    "cf": "83002550172",
    "id": "aae5fcdc88bf",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Indagine di mercato finalizzata ad acquisire preventivi di spesa per l'allestimento stands espositivi all’interno del Nuovo Palazzetto dello Sport in occasione della 69^ edizione della Fiera 2027",
-   "pubblicazione": "2026-11-21",
-   "scadenza": "2026-12-02",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "indagine di mercato"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "50bdbab12625",
    "nuovo": false
   },
   {
@@ -882,7 +685,6 @@
    "motivi": [
     "teatr",
     "laboratorio teatrale",
-    "dispersione scolastica",
     "mafie"
    ],
    "temi": [
@@ -906,14 +708,48 @@
   {
    "ente": "I.C. UNICO DI LUMEZZANE",
    "tipo": "Scuola",
+   "titolo": "DECRETO DI NOMINA DELLA COMMISSIONE DI VALUTAZIONE PER LA COSTITUZIONE TEAM DI LAVORO _ AGENDA NORD 25-27 -IC POLO UNICO DI LUMEZZANE",
+   "pubblicazione": "2026-11-19",
+   "scadenza": "2026-12-04",
+   "importo": "€ 51.725,00",
+   "partecipanti": null,
+   "motivi": [
+    "legalita",
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Legalita e temi civici",
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://icunicodilumezzane.edu.it/albo-pretorio/decreto-di-nomina-della-commissione-di-valutazione-la-costituzione-team-di-lavoro-_-0",
+   "fonti": [
+    {
+     "nome": "sito icunicodilumezzane.edu.it",
+     "link": "https://icunicodilumezzane.edu.it/albo-pretorio/decreto-di-nomina-della-commissione-di-valutazione-la-costituzione-team-di-lavoro-_-0"
+    },
+    {
+     "nome": "sito icunicodilumezzane.edu.it",
+     "link": "https://icunicodilumezzane.edu.it/albo-pretorio/decreto-di-nomina-della-commissione-di-valutazione-la-costituzione-team-di-lavoro-_"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "98239050176",
+   "id": "f0e308dbf6e5",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. UNICO DI LUMEZZANE",
+   "tipo": "Scuola",
    "titolo": "DETERMINA PROCEDURA TRATTIVA DIRETTA GRAND-PRIX TARGHE-ORIENTAMENTO 25-26 EX POLO OVEST",
    "pubblicazione": "2026-11-19",
    "scadenza": "2026-12-04",
    "importo": "€ 13.320,00",
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -942,9 +778,6 @@
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
     "esperti esterni",
-    "ptof",
-    "dispersione scolastica",
-    "inclusione",
     "selezione"
    ],
    "temi": [
@@ -972,10 +805,7 @@
    "importo": null,
    "partecipanti": "Personale interno / altre scuole",
    "motivi": [
-    "esperto esterno",
-    "ptof",
-    "dispersione scolastica",
-    "inclusione"
+    "esperto esterno"
    ],
    "temi": [
     "Laboratori nelle scuole"
@@ -1004,8 +834,6 @@
    "motivi": [
     "teatr",
     "laboratorio teatrale",
-    "dispersione scolastica",
-    "inclusione",
     "mafie"
    ],
    "temi": [
@@ -1024,222 +852,6 @@
    "cig": null,
    "cf": "83001510177",
    "id": "c4026f1dd55a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Rezzato",
-   "tipo": "Comune",
-   "titolo": "Bando di asta pubblica per la vendita di beni patrimoniali disponibili con il metodo delle offerte segrete",
-   "pubblicazione": "2026-12-10",
-   "scadenza": "2026-12-10",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "rassegn",
-    "bibliotec",
-    "scuola dell'infanzia",
-    "estate",
-    "estiv",
-    "natalizi",
-    "natalizie"
-   ],
-   "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Estate e musica",
-    "Natale"
-   ],
-   "link": "https://www.comune.rezzato.bs.it/pagina133704_avvisi.html",
-   "fonti": [
-    {
-     "nome": "sito comune.rezzato.bs.it",
-     "link": "https://www.comune.rezzato.bs.it/pagina133704_avvisi.html"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00634160170",
-   "id": "70e673afc0de",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Avviso per la concessione di contributi economici relativi alle spese di riscaldamento stagione invernale 2025/2026 - energia elettrica 2025 e spese sanitarie 2025",
-   "pubblicazione": "2026-10-01",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "contributi"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "9c9a9307382e",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Avviso Manifestazione d'interesse per opere di riqualificazione…",
-   "pubblicazione": "2026-11-12",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "02b5c1b0e88b",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Indagine di mercato finalizzata ad acquisire preventivi di spesa per l'…",
-   "pubblicazione": "2026-11-21",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "indagine di mercato"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "b4912e99d8d8",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "Indagine di mercato finalizzata ad acquisire preventivi di spesa per…",
-   "pubblicazione": "2026-11-21",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "indagine di mercato"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "b4aa5f5b859c",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "2° Avviso Pubblico | Presentazione Candidature per la nomina dei…",
-   "pubblicazione": "2026-11-23",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "c5b52a87a056",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Lonato del Garda",
-   "tipo": "Comune",
-   "titolo": "2° Avviso Pubblico | Presentazione Candidature per la nomina dei Consiglieri dei Comitati di Quartiere Mandato amministrativo 2026/2031",
-   "pubblicazione": "2026-11-23",
-   "scadenza": "2026-12-12",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "sagra",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Laboratori nelle scuole",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.lonato.bs.it/novita/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.lonato.bs.it",
-     "link": "https://www.comune.lonato.bs.it/novita/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00832210173",
-   "id": "f409ca2f0b85",
    "nuovo": false
   },
   {
@@ -1267,34 +879,6 @@
    "cig": null,
    "cf": "80013950177",
    "id": "7e4f0a8f988b",
-   "nuovo": false
-  },
-  {
-   "ente": "ISTITUTO COMPRENSIVO - IC CENTRO 3 BRESCIA",
-   "tipo": "Scuola",
-   "titolo": "Decreto di liquidazione per l'erogazione del servizio (E4U)",
-   "pubblicazione": "2026-11-12",
-   "scadenza": "2026-12-26",
-   "importo": "€ 9.000,00",
-   "partecipanti": null,
-   "motivi": [
-    "dispersione scolastica",
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://www.iccentro3.edu.it/albo-pretorio/decreto-di-liquidazione-lerogazione-del-servizio-e4u",
-   "fonti": [
-    {
-     "nome": "sito iccentro3.edu.it",
-     "link": "https://www.iccentro3.edu.it/albo-pretorio/decreto-di-liquidazione-lerogazione-del-servizio-e4u"
-    }
-   ],
-   "esito": true,
-   "cig": "BC80AD7743",
-   "cf": "80052510171",
-   "id": "f182600e3514",
    "nuovo": false
   },
   {
@@ -1328,8 +912,8 @@
   {
    "ente": "Comune di Borno",
    "tipo": "Comune",
-   "titolo": "Bando di gara 01/26/C per la vendita di catasta costituita da legname resinoso certificato pefc (csi-pefc-gfs-004042) presso il deposito tronchi camionabile comune di Borno – Viale Pineta",
-   "pubblicazione": "2026-11-23",
+   "titolo": "Avviso pubblico per l'erogazione di contributi economici a sostegno delle famiglie per la frequenza di centri estivi e attività ricreative estive (grest) svolti nel territorio comunale (anno 2026)",
+   "pubblicazione": "2026-11-19",
    "scadenza": "2026-12-30",
    "importo": "€ 50,00",
    "partecipanti": null,
@@ -1357,7 +941,7 @@
    "esito": false,
    "cig": "BDAFFCE259",
    "cf": "00701670176",
-   "id": "46a2639c7afa",
+   "id": "a49907792afe",
    "nuovo": false
   },
   {
@@ -1397,7 +981,6 @@
    "partecipanti": "Esperti / persone fisiche",
    "motivi": [
     "esperto esterno",
-    "ptof",
     "affidamento"
    ],
    "temi": [
@@ -1417,34 +1000,6 @@
    "nuovo": false
   },
   {
-   "ente": "ISTITUTO COMPRENSIVO - IC CENTRO 3 BRESCIA",
-   "tipo": "Scuola",
-   "titolo": "Lettera di incarico supporto amministrativo Agenda Nord - AA Bolvino Guido",
-   "pubblicazione": "2026-11-10",
-   "scadenza": "2027-08-31",
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "dispersione scolastica",
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://www.iccentro3.edu.it/albo-pretorio/lettera-di-incarico-supporto-amministrativo-agenda-nord-aa-bolvino-guido",
-   "fonti": [
-    {
-     "nome": "sito iccentro3.edu.it",
-     "link": "https://www.iccentro3.edu.it/albo-pretorio/lettera-di-incarico-supporto-amministrativo-agenda-nord-aa-bolvino-guido"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "80052510171",
-   "id": "d6eceda13a23",
-   "nuovo": false
-  },
-  {
    "ente": "IC CARPENEDOLO",
    "tipo": "Scuola",
    "titolo": "Decreto avvio modulo n. 194113 lingua madre italiano L1 -Latino ( corso di latino ) progetto “Apprendere insieme ” - Fondi Strutturali Europei - FSE Agenda Nord 2025/2026 -2026/2027",
@@ -1453,14 +1008,11 @@
    "importo": "€ 1.369.749,52",
    "partecipanti": null,
    "motivi": [
-    "dispersione scolastica",
-    "inclusione",
     "disagio giovanile",
     "concert",
     "fse"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici",
     "Estate e musica"
    ],
@@ -1486,14 +1038,11 @@
    "importo": "€ 1.369.749,52",
    "partecipanti": null,
    "motivi": [
-    "dispersione scolastica",
-    "inclusione",
     "disagio giovanile",
     "concert",
     "fse"
    ],
    "temi": [
-    "Laboratori nelle scuole",
     "Legalita e temi civici",
     "Estate e musica"
    ],
@@ -1520,16 +1069,12 @@
    "partecipanti": null,
    "motivi": [
     "esperti esterni",
-    "dispersione scolastica",
-    "formazione del personale",
-    "comunicazione efficace",
     "selezione",
     "reclutamento",
     "fse"
    ],
    "temi": [
-    "Laboratori nelle scuole",
-    "Formazione e team building"
+    "Laboratori nelle scuole"
    ],
    "link": "https://nuvola.madisoft.it/bacheca-digitale/16108/documento/BSTD02000X",
    "fonti": [
@@ -1945,35 +1490,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Poncarale",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO PER HOBBISTI E ATTIVITA' ECONOMICHE PER PARTECIPARE AI MERCATINI DI NATALE DEL COMUNE DI PONCARALE CHE SI TERRANNO DOMENICA 6 DICEMBRE 2026.",
-   "pubblicazione": "2026-10-26",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "natale",
-    "avviso pubblico",
-    "pon"
-   ],
-   "temi": [
-    "Natale"
-   ],
-   "link": "https://www.comune.poncarale.brescia.it/Novita/Notizie/AVVISO-PUBBLICO-MERCATINI-DI-NATALE-2026",
-   "fonti": [
-    {
-     "nome": "sito comune.poncarale.brescia.it",
-     "link": "https://www.comune.poncarale.brescia.it/Novita/Notizie/AVVISO-PUBBLICO-MERCATINI-DI-NATALE-2026"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80018630170",
-   "id": "97691159c819",
-   "nuovo": false
-  },
-  {
    "ente": "GHEDI \"RINALDINI\"",
    "tipo": "Scuola",
    "titolo": "DECISIONE A CONTRARRE N. 70 DEL 26/10/2026: ORGANIZZAZIONE SERVIZIO DI ACCOGLIENZA E RAPPRESENTANZA PROGETTO \"SETTIMANA DELLA LEGALITA'\"",
@@ -2095,6 +1611,35 @@
    "nuovo": false
   },
   {
+   "ente": "I.C. ORZINUOVI (Orzivecchi)",
+   "tipo": "Scuola",
+   "titolo": "Decreto pubblicazione graduatorie esperti e tutor piano estate fase 2 a.s.26.27",
+   "pubblicazione": "2026-11-02",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/sj4cn86gtg",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/sj4cn86gtg"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "86001210177",
+   "id": "305b20da6e41",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Esine",
    "tipo": "Comune",
    "titolo": "Bando a sostegno di bande musicali, fanfare, cori e gruppi folk della Lombardia (ai sensi dell’art. 5 della l.r. n. 5 /2025) – anno 2026",
@@ -2207,35 +1752,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Gardone Riviera",
-   "tipo": "Comune",
-   "titolo": "Bando Assegni di studio anno 2026",
-   "pubblicazione": "2026-11-06",
-   "scadenza": null,
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "centri estivi",
-    "estiv"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.gardoneriviera.bs.it/Novita/Notizie",
-   "fonti": [
-    {
-     "nome": "sito comune.gardoneriviera.bs.it",
-     "link": "https://www.comune.gardoneriviera.bs.it/Novita/Notizie"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00368800173",
-   "id": "f4604ef256f2",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Losine",
    "tipo": "Biblioteca",
    "titolo": "Avviso chiusura biblioteca comunale",
@@ -2291,6 +1807,35 @@
    "cig": null,
    "cf": "00827470170",
    "id": "ddebc5130a66",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. ORZINUOVI (Orzivecchi)",
+   "tipo": "Scuola",
+   "titolo": "Decreto di rettifica pubblicazione graduatoria candidature Piano Estate 26/27",
+   "pubblicazione": "2026-11-06",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/0b6qguruff",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/0b6qguruff"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "86001210177",
+   "id": "ad1099beb0ca",
    "nuovo": false
   },
   {
@@ -2466,35 +2011,6 @@
    "nuovo": false
   },
   {
-   "ente": "ISTITUTO COMPRENSIVO - IC CENTRO 3 BRESCIA",
-   "tipo": "Scuola",
-   "titolo": "Decreto di pubblicazione della graduatoria definitiva - avviso di selezione prot. 10705 del 27-10-2026 - progetto PN Agenda Nord (DM 176/2025)",
-   "pubblicazione": "2026-11-10",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "dispersione scolastica",
-    "inclusione",
-    "selezione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://www.iccentro3.edu.it/albo-pretorio/decreto-di-pubblicazione-della-graduatoria-definitiva-avviso-di-selezione-prot-10705",
-   "fonti": [
-    {
-     "nome": "sito iccentro3.edu.it",
-     "link": "https://www.iccentro3.edu.it/albo-pretorio/decreto-di-pubblicazione-della-graduatoria-definitiva-avviso-di-selezione-prot-10705"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "80052510171",
-   "id": "dd57e269e5ff",
-   "nuovo": false
-  },
-  {
    "ente": "1' IC DESENZANO (Desenzano Del Garda)",
    "tipo": "Scuola",
    "titolo": "DECRETO GRADUATORIA DEFINITIVA CODING PIANO ESTATE 2026/27",
@@ -2649,7 +2165,6 @@
    "motivi": [
     "esperto esterno",
     "esperti esterni",
-    "ptof",
     "pn scuola",
     "fse"
    ],
@@ -2694,64 +2209,6 @@
    "cig": null,
    "cf": "90015430177",
    "id": "5b8f61e1e59a",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Collio",
-   "tipo": "Comune",
-   "titolo": "DETERMINA N. 129 DEL 13.11.2026: AGGIUDICAZIONE SERVIZIO EDUCATIVO RIVOLTO AI MINORI DI ETA' 3-6 ANNI PRESSO LA SCUOLA DELL'INFANZIA DI S. COLOMBANO CIG: BD05CADFE2",
-   "pubblicazione": "2026-11-13",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "scuola dell'infanzia"
-   ],
-   "temi": [
-    "Infanzia e famiglie"
-   ],
-   "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmscollio/portale/albopretorio/albopretorioconsultazione.aspx?P=400",
-   "fonti": [
-    {
-     "nome": "sito servizionline.hspromilaprod.hypersicapp.net",
-     "link": "https://servizionline.hspromilaprod.hypersicapp.net/cmscollio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
-    }
-   ],
-   "esito": true,
-   "cig": "BD05CADFE2",
-   "cf": "00850830175",
-   "id": "71ff8cb83b94",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Gardone Riviera",
-   "tipo": "Comune",
-   "titolo": "AVVISO PUBBLICO PER LA CONCESSIONE DI CONTRIBUTI ECONOMICI A SOSTEGNO DELL'AFFITTO",
-   "pubblicazione": "2026-11-13",
-   "scadenza": null,
-   "importo": "€ 500,00",
-   "partecipanti": null,
-   "motivi": [
-    "centri estivi",
-    "estiv",
-    "avviso pubblico",
-    "contributi"
-   ],
-   "temi": [
-    "Infanzia e famiglie",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.gardoneriviera.bs.it/Novita/Notizie",
-   "fonti": [
-    {
-     "nome": "sito comune.gardoneriviera.bs.it",
-     "link": "https://www.comune.gardoneriviera.bs.it/Novita/Notizie"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00368800173",
-   "id": "9efabb56f4e5",
    "nuovo": false
   },
   {
@@ -2875,12 +2332,10 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "teatr",
-    "bibliotec"
+    "teatr"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
+    "Teatro e spettacoli"
    ],
    "link": "https://orzivecchi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/8506736",
    "fonti": [
@@ -3125,33 +2580,6 @@
    "nuovo": false
   },
   {
-   "ente": "ISTITUTO COMPRENSIVO - IC SALO' 'T.OLIVELLI'",
-   "tipo": "Scuola",
-   "titolo": "Decisione a contrarre affido tramite MEPA gestione progetto LAB. TEATRALE - SSPG G. D'ANNUNZIO a.s. 2026/2027",
-   "pubblicazione": "2026-11-16",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "teatr"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0098/ljfm5ggl2u",
-   "fonti": [
-    {
-     "nome": "sito web.spaggiari.eu",
-     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0098/ljfm5ggl2u"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "96034960177",
-   "id": "e21ed9a5c558",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Berlingo",
    "tipo": "Comune",
    "titolo": "contributo libri di testo scuola secondaria di primo grado di Berlingo A.S. 2025/2026",
@@ -3204,33 +2632,6 @@
    "cig": null,
    "cf": "98040230173",
    "id": "a73d089f6098",
-   "nuovo": false
-  },
-  {
-   "ente": "I.C. BORGO SAN GIACOMO (San Paolo)",
-   "tipo": "Scuola",
-   "titolo": "DECRETO DI NOMINA FUNZIONE STRUMENTALE Area 2: INTERVENTI E SERVIZI PER GLI STUDENTI: INCLUSIONE ED INTEGRAZIONE",
-   "pubblicazione": "2026-11-17",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0109/stamekftd4",
-   "fonti": [
-    {
-     "nome": "sito web.spaggiari.eu",
-     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0109/stamekftd4"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "98175170178",
-   "id": "f9330b2563a8",
    "nuovo": false
   },
   {
@@ -3292,34 +2693,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Capo di Ponte",
-   "tipo": "Comune",
-   "titolo": "DELIBERA DI GIUNTA COMUNALE N° 100 del 06/11/26 Oggetto: APPROVAZIONE DELLO SCHEMA DI CONVENZIONE TRA IL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI E IL COMUNE DI CAPO DI PONTE PER LA REGOLAMENTAZIONE DELL ACCESSO E DELLA GESTIONE DELLA PIATTAFORMA PER IL PATTO PER L INCLUSIONE SOCIALE (GEPI) AI",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione",
-    "pon"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2249&RicCro=1&CE=cpdpnt1569",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2249&RicCro=1&CE=cpdpnt1569"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "81001410174",
-   "id": "a207b86f6667",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Montichiari",
    "tipo": "Comune",
    "titolo": "CONTRIBUTO ECONOMICO A FAVORE DI FONDAZIONE PROVINCIA DI BRESCIA EVENTI A PARZIALE SOSTEGNO ONERI ORGANIZZAZIONE EVENTO CULTURALE E VIDEO PROMOZIONALE PINACOTECA PASINETTI",
@@ -3344,36 +2717,6 @@
    "cig": null,
    "cf": "00645400177",
    "id": "952c23756ed6",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Niardo",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per la vendita di legname in località Dadina",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "natalizi",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Natale"
-   ],
-   "link": "https://www.comune.niardo.bs.it/avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.niardo.bs.it",
-     "link": "https://www.comune.niardo.bs.it/avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "81002370179",
-   "id": "1e02cbab396d",
    "nuovo": false
   },
   {
@@ -3413,8 +2756,7 @@
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "piano estate",
-    "estate"
+    "piano estate"
    ],
    "temi": [
     "Laboratori nelle scuole",
@@ -3431,34 +2773,6 @@
    "cig": null,
    "cf": "84004450171",
    "id": "600fb83506ae",
-   "nuovo": false
-  },
-  {
-   "ente": "IC I^ DARFO BOARIO TERME (Gianico)",
-   "tipo": "Scuola",
-   "titolo": "Decisione di contrarre n. 98 per l’affidamento diretto di “ACQUISTO INGRESSI PER LO SPETTACOLO \"IL MAGO DI OZ\" USCITA DIDATTICA DEL 13/04/2027 A MILANO CL. 4^ EE GIANICO”.",
-   "pubblicazione": "2026-11-18",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "spettacol",
-    "affidamento"
-   ],
-   "temi": [
-    "Teatro e spettacoli"
-   ],
-   "link": "https://nuvola.madisoft.it/bacheca-digitale/3100/documento/BSIC858001",
-   "fonti": [
-    {
-     "nome": "sito nuvola.madisoft.it",
-     "link": "https://nuvola.madisoft.it/bacheca-digitale/3100/documento/BSIC858001"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "90015430177",
-   "id": "50e348b80024",
    "nuovo": false
   },
   {
@@ -3492,6 +2806,34 @@
    "nuovo": false
   },
   {
+   "ente": "IC I^ DARFO BOARIO TERME (Gianico)",
+   "tipo": "Scuola",
+   "titolo": "Decisione di contrarre n. 98 per l’affidamento diretto di “ACQUISTO INGRESSI PER LO SPETTACOLO \"IL MAGO DI OZ\" USCITA DIDATTICA DEL 13/04/2027 A MILANO CL. 4^ EE GIANICO”.",
+   "pubblicazione": "2026-11-18",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "spettacol",
+    "affidamento"
+   ],
+   "temi": [
+    "Teatro e spettacoli"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/3100/documento/BSIC858001",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/3100/documento/BSIC858001"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "90015430177",
+   "id": "50e348b80024",
+   "nuovo": false
+  },
+  {
    "ente": "Comune di Irma",
    "tipo": "Comune",
    "titolo": "Delibera: Giunta Comunale N.44 DEL 19/11/2026: CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE PRO LOCO IRMA ASP PER LA MANIFESTAZIONE MERCATINI NATALIZI DI IRMA DEL 22.11.2026",
@@ -3517,38 +2859,6 @@
    "cig": null,
    "cf": "83001270178",
    "id": "cd1c903eb1ee",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Nave",
-   "tipo": "Comune",
-   "titolo": "Avviso pubblico per l'erogazione del contributo economico TARI 2026",
-   "pubblicazione": "2026-11-19",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "per bambini",
-    "natale",
-    "avviso pubblico"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.nave.bs.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nave.bs.it",
-     "link": "https://www.comune.nave.bs.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80008790174",
-   "id": "5355f1d1d941",
    "nuovo": false
   },
   {
@@ -3619,7 +2929,6 @@
    "partecipanti": null,
    "motivi": [
     "musical",
-    "musicale",
     "avviso pubblico",
     "selezione"
    ],
@@ -3698,67 +3007,6 @@
    "nuovo": false
   },
   {
-   "ente": "Comune di Nave",
-   "tipo": "Comune",
-   "titolo": "Selezione pubblica per un farmacista collaboratore a tempo indeterminato e part-time presso Nave Servizi srl Unipersonale",
-   "pubblicazione": "2026-11-20",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "per bambini",
-    "natale",
-    "selezione"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Infanzia e famiglie",
-    "Natale"
-   ],
-   "link": "https://www.comune.nave.bs.it/it/news?type=1",
-   "fonti": [
-    {
-     "nome": "sito comune.nave.bs.it",
-     "link": "https://www.comune.nave.bs.it/it/news?type=1"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "80008790174",
-   "id": "acc94a634694",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Polaveno",
-   "tipo": "Comune",
-   "titolo": "AVVISO DI RIUNIONE DEL CONSIGLIO COMUNALE",
-   "pubblicazione": "2026-11-20",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "estiv"
-   ],
-   "temi": [
-    "Lettura e biblioteche",
-    "Estate e musica"
-   ],
-   "link": "https://www.comune.polaveno.bs.it/Novita/Avvisi",
-   "fonti": [
-    {
-     "nome": "sito comune.polaveno.bs.it",
-     "link": "https://www.comune.polaveno.bs.it/Novita/Avvisi"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00827470170",
-   "id": "b58562bea7a9",
-   "nuovo": false
-  },
-  {
    "ente": "I.C. DI LONATO UGO DA COMO (Lonato Del Garda)",
    "tipo": "Scuola",
    "titolo": "Determina_Progetto Infanzia Wojtyla TEATRO ARCI",
@@ -3786,30 +3034,32 @@
    "nuovo": false
   },
   {
-   "ente": "IST. COMPRENSIVO CASTEGNATO",
+   "ente": "I.C. ORZINUOVI (Orzivecchi)",
    "tipo": "Scuola",
-   "titolo": "DETERMINA A CONTRARRE RINNOVO ABBONAMENTO ANNUALE EDICOLA E BIBLIOTECA DIGITALE",
+   "titolo": "Decreto di liquidazione dei compensi al personale impegnato nella realizzazione del progetto “TUTTI PER UNA SCUOLA” - Piano Estate 2025/26",
    "pubblicazione": "2026-11-20",
    "scadenza": null,
    "importo": null,
    "partecipanti": null,
    "motivi": [
-    "bibliotec"
+    "piano estate",
+    "estate"
    ],
    "temi": [
-    "Lettura e biblioteche"
+    "Laboratori nelle scuole",
+    "Estate e musica"
    ],
-   "link": "https://nuvola.madisoft.it/bacheca-digitale/8500/documento/BSIC81000X",
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/951vupnnme",
    "fonti": [
     {
-     "nome": "sito nuvola.madisoft.it",
-     "link": "https://nuvola.madisoft.it/bacheca-digitale/8500/documento/BSIC81000X"
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/951vupnnme"
     }
    ],
    "esito": true,
    "cig": null,
-   "cf": "98093000176",
-   "id": "29d6b3831a39",
+   "cf": "86001210177",
+   "id": "d60b661ffdc7",
    "nuovo": false
   },
   {
@@ -3870,6 +3120,33 @@
    "cig": null,
    "cf": "80049670179",
    "id": "001da8a9b082",
+   "nuovo": false
+  },
+  {
+   "ente": "IST. COMPRENSIVO CASTEGNATO",
+   "tipo": "Scuola",
+   "titolo": "DETERMINA A CONTRARRE RINNOVO ABBONAMENTO ANNUALE EDICOLA E BIBLIOTECA DIGITALE",
+   "pubblicazione": "2026-11-20",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://nuvola.madisoft.it/bacheca-digitale/8500/documento/BSIC81000X",
+   "fonti": [
+    {
+     "nome": "sito nuvola.madisoft.it",
+     "link": "https://nuvola.madisoft.it/bacheca-digitale/8500/documento/BSIC81000X"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "98093000176",
+   "id": "29d6b3831a39",
    "nuovo": false
   },
   {
@@ -4008,33 +3285,6 @@
    "cig": null,
    "cf": "00632150173",
    "id": "97d50364d7bf",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Sale Marasino",
-   "tipo": "Comune",
-   "titolo": "DETERMINA AREA AMMINISTRATIVA GENERALE N° 329/135 del 23/11/26 Oggetto: RETTIFICA ED INTEGRAZIONE DELL IMPEGNO DI SPESA PER CONCESSIONE CONTRIBUTO STRAORDINARIO ALL'ENTE MORALE ASILO INFANTILE DI SALE MARASINO E ALLA PARROCCHIA S. ZENONE PER ORGANIZZAZIONE CRE (CENTRO RICREATIVO DIURNO), ESTATE 2026",
-   "pubblicazione": "2026-11-23",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "estate"
-   ],
-   "temi": [
-    "Estate e musica"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2684&RicCro=1&CE=slmrsn1592",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2684&RicCro=1&CE=slmrsn1592"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "80015470174",
-   "id": "0ef15a9e6526",
    "nuovo": false
   },
   {
@@ -4181,6 +3431,33 @@
    "nuovo": false
   },
   {
+   "ente": "GHEDI \"RINALDINI\"",
+   "tipo": "Scuola",
+   "titolo": "Procedura attivazione account istituzionali alunne e alunni iscritti alla scuola dell’infanzia",
+   "pubblicazione": "2026-11-23",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "educazione digitale"
+   ],
+   "temi": [
+    "Legalita e temi civici"
+   ],
+   "link": "https://icghedi.edu.it/novita/circolari/procedura-attivazione-account-istituzionali-alunne-e-alunni-iscritti-alla-scuola",
+   "fonti": [
+    {
+     "nome": "sito icghedi.edu.it",
+     "link": "https://icghedi.edu.it/novita/circolari/procedura-attivazione-account-istituzionali-alunne-e-alunni-iscritti-alla-scuola"
+    }
+   ],
+   "esito": false,
+   "cig": null,
+   "cf": "80053710176",
+   "id": "5e0bedee38fb",
+   "nuovo": false
+  },
+  {
    "ente": "IC I^ DARFO BOARIO TERME (Gianico)",
    "tipo": "Scuola",
    "titolo": "DECISIONE DI CONTRARRE N. 100 INCARICO ESPERTO ESTERNO PROGETTO AFFETTIVITA' E SPORTELLO ASCOLTO",
@@ -4235,34 +3512,6 @@
    "cig": null,
    "cf": "81003670171",
    "id": "5a4fa5591af1",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Cerveno",
-   "tipo": "Biblioteca",
-   "titolo": "DETERMINA SERVIZIO TECNICO N° 62 del 17/11/26 Oggetto: AFFIDAMENTO, MEDIANTE AFFIDAMENTO DIRETTO, AI SENSI DELL ART. 50, COMMA 1 - LETTERA B) DEL D.LGS. N. 36/2023 E S.M.I., DEL SERVIZIO DI REDAZIONE DEL PIANO DI EMERGENZA ED EVACUAZIONE DELLA BIBLIOTECA COMUNALE. (CODICE CIG: BDD7138DFC).",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "bibliotec",
-    "affidamento"
-   ],
-   "temi": [
-    "Lettura e biblioteche"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2621&RicCro=1&CE=crvn1570",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2621&RicCro=1&CE=crvn1570"
-    }
-   ],
-   "esito": true,
-   "cig": "BDD7138DFC",
-   "cf": "00980200174",
-   "id": "04ed262f6fd8",
    "nuovo": false
   },
   {
@@ -4324,6 +3573,34 @@
    "nuovo": false
   },
   {
+   "ente": "Comune di Cerveno",
+   "tipo": "Biblioteca",
+   "titolo": "DETERMINA SERVIZIO TECNICO N° 62 del 17/11/26 Oggetto: AFFIDAMENTO, MEDIANTE AFFIDAMENTO DIRETTO, AI SENSI DELL ART. 50, COMMA 1 - LETTERA B) DEL D.LGS. N. 36/2023 E S.M.I., DEL SERVIZIO DI REDAZIONE DEL PIANO DI EMERGENZA ED EVACUAZIONE DELLA BIBLIOTECA COMUNALE. (CODICE CIG: BDD7138DFC).",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "bibliotec",
+    "affidamento"
+   ],
+   "temi": [
+    "Lettura e biblioteche"
+   ],
+   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2621&RicCro=1&CE=crvn1570",
+   "fonti": [
+    {
+     "nome": "sito servizipubblicaamministrazione.it",
+     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=2621&RicCro=1&CE=crvn1570"
+    }
+   ],
+   "esito": true,
+   "cig": "BDD7138DFC",
+   "cf": "00980200174",
+   "id": "04ed262f6fd8",
+   "nuovo": false
+  },
+  {
    "ente": "IC KENNEDY OVEST 3 BRESCIA",
    "tipo": "Scuola",
    "titolo": "Progetto Regionale “Sport per la Legalità” - Candidature 24 Novembre 2026",
@@ -4348,6 +3625,39 @@
    "cig": null,
    "cf": "98156720173",
    "id": "f7caf971b34b",
+   "nuovo": false
+  },
+  {
+   "ente": "I.C. ORZINUOVI (Orzivecchi)",
+   "tipo": "Scuola",
+   "titolo": "Decreto conferimento incarico figure professionali di supporto gestionale-operativo DOCENTI-Piano Estate 2026/27",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "piano estate",
+    "estate"
+   ],
+   "temi": [
+    "Laboratori nelle scuole",
+    "Estate e musica"
+   ],
+   "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/0cd1d7g598",
+   "fonti": [
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/0cd1d7g598"
+    },
+    {
+     "nome": "sito web.spaggiari.eu",
+     "link": "https://web.spaggiari.eu/sdg2/Documenti/BSME0097/7tsq604ll8"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "86001210177",
+   "id": "43f1a112540f",
    "nuovo": false
   },
   {
@@ -4461,6 +3771,33 @@
    "nuovo": false
   },
   {
+   "ente": "LICEO SCIENTIFICO - ISTITUTO D'ISTRUZIONE SUPERIORE C.GOLGI",
+   "tipo": "Scuola",
+   "titolo": "Decreto di nomina del Gruppo di Lavoro per l'Inclusione (GLI) - Anno scolastico 2026/2027. Altri avvisi emittente: Ufficio Didattica numero di pubblicazione: 432 periodo di pubblicazione: dal 24/11/2026 fino a revoca",
+   "pubblicazione": "2026-11-24",
+   "scadenza": null,
+   "importo": null,
+   "partecipanti": null,
+   "motivi": [
+    "inclusione"
+   ],
+   "temi": [
+    "Laboratori nelle scuole"
+   ],
+   "link": "https://liceogolgi.trasparenza.apps.ckube.it/pages/albo/?Id=447324&pg=0",
+   "fonti": [
+    {
+     "nome": "sito liceogolgi.trasparenza.apps.ckube.it",
+     "link": "https://liceogolgi.trasparenza.apps.ckube.it/pages/albo/?Id=447324&pg=0"
+    }
+   ],
+   "esito": true,
+   "cig": null,
+   "cf": "81003670171",
+   "id": "7695d0f2b6ba",
+   "nuovo": false
+  },
+  {
    "ente": "ISTITUTO COMPRENSIVO - PONTEVICO CAP.",
    "tipo": "Scuola",
    "titolo": "AVVISO DI SELEZIONE ESPERTI PROGETTI PTOF 2026-27",
@@ -4516,33 +3853,6 @@
    "nuovo": false
   },
   {
-   "ente": "LICEO SCIENTIFICO - ISTITUTO D'ISTRUZIONE SUPERIORE C.GOLGI",
-   "tipo": "Scuola",
-   "titolo": "Decreto di nomina del Gruppo di Lavoro per l'Inclusione (GLI) - Anno scolastico 2026/2027. Altri avvisi emittente: Ufficio Didattica numero di pubblicazione: 432 periodo di pubblicazione: dal 24/11/2026 fino a revoca",
-   "pubblicazione": "2026-11-24",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://liceogolgi.trasparenza.apps.ckube.it/pages/albo/?Id=447324&pg=0",
-   "fonti": [
-    {
-     "nome": "sito liceogolgi.trasparenza.apps.ckube.it",
-     "link": "https://liceogolgi.trasparenza.apps.ckube.it/pages/albo/?Id=447324&pg=0"
-    }
-   ],
-   "esito": true,
-   "cig": null,
-   "cf": "81003670171",
-   "id": "7695d0f2b6ba",
-   "nuovo": false
-  },
-  {
    "ente": "Comune di Brescia",
    "tipo": "Comune",
    "titolo": "BO 296/2026 - AFFIDAMENTO DIRETTO ALL'OPERATORE CENTRO TEATRALE BRESCIANO DEL SERVIZIO DI SERVICE TECNICO E ALLESTIMENTO PER N. 2 EVENTI PROGRAMMATI PRESSO TEATRO SOCIALE NELLE DATE 25 NOVEMBRE 2026 E 16 DICEMBRE 2026. IMPORTO COMPLESSIVO DEL CONTRATTO € 16.470,00 (ONERI FISCALI 22% INCLUSI). PROCED",
@@ -4584,11 +3894,11 @@
    "temi": [
     "Lettura e biblioteche"
    ],
-   "link": "https://www.comune.concesio.brescia.it/it/news?type=3",
+   "link": "https://comune.concesio.brescia.it/it/news?type=3",
    "fonti": [
     {
      "nome": "sito comune.concesio.brescia.it",
-     "link": "https://www.comune.concesio.brescia.it/it/news?type=3"
+     "link": "https://comune.concesio.brescia.it/it/news?type=3"
     }
    ],
    "esito": false,
@@ -4667,12 +3977,10 @@
    "partecipanti": null,
    "motivi": [
     "teatr",
-    "bibliotec",
     "affidamento"
    ],
    "temi": [
-    "Teatro e spettacoli",
-    "Lettura e biblioteche"
+    "Teatro e spettacoli"
    ],
    "link": "https://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10664593",
    "fonti": [
@@ -4685,33 +3993,6 @@
    "cig": "B9CCE108CA",
    "cf": "00350520177",
    "id": "b47abb09d744",
-   "nuovo": false
-  },
-  {
-   "ente": "Comune di Ono San Pietro",
-   "tipo": "Comune",
-   "titolo": "DELIBERA DI GIUNTA COMUNALE N° 59 del 19/11/26 Oggetto: ESAME ED APPROVAZIONE DELLO SCHEMA DI CONVENZIONE CON IL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI PER L'ACCESSO E LA GESTIONE DELLA \"PIATTAFORMA PER IL PATTO PER L'INCLUSIONE SOCIALE\" (GEPI) AI SENSI DELL'ART. 6, COMMA 9, DEL DECRETO INTE",
-   "pubblicazione": "2026-11-25",
-   "scadenza": null,
-   "importo": null,
-   "partecipanti": null,
-   "motivi": [
-    "inclusione"
-   ],
-   "temi": [
-    "Laboratori nelle scuole"
-   ],
-   "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=1093&RicCro=1&CE=nsnptr1572",
-   "fonti": [
-    {
-     "nome": "sito servizipubblicaamministrazione.it",
-     "link": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?Pub=1093&RicCro=1&CE=nsnptr1572"
-    }
-   ],
-   "esito": false,
-   "cig": null,
-   "cf": "00968280172",
-   "id": "0d415187542f",
    "nuovo": false
   },
   {
@@ -5140,7 +4421,6 @@
    "partecipanti": null,
    "motivi": [
     "musical",
-    "musicale",
     "affidamento"
    ],
    "temi": [
@@ -5180,7 +4460,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "Unione Dei Comuni Lombarda Bassa Bresciana Occidentale",
@@ -5246,7 +4526,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di Bovegno",
@@ -5269,6 +4549,17 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 1
+   },
+   {
+    "nome": "Comune di Collio",
+    "tipo": "Comune",
+    "sito": "https://www.comune.collio.bs.it/",
+    "esito": "non letto",
+    "motivo": "errore 504",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 6
    },
    {
     "nome": "Comune di Gussago",
@@ -5312,7 +4603,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 1
    },
    {
     "nome": "Comune di Magasa",
@@ -5365,7 +4656,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 1
+    "secondi": 5
    },
    {
     "nome": "Comune di Quinzano d'Oglio",
@@ -5678,7 +4969,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 99
+    "secondi": 98
    },
    {
     "nome": "IC D.ALIGHIERI CALCINATO",
@@ -5733,7 +5024,7 @@
     "pagine": [],
     "voci": 0,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 5
    },
    {
     "nome": "IC NORD 1 BRESCIA",
@@ -5791,17 +5082,6 @@
     "secondi": 5
    },
    {
-    "nome": "IPSEOA CATERINA DE MEDICI - GARDONE R. (Desenzano Del Garda)",
-    "tipo": "Scuola",
-    "sito": "https://www.alberghierodemedici.edu.it/",
-    "esito": "non letto",
-    "motivo": "errore 509",
-    "pagine": [],
-    "voci": 0,
-    "trovati": 0,
-    "secondi": 16
-   },
-   {
     "nome": "IST. COMPRENSIVO COCCAGLIO",
     "tipo": "Scuola",
     "sito": "https://www.iccoccaglio.it/",
@@ -5829,6 +5109,28 @@
     "motivo": "nessun sito indicato negli open data",
     "pagine": [],
     "trovati": 0
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - IC 'A. BELLI'-SABBIO CHIESE",
+    "tipo": "Scuola",
+    "sito": "https://www.icbellisabbiochiese.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
+    "nome": "ISTITUTO COMPRENSIVO - IC SALO' 'T.OLIVELLI'",
+    "tipo": "Scuola",
+    "sito": "http://www.icsalo.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 4
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC TITO SPERI CENTRO 2",
@@ -5917,6 +5219,17 @@
     "secondi": 5
    },
    {
+    "nome": "ROVATO - \"LORENZO GIGLI\"",
+    "tipo": "Scuola",
+    "sito": "https://www.istitutogiglirovato.edu.it/",
+    "esito": "non letto",
+    "motivo": "errore 509",
+    "pagine": [],
+    "voci": 0,
+    "trovati": 0,
+    "secondi": 5
+   },
+   {
     "nome": "AZIENDA SPECIALE CONSORTILE OVEST SOLIDALE",
     "tipo": "Altro ente",
     "sito": "https://www.pianodizonabresciaovest.it/servizi/notizie/notizie_homepage.aspx",
@@ -5938,7 +5251,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "Azienda Speciale Consortile Garda Sociale",
@@ -5974,7 +5287,7 @@
     ],
     "voci": 30,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 15
    },
    {
     "nome": "Unione Antichi Borghi di Vallecamonica",
@@ -6010,7 +5323,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 94
+    "secondi": 11
    },
    {
     "nome": "Unione Dei Comuni Delle Alpi Orobie Bresciane",
@@ -6042,7 +5355,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 14
    },
    {
     "nome": "Unione Dei Comuni della Media Valle Camonica - Civilta' Delle Pietre",
@@ -6078,7 +5391,7 @@
     ],
     "voci": 75,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 35
    },
    {
     "nome": "Unione Dei Comuni della Valsaviore",
@@ -6097,24 +5410,24 @@
      },
      {
       "nome": "Albo",
+      "url": "https://unionevalsaviore.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10315"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://unionevalsaviore.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10316"
+     },
+     {
+      "nome": "Albo",
       "url": "https://unionevalsaviore.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
       "nome": "Albo",
       "url": "https://unionevalsaviore.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10316"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.unionevalsaviore.bs.it/Pages/Bandi/procedure/digara/"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.unionevalsaviore.bs.it/avvisi"
      }
     ],
-    "voci": 251,
+    "voci": 6,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 14
    },
    {
     "nome": "Unione Dei Comuni della Valtenesi",
@@ -6142,7 +5455,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 51
+    "secondi": 49
    },
    {
     "nome": "Unione Lombarda Dei Comuni Montani dell'Alta Val Trompia - La Via del Ferro",
@@ -6158,7 +5471,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "Unione dei Comuni dell'Alta Valle Camonica",
@@ -6242,7 +5555,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 26
    },
    {
     "nome": "Comune di Adro",
@@ -6254,10 +5567,6 @@
      {
       "nome": "Albo",
       "url": "https://www.comune.adro.bs.it/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "http://www.servizipubblicaamministrazione.it/servizi/saturnwebdl50art29/Home.aspx?ce=dr1543&Attivi=1"
      },
      {
       "nome": "Notizie",
@@ -6276,9 +5585,9 @@
       "url": "https://www.comune.adro.bs.it/amministrazione/amministrazione-trasparente/bandi-di-gara-e-contratti"
      }
     ],
-    "voci": 175,
-    "trovati": 2,
-    "secondi": 49
+    "voci": 173,
+    "trovati": 0,
+    "secondi": 94
    },
    {
     "nome": "Comune di Agnosine",
@@ -6293,15 +5602,15 @@
      },
      {
       "nome": "Albo",
-      "url": "https://agnosine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27388"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://agnosine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27389"
-     },
-     {
-      "nome": "Albo",
       "url": "https://agnosine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27388"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://agnosine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://agnosine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27389"
      },
      {
       "nome": "Bandi/avvisi",
@@ -6314,7 +5623,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 23
    },
    {
     "nome": "Comune di Alfianello",
@@ -6346,7 +5655,7 @@
     ],
     "voci": 25,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 14
    },
    {
     "nome": "Comune di Anfo",
@@ -6376,13 +5685,13 @@
       "url": "https://anfo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=685"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.anfo.bs.it/pagina133689_novit.html"
+      "nome": "Albo",
+      "url": "https://anfo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      }
     ],
-    "voci": 7,
+    "voci": 3,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 13
    },
    {
     "nome": "Comune di Angolo Terme",
@@ -6418,7 +5727,7 @@
     ],
     "voci": 32,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 23
    },
    {
     "nome": "Comune di Artogne",
@@ -6430,6 +5739,10 @@
      {
       "nome": "Albo",
       "url": "https://artogne.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://artogne.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=23798"
      },
      {
       "nome": "Albo",
@@ -6446,15 +5759,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.artogne.bs.it/notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://artogne.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 37,
+    "voci": 34,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 23
    },
    {
     "nome": "Comune di Bagolino",
@@ -6490,7 +5799,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 12
    },
    {
     "nome": "Comune di Barbariga",
@@ -6522,7 +5831,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Barghe",
@@ -6533,6 +5842,14 @@
     "pagine": [
      {
       "nome": "Albo",
+      "url": "https://www.comune.barghe.bs.it/area_letturaServizio/2284/pagsistema.html"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.barghe.bs.it/pagina133704_avvisi.html"
+     },
+     {
+      "nome": "Albo",
       "url": "https://barghe.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=184"
      },
      {
@@ -6541,24 +5858,16 @@
      },
      {
       "nome": "Albo",
-      "url": "https://barghe.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+      "url": "https://barghe.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=185"
      },
      {
       "nome": "Albo",
-      "url": "https://barghe.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=185"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.barghe.bs.it/pagina133704_avvisi.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.barghe.bs.it/pagina133689_novit.html"
+      "url": "https://barghe.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      }
     ],
-    "voci": 27,
+    "voci": 17,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 14
    },
    {
     "nome": "Comune di Bassano Bresciano",
@@ -6567,14 +5876,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://bassanobresciano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://bassanobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=49000"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.bassano-bresciano.bs.it/it/news?type=3"
@@ -6588,9 +5889,9 @@
       "url": "https://www.comune.bassano-bresciano.bs.it/it/news?type=1"
      }
     ],
-    "voci": 27,
+    "voci": 25,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 9
    },
    {
     "nome": "Comune di Bedizzole",
@@ -6605,11 +5906,15 @@
      },
      {
       "nome": "Albo",
-      "url": "https://bedizzole.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17888"
+      "url": "https://bedizzole.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17888"
      },
      {
       "nome": "Albo",
       "url": "https://bedizzole.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bedizzole.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17888"
      },
      {
       "nome": "Bandi/avvisi",
@@ -6618,15 +5923,11 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://trasparenza.comune.bedizzole.bs.it/"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://trasparenza.comune.bedizzole.bs.it/pagina566_bandi-di-gara-e-contratti.html"
      }
     ],
-    "voci": 34,
+    "voci": 9,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 17
    },
    {
     "nome": "Comune di Berlingo",
@@ -6690,7 +5991,7 @@
     ],
     "voci": 47,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 16
    },
    {
     "nome": "Comune di Berzo Inferiore",
@@ -6718,7 +6019,7 @@
     ],
     "voci": 42,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 12
    },
    {
     "nome": "Comune di Bienno",
@@ -6727,6 +6028,18 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://bienno.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bienno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3068"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bienno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3068"
+     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.bienno.bs.it/avvisi"
@@ -6738,15 +6051,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.bienno.bs.it/notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.comune.bienno.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 35,
+    "voci": 25,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 16
    },
    {
     "nome": "Comune di Bione",
@@ -6755,14 +6064,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.comune.bione.bs.it/area_letturaServizio/1983/pagsistema.html"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://www.comune.bione.bs.it/pagina133704_avvisi.html"
-     },
      {
       "nome": "Albo",
       "url": "https://bione.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
@@ -6778,11 +6079,19 @@
      {
       "nome": "Albo",
       "url": "https://bione.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=885"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://bione.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=884"
+     },
+     {
+      "nome": "Bandi/avvisi",
+      "url": "https://www.comune.bione.bs.it/pagina133704_avvisi.html"
      }
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 12
    },
    {
     "nome": "Comune di Borno",
@@ -6817,7 +6126,7 @@
      }
     ],
     "voci": 37,
-    "trovati": 6,
+    "trovati": 3,
     "secondi": 32
    },
    {
@@ -6842,7 +6151,7 @@
     ],
     "voci": 16,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 18
    },
    {
     "nome": "Comune di Bovezzo",
@@ -6894,7 +6203,7 @@
     ],
     "voci": 7,
     "trovati": 1,
-    "secondi": 43
+    "secondi": 35
    },
    {
     "nome": "Comune di Braone",
@@ -6958,7 +6267,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 61
+    "secondi": 25
    },
    {
     "nome": "Comune di Brescia",
@@ -6986,7 +6295,7 @@
     ],
     "voci": 164,
     "trovati": 2,
-    "secondi": 122
+    "secondi": 100
    },
    {
     "nome": "Comune di Brione",
@@ -7022,7 +6331,7 @@
     ],
     "voci": 72,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 14
    },
    {
     "nome": "Comune di Caino",
@@ -7058,7 +6367,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 56
+    "secondi": 53
    },
    {
     "nome": "Comune di Calcinato",
@@ -7076,10 +6385,6 @@
       "url": "https://calcinato.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=18169"
      },
      {
-      "nome": "Albo",
-      "url": "https://calcinato.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=18169"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.calcinato.bs.it/it/news?type=3"
      },
@@ -7090,11 +6395,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.calcinato.bs.it/it/news?type=1"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://calcinato.trasparenza-valutazione-merito.it/"
      }
     ],
-    "voci": 87,
+    "voci": 74,
     "trovati": 3,
-    "secondi": 43
+    "secondi": 35
    },
    {
     "nome": "Comune di Calvagese della Riviera",
@@ -7130,7 +6439,7 @@
     ],
     "voci": 23,
     "trovati": 2,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "Comune di Calvisano",
@@ -7176,10 +6485,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=cpdpnt1569"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.capo-di-ponte.bs.it/avvisi"
      },
@@ -7196,9 +6501,9 @@
       "url": "https://www.comune.capo-di-ponte.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 72,
-    "trovati": 1,
-    "secondi": 31
+    "voci": 36,
+    "trovati": 0,
+    "secondi": 33
    },
    {
     "nome": "Comune di Capovalle",
@@ -7209,6 +6514,14 @@
     "pagine": [
      {
       "nome": "Albo",
+      "url": "https://www.comune.capovalle.bs.it/area_letturaServizio/2240/pagsistema.html"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.capovalle.bs.it/pagina133704_avvisi.html"
+     },
+     {
+      "nome": "Albo",
       "url": "https://capovalle.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1884"
      },
      {
@@ -7217,24 +6530,16 @@
      },
      {
       "nome": "Albo",
-      "url": "https://capovalle.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1884"
+      "url": "https://capovalle.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1885"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.capovalle.bs.it/pagina133704_avvisi.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.capovalle.bs.it/pagina133689_novit.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.capovalle.bs.it/pagina133701_notizie.html"
+      "nome": "Albo",
+      "url": "https://capovalle.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      }
     ],
-    "voci": 5,
+    "voci": 1,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 11
    },
    {
     "nome": "Comune di Capriano del Colle",
@@ -7270,7 +6575,7 @@
     ],
     "voci": 31,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "Comune di Carpenedolo",
@@ -7281,23 +6586,23 @@
     "pagine": [
      {
       "nome": "Albo",
-      "url": "https://www.comune.carpenedolo.bs.it/it/page/88359"
+      "url": "https://comune.carpenedolo.bs.it/it/page/88359"
      },
      {
       "nome": "Albo",
-      "url": "https://www.comune.carpenedolo.bs.it/it/news?type=3"
+      "url": "https://comune.carpenedolo.bs.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.carpenedolo.bs.it/it/menu/news"
+      "url": "https://comune.carpenedolo.bs.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.carpenedolo.bs.it/it/news?type=1"
+      "url": "https://comune.carpenedolo.bs.it/it/news?type=1"
      },
      {
       "nome": "Trasparenza",
-      "url": "https://www.comune.carpenedolo.bs.it/it/page/88358"
+      "url": "https://comune.carpenedolo.bs.it/it/page/88358"
      }
     ],
     "voci": 47,
@@ -7326,7 +6631,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 25
    },
    {
     "nome": "Comune di Castel Mella",
@@ -7398,7 +6703,7 @@
     ],
     "voci": 83,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 19
    },
    {
     "nome": "Comune di Castenedolo",
@@ -7422,7 +6727,7 @@
     ],
     "voci": 33,
     "trovati": 1,
-    "secondi": 37
+    "secondi": 40
    },
    {
     "nome": "Comune di Casto",
@@ -7431,6 +6736,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.casto.bs.it/area_letturaServizio/2304/pagsistema.html"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.casto.bs.it/pagina133704_avvisi.html"
+     },
      {
       "nome": "Albo",
       "url": "https://casto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
@@ -7444,21 +6757,13 @@
       "url": "https://casto.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=10897"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.casto.bs.it/pagina133704_avvisi.html"
-     },
-     {
       "nome": "Notizie",
       "url": "https://www.comune.casto.bs.it/pagina133689_novit.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.casto.bs.it/pagina133701_notizie.html"
      }
     ],
-    "voci": 18,
+    "voci": 13,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 42
    },
    {
     "nome": "Comune di Castrezzato",
@@ -7514,7 +6819,7 @@
     ],
     "voci": 202,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 34
    },
    {
     "nome": "Comune di Cedegolo",
@@ -7550,7 +6855,7 @@
     ],
     "voci": 46,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 20
    },
    {
     "nome": "Comune di Cellatica",
@@ -7574,7 +6879,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 26
    },
    {
     "nome": "Comune di Cerveno",
@@ -7606,7 +6911,7 @@
     ],
     "voci": 79,
     "trovati": 1,
-    "secondi": 61
+    "secondi": 331
    },
    {
     "nome": "Comune di Ceto",
@@ -7638,7 +6943,7 @@
     ],
     "voci": 75,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Cevo",
@@ -7766,7 +7071,7 @@
     ],
     "voci": 44,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 25
    },
    {
     "nome": "Comune di Cividate Camuno",
@@ -7784,10 +7089,6 @@
       "url": "https://cividatecamuno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17864"
      },
      {
-      "nome": "Albo",
-      "url": "https://cividatecamuno.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=17864"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.cividate-camuno.bs.it/avvisi"
      },
@@ -7798,11 +7099,15 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.cividate-camuno.bs.it/notizie"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.comune.cividate-camuno.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 27,
+    "voci": 37,
     "trovati": 0,
-    "secondi": 70
+    "secondi": 12
    },
    {
     "nome": "Comune di Coccaglio",
@@ -7830,7 +7135,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "Comune di Collebeato",
@@ -7854,43 +7159,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 37
-   },
-   {
-    "nome": "Comune di Collio",
-    "tipo": "Comune",
-    "sito": "https://www.comune.collio.bs.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscollio/portale/albopretorio/albopretorioconsultazione.aspx?P=400"
-     },
-     {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.collio.bs.it/it/news?type=3"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.collio.bs.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.collio.bs.it/it/news?type=2"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscollio/portale/trasparenza/trasparenzaamministrativa.aspx"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://servizionline.hspromilaprod.hypersicapp.net/cmscollio/portale/trasparenza/trasparenzaamministrativadocs.aspx?CP=81"
-     }
-    ],
-    "voci": 37,
-    "trovati": 1,
-    "secondi": 37
+    "secondi": 32
    },
    {
     "nome": "Comune di Cologne",
@@ -7900,25 +7169,33 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://cologne.trasparenza-valutazione-merito.it/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cologne.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=46784"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cologne.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=46784"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://cologne.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
       "nome": "Bandi/avvisi",
-      "url": "https://www.comune.cologne.bs.it/it/news?type=3"
+      "url": "https://comune.cologne.bs.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.cologne.bs.it/it/menu/news"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.cologne.bs.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://cologne.trasparenza-valutazione-merito.it/amministrazione-trasparente"
+      "url": "https://comune.cologne.bs.it/it/menu/news"
      }
     ],
-    "voci": 143,
+    "voci": 132,
     "trovati": 0,
-    "secondi": 89
+    "secondi": 36
    },
    {
     "nome": "Comune di Comezzano Cizzago",
@@ -7950,7 +7227,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "Comune di Concesio",
@@ -7965,15 +7242,15 @@
      },
      {
       "nome": "Bandi/avvisi",
-      "url": "https://www.comune.concesio.brescia.it/it/news?type=3"
+      "url": "https://comune.concesio.brescia.it/it/news?type=3"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.concesio.brescia.it/it/menu/news"
+      "url": "https://comune.concesio.brescia.it/it/menu/news"
      },
      {
       "nome": "Notizie",
-      "url": "https://www.comune.concesio.brescia.it/it/news?type=1"
+      "url": "https://comune.concesio.brescia.it/it/news?type=1"
      },
      {
       "nome": "Trasparenza",
@@ -7982,7 +7259,7 @@
     ],
     "voci": 198,
     "trovati": 7,
-    "secondi": 114
+    "secondi": 68
    },
    {
     "nome": "Comune di Corte Franca",
@@ -8006,7 +7283,7 @@
     ],
     "voci": 179,
     "trovati": 0,
-    "secondi": 72
+    "secondi": 64
    },
    {
     "nome": "Comune di Corteno Golgi",
@@ -8038,7 +7315,7 @@
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 32
+    "secondi": 29
    },
    {
     "nome": "Comune di Corzano",
@@ -8098,7 +7375,7 @@
     ],
     "voci": 64,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 42
    },
    {
     "nome": "Comune di Dello",
@@ -8134,7 +7411,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 15
    },
    {
     "nome": "Comune di Desenzano del Garda",
@@ -8170,7 +7447,7 @@
     ],
     "voci": 48,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 19
    },
    {
     "nome": "Comune di Edolo",
@@ -8202,7 +7479,7 @@
     ],
     "voci": 275,
     "trovati": 0,
-    "secondi": 73
+    "secondi": 70
    },
    {
     "nome": "Comune di Erbusco",
@@ -8234,7 +7511,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 94
+    "secondi": 37
    },
    {
     "nome": "Comune di Esine",
@@ -8243,6 +7520,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://esine.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://esine.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=19070"
+     },
      {
       "nome": "Albo",
       "url": "https://comune.esine.bs.it/Pages/Albo/"
@@ -8258,15 +7543,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.esine.bs.it/notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://comune.esine.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 58,
+    "voci": 48,
     "trovati": 2,
-    "secondi": 22
+    "secondi": 20
    },
    {
     "nome": "Comune di Fiesse",
@@ -8298,7 +7579,7 @@
     ],
     "voci": 37,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 15
    },
    {
     "nome": "Comune di Flero",
@@ -8334,7 +7615,7 @@
     ],
     "voci": 78,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 22
    },
    {
     "nome": "Comune di Gambara",
@@ -8358,7 +7639,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 8
    },
    {
     "nome": "Comune di Gardone Riviera",
@@ -8389,7 +7670,7 @@
      }
     ],
     "voci": 108,
-    "trovati": 2,
+    "trovati": 0,
     "secondi": 36
    },
    {
@@ -8414,7 +7695,7 @@
     ],
     "voci": 31,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 15
    },
    {
     "nome": "Comune di Gargnano",
@@ -8478,7 +7759,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 12
    },
    {
     "nome": "Comune di Ghedi",
@@ -8502,7 +7783,7 @@
     ],
     "voci": 149,
     "trovati": 0,
-    "secondi": 57
+    "secondi": 60
    },
    {
     "nome": "Comune di Gianico",
@@ -8530,7 +7811,7 @@
     ],
     "voci": 48,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "Comune di Gottolengo",
@@ -8558,7 +7839,7 @@
     ],
     "voci": 87,
     "trovati": 0,
-    "secondi": 55
+    "secondi": 53
    },
    {
     "nome": "Comune di Idro",
@@ -8662,7 +7943,7 @@
     ],
     "voci": 54,
     "trovati": 1,
-    "secondi": 39
+    "secondi": 38
    },
    {
     "nome": "Comune di Lavenone",
@@ -8698,7 +7979,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "Comune di Leno",
@@ -8734,7 +8015,7 @@
     ],
     "voci": 88,
     "trovati": 0,
-    "secondi": 69
+    "secondi": 37
    },
    {
     "nome": "Comune di Limone sul Garda",
@@ -8744,13 +8025,21 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://limonesulgarda.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
       "nome": "Notizie",
       "url": "https://www.comune.limonesulgarda.bs.it/it/news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://limonesulgarda.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 20,
+    "voci": 23,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 12
    },
    {
     "nome": "Comune di Lodrino",
@@ -8786,7 +8075,7 @@
     ],
     "voci": 87,
     "trovati": 2,
-    "secondi": 43
+    "secondi": 38
    },
    {
     "nome": "Comune di Lograto",
@@ -8813,8 +8102,8 @@
      }
     ],
     "voci": 43,
-    "trovati": 1,
-    "secondi": 46
+    "trovati": 0,
+    "secondi": 44
    },
    {
     "nome": "Comune di Lonato del Garda",
@@ -8849,7 +8138,7 @@
      }
     ],
     "voci": 55,
-    "trovati": 10,
+    "trovati": 2,
     "secondi": 45
    },
    {
@@ -8859,18 +8148,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://longhena.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://longhena.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=789"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://longhena.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=789"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://comune.longhena.bs.it/novita/3-avviso"
@@ -8882,11 +8159,15 @@
      {
       "nome": "Notizie",
       "url": "https://comune.longhena.bs.it/novita/1-news"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://longhena.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 20,
+    "voci": 23,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 11
    },
    {
     "nome": "Comune di Losine",
@@ -8895,10 +8176,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=lsn1571"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.losine.bs.it/avvisi"
@@ -8916,9 +8193,9 @@
       "url": "https://www.comune.losine.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 62,
+    "voci": 46,
     "trovati": 3,
-    "secondi": 27
+    "secondi": 42
    },
    {
     "nome": "Comune di Lozio",
@@ -8946,7 +8223,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "Comune di Lumezzane",
@@ -8978,7 +8255,7 @@
     ],
     "voci": 132,
     "trovati": 2,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "Comune di Mairano",
@@ -9010,7 +8287,7 @@
     ],
     "voci": 61,
     "trovati": 0,
-    "secondi": 55
+    "secondi": 30
    },
    {
     "nome": "Comune di Malegno",
@@ -9046,7 +8323,7 @@
     ],
     "voci": 30,
     "trovati": 0,
-    "secondi": 57
+    "secondi": 12
    },
    {
     "nome": "Comune di Malonno",
@@ -9078,7 +8355,7 @@
     ],
     "voci": 55,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 27
    },
    {
     "nome": "Comune di Manerba del Garda",
@@ -9102,7 +8379,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 24
    },
    {
     "nome": "Comune di Manerbio",
@@ -9138,7 +8415,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 18
    },
    {
     "nome": "Comune di Marcheno",
@@ -9174,7 +8451,7 @@
     ],
     "voci": 87,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 24
    },
    {
     "nome": "Comune di Marmentino",
@@ -9206,7 +8483,7 @@
     ],
     "voci": 155,
     "trovati": 0,
-    "secondi": 79
+    "secondi": 80
    },
    {
     "nome": "Comune di Marone",
@@ -9234,7 +8511,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 11
    },
    {
     "nome": "Comune di Mazzano",
@@ -9262,7 +8539,7 @@
     ],
     "voci": 61,
     "trovati": 0,
-    "secondi": 33
+    "secondi": 24
    },
    {
     "nome": "Comune di Milzano",
@@ -9296,7 +8573,7 @@
       "url": "https://www.comune.milzano.bs.it/it/page/83933"
      }
     ],
-    "voci": 39,
+    "voci": 38,
     "trovati": 0,
     "secondi": 52
    },
@@ -9313,6 +8590,10 @@
      },
      {
       "nome": "Albo",
+      "url": "https://monigadelgarda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=15676"
+     },
+     {
+      "nome": "Albo",
       "url": "https://monigadelgarda.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=15676"
      },
      {
@@ -9326,15 +8607,11 @@
      {
       "nome": "Notizie",
       "url": "https://comune.monigadelgarda.bs.it/novita/1-news"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://monigadelgarda.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 7,
+    "voci": 4,
     "trovati": 0,
-    "secondi": 38
+    "secondi": 16
    },
    {
     "nome": "Comune di Monno",
@@ -9402,7 +8679,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 39
+    "secondi": 17
    },
    {
     "nome": "Comune di Monticelli Brusati",
@@ -9438,7 +8715,7 @@
     ],
     "voci": 33,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 15
    },
    {
     "nome": "Comune di Montichiari",
@@ -9470,7 +8747,7 @@
     ],
     "voci": 195,
     "trovati": 1,
-    "secondi": 84
+    "secondi": 57
    },
    {
     "nome": "Comune di Montirone",
@@ -9506,7 +8783,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 13
    },
    {
     "nome": "Comune di Mura",
@@ -9542,7 +8819,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 12
    },
    {
     "nome": "Comune di Muscoline",
@@ -9578,7 +8855,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 12
    },
    {
     "nome": "Comune di Nave",
@@ -9613,8 +8890,8 @@
      }
     ],
     "voci": 7,
-    "trovati": 2,
-    "secondi": 40
+    "trovati": 0,
+    "secondi": 16
    },
    {
     "nome": "Comune di Niardo",
@@ -9649,8 +8926,8 @@
      }
     ],
     "voci": 41,
-    "trovati": 1,
-    "secondi": 91
+    "trovati": 0,
+    "secondi": 40
    },
    {
     "nome": "Comune di Nuvolento",
@@ -9681,12 +8958,12 @@
      },
      {
       "nome": "Albo",
-      "url": "https://nuvolento.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24044"
+      "url": "https://nuvolento.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24043"
      }
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 14
    },
    {
     "nome": "Comune di Nuvolera",
@@ -9722,7 +8999,7 @@
     ],
     "voci": 11,
     "trovati": 1,
-    "secondi": 26
+    "secondi": 18
    },
    {
     "nome": "Comune di Odolo",
@@ -9731,14 +9008,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.comune.odolo.bs.it/area_letturaServizio/1992/pagsistema.html"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://www.comune.odolo.bs.it/pagina133704_avvisi.html"
-     },
      {
       "nome": "Albo",
       "url": "https://odolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3284"
@@ -9754,11 +9023,19 @@
      {
       "nome": "Albo",
       "url": "https://odolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://odolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3285"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://odolo.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=3284"
      }
     ],
-    "voci": 10,
+    "voci": 2,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 12
    },
    {
     "nome": "Comune di Offlaga",
@@ -9794,7 +9071,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 10
    },
    {
     "nome": "Comune di Ome",
@@ -9830,7 +9107,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 66
+    "secondi": 10
    },
    {
     "nome": "Comune di Ono San Pietro",
@@ -9839,10 +9116,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=nsnptr1572"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.ono-san-pietro.bs.it/avvisi"
@@ -9860,9 +9133,9 @@
       "url": "https://www.comune.ono-san-pietro.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 50,
-    "trovati": 1,
-    "secondi": 26
+    "voci": 34,
+    "trovati": 0,
+    "secondi": 37
    },
    {
     "nome": "Comune di Orzinuovi",
@@ -9894,7 +9167,7 @@
     ],
     "voci": 93,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 34
    },
    {
     "nome": "Comune di Orzivecchi",
@@ -9926,7 +9199,7 @@
     ],
     "voci": 70,
     "trovati": 2,
-    "secondi": 38
+    "secondi": 32
    },
    {
     "nome": "Comune di Ospitaletto",
@@ -9962,7 +9235,7 @@
     ],
     "voci": 187,
     "trovati": 0,
-    "secondi": 56
+    "secondi": 50
    },
    {
     "nome": "Comune di Ossimo",
@@ -9998,7 +9271,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 53
+    "secondi": 11
    },
    {
     "nome": "Comune di Padenghe sul Garda",
@@ -10030,7 +9303,7 @@
     ],
     "voci": 70,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 19
    },
    {
     "nome": "Comune di Paderno Franciacorta",
@@ -10039,10 +9312,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?Ce=pdrnfrnccrt1545"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.padernofranciacorta.bs.it/Bandigare"
@@ -10060,9 +9329,9 @@
       "url": "https://www.comune.padernofranciacorta.bs.it/Menu?IDVoceMenu=334498"
      }
     ],
-    "voci": 94,
+    "voci": 93,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 39
    },
    {
     "nome": "Comune di Paisco Loveno",
@@ -10094,7 +9363,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "Comune di Paitone",
@@ -10103,6 +9372,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.paitone.bs.it/area_letturaServizio/2252/pagsistema.html"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.paitone.bs.it/pagina133704_avvisi.html"
+     },
      {
       "nome": "Albo",
       "url": "https://paitone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27166"
@@ -10118,19 +9395,11 @@
      {
       "nome": "Albo",
       "url": "https://paitone.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://paitone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27167"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://paitone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=27166"
      }
     ],
-    "voci": 2,
+    "voci": 8,
     "trovati": 0,
-    "secondi": 85
+    "secondi": 16
    },
    {
     "nome": "Comune di Palazzolo Sull'Oglio",
@@ -10214,7 +9483,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 18
    },
    {
     "nome": "Comune di Passirano",
@@ -10246,7 +9515,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 33
    },
    {
     "nome": "Comune di Pertica Alta",
@@ -10255,6 +9524,14 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.perticaalta.bs.it/area_letturaServizio/2287/pagsistema.html"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://www.comune.perticaalta.bs.it/pagina133704_avvisi.html"
+     },
      {
       "nome": "Albo",
       "url": "https://perticaalta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2084"
@@ -10270,19 +9547,11 @@
      {
       "nome": "Albo",
       "url": "https://perticaalta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://perticaalta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2085"
-     },
-     {
-      "nome": "Albo",
-      "url": "https://perticaalta.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2084"
      }
     ],
-    "voci": 3,
+    "voci": 5,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 13
    },
    {
     "nome": "Comune di Pertica Bassa",
@@ -10316,9 +9585,9 @@
       "url": "https://perticabassa.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2484"
      }
     ],
-    "voci": 5,
+    "voci": 7,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 12
    },
    {
     "nome": "Comune di Pezzaze",
@@ -10354,7 +9623,7 @@
     ],
     "voci": 92,
     "trovati": 2,
-    "secondi": 37
+    "secondi": 35
    },
    {
     "nome": "Comune di Pian Camuno",
@@ -10390,7 +9659,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 85
+    "secondi": 17
    },
    {
     "nome": "Comune di Piancogno",
@@ -10461,8 +9730,8 @@
      }
     ],
     "voci": 73,
-    "trovati": 2,
-    "secondi": 24
+    "trovati": 1,
+    "secondi": 17
    },
    {
     "nome": "Comune di Pompiano",
@@ -10494,7 +9763,7 @@
     ],
     "voci": 149,
     "trovati": 0,
-    "secondi": 59
+    "secondi": 51
    },
    {
     "nome": "Comune di Poncarale",
@@ -10516,21 +9785,21 @@
       "url": "https://poncarale.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5480"
      },
      {
+      "nome": "Albo",
+      "url": "https://poncarale.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5480"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.poncarale.brescia.it/Novita/Avvisi"
      },
      {
       "nome": "Notizie",
       "url": "https://www.comune.poncarale.brescia.it/Novita"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.poncarale.brescia.it/Novita/Notizie"
      }
     ],
-    "voci": 53,
-    "trovati": 2,
-    "secondi": 20
+    "voci": 29,
+    "trovati": 1,
+    "secondi": 18
    },
    {
     "nome": "Comune di Ponte di Legno",
@@ -10594,7 +9863,7 @@
     ],
     "voci": 183,
     "trovati": 2,
-    "secondi": 62
+    "secondi": 51
    },
    {
     "nome": "Comune di Pozzolengo",
@@ -10630,7 +9899,7 @@
     ],
     "voci": 78,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 19
    },
    {
     "nome": "Comune di Pralboino",
@@ -10666,7 +9935,7 @@
     ],
     "voci": 22,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 15
    },
    {
     "nome": "Comune di Preseglie",
@@ -10688,21 +9957,21 @@
       "url": "https://preseglie.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2285"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.preseglie.bs.it/pagina133704_avvisi.html"
+      "nome": "Albo",
+      "url": "https://preseglie.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.preseglie.bs.it/pagina133689_novit.html"
+      "nome": "Albo",
+      "url": "https://preseglie.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2285"
      },
      {
-      "nome": "Notizie",
-      "url": "https://www.comune.preseglie.bs.it/pagina133701_notizie.html"
+      "nome": "Albo",
+      "url": "https://preseglie.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2284"
      }
     ],
-    "voci": 21,
+    "voci": 2,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "Comune di Prevalle",
@@ -10734,7 +10003,7 @@
     ],
     "voci": 50,
     "trovati": 0,
-    "secondi": 73
+    "secondi": 34
    },
    {
     "nome": "Comune di Provaglio D'Iseo",
@@ -10762,7 +10031,7 @@
     ],
     "voci": 36,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 17
    },
    {
     "nome": "Comune di Provagliovalsabbia",
@@ -10777,7 +10046,11 @@
      },
      {
       "nome": "Albo",
-      "url": "https://provagliovalsabbia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2684"
+      "url": "https://provagliovalsabbia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2684"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://provagliovalsabbia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2685"
      },
      {
       "nome": "Albo",
@@ -10788,17 +10061,13 @@
       "url": "https://provagliovalsabbia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2685"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.provagliovalsabbia.bs.it/pagina133704_avvisi.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.provagliovalsabbia.bs.it/pagina133689_novit.html"
+      "nome": "Albo",
+      "url": "https://provagliovalsabbia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2684"
      }
     ],
-    "voci": 30,
+    "voci": 9,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 14
    },
    {
     "nome": "Comune di Puegnago del Garda",
@@ -10834,7 +10103,7 @@
     ],
     "voci": 107,
     "trovati": 2,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "Comune di Rezzato",
@@ -10861,16 +10130,16 @@
      },
      {
       "nome": "Albo",
-      "url": "https://rezzato.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24088"
+      "url": "https://rezzato.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24089"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.rezzato.bs.it/pagina133704_avvisi.html"
+      "nome": "Albo",
+      "url": "https://rezzato.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=24088"
      }
     ],
-    "voci": 8,
-    "trovati": 1,
-    "secondi": 42
+    "voci": 2,
+    "trovati": 0,
+    "secondi": 13
    },
    {
     "nome": "Comune di Roccafranca",
@@ -10900,9 +10169,9 @@
       "url": "https://roccafranca.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 33,
+    "voci": 46,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "Comune di Rodengo Saiano",
@@ -10938,7 +10207,7 @@
     ],
     "voci": 105,
     "trovati": 2,
-    "secondi": 17
+    "secondi": 19
    },
    {
     "nome": "Comune di Roe' Volciano",
@@ -10974,7 +10243,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 61
+    "secondi": 15
    },
    {
     "nome": "Comune di Roncadelle",
@@ -11010,7 +10279,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 49
+    "secondi": 16
    },
    {
     "nome": "Comune di Rovato",
@@ -11038,7 +10307,7 @@
     ],
     "voci": 15,
     "trovati": 1,
-    "secondi": 10
+    "secondi": 11
    },
    {
     "nome": "Comune di Rudiano",
@@ -11074,7 +10343,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 30
+    "secondi": 16
    },
    {
     "nome": "Comune di Sabbio Chiese",
@@ -11083,10 +10352,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://sabbio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1084"
-     },
      {
       "nome": "Albo",
       "url": "https://sabbio.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=1084"
@@ -11106,11 +10371,15 @@
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.sabbio.bs.it/pagina133704_avvisi.html"
+     },
+     {
+      "nome": "Notizie",
+      "url": "https://www.comune.sabbio.bs.it/pagina133689_novit.html"
      }
     ],
-    "voci": 15,
+    "voci": 23,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 20
    },
    {
     "nome": "Comune di Sale Marasino",
@@ -11119,10 +10388,6 @@
     "esito": "letto",
     "motivo": "",
     "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Pubblicazioni.aspx?RicCro=1&CE=slmrsn1592"
-     },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.sale-marasino.bs.it/avvisi"
@@ -11140,9 +10405,9 @@
       "url": "https://www.comune.sale-marasino.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 118,
-    "trovati": 1,
-    "secondi": 50
+    "voci": 69,
+    "trovati": 0,
+    "secondi": 42
    },
    {
     "nome": "Comune di Salo'",
@@ -11178,7 +10443,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 14
    },
    {
     "nome": "Comune di San Felice del Benaco",
@@ -11214,7 +10479,7 @@
     ],
     "voci": 21,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 11
    },
    {
     "nome": "Comune di San Gervasio Bresciano",
@@ -11242,7 +10507,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 17
    },
    {
     "nome": "Comune di San Paolo",
@@ -11278,7 +10543,7 @@
     ],
     "voci": 153,
     "trovati": 0,
-    "secondi": 36
+    "secondi": 32
    },
    {
     "nome": "Comune di Sarezzo",
@@ -11314,7 +10579,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 16
    },
    {
     "nome": "Comune di Saviore dell'Adamello",
@@ -11386,7 +10651,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 15
    },
    {
     "nome": "Comune di Seniga",
@@ -11422,7 +10687,7 @@
     ],
     "voci": 75,
     "trovati": 1,
-    "secondi": 38
+    "secondi": 40
    },
    {
     "nome": "Comune di Serle",
@@ -11458,7 +10723,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 12
    },
    {
     "nome": "Comune di Sirmione",
@@ -11492,9 +10757,9 @@
       "url": "https://www.comune.sirmione.bs.it/it/news?type=1"
      }
     ],
-    "voci": 98,
+    "voci": 116,
     "trovati": 0,
-    "secondi": 88
+    "secondi": 47
    },
    {
     "nome": "Comune di Soiano del Lago",
@@ -11572,10 +10837,6 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Home.aspx?CE=slzn1554"
-     },
-     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.sulzano.bs.it/avvisi"
      },
@@ -11592,9 +10853,9 @@
       "url": "https://www.comune.sulzano.bs.it/Pages/amministrazione_trasparente_v3_0/"
      }
     ],
-    "voci": 47,
+    "voci": 46,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 34
    },
    {
     "nome": "Comune di Tavernole Sul Mella",
@@ -11630,7 +10891,7 @@
     ],
     "voci": 56,
     "trovati": 0,
-    "secondi": 50
+    "secondi": 48
    },
    {
     "nome": "Comune di Temu'",
@@ -11662,7 +10923,7 @@
     ],
     "voci": 56,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 13
    },
    {
     "nome": "Comune di Tignale",
@@ -11686,7 +10947,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 14
    },
    {
     "nome": "Comune di Torbole Casaglia",
@@ -11722,7 +10983,7 @@
     ],
     "voci": 27,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 21
    },
    {
     "nome": "Comune di Toscolano Maderno",
@@ -11782,7 +11043,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 20
    },
    {
     "nome": "Comune di Trenzano",
@@ -11818,7 +11079,7 @@
     ],
     "voci": 35,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 19
    },
    {
     "nome": "Comune di Treviso Bresciano",
@@ -11833,7 +11094,11 @@
      },
      {
       "nome": "Albo",
-      "url": "https://trevisobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6184"
+      "url": "https://trevisobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6184"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://trevisobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6185"
      },
      {
       "nome": "Albo",
@@ -11844,17 +11109,13 @@
       "url": "https://trevisobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6185"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.trevisobresciano.bs.it/pagina133704_avvisi.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.trevisobresciano.bs.it/pagina133689_novit.html"
+      "nome": "Albo",
+      "url": "https://trevisobresciano.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=6184"
      }
     ],
-    "voci": 10,
+    "voci": 0,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 12
    },
    {
     "nome": "Comune di Urago D' Oglio",
@@ -11909,20 +11170,20 @@
      },
      {
       "nome": "Albo",
+      "url": "https://vallioterme.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5785"
+     },
+     {
+      "nome": "Albo",
       "url": "https://vallioterme.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=5784"
      },
      {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.vallioterme.bs.it/pagina133704_avvisi.html"
-     },
-     {
-      "nome": "Notizie",
-      "url": "https://www.comune.vallioterme.bs.it/pagina133689_novit.html"
      }
     ],
-    "voci": 20,
+    "voci": 13,
     "trovati": 0,
-    "secondi": 34
+    "secondi": 15
    },
    {
     "nome": "Comune di Valvestino",
@@ -11968,6 +11229,18 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://verolavecchia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://verolavecchia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=60900"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://verolavecchia.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=60900"
+     },
+     {
       "nome": "Bandi/avvisi",
       "url": "https://www.comune.verolavecchia.bs.it/it/news?type=3"
      },
@@ -11978,15 +11251,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.verolavecchia.bs.it/it/news?type=1"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://verolavecchia.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 66,
+    "voci": 63,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 18
    },
    {
     "nome": "Comune di Vestone",
@@ -12016,13 +11285,13 @@
       "url": "https://vestone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2885"
      },
      {
-      "nome": "Bandi/avvisi",
-      "url": "https://www.comune.vestone.bs.it/pagina133704_avvisi.html"
+      "nome": "Albo",
+      "url": "https://vestone.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=2884"
      }
     ],
-    "voci": 4,
+    "voci": 3,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 13
    },
    {
     "nome": "Comune di Vezza d'Oglio",
@@ -12054,7 +11323,7 @@
     ],
     "voci": 45,
     "trovati": 0,
-    "secondi": 26
+    "secondi": 25
    },
    {
     "nome": "Comune di Villa Carcina",
@@ -12082,7 +11351,7 @@
     ],
     "voci": 74,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 16
    },
    {
     "nome": "Comune di Villachiara",
@@ -12094,6 +11363,10 @@
      {
       "nome": "Albo",
       "url": "https://villachiara.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
+     },
+     {
+      "nome": "Albo",
+      "url": "https://villachiara.trasparenza-valutazione-merito.it/web/trasparenza/dettaglio-albo-pretorio?p_p_id=jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page-parent=0&_jcitygovmenutrasversaleleftcolumn_WAR_jcitygovalbiportlet_current-page=57200"
      },
      {
       "nome": "Albo",
@@ -12110,15 +11383,11 @@
      {
       "nome": "Notizie",
       "url": "https://www.comune.villachiara.bs.it/Novita/Notizie"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://villachiara.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza"
      }
     ],
-    "voci": 32,
+    "voci": 29,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 11
    },
    {
     "nome": "Comune di Villanuova sul Clisi",
@@ -12184,11 +11453,7 @@
     "motivo": "",
     "pagine": [
      {
-      "nome": "Albo",
-      "url": "https://www.comune.vobarno.bs.it/area_letturaServizio/2274/pagsistema.html"
-     },
-     {
-      "nome": "Albo",
+      "nome": "Bandi/avvisi",
       "url": "https://www.comune.vobarno.bs.it/pagina133704_avvisi.html"
      },
      {
@@ -12266,7 +11531,7 @@
     ],
     "voci": 108,
     "trovati": 0,
-    "secondi": 113
+    "secondi": 110
    },
    {
     "nome": "\"ARNALDO\" - BRESCIA",
@@ -12298,7 +11563,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 18
    },
    {
     "nome": "\"BAGATTA\" - DESENZANO (Desenzano Del Garda)",
@@ -12318,7 +11583,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 13
    },
    {
     "nome": "\"CAMILLO GOLGI\" (Brescia)",
@@ -12354,7 +11619,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 18
    },
    {
     "nome": "\"COSSALI\" - ORZINUOVI",
@@ -12374,7 +11639,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 15
    },
    {
     "nome": "\"DANDOLO\" - CORZANO",
@@ -12398,7 +11663,7 @@
     ],
     "voci": 71,
     "trovati": 0,
-    "secondi": 27
+    "secondi": 34
    },
    {
     "nome": "\"ENRICO FERMI\" (Salo')",
@@ -12414,7 +11679,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 42
+    "secondi": 56
    },
    {
     "nome": "\"F. MENEGHINI\" - EDOLO",
@@ -12482,7 +11747,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 60
+    "secondi": 21
    },
    {
     "nome": "\"GIORGIO LA PIRA\" - SAREZZO",
@@ -12522,7 +11787,7 @@
     ],
     "voci": 68,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 21
    },
    {
     "nome": "\"SRAFFA\" - BRESCIA",
@@ -12566,7 +11831,7 @@
     ],
     "voci": 31,
     "trovati": 3,
-    "secondi": 30
+    "secondi": 31
    },
    {
     "nome": "BAZOLI (Desenzano Del Garda)",
@@ -12594,7 +11859,7 @@
     ],
     "voci": 130,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 26
    },
    {
     "nome": "CALINI (Brescia)",
@@ -12610,7 +11875,7 @@
     ],
     "voci": 9,
     "trovati": 2,
-    "secondi": 20
+    "secondi": 15
    },
    {
     "nome": "CESARE BATTISTI (Salo')",
@@ -12634,7 +11899,7 @@
     ],
     "voci": 107,
     "trovati": 2,
-    "secondi": 136
+    "secondi": 153
    },
    {
     "nome": "CPIA 1 BRESCIA",
@@ -12658,7 +11923,7 @@
     ],
     "voci": 85,
     "trovati": 0,
-    "secondi": 127
+    "secondi": 126
    },
    {
     "nome": "CPIA 2 BRESCIA (Calcinato)",
@@ -12734,7 +11999,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 31
+    "secondi": 26
    },
    {
     "nome": "GHEDI \"RINALDINI\"",
@@ -12753,7 +12018,7 @@
      }
     ],
     "voci": 251,
-    "trovati": 14,
+    "trovati": 15,
     "secondi": 80
    },
    {
@@ -12806,7 +12071,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 14
+    "secondi": 16
    },
    {
     "nome": "I. S. \"OLIVELLI-PUTELLI\"- DARFO (Darfo Boario Terme)",
@@ -12850,7 +12115,7 @@
     ],
     "voci": 8,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 4
    },
    {
     "nome": "I.C. 2 \"RITA LEVI MONTALCINI\" (Montichiari)",
@@ -12870,7 +12135,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 4
    },
    {
     "nome": "I.C. BORGO SAN GIACOMO (San Paolo)",
@@ -12882,15 +12147,11 @@
      {
       "nome": "Albo",
       "url": "https://lnx.icborgosangiacomo.edu.it/000/albo"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.icborgosangiacomo.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 15,
-    "trovati": 1,
-    "secondi": 19
+    "voci": 12,
+    "trovati": 0,
+    "secondi": 5
    },
    {
     "nome": "I.C. BORGOSATOLLO",
@@ -12938,7 +12199,7 @@
     ],
     "voci": 41,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 26
    },
    {
     "nome": "I.C. CITTA' DI CHIARI",
@@ -12954,7 +12215,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "I.C. DI LONATO UGO DA COMO (Lonato Del Garda)",
@@ -12970,7 +12231,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 69
+    "secondi": 68
    },
    {
     "nome": "I.C. DI PREVALLE",
@@ -12986,23 +12247,23 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 52
+    "secondi": 53
    },
    {
     "nome": "I.C. DON RAFFELLI PROVAGLIO (Corte Franca)",
     "tipo": "Scuola",
     "sito": "https://www.icprovagliodiseo.edu.it/",
     "esito": "letto",
-    "motivo": "",
+    "motivo": "sezione avvisi non trovata",
     "pagine": [
      {
-      "nome": "Trasparenza",
-      "url": "https://www.icprovagliodiseo.edu.it/amministrazione-trasparente"
+      "nome": "Home",
+      "url": "https://www.icprovagliodiseo.edu.it/"
      }
     ],
-    "voci": 10,
+    "voci": 0,
     "trovati": 0,
-    "secondi": 40
+    "secondi": 3
    },
    {
     "nome": "I.C. FRA' T. BONGETTI OME",
@@ -13038,7 +12299,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "I.C. MARCHENO",
@@ -13070,7 +12331,7 @@
     ],
     "voci": 10,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 15
    },
    {
     "nome": "I.C. ORZINUOVI (Orzivecchi)",
@@ -13086,11 +12347,15 @@
      {
       "nome": "Albo",
       "url": "https://lnx.icorzinuovi.edu.it/wp/albo-4/"
+     },
+     {
+      "nome": "Trasparenza",
+      "url": "https://www.icorzinuovi.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 2,
-    "trovati": 0,
-    "secondi": 17
+    "voci": 12,
+    "trovati": 5,
+    "secondi": 33
    },
    {
     "nome": "I.C. PONTOGLIO",
@@ -13130,7 +12395,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 37
+    "secondi": 30
    },
    {
     "nome": "I.C. STATALE DI VEROLANUOVA (Verolavecchia)",
@@ -13214,7 +12479,7 @@
     ],
     "voci": 262,
     "trovati": 3,
-    "secondi": 89
+    "secondi": 81
    },
    {
     "nome": "I.C. UNICO DI LUMEZZANE",
@@ -13233,8 +12498,8 @@
      }
     ],
     "voci": 83,
-    "trovati": 16,
-    "secondi": 76
+    "trovati": 17,
+    "secondi": 72
    },
    {
     "nome": "I.C.DI PASSIRANO",
@@ -13262,7 +12527,7 @@
     ],
     "voci": 62,
     "trovati": 0,
-    "secondi": 16
+    "secondi": 22
    },
    {
     "nome": "I.I.S. \"BONSIGNORI\" - REMEDELLO",
@@ -13326,7 +12591,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 2
    },
    {
     "nome": "I.I.S. V.CAPIROLA (Ghedi)",
@@ -13346,7 +12611,7 @@
     ],
     "voci": 32,
     "trovati": 3,
-    "secondi": 21
+    "secondi": 19
    },
    {
     "nome": "I.S. \"PASCAL-MAZZOLARI\" - MANERBIO",
@@ -13369,16 +12634,16 @@
     "tipo": "Scuola",
     "sito": "https://www.tartaglia-olivieri.edu.it/",
     "esito": "letto",
-    "motivo": "sezione avvisi non trovata",
+    "motivo": "",
     "pagine": [
      {
-      "nome": "Home",
-      "url": "https://www.tartaglia-olivieri.edu.it/"
+      "nome": "Bandi/avvisi",
+      "url": "https://www.tartaglia-olivieri.edu.it/pagine/bandi-e-concorsi"
      }
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 5
    },
    {
     "nome": "IC \"GIULIO BEVILACQUA\" CAZZAGO (Cazzago San Martino)",
@@ -13394,7 +12659,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 15
+    "secondi": 8
    },
    {
     "nome": "IC CALVISANO",
@@ -13422,7 +12687,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 9
+    "secondi": 10
    },
    {
     "nome": "IC CARPENEDOLO",
@@ -13442,7 +12707,7 @@
     ],
     "voci": 242,
     "trovati": 21,
-    "secondi": 85
+    "secondi": 81
    },
    {
     "nome": "IC CASTEL MELLA",
@@ -13478,7 +12743,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 5
    },
    {
     "nome": "IC COLOMBO OVEST 1 BRESCIA",
@@ -13502,7 +12767,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 114
+    "secondi": 120
    },
    {
     "nome": "IC DI CASTREZZATO",
@@ -13518,7 +12783,7 @@
     ],
     "voci": 11,
     "trovati": 1,
-    "secondi": 40
+    "secondi": 36
    },
    {
     "nome": "IC F.TONOLINI BRENO (Niardo)",
@@ -13558,7 +12823,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "IC FRANCHI SUD2 BRESCIA",
@@ -13574,7 +12839,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "IC GARGNANO (Tremosine Sul Garda)",
@@ -13638,7 +12903,7 @@
     ],
     "voci": 33,
     "trovati": 5,
-    "secondi": 189
+    "secondi": 197
    },
    {
     "nome": "IC KENNEDY OVEST 3 BRESCIA",
@@ -13674,7 +12939,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "IC PRALBOINO (Milzano)",
@@ -13690,7 +12955,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 8
+    "secondi": 7
    },
    {
     "nome": "IC RINALDINI SUD 3 BRESCIA",
@@ -13738,7 +13003,7 @@
     ],
     "voci": 3,
     "trovati": 0,
-    "secondi": 24
+    "secondi": 22
    },
    {
     "nome": "IC S.EUFEMIA EST 3 BRESCIA",
@@ -13754,7 +13019,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 4
+    "secondi": 9
    },
    {
     "nome": "IC S.MARIA BAMBINA EST1 BRESCIA",
@@ -13778,7 +13043,7 @@
     ],
     "voci": 94,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 19
    },
    {
     "nome": "IC TEN.PELLEGRINI PISOGNE",
@@ -13818,7 +13083,7 @@
     ],
     "voci": 11,
     "trovati": 3,
-    "secondi": 22
+    "secondi": 23
    },
    {
     "nome": "IIS \"L. CEREBOTANI\" (Lonato Del Garda)",
@@ -13846,7 +13111,7 @@
     ],
     "voci": 5,
     "trovati": 0,
-    "secondi": 11
+    "secondi": 9
    },
    {
     "nome": "IIS \"MARZOLI\" - PALAZZOLO S/O (Palazzolo Sull'Oglio)",
@@ -13886,7 +13151,23 @@
     ],
     "voci": 14,
     "trovati": 1,
-    "secondi": 122
+    "secondi": 115
+   },
+   {
+    "nome": "IPSEOA CATERINA DE MEDICI - GARDONE R. (Desenzano Del Garda)",
+    "tipo": "Scuola",
+    "sito": "https://www.alberghierodemedici.edu.it/",
+    "esito": "letto",
+    "motivo": "",
+    "pagine": [
+     {
+      "nome": "Home",
+      "url": "https://www.alberghierodemedici.edu.it/"
+     }
+    ],
+    "voci": 1,
+    "trovati": 0,
+    "secondi": 3
    },
    {
     "nome": "IST. COMPR. DI BIENNO",
@@ -13906,7 +13187,7 @@
     ],
     "voci": 2,
     "trovati": 0,
-    "secondi": 19
+    "secondi": 18
    },
    {
     "nome": "IST. COMPRENSIVO BOTTICINO",
@@ -13930,7 +13211,7 @@
     ],
     "voci": 132,
     "trovati": 0,
-    "secondi": 58
+    "secondi": 61
    },
    {
     "nome": "IST. COMPRENSIVO CASTEGNATO",
@@ -13954,7 +13235,7 @@
     ],
     "voci": 15,
     "trovati": 1,
-    "secondi": 34
+    "secondi": 36
    },
    {
     "nome": "IST. COMPRENSIVO OSPITALETTO",
@@ -13982,7 +13263,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 136
+    "secondi": 144
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - EDOLO CAP.",
@@ -14030,7 +13311,7 @@
     ],
     "voci": 28,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 24
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. 'DON MILANI' ROVATO",
@@ -14066,7 +13347,7 @@
     ],
     "voci": 12,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 27
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. CIVIDATE CAMUNO",
@@ -14090,7 +13371,7 @@
     ],
     "voci": 13,
     "trovati": 1,
-    "secondi": 51
+    "secondi": 55
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. DI BAGOLINO",
@@ -14114,7 +13395,7 @@
     ],
     "voci": 20,
     "trovati": 0,
-    "secondi": 12
+    "secondi": 13
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. N.BERTHER S.ZENO-MONTIRONE",
@@ -14138,7 +13419,7 @@
     ],
     "voci": 32,
     "trovati": 1,
-    "secondi": 83
+    "secondi": 93
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. OME",
@@ -14166,7 +13447,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 41
+    "secondi": 43
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - I.C. VOBARNO",
@@ -14183,22 +13464,6 @@
     "voci": 0,
     "trovati": 0,
     "secondi": 3
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - IC 'A. BELLI'-SABBIO CHIESE",
-    "tipo": "Scuola",
-    "sito": "https://www.icbellisabbiochiese.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.icbellisabbiochiese.edu.it/"
-     }
-    ],
-    "voci": 9,
-    "trovati": 0,
-    "secondi": 9
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC A.MORO CAPRIOLO",
@@ -14222,7 +13487,7 @@
     ],
     "voci": 24,
     "trovati": 0,
-    "secondi": 25
+    "secondi": 28
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC AGOSTI DELLO",
@@ -14270,7 +13535,7 @@
     ],
     "voci": 9,
     "trovati": 0,
-    "secondi": 28
+    "secondi": 18
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC CENTRO 3 BRESCIA",
@@ -14293,8 +13558,8 @@
      }
     ],
     "voci": 43,
-    "trovati": 6,
-    "secondi": 40
+    "trovati": 0,
+    "secondi": 33
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC D.ALIGHIERI CALCINATO",
@@ -14314,7 +13579,7 @@
     ],
     "voci": 276,
     "trovati": 11,
-    "secondi": 83
+    "secondi": 80
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC DI RODENGO SAIANO",
@@ -14330,7 +13595,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 2
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC DI RONCADELLE",
@@ -14346,7 +13611,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC II TREBESCHI-DESENZANO",
@@ -14370,7 +13635,7 @@
     ],
     "voci": 11,
     "trovati": 1,
-    "secondi": 46
+    "secondi": 50
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC L.DA VINCI CASTENEDOLO",
@@ -14454,7 +13719,7 @@
     ],
     "voci": 54,
     "trovati": 5,
-    "secondi": 42
+    "secondi": 43
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC PONTE DI LEGNO",
@@ -14488,13 +13753,17 @@
     "motivo": "",
     "pagine": [
      {
+      "nome": "Albo",
+      "url": "https://www.icpralboino.edu.it/albo-online"
+     },
+     {
       "nome": "Trasparenza",
       "url": "https://www.icpralboino.edu.it/amministrazione-trasparente"
      }
     ],
-    "voci": 11,
+    "voci": 26,
     "trovati": 0,
-    "secondi": 62
+    "secondi": 50
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IC REZZATO",
@@ -14522,27 +13791,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 21
-   },
-   {
-    "nome": "ISTITUTO COMPRENSIVO - IC SALO' 'T.OLIVELLI'",
-    "tipo": "Scuola",
-    "sito": "http://www.icsalo.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Albo",
-      "url": "https://www.icsalo.edu.it/albo-online"
-     },
-     {
-      "nome": "Trasparenza",
-      "url": "https://www.icsalo.edu.it/amministrazione-trasparente"
-     }
-    ],
-    "voci": 14,
-    "trovati": 1,
-    "secondi": 72
+    "secondi": 22
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - IST. COMPR. DI BIENNO",
@@ -14586,7 +13835,7 @@
     ],
     "voci": 17,
     "trovati": 0,
-    "secondi": 18
+    "secondi": 22
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO DARFO 2",
@@ -14626,7 +13875,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 10
+    "secondi": 5
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - ISTITUTO COMPRENSIVO DI ESINE",
@@ -14678,7 +13927,7 @@
     ],
     "voci": 28,
     "trovati": 2,
-    "secondi": 65
+    "secondi": 71
    },
    {
     "nome": "ISTITUTO COMPRENSIVO - PONTEVICO CAP.",
@@ -14702,7 +13951,7 @@
     ],
     "voci": 22,
     "trovati": 1,
-    "secondi": 43
+    "secondi": 49
    },
    {
     "nome": "ISTITUTO COMPRENSIVO DARFO 2 (Darfo Boario Terme)",
@@ -14726,7 +13975,7 @@
     ],
     "voci": 10,
     "trovati": 1,
-    "secondi": 17
+    "secondi": 16
    },
    {
     "nome": "ISTITUTO COMPRENSIVO DI MAZZANO",
@@ -14750,7 +13999,7 @@
     ],
     "voci": 121,
     "trovati": 0,
-    "secondi": 23
+    "secondi": 35
    },
    {
     "nome": "ISTITUTO COMPRENSIVO DI NAVE",
@@ -14770,7 +14019,7 @@
     ],
     "voci": 6,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 8
    },
    {
     "nome": "ISTITUTO COMPRENSIVO GOTTOLENGO (Fiesse)",
@@ -14786,7 +14035,7 @@
     ],
     "voci": 1,
     "trovati": 0,
-    "secondi": 5
+    "secondi": 4
    },
    {
     "nome": "ISTITUTO COMPRENSIVO ISEO",
@@ -14810,7 +14059,7 @@
     ],
     "voci": 121,
     "trovati": 1,
-    "secondi": 69
+    "secondi": 63
    },
    {
     "nome": "ISTITUTO COMPRENSIVO MANERBIO",
@@ -14834,7 +14083,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 29
+    "secondi": 25
    },
    {
     "nome": "ISTITUTO COMPRENSIVO STATALE ADRO",
@@ -14858,7 +14107,7 @@
     ],
     "voci": 104,
     "trovati": 0,
-    "secondi": 21
+    "secondi": 29
    },
    {
     "nome": "ISTITUTO COMPRENSIVO VALTENESI (San Felice Del Benaco)",
@@ -14874,7 +14123,7 @@
     ],
     "voci": 7,
     "trovati": 0,
-    "secondi": 22
+    "secondi": 23
    },
    {
     "nome": "ISTITUTO ISTRUZIONE SUPERIORE C.BERETTA (Gardone Val Trompia)",
@@ -14906,7 +14155,7 @@
     ],
     "voci": 11,
     "trovati": 0,
-    "secondi": 13
+    "secondi": 9
    },
    {
     "nome": "ISTITUTO SUPERIORE \"GIOVANNI FALCONE\" (Palazzolo Sull'Oglio)",
@@ -14930,7 +14179,7 @@
     ],
     "voci": 115,
     "trovati": 0,
-    "secondi": 50
+    "secondi": 52
    },
    {
     "nome": "ISTITUTO SUPERIORE - I.S. CASTELLI",
@@ -15018,7 +14267,7 @@
     ],
     "voci": 19,
     "trovati": 0,
-    "secondi": 7
+    "secondi": 6
    },
    {
     "nome": "ISTRUZIONE SECONDARIA SUPERIORE - PRIMO LEVI",
@@ -15034,7 +14283,7 @@
     ],
     "voci": 4,
     "trovati": 0,
-    "secondi": 3
+    "secondi": 4
    },
    {
     "nome": "Istituto Comprensivo Azzano Mella",
@@ -15050,7 +14299,7 @@
     ],
     "voci": 15,
     "trovati": 0,
-    "secondi": 6
+    "secondi": 9
    },
    {
     "nome": "Istituto Comprensivo Polo Ovest",
@@ -15102,7 +14351,7 @@
     ],
     "voci": 14,
     "trovati": 0,
-    "secondi": 20
+    "secondi": 31
    },
    {
     "nome": "Istituto Comprensivo di Palazzolo sull'Oglio",
@@ -15122,7 +14371,7 @@
     ],
     "voci": 427,
     "trovati": 1,
-    "secondi": 59
+    "secondi": 57
    },
    {
     "nome": "Istituto D'Istruzione Superiore F.Tassara - G.Ghislandi",
@@ -15170,7 +14419,7 @@
     ],
     "voci": 28,
     "trovati": 2,
-    "secondi": 35
+    "secondi": 42
    },
    {
     "nome": "LENO CAP.",
@@ -15186,7 +14435,7 @@
     ],
     "voci": 0,
     "trovati": 0,
-    "secondi": 2
+    "secondi": 3
    },
    {
     "nome": "LICEO SCIENTIFICO - ISTITUTO D'ISTRUZIONE SUPERIORE C.GOLGI",
@@ -15210,7 +14459,7 @@
     ],
     "voci": 13,
     "trovati": 2,
-    "secondi": 18
+    "secondi": 17
    },
    {
     "nome": "LICEO SCIENTIFICO - LEONARDO - BRESCIA",
@@ -15266,7 +14515,7 @@
     ],
     "voci": 11,
     "trovati": 1,
-    "secondi": 33
+    "secondi": 27
    },
    {
     "nome": "LICEO SCIENZE UMANE F. DE ANDRE' (Brescia)",
@@ -15314,23 +14563,7 @@
     ],
     "voci": 85,
     "trovati": 3,
-    "secondi": 202
-   },
-   {
-    "nome": "ROVATO - \"LORENZO GIGLI\"",
-    "tipo": "Scuola",
-    "sito": "https://www.istitutogiglirovato.edu.it/",
-    "esito": "letto",
-    "motivo": "",
-    "pagine": [
-     {
-      "nome": "Home",
-      "url": "https://www.istitutogiglirovato.edu.it/"
-     }
-    ],
-    "voci": 15,
-    "trovati": 0,
-    "secondi": 9
+    "secondi": 213
    },
    {
     "nome": "STATALE DI GARDONE V.T. (Gardone Val Trompia)",
@@ -15350,7 +14583,7 @@
     ],
     "voci": 48,
     "trovati": 6,
-    "secondi": 28
+    "secondi": 27
    },
    {
     "nome": "VESTONE (Pertica Alta)",
@@ -15374,7 +14607,7 @@
     ],
     "voci": 23,
     "trovati": 0,
-    "secondi": 17
+    "secondi": 16
    }
   ],
   "fonti": [
