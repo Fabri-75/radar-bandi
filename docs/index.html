@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar Bandi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* Stessa identità di FabrizioPalmaTeatro: bianco caldo, nero caldo, corallo come unico accento.
+   Layout: barra in alto, riepilogo, filtri, poi la tabella (a schede sul telefono). */
+:root{
+  --bg:#f4f1ec; --card:#ffffff; --ink:#23201d; --mute:#6b655c; --line:#e8e0d4; --soft:#faf6ef;
+  --acc:#dd4b36; --acc-ink:#ffffff; --ok:#2f6b4f; --warn:#9a5b00; --new:#fff1d6; --newline:#e9a23b;
+  --f-tit:Manrope, Inter, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --f-txt:Inter, -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#171513; --card:#221f1c; --ink:#f1ebe2; --mute:#a9a197; --line:#3a342e; --soft:#2a2622;
+  --acc:#ec6a55; --acc-ink:#ffffff; --ok:#6cc39a; --warn:#f0b45a; --new:#3a2d14; --newline:#e9a23b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#171513; --card:#221f1c; --ink:#f1ebe2; --mute:#a9a197; --line:#3a342e; --soft:#2a2622;
+  --acc:#ec6a55; --acc-ink:#ffffff; --ok:#6cc39a; --warn:#f0b45a; --new:#3a2d14; --newline:#e9a23b; color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-txt);-webkit-text-size-adjust:100%}
+h1,h2,h3{font-family:var(--f-tit);line-height:1.2;margin:0}
+a{color:var(--acc)}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+[hidden]{display:none!important}
+.top{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px;padding:12px max(16px,4vw);background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.marchio{font-family:var(--f-tit);font-weight:800;font-size:18px}.marchio b{color:var(--acc)}.marchio small{font-weight:600;color:var(--mute);font-size:15px;margin-left:6px}
+nav{display:flex;gap:4px}
+nav button{padding:9px 14px;border-radius:8px;border:0;background:transparent;font-weight:600;min-height:44px}
+nav button[aria-current="page"]{background:var(--ink);color:var(--card)}
+.destra{margin-left:auto;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+main{max-width:1320px;margin:0 auto;padding:18px max(16px,4vw) 60px}
+.riep{display:flex;flex-wrap:wrap;gap:6px 22px;align-items:baseline;margin-bottom:14px}
+.riep h1{font-size:clamp(24px,3vw,32px)}
+.riep p{margin:0;color:var(--mute)}
+.filtri{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:end;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:14px}
+label{font-size:13px;font-weight:600;color:var(--mute);display:block}
+input[type=search],input[type=text],select{min-height:42px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);font-size:16px;margin-top:3px}
+input[type=search]{width:min(320px,100%)}
+.spunta{display:flex;gap:6px;align-items:center;font-size:15px;color:var(--ink);font-weight:500;min-height:42px}
+.spunta input{width:20px;height:20px;margin:0}
+.btn{min-height:42px;padding:8px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);font-weight:600;text-decoration:none;color:var(--ink);display:inline-flex;align-items:center}
+.btn.pri{background:var(--acc);border-color:var(--acc);color:var(--acc-ink)}
+.conta{font-size:14px;color:var(--mute);margin:0 0 8px}
+.tab{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:12px}
+table{width:100%;border-collapse:collapse;font-size:15px}
+th,td{text-align:left;padding:10px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:13px;color:var(--mute);font-weight:600;white-space:nowrap;background:var(--soft);position:sticky;top:0}
+th button{border:0;background:none;padding:0;font-weight:600;color:inherit}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.nuovo td{background:var(--new)}
+tr.nuovo td:first-child{box-shadow:inset 4px 0 0 var(--newline)}
+tr.scartato td{opacity:.5}
+.tit{font-weight:600}
+.tit a{color:var(--ink)}
+.chip{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:10px;background:var(--soft);border:1px solid var(--line);margin:0 4px 4px 0;white-space:nowrap}
+.chip.nuovo{background:var(--newline);border-color:var(--newline);color:#1d1406}
+.chip.esito{background:transparent;color:var(--warn);border-color:var(--warn)}
+.motivi{font-size:13px;color:var(--mute)}
+.vicina{color:var(--acc);font-weight:700}
+.stato-sel{min-height:36px;padding:4px 6px;font-size:14px}
+.vuoto{padding:28px;text-align:center;color:var(--mute)}
+.cop{display:grid;gap:14px}
+.cop-riep{display:flex;flex-wrap:wrap;gap:10px}
+.cifra{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;min-width:140px}
+.cifra b{display:block;font-family:var(--f-tit);font-size:26px;font-variant-numeric:tabular-nums}
+.cifra span{color:var(--mute);font-size:14px}
+.ko{color:var(--warn);font-weight:600}.okk{color:var(--ok);font-weight:600}
+.nota{font-size:14px;color:var(--mute)}
+.aiuto{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;max-width:760px}
+.aiuto h2{font-size:20px;margin:14px 0 6px}.aiuto h2:first-child{margin-top:0}
+.aiuto ol,.aiuto ul{padding-left:22px;margin:6px 0}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--ink);color:var(--card);padding:10px 16px;border-radius:8px;z-index:30}
+@media (max-width:760px){
+  .tab{border:0;background:transparent}
+  table.schede thead{display:none}
+  table.schede tr{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;padding:8px 12px}
+  table.schede td{display:block;border:0;padding:3px 0}
+  table.schede td[data-l]:before{content:attr(data-l) ": ";color:var(--mute);font-size:13px}
+  table.schede td:empty{display:none}
+  tr.nuovo td:first-child{box-shadow:none}
+  tr.nuovo{box-shadow:inset 4px 0 0 var(--newline)}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="marchio">Fabrizio<b>Palma</b>Teatro<small>Radar Bandi</small></div>
+  <nav>
+    <button type="button" data-v="bandi" aria-current="page">Bandi</button>
+    <button type="button" data-v="copertura">Copertura</button>
+    <button type="button" data-v="aiuto">Come si usa</button>
+  </nav>
+  <div class="destra">
+    <label for="prov" class="spunta" style="font-weight:600">Provincia
+      <select id="prov"></select></label>
+    <a class="btn" id="aggiorna" target="_blank" rel="noopener" href="https://github.com/Fabri-75/radar-bandi/actions/workflows/radar.yml">Aggiorna adesso</a>
+  </div>
+</header>
+<main>
+  <section id="v-bandi">
+    <div class="riep"><h1 id="titolo">Caricamento…</h1><p id="aggiornato"></p></div>
+    <div class="filtri">
+      <div><label for="cerca">Cerca una parola</label><input type="search" id="cerca" placeholder="es. legalità, Seregno, laboratorio"></div>
+      <div><label for="tipo">Tipo di ente</label><select id="tipo"><option value="">Tutti</option><option>Comune</option><option>Scuola</option><option>Biblioteca</option><option>Altro ente</option></select></div>
+      <div><label for="fstato">Stato</label><select id="fstato"><option value="">Tutti tranne scartati</option><option value="nuovo">Nuovi</option><option value="visto">Visti</option><option value="interessante">Interessanti</option><option value="scartato">Scartati</option><option value="*">Tutti</option></select></div>
+      <label class="spunta" for="esiti"><input type="checkbox" id="esiti"> Mostra anche gli esiti</label>
+      <label class="spunta" for="scaduti"><input type="checkbox" id="scaduti"> Mostra gli scaduti</label>
+      <div class="destra">
+        <button type="button" class="btn" id="csv">Esporta CSV</button>
+      </div>
+    </div>
+    <p class="conta" id="conta"></p>
+    <div class="tab"><table class="schede" id="tabella">
+      <thead><tr>
+        <th><button type="button" data-o="scadenza">Scadenza ▲</button></th>
+        <th>Ente</th><th>Tipo</th><th>Titolo</th>
+        <th><button type="button" data-o="pubblicazione">Pubblicato</button></th>
+        <th>Importo</th><th>Chi può partecipare</th><th>Perché è stato scelto</th><th>Stato</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </section>
+
+  <section id="v-copertura" hidden>
+    <div class="riep"><h1>Copertura della ricerca</h1><p id="cop-data"></p></div>
+    <div class="cop">
+      <div class="cop-riep" id="cop-cifre"></div>
+      <div id="cop-note" class="nota"></div>
+      <div class="filtri">
+        <div><label for="cop-filtro">Mostra</label><select id="cop-filtro"><option value="ko">Solo i siti non letti</option><option value="">Tutti i siti</option></select></div>
+        <div><label for="cop-cerca">Cerca un ente</label><input type="search" id="cop-cerca"></div>
+      </div>
+      <div class="tab"><table class="schede" id="cop-tab">
+        <thead><tr><th>Ente</th><th>Tipo</th><th>Esito</th><th>Pagine lette</th><th>Avvisi utili</th></tr></thead><tbody></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <section id="v-aiuto" hidden>
+    <div class="aiuto">
+      <h2>Cosa vedi</h2>
+      <p>Gli avvisi trovati sui siti di Comuni, scuole e biblioteche della provincia, più ANAC e Sintel. Ogni riga ha il link all'atto vero. Se un dato manca (per esempio la scadenza), la cella resta vuota: non viene mai stimato.</p>
+      <ul>
+        <li><b>Righe evidenziate</b>: avvisi nuovi rispetto alla ricerca precedente.</li>
+        <li><b>Stato</b>: lo scegli tu (nuovo, visto, interessante, scartato). Resta salvato in questo browser.</li>
+        <li><b>Scaduti ed esiti</b> sono nascosti: li vedi con le due caselle nei filtri.</li>
+      </ul>
+      <h2>Aggiornare la ricerca</h2>
+      <ol>
+        <li>Clicca <b>Aggiorna adesso</b> (si apre GitHub).</li>
+        <li>Clicca il pulsante grigio <b>Run workflow</b> a destra.</li>
+        <li>Scegli la provincia e clicca il pulsante verde <b>Run workflow</b>.</li>
+        <li>Dopo 30–60 minuti ricarica questa pagina.</li>
+      </ol>
+      <p class="nota">In automatico la ricerca parte ogni lunedì mattina.</p>
+      <h2>Lo stato sui due Mac</h2>
+      <p>Lo stato è salvato nel browser che usi. Per portarlo su un altro Mac o un altro browser:</p>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <button type="button" class="btn" id="esporta-stati">Copia i miei stati</button>
+        <button type="button" class="btn" id="importa-stati">Incolla gli stati</button>
+      </div>
+      <p class="nota">«Copia» mette un testo negli appunti: mandatelo per email o in una nota, poi sull'altro Mac clicca «Incolla» e incollalo nel riquadro.</p>
+      <textarea id="stati-txt" rows="4" style="width:100%;margin-top:8px" hidden aria-label="Testo degli stati"></textarea>
+      <button type="button" class="btn pri" id="stati-ok" hidden>Carica questi stati</button>
+      <h2>Parole chiave e siti</h2>
+      <p>Le parole usate dal robot sono nel file <a href="https://github.com/Fabri-75/radar-bandi/blob/main/impostazioni.yml" target="_blank" rel="noopener">impostazioni.yml</a>; i siti aggiunti o tolti a mano in <a href="https://github.com/Fabri-75/radar-bandi/blob/main/siti_extra.csv" target="_blank" rel="noopener">siti_extra.csv</a>. Su GitHub clicca la matita, modifica, poi <b>Commit changes</b>.</p>
+    </div>
+  </section>
+</main>
+<div class="toast" id="toast" hidden></div>
+<script>
+(function(){
+var $=function(s){return document.querySelector(s)};
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+var dati=null, ordine='scadenza', STATI=['nuovo','visto','interessante','scartato'];
+function toast(t){var e=$('#toast');e.textContent=t;e.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(function(){e.hidden=true},2600)}
+function leggi(k,d){try{var v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}
+function scrivi(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+var stati=leggi('radar.stati',{});
+function oggi(){var n=new Date();return n.getFullYear()+'-'+('0'+(n.getMonth()+1)).slice(-2)+'-'+('0'+n.getDate()).slice(-2)}
+function it(d){if(!d)return'';var p=d.split('-');return p[2]+'/'+p[1]+'/'+p[0]}
+function giorni(d){return Math.round((new Date(d+'T00:00:00')-new Date(oggi()+'T00:00:00'))/864e5)}
+function statoDi(r){return stati[r.id]||'nuovo'}
+
+// viste
+var viste=['bandi','copertura','aiuto'];
+function vai(v){viste.forEach(function(x){$('#v-'+x).hidden=x!==v});document.querySelectorAll('nav button').forEach(function(b){b.setAttribute('aria-current',b.dataset.v===v?'page':'false')});if(location.hash!=='#'+v)history.replaceState(null,'','#'+v)}
+document.querySelectorAll('nav button').forEach(function(b){b.addEventListener('click',function(){vai(b.dataset.v)})});
+window.addEventListener('hashchange',function(){var v=location.hash.slice(1);if(viste.indexOf(v)>=0)vai(v)});
+
+function carica(sigla){
+  scrivi('radar.prov',sigla);
+  fetch('dati/'+sigla+'.json?'+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){dati=d;disegna();copertura()})
+  .catch(function(){dati=null;$('#titolo').textContent='Nessuna ricerca ancora per questa provincia';$('#aggiornato').textContent='Usa «Aggiorna adesso» per lanciarla.';$('#tabella tbody').innerHTML='';$('#conta').textContent=''});
+}
+fetch('dati/province.json?'+Date.now()).then(function(r){return r.json()}).then(function(p){
+  var s=$('#prov');s.innerHTML=p.map(function(x){return'<option value="'+esc(x.sigla)+'">'+esc(x.nome)+'</option>'}).join('');
+  var pref=leggi('radar.prov',null);if(pref&&p.some(function(x){return x.sigla===pref}))s.value=pref;
+  carica(s.value);
+}).catch(function(){$('#titolo').textContent='Nessuna ricerca ancora'});
+$('#prov').addEventListener('change',function(){carica(this.value)});
+
+function filtrate(){
+  var q=$('#cerca').value.trim().toLowerCase(), tipo=$('#tipo').value, fs=$('#fstato').value, esiti=$('#esiti').checked, scad=$('#scaduti').checked, o=oggi();
+  return dati.righe.filter(function(r){
+    if(r.esito&&!esiti)return false;
+    if(!scad&&r.scadenza&&r.scadenza<o)return false;
+    if(tipo&&r.tipo!==tipo)return false;
+    var st=statoDi(r);
+    if(fs===''&&st==='scartato')return false;
+    if(fs&&fs!=='*'&&st!==fs)return false;
+    if(q){var t=(r.ente+' '+r.titolo+' '+(r.motivi||[]).join(' ')+' '+(r.partecipanti||'')).toLowerCase();if(t.indexOf(q)<0)return false}
+    return true;
+  }).sort(function(a,b){
+    if(ordine==='pubblicazione')return (b.pubblicazione||'').localeCompare(a.pubblicazione||'');
+    var A=a.scadenza&&a.scadenza>=o?a.scadenza:'9999', B=b.scadenza&&b.scadenza>=o?b.scadenza:'9999';
+    return A.localeCompare(B)||(b.pubblicazione||'').localeCompare(a.pubblicazione||'');
+  });
+}
+function disegna(){
+  if(!dati)return;
+  $('#titolo').textContent='Bandi · '+dati.provincia.nome;
+  var nn=dati.righe.filter(function(r){return r.nuovo}).length;
+  $('#aggiornato').textContent='Ricerca del '+new Date(dati.aggiornato).toLocaleString('it-IT',{day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit'})+' · '+nn+' nuovi';
+  var rr=filtrate();
+  $('#conta').textContent=rr.length+' avvisi mostrati su '+dati.righe.length+' trovati';
+  $('#tabella tbody').innerHTML=rr.length?rr.map(function(r){
+    var st=statoDi(r), g=r.scadenza?giorni(r.scadenza):null;
+    return '<tr class="'+(r.nuovo&&st==='nuovo'?'nuovo ':'')+(st==='scartato'?'scartato':'')+'">'
+     +'<td data-l="Scadenza" class="num">'+(r.scadenza?'<span class="'+(g>=0&&g<=7?'vicina':'')+'">'+it(r.scadenza)+'</span>'+(g>=0?'<br><span class="nota">tra '+g+' gg</span>':''):'')+'</td>'
+     +'<td data-l="Ente">'+esc(r.ente)+'</td>'
+     +'<td data-l="Tipo">'+esc(r.tipo)+'</td>'
+     +'<td data-l="Titolo" class="tit">'+(r.nuovo?'<span class="chip nuovo">nuovo</span>':'')+(r.esito?'<span class="chip esito">esito</span>':'')+'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">'+esc(r.titolo)+'</a>'+(r.fonti&&r.fonti.length>1?'<br><span class="nota">anche su: '+r.fonti.slice(1).map(function(f){return'<a href="'+esc(f.link)+'" target="_blank" rel="noopener">'+esc(f.nome)+'</a>'}).join(', ')+'</span>':'')+'</td>'
+     +'<td data-l="Pubblicato" class="num">'+it(r.pubblicazione)+'</td>'
+     +'<td data-l="Importo" class="num">'+esc(r.importo||'')+'</td>'
+     +'<td data-l="Chi può partecipare">'+esc(r.partecipanti||'')+'</td>'
+     +'<td data-l="Perché" class="motivi">'+esc((r.motivi||[]).join(', '))+'</td>'
+     +'<td data-l="Stato"><select class="stato-sel" data-id="'+esc(r.id)+'" aria-label="Stato">'+STATI.map(function(s){return'<option'+(s===st?' selected':'')+'>'+s+'</option>'}).join('')+'</select></td></tr>';
+  }).join(''):'<tr><td colspan="9" class="vuoto">Nessun avviso con questi filtri.</td></tr>';
+}
+['#cerca','#tipo','#fstato','#esiti','#scaduti'].forEach(function(s){$(s).addEventListener('input',disegna);$(s).addEventListener('change',disegna)});
+document.querySelectorAll('th button').forEach(function(b){b.addEventListener('click',function(){ordine=b.dataset.o;document.querySelectorAll('th button').forEach(function(x){x.textContent=x.textContent.replace(' ▲','')});b.textContent+=' ▲';disegna()})});
+$('#tabella').addEventListener('change',function(e){var s=e.target.closest('.stato-sel');if(!s)return;stati[s.dataset.id]=s.value;scrivi('radar.stati',stati);disegna();toast('Stato salvato: '+s.value)});
+
+// CSV per Numbers ed Excel (separatore ; e BOM)
+$('#csv').addEventListener('click',function(){
+  if(!dati)return;
+  var col=['Scadenza','Ente','Tipo','Titolo','Pubblicato','Importo','Chi può partecipare','Perché','Stato','Link'];
+  var q=function(v){v=String(v==null?'':v);return'"'+v.replace(/"/g,'""')+'"'};
+  var righe=filtrate().map(function(r){return[it(r.scadenza),r.ente,r.tipo,r.titolo,it(r.pubblicazione),r.importo,r.partecipanti,(r.motivi||[]).join(', '),statoDi(r),r.link].map(q).join(';')});
+  var blob=new Blob(['﻿'+col.map(q).join(';')+'\r\n'+righe.join('\r\n')],{type:'text/csv;charset=utf-8'});
+  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='bandi-'+dati.provincia.sigla+'-'+oggi()+'.csv';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500);
+});
+
+// copertura
+function copertura(){
+  var c=dati&&dati.copertura;if(!c)return;
+  $('#cop-data').textContent=dati.provincia.nome+' · '+new Date(dati.aggiornato).toLocaleDateString('it-IT');
+  var tot=c.enti.length, ok=c.enti.filter(function(e){return e.esito==='letto'}).length;
+  var per={};c.enti.forEach(function(e){per[e.tipo]=per[e.tipo]||[0,0];per[e.tipo][1]++;if(e.esito==='letto')per[e.tipo][0]++});
+  $('#cop-cifre').innerHTML='<div class="cifra"><b>'+ok+' / '+tot+'</b><span>siti letti</span></div>'+Object.keys(per).map(function(t){return'<div class="cifra"><b>'+per[t][0]+' / '+per[t][1]+'</b><span>'+esc(t)+'</span></div>'}).join('')
+   +(c.fonti||[]).map(function(f){return'<div class="cifra"><b class="'+(f.ok?'okk':'ko')+'">'+(f.ok?f.trovati:'—')+'</b><span>'+esc(f.nome)+(f.ok?'':' · '+esc(f.errore||'non raggiungibile'))+'</span></div>'}).join('');
+  $('#cop-note').innerHTML=(c.note||[]).map(esc).join('<br>');
+  disegnaCop();
+}
+function disegnaCop(){
+  var c=dati&&dati.copertura;if(!c)return;
+  var f=$('#cop-filtro').value, q=$('#cop-cerca').value.trim().toLowerCase();
+  var ee=c.enti.filter(function(e){return(!f||e.esito!=='letto')&&(!q||e.nome.toLowerCase().indexOf(q)>=0)});
+  $('#cop-tab tbody').innerHTML=ee.length?ee.map(function(e){
+    return'<tr><td data-l="Ente">'+(e.sito?'<a href="'+esc(e.sito)+'" target="_blank" rel="noopener">'+esc(e.nome)+'</a>':esc(e.nome))+'</td><td data-l="Tipo">'+esc(e.tipo)+'</td>'
+    +'<td data-l="Esito"><span class="'+(e.esito==='letto'?'okk':'ko')+'">'+(e.esito==='letto'?'letto':'non letto')+'</span>'+(e.motivo?'<br><span class="nota">'+esc(e.motivo)+'</span>':'')+'</td>'
+    +'<td data-l="Pagine lette">'+(e.pagine||[]).map(function(p){return'<a href="'+esc(p.url)+'" target="_blank" rel="noopener">'+esc(p.nome)+'</a>'}).join(', ')+'</td>'
+    +'<td data-l="Avvisi utili" class="num">'+(e.trovati||0)+'</td></tr>'}).join(''):'<tr><td colspan="5" class="vuoto">Tutti i siti sono stati letti.</td></tr>';
+}
+$('#cop-filtro').addEventListener('change',disegnaCop);$('#cop-cerca').addEventListener('input',disegnaCop);
+
+// stati tra Mac diversi
+$('#esporta-stati').addEventListener('click',function(){var t=JSON.stringify(stati);var ta=$('#stati-txt');ta.hidden=false;ta.value=t;
+  if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(function(){toast('Stati copiati negli appunti')},function(){ta.select();toast('Seleziona e copia il testo')});else{ta.select();toast('Seleziona e copia il testo')}});
+$('#importa-stati').addEventListener('click',function(){var ta=$('#stati-txt');ta.hidden=false;ta.value='';ta.focus();$('#stati-ok').hidden=false});
+$('#stati-ok').addEventListener('click',function(){try{var n=JSON.parse($('#stati-txt').value);Object.keys(n).forEach(function(k){stati[k]=n[k]});scrivi('radar.stati',stati);disegna();toast('Stati caricati');$('#stati-ok').hidden=true}catch(e){toast('Il testo incollato non è valido')}});
+var v0=location.hash.slice(1);if(viste.indexOf(v0)>=0)vai(v0);
+})();
+</script>
+</body>
+</html>

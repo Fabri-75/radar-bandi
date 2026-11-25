@@ -1,0 +1,142 @@
+# ======================================================================
+#  IMPOSTAZIONI DEL RADAR BANDI
+#  Puoi modificare questo file direttamente su GitHub (icona della matita),
+#  poi clicca "Commit changes". La ricerca successiva userà i nuovi valori.
+#  Regola: ogni voce di un elenco inizia con "- " (trattino e spazio).
+# ======================================================================
+
+# Province cercate in automatico ogni settimana (sigla automobilistica)
+province_settimanali:
+  - MB
+
+# Avvisi pubblicati negli ultimi N giorni (oppure con scadenza futura)
+giorni: 60
+
+# Includere anche le scuole paritarie? (si / no)
+paritarie: no
+
+# Parole che indicano l'ARGOMENTO giusto: basta una per tenere l'avviso.
+# Scrivile senza accenti. "teatr" trova teatro, teatrale, teatri...
+parole_argomento:
+  - teatr
+  - spettacol
+  - conferenza-spettacolo
+  - rassegn
+  - stagione teatrale
+  - stagione culturale
+  - laboratorio teatrale
+  - laboratori teatrali
+  - laboratori espressivi
+  - laboratorio espressivo
+  - improvvisazione
+  - drammatizzazione
+  - legalita
+  - educazione civica
+  - bullismo
+  - cyberbullismo
+  - affettivita
+  - educazione digitale
+  - promozione della lettura
+  - letture animate
+  - lettura animata
+  - lettura ad alta voce
+  - maggio dei libri
+  - patto per la lettura
+  - nati per leggere
+  - animazione
+  - narrazione
+  - evento culturale
+  - eventi culturali
+  - iniziative culturali
+  - manifestazioni culturali
+  - intrattenimento
+  - concert
+  - musica dal vivo
+  - musical
+  - giornata della memoria
+  - giorno della memoria
+  - estate
+  - natale
+  - natalizi
+  - dispersione scolastica
+  - inclusione
+  - esperto esterno
+  - esperti esterni
+  - ptof
+  - piano estate
+  - team building
+  - soft skill
+
+# Parole che indicano il TIPO di atto: da sole non bastano,
+# ma se compaiono insieme a un argomento l'avviso sale in classifica.
+parole_forma:
+  - manifestazione di interesse
+  - manifestazioni di interesse
+  - avviso pubblico
+  - indagine di mercato
+  - richiesta di preventivo
+  - richiesta preventivi
+  - selezione
+  - reclutamento
+  - affidamento
+  - contributi
+  - patrocinio
+  - pnrr
+  - pn scuola
+  - pon
+  - fse
+
+# Parole che fanno SCARTARE l'avviso se sono nel titolo
+parole_escludi:
+  - lavori
+  - manutenzion
+  - fornitura
+  - ristorazione
+  - refezione
+  - mensa
+  - trasport
+  - pulizi
+  - concorso pubblico
+  - assunzion
+  - mobilita volontaria
+  - mobilita esterna
+  - personale ata
+  - supplenz
+  - messa a disposizione
+  - assicurativ
+  - informatic
+  - hardware
+  - software
+  - arredi
+  - pubblicazione di matrimonio
+  - permesso di costruire
+  - ordinanza viabil
+  - scrutatori
+  - presidenti di seggio
+
+# Parole che indicano un ESITO o un affidamento già chiuso
+# (nascosti di default, visibili con "mostra anche gli esiti")
+parole_esito:
+  - esito
+  - aggiudicazion
+  - aggiudicat
+  - graduatoria definitiva
+  - graduatoria provvisoria
+  - affidamento diretto
+  - determina di affidamento
+  - determinazione di affidamento
+  - impegno di spesa
+  - liquidazione
+  - decreto di nomina
+  - nomina esperto
+  - incarico conferito
+  - conferimento incarico
+
+# Codici CPV utili (per ANAC e Sintel): bastano le prime cifre
+cpv:
+  - "92312"   # servizi artistici, produzioni teatrali, orchestre, artisti
+  - "923"     # servizi di intrattenimento
+  - "92300000"
+  - "79952100" # organizzazione di eventi culturali
+  - "805"     # servizi di formazione
+  - "92511"   # servizi di biblioteche

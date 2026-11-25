@@ -1,0 +1,235 @@
+"""Radar Bandi: ricerca degli avvisi utili per una provincia.
+
+Uso:  python -m radar.main MB
+Scrive docs/dati/<SIGLA>.json (risultati + copertura) e aggiorna docs/dati/province.json.
+"""
+import hashlib
+import json
+import os
+import re
+import sys
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import date, datetime, timedelta, timezone
+
+import yaml
+
+from . import enti as E
+from .filtro import Filtro
+from .lettori import leggi_ente
+from .fonti_nazionali import anac, sintel
+from .rete import Rete
+from .testo import semplice, testo_pdf, trova_cig, trova_date, trova_destinatari, trova_importo, trova_scadenza
+
+DATI = "docs/dati"
+MAX_DETTAGLI = 25   # pagine di dettaglio/PDF aperte al massimo per ente
+
+
+def log(*a):
+    print(datetime.now().strftime("%H:%M:%S"), *a, flush=True)
+
+
+def _id(ente, titolo, link):
+    base = semplice(ente) + "|" + re.sub(r"[^a-z0-9]", "", semplice(titolo))[:90]
+    return hashlib.sha1(base.encode()).hexdigest()[:12]
+
+
+def arricchisci(rete, v, flt):
+    """Apre la pagina di dettaglio e i PDF per leggere scadenza, importo e destinatari."""
+    testi = [v.get("testo", "")]
+    allegati = list(v.get("allegati") or [])
+    aperti = 0
+    if v.get("link") and not v["link"].lower().split("?")[0].endswith(".pdf") and v.get("apri_dettaglio", True):
+        r, err = rete.get(v["link"])
+        aperti += 1
+        if r is not None and not err:
+            ct = r.headers.get("content-type", "")
+            if "pdf" in ct:
+                testi.append(testo_pdf(r.content))
+            elif "html" in ct or "text" in ct:
+                from .lettori.generico import testo_e_allegati
+                t, alls = testo_e_allegati(r.text, r.url)
+                testi.append(t)
+                allegati += alls
+    elif v.get("link", "").lower().split("?")[0].endswith(".pdf"):
+        allegati.insert(0, v["link"])
+    for a in allegati[:3]:
+        r, err = rete.get(a)
+        aperti += 1
+        if r is not None and not err and (b"%PDF" in r.content[:1024]):
+            testi.append(testo_pdf(r.content))
+    v["testo_completo"] = "\n".join(t for t in testi if t)
+    return aperti
+
+
+def valuta(v, flt, oggi, limite):
+    """Decide se tenere l'avviso. Ritorna la riga per la tabella oppure None."""
+    tit = v["titolo"]
+    if flt.scartato(tit):
+        return None
+    testo = v.get("testo_completo") or v.get("testo") or ""
+    arg_tit = flt.argomenti(tit)
+    arg_txt = flt.argomenti(testo[:20000]) if not arg_tit else []
+    cpv_ok = flt.cpv_utile(v.get("cpv"))
+    if not (arg_tit or arg_txt or cpv_ok):
+        return None
+    # nel testo servono almeno due argomenti diversi, o uno "forte", per evitare falsi positivi
+    forti = {"teatr", "spettacol", "laboratorio teatrale", "laboratori teatrali", "improvvisazione", "drammatizzazione",
+             "letture animate", "lettura animata", "promozione della lettura", "nati per leggere", "maggio dei libri",
+             "patto per la lettura", "concert", "musica dal vivo", "rassegn", "esperto esterno", "esperti esterni"}
+    if not arg_tit and not cpv_ok and len(set(arg_txt)) < 2 and not (set(arg_txt) & forti):
+        return None
+    pub = v.get("pubblicazione")
+    scad = v.get("scadenza") or trova_scadenza(testo, dopo=pub)
+    if pub and pub < limite and not (scad and scad >= oggi):
+        return None
+    motivi = list(dict.fromkeys(arg_tit + arg_txt + flt.forme(tit)))
+    if cpv_ok:
+        motivi.append(f"CPV {v.get('cpv')}")
+    return {
+        "ente": v["ente"], "tipo": v["tipo"], "titolo": tit[:300],
+        "pubblicazione": pub.isoformat() if pub else None,
+        "scadenza": scad.isoformat() if scad else None,
+        "importo": v.get("importo") or trova_importo(testo),
+        "partecipanti": trova_destinatari(testo),
+        "motivi": motivi[:8],
+        "link": v["link"],
+        "fonti": [{"nome": v.get("fonte", "sito"), "link": v["link"]}],
+        "esito": flt.e_esito(tit) or bool(v.get("esito_anac")),
+        "cig": v.get("cig") or trova_cig(tit + " " + testo[:5000]),
+        "cf": v.get("cf"),
+    }
+
+
+def lavora_ente(rete, ente, flt, oggi, limite):
+    t0 = time.time()
+    voci, pagine, errore = leggi_ente(rete, ente, limite)
+    righe, aperti = [], 0
+    for v in voci:
+        v.setdefault("ente", ente["nome"]); v.setdefault("tipo", ente["tipo"]); v.setdefault("cf", ente.get("cf"))
+        if flt.scartato(v["titolo"]):
+            continue
+        if v.get("pubblicazione") and v["pubblicazione"] < limite and not (v.get("scadenza") and v["scadenza"] >= oggi):
+            continue
+        promettente = flt.argomenti(v["titolo"] + " " + v.get("testo", "")) or flt.generico(v["titolo"])
+        if promettente and aperti < MAX_DETTAGLI:
+            aperti += arricchisci(rete, v, flt)
+        r = valuta(v, flt, oggi, limite)
+        if r:
+            righe.append(r)
+    cop = {"nome": ente["nome"], "tipo": ente["tipo"], "sito": ente.get("sito"),
+           "esito": "letto" if pagine else "non letto",
+           "motivo": errore or ente.get("nota") or ("" if pagine else "sezione avvisi non trovata"),
+           "pagine": pagine[:6], "voci": len(voci), "trovati": len(righe), "secondi": round(time.time() - t0)}
+    return righe, cop
+
+
+def unisci(righe):
+    """Elimina i doppioni (stesso CIG, oppure stesso ente e titolo)."""
+    out, per_chiave = [], {}
+    for r in righe:
+        chiavi = [k for k in (("cig", r["cig"]) if r.get("cig") else None,
+                              ("t", semplice(r["ente"])[:30], re.sub(r"[^a-z0-9]", "", semplice(r["titolo"]))[:70])) if k]
+        gia = next((per_chiave[k] for k in chiavi if k in per_chiave), None)
+        if gia:
+            for f in r["fonti"]:
+                if f["link"] not in [x["link"] for x in gia["fonti"]]:
+                    gia["fonti"].append(f)
+            for c in ("scadenza", "importo", "partecipanti", "pubblicazione"):
+                gia[c] = gia.get(c) or r.get(c)
+            gia["motivi"] = list(dict.fromkeys(gia["motivi"] + r["motivi"]))[:8]
+            gia["esito"] = gia["esito"] and r["esito"]
+        else:
+            out.append(r); gia = r
+        for k in chiavi:
+            per_chiave[k] = gia
+    return out
+
+
+def main(sigla):
+    sigla = sigla.strip().upper()[:2]
+    imp = yaml.safe_load(open("impostazioni.yml", encoding="utf-8"))
+    flt = Filtro(imp)
+    oggi = date.today()
+    limite = oggi - timedelta(days=int(imp.get("giorni", 60)))
+    rete = Rete(pausa=float(imp.get("pausa_secondi", 1.5)))
+    t0 = time.time()
+
+    nome_prov, enti, note = E.carica(rete, sigla, imp)
+    log(f"{nome_prov}: {len(enti)} enti", {t: sum(1 for e in enti if e['tipo'] == t) for t in {e['tipo'] for e in enti}})
+
+    righe, coperture = [], []
+    with_site = [e for e in enti if e.get("sito")]
+    for e in enti:
+        if not e.get("sito"):
+            coperture.append({"nome": e["nome"], "tipo": e["tipo"], "sito": "", "esito": "non letto",
+                              "motivo": e.get("nota") or "nessun sito indicato negli open data", "pagine": [], "trovati": 0})
+    with ThreadPoolExecutor(max_workers=int(imp.get("siti_in_parallelo", 10))) as ex:
+        fut = {ex.submit(lavora_ente, rete, e, flt, oggi, limite): e for e in with_site}
+        for i, f in enumerate(as_completed(fut), 1):
+            e = fut[f]
+            try:
+                rr, cop = f.result()
+            except Exception as ex_:  # un sito che si rompe non deve fermare la ricerca
+                rr, cop = [], {"nome": e["nome"], "tipo": e["tipo"], "sito": e.get("sito"), "esito": "non letto",
+                               "motivo": f"errore del lettore ({type(ex_).__name__})", "pagine": [], "trovati": 0}
+            righe += rr; coperture.append(cop)
+            log(f"[{i}/{len(with_site)}] {e['nome'][:45]:45} {cop['esito']:9} voci={cop.get('voci', 0):3} utili={cop['trovati']:2} {cop['motivo'][:60]}")
+
+    fonti = []
+    per_cf = {e["cf"]: e for e in enti if e.get("cf")}
+    for nome, fn in (("ANAC pubblicità legale", anac), ("Sintel Lombardia", sintel)):
+        try:
+            voci = fn(rete, per_cf, flt, limite)
+            n = 0
+            for v in voci:
+                r = valuta(v, flt, oggi, limite)
+                if r:
+                    righe.append(r); n += 1
+            fonti.append({"nome": nome, "ok": True, "trovati": n, "letti": len(voci)})
+            log(f"{nome}: {len(voci)} avvisi letti, {n} utili")
+        except Exception as ex_:
+            fonti.append({"nome": nome, "ok": False, "errore": f"{type(ex_).__name__}: {str(ex_)[:120]}"})
+            log(f"{nome}: ERRORE {ex_}")
+
+    righe = unisci(righe)
+    # nuovi rispetto alla ricerca precedente
+    os.makedirs(DATI, exist_ok=True)
+    file = f"{DATI}/{sigla}.json"
+    prima = set()
+    if os.path.exists(file) and os.environ.get("RADAR_RIPARTI") != "1":
+        try:
+            prima = {r["id"] for r in json.load(open(file, encoding="utf-8"))["righe"]}
+        except Exception:
+            pass
+    for r in righe:
+        r["id"] = _id(r["ente"], r["titolo"], r["link"])
+        r["nuovo"] = bool(prima) and r["id"] not in prima
+    # Gli albi tolgono gli atti dopo 15 giorni: tengo gli avvisi trovati prima se sono ancora aperti
+    if prima:
+        ora = {r["id"] for r in righe}
+        for r in json.load(open(file, encoding="utf-8"))["righe"]:
+            if r["id"] in ora:
+                continue
+            if (r.get("scadenza") and r["scadenza"] >= oggi.isoformat()) or (r.get("pubblicazione") and r["pubblicazione"] >= limite.isoformat()):
+                r["nuovo"] = False
+                righe.append(r)
+    righe.sort(key=lambda r: (r["scadenza"] or "9999", r["pubblicazione"] or ""))
+
+    coperture.sort(key=lambda c: (c["esito"] == "letto", c["tipo"], c["nome"]))
+    out = {"provincia": {"sigla": sigla, "nome": nome_prov}, "aggiornato": datetime.now(timezone.utc).isoformat(),
+           "giorni": int(imp.get("giorni", 60)), "durata_minuti": round((time.time() - t0) / 60),
+           "richieste": rete.richieste, "righe": righe,
+           "copertura": {"enti": coperture, "fonti": fonti, "note": note}}
+    json.dump(out, open(file, "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
+
+    pf = f"{DATI}/province.json"
+    prov = json.load(open(pf, encoding="utf-8")) if os.path.exists(pf) else []
+    prov = [p for p in prov if p["sigla"] != sigla] + [{"sigla": sigla, "nome": nome_prov}]
+    json.dump(sorted(prov, key=lambda p: p["nome"]), open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    letti = sum(1 for c in coperture if c["esito"] == "letto")
+    log(f"FINE: {len(righe)} avvisi utili, {letti}/{len(coperture)} siti letti, {rete.richieste} richieste, {out['durata_minuti']} min")
+
+
+if __name__ == "__main__":
+    main(sys.argv[1] if len(sys.argv) > 1 else "MB")

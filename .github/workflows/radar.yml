@@ -1,0 +1,163 @@
+name: Radar Bandi
+on:
+  workflow_dispatch:
+    inputs:
+      provincia:
+        description: "Provincia da cercare"
+        type: choice
+        default: "MB - Monza e Brianza"
+        options:
+          - "AG - Agrigento"
+          - "AL - Alessandria"
+          - "AN - Ancona"
+          - "AO - Aosta"
+          - "AP - Ascoli Piceno"
+          - "AQ - L'Aquila"
+          - "AR - Arezzo"
+          - "AT - Asti"
+          - "AV - Avellino"
+          - "BA - Bari"
+          - "BG - Bergamo"
+          - "BI - Biella"
+          - "BL - Belluno"
+          - "BN - Benevento"
+          - "BO - Bologna"
+          - "BR - Brindisi"
+          - "BS - Brescia"
+          - "BT - Barletta-Andria-Trani"
+          - "BZ - Bolzano"
+          - "CA - Cagliari"
+          - "CB - Campobasso"
+          - "CE - Caserta"
+          - "CH - Chieti"
+          - "CL - Caltanissetta"
+          - "CN - Cuneo"
+          - "CO - Como"
+          - "CR - Cremona"
+          - "CS - Cosenza"
+          - "CT - Catania"
+          - "CZ - Catanzaro"
+          - "EN - Enna"
+          - "FC - Forlì-Cesena"
+          - "FE - Ferrara"
+          - "FG - Foggia"
+          - "FI - Firenze"
+          - "FM - Fermo"
+          - "FR - Frosinone"
+          - "GE - Genova"
+          - "GO - Gorizia"
+          - "GR - Grosseto"
+          - "IM - Imperia"
+          - "IS - Isernia"
+          - "KR - Crotone"
+          - "LC - Lecco"
+          - "LE - Lecce"
+          - "LI - Livorno"
+          - "LO - Lodi"
+          - "LT - Latina"
+          - "LU - Lucca"
+          - "MB - Monza e Brianza"
+          - "MC - Macerata"
+          - "ME - Messina"
+          - "MI - Milano"
+          - "MN - Mantova"
+          - "MO - Modena"
+          - "MS - Massa-Carrara"
+          - "MT - Matera"
+          - "NA - Napoli"
+          - "NO - Novara"
+          - "NU - Nuoro"
+          - "OR - Oristano"
+          - "PA - Palermo"
+          - "PC - Piacenza"
+          - "PD - Padova"
+          - "PE - Pescara"
+          - "PG - Perugia"
+          - "PI - Pisa"
+          - "PN - Pordenone"
+          - "PO - Prato"
+          - "PR - Parma"
+          - "PT - Pistoia"
+          - "PU - Pesaro e Urbino"
+          - "PV - Pavia"
+          - "PZ - Potenza"
+          - "RA - Ravenna"
+          - "RC - Reggio Calabria"
+          - "RE - Reggio Emilia"
+          - "RG - Ragusa"
+          - "RI - Rieti"
+          - "RM - Roma"
+          - "RN - Rimini"
+          - "RO - Rovigo"
+          - "SA - Salerno"
+          - "SI - Siena"
+          - "SO - Sondrio"
+          - "SP - La Spezia"
+          - "SR - Siracusa"
+          - "SS - Sassari"
+          - "SU - Sud Sardegna"
+          - "SV - Savona"
+          - "TA - Taranto"
+          - "TE - Teramo"
+          - "TN - Trento"
+          - "TO - Torino"
+          - "TP - Trapani"
+          - "TR - Terni"
+          - "TS - Trieste"
+          - "TV - Treviso"
+          - "UD - Udine"
+          - "VA - Varese"
+          - "VB - Verbano-Cusio-Ossola"
+          - "VC - Vercelli"
+          - "VE - Venezia"
+          - "VI - Vicenza"
+          - "VR - Verona"
+          - "VT - Viterbo"
+          - "VV - Vibo Valentia"
+      riparti:
+        description: "Considera tutto come nuovo (ricomincia da zero)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 4 * * 1"   # ogni lunedì alle 5:17 (ora italiana d'inverno)
+permissions:
+  contents: write
+concurrency:
+  group: radar-bandi
+  cancel-in-progress: false
+jobs:
+  cerca:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Installa i programmi
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Cerca i bandi
+        env:
+          RADAR_RIPARTI: ${{ inputs.riparti && '1' || '0' }}
+        run: |
+          if [ -n "${{ inputs.provincia }}" ]; then
+            LISTA=$(echo "${{ inputs.provincia }}" | cut -c1-2)
+          else
+            LISTA=$(python -c "import yaml;print(' '.join(yaml.safe_load(open('impostazioni.yml'))['province_settimanali']))")
+          fi
+          for P in $LISTA; do
+            P=${P:0:2}
+            echo "::group::Provincia $P"
+            python -m radar.main "$P"
+            echo "::endgroup::"
+          done
+      - name: Salva i risultati
+        run: |
+          git config user.name "radar-bandi"
+          git config user.email "radar-bandi@users.noreply.github.com"
+          git add docs/dati
+          git commit -m "Risultati della ricerca $(date +%d/%m/%Y)" || echo "Nessuna novità"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
