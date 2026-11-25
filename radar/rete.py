@@ -1,7 +1,7 @@
 """Accesso rispettoso ai siti: pause per sito, tempi massimi, robots.txt, user agent riconoscibile."""
 import threading
 import time
-import urllib.robotparser
+import re
 from urllib.parse import urlparse, urljoin
 
 import requests
@@ -38,18 +38,20 @@ class Rete:
         p = urlparse(url)
         base = f"{p.scheme}://{p.netloc}"
         if base not in self._robots:
-            rp = None
+            regole = None
             try:
                 self._attendi(p.netloc)
                 r = self.s.get(base + "/robots.txt", timeout=10, verify=False)
-                if r.status_code == 200 and "text" in r.headers.get("content-type", "text"):
-                    rp = urllib.robotparser.RobotFileParser()
-                    rp.parse(r.text.splitlines())
+                if r.status_code == 200 and "html" not in r.headers.get("content-type", "text/plain"):
+                    regole = leggi_robots(r.text)
             except Exception:
-                rp = None
-            self._robots[base] = rp
-        rp = self._robots[base]
-        return True if rp is None else rp.can_fetch(UA, url)
+                regole = None
+            self._robots[base] = regole
+        regole = self._robots[base]
+        if not regole:
+            return True
+        percorso = (p.path or "/") + (("?" + p.query) if p.query else "")
+        return robots_permette(regole, percorso)
 
     def get(self, url, controlla_robots=True, **kw):
         """Ritorna (risposta, errore). L'errore è una frase breve in italiano."""
@@ -109,3 +111,51 @@ def normalizza_url(u):
 
 def assoluto(base, href):
     return urljoin(base, href)
+
+
+def leggi_robots(testo):
+    """Regole robots.txt che valgono per noi: quelle per 'radarbandi' se ci sono, altrimenti quelle per '*'."""
+    gruppi, attuali, regole_attuali, ultimo_ua = {}, [], None, False
+    for riga in testo.splitlines():
+        riga = riga.split("#", 1)[0].strip()
+        if ":" not in riga:
+            continue
+        k, v = [x.strip() for x in riga.split(":", 1)]
+        k = k.lower()
+        if k == "user-agent":
+            if not ultimo_ua:
+                attuali, regole_attuali = [], []
+            attuali.append(v.lower())
+            for a in attuali:
+                gruppi.setdefault(a, regole_attuali)
+            ultimo_ua = True
+        elif k in ("allow", "disallow") and regole_attuali is not None:
+            ultimo_ua = False
+            if v or k == "allow":
+                regole_attuali.append((k == "allow", v))
+        else:
+            ultimo_ua = False
+    for a, r in gruppi.items():
+        if a != "*" and a.startswith("radarbandi"):
+            return r
+    return gruppi.get("*", [])
+
+
+def _schema(v):
+    rx = re.escape(v).replace(r"\*", ".*")
+    if rx.endswith(r"\$"):
+        rx = rx[:-2] + "$"
+    return re.compile(rx)
+
+
+def robots_permette(regole, percorso):
+    """Semantica di Google: vince la regola più lunga che corrisponde; a parità vince Allow."""
+    migliore = None
+    for allow, v in regole:
+        if not v:
+            continue
+        if _schema(v).match(percorso):
+            lung = len(v)
+            if migliore is None or lung > migliore[0] or (lung == migliore[0] and allow):
+                migliore = (lung, allow)
+    return True if migliore is None else migliore[1]
