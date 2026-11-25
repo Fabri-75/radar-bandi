@@ -77,6 +77,9 @@ def valuta(v, flt, oggi, limite):
     cpv_ok = flt.cpv_utile(v.get("cpv"))
     if not (arg_tit or arg_txt or cpv_ok):
         return None
+    # Dai siti tengo solo atti e avvisi, non le notizie sugli eventi
+    if v.get("fonte", "").startswith("sito") and not flt.e_atto(tit):
+        return None
     # nel testo servono almeno due argomenti diversi, o uno "forte", per evitare falsi positivi
     forti = {"teatr", "spettacol", "laboratorio teatrale", "laboratori teatrali", "improvvisazione", "drammatizzazione",
              "letture animate", "lettura animata", "promozione della lettura", "nati per leggere", "maggio dei libri",
@@ -137,7 +140,8 @@ def unisci(righe):
     """Elimina i doppioni (stesso CIG, oppure stesso ente e titolo)."""
     out, per_chiave = [], {}
     for r in righe:
-        chiavi = [k for k in (("cig", r["cig"]) if r.get("cig") else None,
+        cig_ok = r.get("cig") and re.fullmatch(r"[0-9A-Z]{10}", str(r["cig"]).upper())
+        chiavi = [k for k in (("cig", r["cig"]) if cig_ok else None,
                               ("t", semplice(r["ente"])[:30], re.sub(r"[^a-z0-9]", "", semplice(r["titolo"]))[:70])) if k]
         gia = next((per_chiave[k] for k in chiavi if k in per_chiave), None)
         if gia:

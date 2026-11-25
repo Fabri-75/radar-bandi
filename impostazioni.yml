@@ -118,6 +118,29 @@ parole_escludi:
   - elezioni
   - elettoral
   - luminarie
+  - selezione interna
+  - avviso interno
+  - personale interno
+  - docenti interni
+  - incarico al dsga
+  - responsabile unico
+  - nomina rup
+  - disseminazione
+  - sindacal
+  - informativa
+  - trattamento dei dati
+  - occupazione suolo
+  - brochure
+  - noleggio bus
+  - noleggio pullman
+  - contributo volontario
+  - contributi alle famiglie
+  - pranzo
+  - utilizzo del teatro
+  - utilizzo teatro
+  - utilizzo del
+  - concessione in uso
+  - concessione sala
   - pista di pattinaggio
   - sgombero neve
   - verde pubblico
@@ -148,6 +171,17 @@ parole_esito:
   - nomina esperto
   - incarico conferito
   - conferimento incarico
+  - nomina commissione
+  - nomina della commissione
+  - costituzione della commissione
+  - graduatori
+  - verbale
+  - decreto di individuazione
+  - determina a contrarre
+  - decisione a contrarre
+  - concessione patrocinio
+  - concessione del patrocinio
+  - lettera di incarico
 
 # Codici CPV utili (per ANAC e Sintel): bastano le prime cifre
 cpv:

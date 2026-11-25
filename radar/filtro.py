@@ -3,6 +3,12 @@ import re
 from .testo import semplice
 
 
+RE_ATTO = re.compile(r"avvis|bando|bandi\b|selezion|reclutament|manifestazion\w* (?:di )?interess|indagine|affidament|determin|"
+                     r"decisione a contrarre|incaric|procedura|preventiv|contribut|patrocini|convenzion|\bcig\b|decreto|sponsor|"
+                     r"candidatur|elenco (?:di )?operatori|albo (?:dei )?fornitori|concession|esperti?\b|co-?progettazione|call\b|invito|"
+                     r"proposte progettuali|richiesta di offerta|\brdo\b|servizio di|servizi di|realizzazione")
+
+
 class Filtro:
     def __init__(self, imp):
         def rx(lista):
@@ -35,6 +41,10 @@ class Filtro:
         """Titolo vago (es. 'Avviso pubblico', 'Determina n. 123'): vale la pena leggere l'allegato."""
         s = semplice(titolo)
         return bool(self.forme(s)) or bool(re.search(r"determin|decreto|avviso|bando|incaric|espert|selezion|reclutament|manifestazion|indagine|affidament|procedura|preventiv|progett|contribut|patrocini|convenzion", s))
+
+    def e_atto(self, titolo):
+        """Il titolo descrive un'opportunità o un atto (avviso, bando, affidamento...), non una notizia o un evento."""
+        return bool(RE_ATTO.search(semplice(titolo))) or bool(self.forme(titolo))
 
     def cpv_utile(self, cpv):
         c = re.sub(r"\D", "", str(cpv or ""))
