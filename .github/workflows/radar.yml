@@ -5,8 +5,9 @@ on:
       provincia:
         description: "Provincia da cercare"
         type: choice
-        default: "MB - Monza e Brianza"
+        default: "LOMBARDIA - tutte le 12 province"
         options:
+          - "LOMBARDIA - tutte le 12 province"
           - "AG - Agrigento"
           - "AL - Alessandria"
           - "AN - Ancona"
@@ -126,9 +127,32 @@ concurrency:
   group: radar-bandi
   cancel-in-progress: false
 jobs:
+  prepara:
+    runs-on: ubuntu-latest
+    outputs:
+      province: ${{ steps.p.outputs.province }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        run: |
+          SCELTA="${{ inputs.provincia }}"
+          if [ -z "$SCELTA" ] || [ "${SCELTA:0:9}" = "LOMBARDIA" ]; then
+            LISTA=$(python3 -c "import yaml,json;print(json.dumps(yaml.safe_load(open('impostazioni.yml'))['province_settimanali']))")
+          else
+            LISTA="[\"${SCELTA:0:2}\"]"
+          fi
+          echo "province=$LISTA" >> "$GITHUB_OUTPUT"
+          echo "Province: $LISTA"
+
   cerca:
+    needs: prepara
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        provincia: ${{ fromJson(needs.prepara.outputs.province) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -140,23 +164,34 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-ita > /dev/null
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
-      - name: Cerca i bandi
+      - name: Cerca i bandi (${{ matrix.provincia }})
         env:
           RADAR_RIPARTI: ${{ inputs.riparti && '1' || '0' }}
-        run: |
-          if [ -n "${{ inputs.provincia }}" ]; then
-            LISTA=$(echo "${{ inputs.provincia }}" | cut -c1-2)
-          else
-            LISTA=$(python -c "import yaml;print(' '.join(yaml.safe_load(open('impostazioni.yml'))['province_settimanali']))")
-          fi
-          for P in $LISTA; do
-            P=${P:0:2}
-            echo "::group::Provincia $P"
-            python -m radar.main "$P"
-            echo "::endgroup::"
-          done
+        run: python -m radar.main "${{ matrix.provincia }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: risultati-${{ matrix.provincia }}
+          path: docs/dati/${{ matrix.provincia }}.json
+          retention-days: 3
+
+  salva:
+    needs: cerca
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          path: nuovi
+          pattern: risultati-*
+          merge-multiple: true
       - name: Salva i risultati
         run: |
+          cp nuovi/*.json docs/dati/ 2>/dev/null || true
+          python -m radar.indice docs/dati
           git config user.name "radar-bandi"
           git config user.email "radar-bandi@users.noreply.github.com"
           git add docs/dati

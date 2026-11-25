@@ -105,6 +105,7 @@ def valuta(v, flt, oggi, limite):
         "importo": v.get("importo") or trova_importo(testo),
         "partecipanti": trova_destinatari(testo),
         "motivi": motivi[:8],
+        "temi": flt.temi(tit) or flt.temi(" ".join(arg_txt)) or (["Teatro e spettacoli"] if cpv_ok else []),
         "link": v["link"],
         "fonti": [{"nome": v.get("fonte", "sito"), "link": v["link"]}],
         "esito": flt.e_esito(tit) or bool(v.get("esito_anac")),
@@ -151,6 +152,7 @@ def unisci(righe):
             for c in ("scadenza", "importo", "partecipanti", "pubblicazione"):
                 gia[c] = gia.get(c) or r.get(c)
             gia["motivi"] = list(dict.fromkeys(gia["motivi"] + r["motivi"]))[:8]
+            gia["temi"] = list(dict.fromkeys(gia.get("temi", []) + r.get("temi", [])))
             gia["esito"] = gia["esito"] and r["esito"]
         else:
             out.append(r); gia = r
@@ -236,10 +238,8 @@ def main(sigla):
            "copertura": {"enti": coperture, "fonti": fonti, "note": note}}
     json.dump(out, open(file, "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
 
-    pf = f"{DATI}/province.json"
-    prov = json.load(open(pf, encoding="utf-8")) if os.path.exists(pf) else []
-    prov = [p for p in prov if p["sigla"] != sigla] + [{"sigla": sigla, "nome": nome_prov}]
-    json.dump(sorted(prov, key=lambda p: p["nome"]), open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    from .indice import scrivi_indice
+    scrivi_indice(DATI)
     letti = sum(1 for c in coperture if c["esito"] == "letto")
     log(f"FINE: {len(righe)} avvisi utili, {letti}/{len(coperture)} siti letti, {rete.richieste} richieste, {out['durata_minuti']} min")
 

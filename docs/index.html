@@ -62,6 +62,7 @@ tr.scartato td{opacity:.5}
 .tit a{color:var(--ink)}
 .chip{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:10px;background:var(--soft);border:1px solid var(--line);margin:0 4px 4px 0;white-space:nowrap}
 .chip.nuovo{background:var(--newline);border-color:var(--newline);color:#1d1406}
+.chip.tema{background:transparent;color:var(--mute)}
 .chip.esito{background:transparent;color:var(--warn);border-color:var(--warn)}
 .motivi{font-size:13px;color:var(--mute)}
 .vicina{color:var(--acc);font-weight:700}
@@ -110,6 +111,7 @@ tr.scartato td{opacity:.5}
     <div class="riep"><h1 id="titolo">Caricamento…</h1><p id="aggiornato"></p></div>
     <div class="filtri">
       <div><label for="cerca">Cerca una parola</label><input type="search" id="cerca" placeholder="es. legalità, Seregno, laboratorio"></div>
+      <div><label for="tema">Tema</label><select id="tema"><option value="">Tutti i temi</option></select></div>
       <div><label for="tipo">Tipo di ente</label><select id="tipo"><option value="">Tutti</option><option>Comune</option><option>Scuola</option><option>Biblioteca</option><option>Altro ente</option></select></div>
       <div><label for="fstato">Stato</label><select id="fstato"><option value="">Tutti tranne scartati</option><option value="nuovo">Nuovi</option><option value="visto">Visti</option><option value="interessante">Interessanti</option><option value="scartato">Scartati</option><option value="*">Tutti</option></select></div>
       <label class="spunta" for="esiti"><input type="checkbox" id="esiti"> Mostra anche gli esiti</label>
@@ -159,7 +161,7 @@ tr.scartato td{opacity:.5}
         <li>Clicca <b>Aggiorna adesso</b> (si apre GitHub).</li>
         <li>Clicca il pulsante grigio <b>Run workflow</b> a destra.</li>
         <li>Scegli la provincia e clicca il pulsante verde <b>Run workflow</b>.</li>
-        <li>Dopo 30–60 minuti ricarica questa pagina.</li>
+        <li>Dopo circa un'ora (tutta la Lombardia) ricarica questa pagina.</li>
       </ol>
       <p class="nota">In automatico la ricerca parte ogni lunedì mattina.</p>
       <h2>Lo stato sui due Mac</h2>
@@ -197,28 +199,49 @@ function vai(v){viste.forEach(function(x){$('#v-'+x).hidden=x!==v});document.que
 document.querySelectorAll('nav button').forEach(function(b){b.addEventListener('click',function(){vai(b.dataset.v)})});
 window.addEventListener('hashchange',function(){var v=location.hash.slice(1);if(viste.indexOf(v)>=0)vai(v)});
 
+var PROVINCE=[];
+function unisciTutte(lista){
+  var out={provincia:{sigla:'LOM',nome:'tutta la Lombardia'},aggiornato:null,righe:[],copertura:{enti:[],fonti:[],note:[]},tutte:true};
+  lista.forEach(function(d){
+    if(!out.aggiornato||d.aggiornato>out.aggiornato)out.aggiornato=d.aggiornato;
+    d.righe.forEach(function(r){r.prov=d.provincia.sigla;out.righe.push(r)});
+    d.copertura.enti.forEach(function(e){e.nome=e.nome+' ('+d.provincia.sigla+')';out.copertura.enti.push(e)});
+    d.copertura.fonti.forEach(function(f){var g=out.copertura.fonti.filter(function(x){return x.nome===f.nome})[0];if(!g){g={nome:f.nome,ok:true,trovati:0};out.copertura.fonti.push(g)}g.ok=g.ok&&f.ok;g.trovati+=f.trovati||0;if(!f.ok)g.errore=f.errore});
+    (d.copertura.note||[]).forEach(function(n){out.copertura.note.push(d.provincia.sigla+': '+n)});
+  });
+  return out;
+}
 function carica(sigla){
   scrivi('radar.prov',sigla);
-  fetch('dati/'+sigla+'.json?'+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){dati=d;disegna();copertura()})
+  var p=sigla==='LOM'?Promise.all(PROVINCE.map(function(x){return fetch('dati/'+x.sigla+'.json?'+Date.now()).then(function(r){return r.json()})})).then(unisciTutte)
+        :fetch('dati/'+sigla+'.json?'+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()});
+  p.then(function(d){dati=d;temi();disegna();copertura()})
   .catch(function(){dati=null;$('#titolo').textContent='Nessuna ricerca ancora per questa provincia';$('#aggiornato').textContent='Usa «Aggiorna adesso» per lanciarla.';$('#tabella tbody').innerHTML='';$('#conta').textContent=''});
 }
 fetch('dati/province.json?'+Date.now()).then(function(r){return r.json()}).then(function(p){
-  var s=$('#prov');s.innerHTML=p.map(function(x){return'<option value="'+esc(x.sigla)+'">'+esc(x.nome)+'</option>'}).join('');
-  var pref=leggi('radar.prov',null);if(pref&&p.some(function(x){return x.sigla===pref}))s.value=pref;
+  PROVINCE=p;
+  var s=$('#prov');s.innerHTML=(p.length>1?'<option value="LOM">Tutta la Lombardia</option>':'')+p.map(function(x){return'<option value="'+esc(x.sigla)+'">'+esc(x.nome)+'</option>'}).join('');
+  var pref=leggi('radar.prov',null);if(pref&&(pref==='LOM'&&p.length>1||p.some(function(x){return x.sigla===pref})))s.value=pref;
   carica(s.value);
 }).catch(function(){$('#titolo').textContent='Nessuna ricerca ancora'});
 $('#prov').addEventListener('change',function(){carica(this.value)});
 
+function temi(){
+  var t={};dati.righe.forEach(function(r){(r.temi||[]).forEach(function(x){t[x]=(t[x]||0)+1})});
+  var sel=$('#tema'),v=sel.value;
+  sel.innerHTML='<option value="">Tutti i temi</option>'+Object.keys(t).sort().map(function(x){return'<option'+(x===v?' selected':'')+'>'+esc(x)+'</option>'}).join('');
+}
 function filtrate(){
-  var q=$('#cerca').value.trim().toLowerCase(), tipo=$('#tipo').value, fs=$('#fstato').value, esiti=$('#esiti').checked, scad=$('#scaduti').checked, o=oggi();
+  var q=$('#cerca').value.trim().toLowerCase(), tema=$('#tema').value, tipo=$('#tipo').value, fs=$('#fstato').value, esiti=$('#esiti').checked, scad=$('#scaduti').checked, o=oggi();
   return dati.righe.filter(function(r){
     if(r.esito&&!esiti)return false;
     if(!scad&&r.scadenza&&r.scadenza<o)return false;
     if(tipo&&r.tipo!==tipo)return false;
+    if(tema&&(r.temi||[]).indexOf(tema)<0)return false;
     var st=statoDi(r);
     if(fs===''&&st==='scartato')return false;
     if(fs&&fs!=='*'&&st!==fs)return false;
-    if(q){var t=(r.ente+' '+r.titolo+' '+(r.motivi||[]).join(' ')+' '+(r.partecipanti||'')).toLowerCase();if(t.indexOf(q)<0)return false}
+    if(q){var t=(r.ente+' '+r.titolo+' '+(r.temi||[]).join(' ')+' '+(r.motivi||[]).join(' ')+' '+(r.partecipanti||'')).toLowerCase();if(t.indexOf(q)<0)return false}
     return true;
   }).sort(function(a,b){
     if(ordine==='pubblicazione')return (b.pubblicazione||'').localeCompare(a.pubblicazione||'');
@@ -228,7 +251,7 @@ function filtrate(){
 }
 function disegna(){
   if(!dati)return;
-  $('#titolo').textContent='Bandi · '+dati.provincia.nome;
+  $('#titolo').textContent='Bandi · '+(dati.tutte?'Tutta la Lombardia':dati.provincia.nome);
   var nn=dati.righe.filter(function(r){return r.nuovo}).length;
   $('#aggiornato').textContent='Ricerca del '+new Date(dati.aggiornato).toLocaleString('it-IT',{day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit'})+' · '+nn+' nuovi';
   var rr=filtrate();
@@ -237,26 +260,26 @@ function disegna(){
     var st=statoDi(r), g=r.scadenza?giorni(r.scadenza):null;
     return '<tr class="'+(r.nuovo&&st==='nuovo'?'nuovo ':'')+(st==='scartato'?'scartato':'')+'">'
      +'<td data-l="Scadenza" class="num">'+(r.scadenza?'<span class="'+(g>=0&&g<=7?'vicina':'')+'">'+it(r.scadenza)+'</span>'+(g>=0?'<br><span class="nota">tra '+g+' gg</span>':''):'')+'</td>'
-     +'<td data-l="Ente">'+esc(r.ente)+'</td>'
+     +'<td data-l="Ente">'+esc(r.ente)+(r.prov?' <span class="nota">('+esc(r.prov)+')</span>':'')+'</td>'
      +'<td data-l="Tipo">'+esc(r.tipo)+'</td>'
      +'<td data-l="Titolo" class="tit">'+(r.nuovo?'<span class="chip nuovo">nuovo</span>':'')+(r.esito?'<span class="chip esito">esito</span>':'')+'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">'+esc(r.titolo)+'</a>'+(r.fonti&&r.fonti.length>1?'<br><span class="nota">anche su: '+r.fonti.slice(1).map(function(f){return'<a href="'+esc(f.link)+'" target="_blank" rel="noopener">'+esc(f.nome)+'</a>'}).join(', ')+'</span>':'')+'</td>'
      +'<td data-l="Pubblicato" class="num">'+it(r.pubblicazione)+'</td>'
      +'<td data-l="Importo" class="num">'+esc(r.importo||'')+'</td>'
      +'<td data-l="Chi può partecipare">'+esc(r.partecipanti||'')+'</td>'
-     +'<td data-l="Perché" class="motivi">'+esc((r.motivi||[]).join(', '))+'</td>'
+     +'<td data-l="Perché" class="motivi">'+(r.temi||[]).map(function(x){return'<span class="chip tema">'+esc(x)+'</span>'}).join('')+'<br>'+esc((r.motivi||[]).join(', '))+'</td>'
      +'<td data-l="Stato"><select class="stato-sel" data-id="'+esc(r.id)+'" aria-label="Stato">'+STATI.map(function(s){return'<option'+(s===st?' selected':'')+'>'+s+'</option>'}).join('')+'</select></td></tr>';
   }).join(''):'<tr><td colspan="9" class="vuoto">Nessun avviso con questi filtri.</td></tr>';
 }
-['#cerca','#tipo','#fstato','#esiti','#scaduti'].forEach(function(s){$(s).addEventListener('input',disegna);$(s).addEventListener('change',disegna)});
+['#cerca','#tema','#tipo','#fstato','#esiti','#scaduti'].forEach(function(s){$(s).addEventListener('input',disegna);$(s).addEventListener('change',disegna)});
 document.querySelectorAll('th button').forEach(function(b){b.addEventListener('click',function(){ordine=b.dataset.o;document.querySelectorAll('th button').forEach(function(x){x.textContent=x.textContent.replace(' ▲','')});b.textContent+=' ▲';disegna()})});
 $('#tabella').addEventListener('change',function(e){var s=e.target.closest('.stato-sel');if(!s)return;stati[s.dataset.id]=s.value;scrivi('radar.stati',stati);disegna();toast('Stato salvato: '+s.value)});
 
 // CSV per Numbers ed Excel (separatore ; e BOM)
 $('#csv').addEventListener('click',function(){
   if(!dati)return;
-  var col=['Scadenza','Ente','Tipo','Titolo','Pubblicato','Importo','Chi può partecipare','Perché','Stato','Link'];
+  var col=['Scadenza','Ente','Provincia','Tipo','Titolo','Pubblicato','Importo','Chi può partecipare','Temi','Parole trovate','Stato','Link'];
   var q=function(v){v=String(v==null?'':v);return'"'+v.replace(/"/g,'""')+'"'};
-  var righe=filtrate().map(function(r){return[it(r.scadenza),r.ente,r.tipo,r.titolo,it(r.pubblicazione),r.importo,r.partecipanti,(r.motivi||[]).join(', '),statoDi(r),r.link].map(q).join(';')});
+  var righe=filtrate().map(function(r){return[it(r.scadenza),r.ente,r.prov||dati.provincia.sigla,r.tipo,r.titolo,it(r.pubblicazione),r.importo,r.partecipanti,(r.temi||[]).join(', '),(r.motivi||[]).join(', '),statoDi(r),r.link].map(q).join(';')});
   var blob=new Blob(['﻿'+col.map(q).join(';')+'\r\n'+righe.join('\r\n')],{type:'text/csv;charset=utf-8'});
   var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='bandi-'+dati.provincia.sigla+'-'+oggi()+'.csv';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500);
 });

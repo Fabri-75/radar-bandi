@@ -13,7 +13,11 @@ class Filtro:
     def __init__(self, imp):
         def rx(lista):
             return [(p, re.compile(r"(?<![a-z])" + re.escape(semplice(p)))) for p in (lista or [])]
-        self.arg = rx(imp.get("parole_argomento"))
+        temi = imp.get("temi") or {}
+        if not temi and imp.get("parole_argomento"):
+            temi = {"Argomenti": imp["parole_argomento"]}
+        self.temi_rx = {nome: rx(parole) for nome, parole in temi.items()}
+        self.arg = [x for regole in self.temi_rx.values() for x in regole]
         self.forma = rx(imp.get("parole_forma"))
         self.escl = rx(imp.get("parole_escludi"))
         self.esito = rx(imp.get("parole_esito"))
@@ -30,6 +34,10 @@ class Filtro:
 
     def argomenti(self, testo):
         return self._trova(self.arg, semplice(testo))
+
+    def temi(self, testo):
+        s = semplice(testo)
+        return [nome for nome, regole in self.temi_rx.items() if any(r.search(s) for _, r in regole)]
 
     def forme(self, testo):
         return self._trova(self.forma, semplice(testo))

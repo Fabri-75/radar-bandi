@@ -1,4 +1,3 @@
 provincia_ricerca,azione,tipo,nome,sito,codice_fiscale,nota
 MB,aggiungi,Biblioteca,Sistema bibliotecario BrianzaBiblioteche,https://www.brianzabiblioteche.it/,,sistema bibliotecario di zona
 MB,aggiungi,Biblioteca,CUBI - Culture Biblioteche in rete,https://www.cubinrete.it/,,sistema bibliotecario di zona
-MB,aggiungi,Comune,Comune di Milano (Municipi 1-9),https://www.comune.milano.it/,01199250158,richiesto per il test (Municipi)

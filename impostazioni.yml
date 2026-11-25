@@ -7,7 +7,18 @@
 
 # Province cercate in automatico ogni settimana (sigla automobilistica)
 province_settimanali:
+  - BG
+  - BS
+  - CO
+  - CR
+  - LC
+  - LO
   - MB
+  - MI
+  - MN
+  - PV
+  - SO
+  - VA
 
 # Avvisi pubblicati negli ultimi N giorni (oppure con scadenza futura)
 giorni: 60
@@ -15,57 +26,104 @@ giorni: 60
 # Includere anche le scuole paritarie? (si / no)
 paritarie: no
 
-# Parole che indicano l'ARGOMENTO giusto: basta una per tenere l'avviso.
+# I TEMI: ogni tema ha le sue parole. Basta UNA parola di un tema per tenere l'avviso.
 # Scrivile senza accenti. "teatr" trova teatro, teatrale, teatri...
-parole_argomento:
-  - teatr
-  - spettacol
-  - conferenza-spettacolo
-  - rassegn
-  - stagione teatrale
-  - stagione culturale
-  - laboratorio teatrale
-  - laboratori teatrali
-  - laboratori espressivi
-  - laboratorio espressivo
-  - improvvisazione
-  - drammatizzazione
-  - legalita
-  - educazione civica
-  - bullismo
-  - cyberbullismo
-  - affettivita
-  - educazione digitale
-  - promozione della lettura
-  - letture animate
-  - lettura animata
-  - lettura ad alta voce
-  - maggio dei libri
-  - patto per la lettura
-  - nati per leggere
-  - animazione
-  - narrazione
-  - evento culturale
-  - eventi culturali
-  - iniziative culturali
-  - manifestazioni culturali
-  - intrattenimento
-  - concert
-  - musica dal vivo
-  - musical
-  - giornata della memoria
-  - giorno della memoria
-  - estate
-  - natale
-  - natalizi
-  - dispersione scolastica
-  - inclusione
-  - esperto esterno
-  - esperti esterni
-  - ptof
-  - piano estate
-  - team building
-  - soft skill
+# Puoi aggiungere parole a un tema, o creare un tema nuovo con lo stesso formato.
+temi:
+  Teatro e spettacoli:
+    - teatr
+    - spettacol
+    - conferenza-spettacolo
+    - rassegn
+    - stagione teatrale
+    - stagione culturale
+    - drammatizzazione
+    - monologo
+    - narrazione
+    - evento culturale
+    - eventi culturali
+    - iniziative culturali
+    - manifestazioni culturali
+    - intrattenimento
+  Laboratori nelle scuole:
+    - laboratorio teatrale
+    - laboratori teatrali
+    - laboratori espressivi
+    - laboratorio espressivo
+    - improvvisazione
+    - esperto esterno
+    - esperti esterni
+    - ptof
+    - piano estate
+    - dispersione scolastica
+    - inclusione
+  Legalita e temi civici:
+    - legalita
+    - educazione civica
+    - giornata della memoria
+    - giorno della memoria
+    - mafie
+    - falcone
+    - bullismo
+    - cyberbullismo
+    - affettivita
+    - educazione all'affettivita
+    - educazione digitale
+    - uso consapevole
+    - social network
+    - disagio giovanile
+  Lettura e biblioteche:
+    - promozione della lettura
+    - letture animate
+    - lettura animata
+    - lettura ad alta voce
+    - maggio dei libri
+    - patto per la lettura
+    - nati per leggere
+    - animazione alla lettura
+    - bibliotec
+  Infanzia e famiglie:
+    - scuola dell'infanzia
+    - scuole dell'infanzia
+    - spettacoli per bambini
+    - spettacolo per bambini
+    - per bambini
+    - per famiglie
+    - per le famiglie
+    - teatro ragazzi
+    - teatro per ragazzi
+    - teatro per l'infanzia
+    - animazione
+    - burattini
+    - festa di fine anno
+    - festa della scuola
+    - diritti dell'infanzia
+    - carnevale
+    - centri estivi
+    - centro estivo
+  Estate e musica:
+    - estate
+    - estiv
+    - concert
+    - musica dal vivo
+    - musical
+    - orchestra
+    - banda
+    - musicale
+    - eventi in piazza
+    - serate
+    - festa patronale
+    - sagra
+  Natale:
+    - natale
+    - natalizi
+    - natalizie
+  Formazione e team building:
+    - team building
+    - soft skill
+    - public speaking
+    - formazione del personale
+    - comunicazione efficace
 
 # Parole che indicano il TIPO di atto: da sole non bastano,
 # ma se compaiono insieme a un argomento l'avviso sale in classifica.
@@ -105,6 +163,8 @@ parole_escludi:
   - messa a disposizione
   - assicurativ
   - assicurazion
+  - interne
+  - interni ed esterni per il supporto
   - collaboratori scolastici
   - assistenti amministrativi
   - interpello
@@ -147,6 +207,8 @@ parole_escludi:
   - sgombero neve
   - verde pubblico
   - informatic
+  - banda larga
+  - banda ultra
   - hardware
   - software
   - arredi
