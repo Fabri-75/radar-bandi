@@ -14,30 +14,64 @@ MAX_SEZIONI = 6          # sezioni diverse lette per ente
 RE_JS = re.compile(r"attendere prego|ng-app|<app-root|id=\"root\"></div>|__next|caricamento in corso|enable javascript|abilita(re)? javascript", re.I)
 PIATTAFORME_JS = re.compile(r"portaleargo\.it|urbi\.it/urbi|halleyweb\.com|EGHOMEPAGE\.HBL|/EG0/", re.I)
 
-_sem_browser = threading.Semaphore(2)
-_locale = threading.local()
+class _Renderer:
+    """Un solo browser per tutta la ricerca, in un thread dedicato (Playwright non è thread-safe)."""
 
+    def __init__(self):
+        import queue
+        self.q = queue.Queue()
+        self.t = None
+        self.lock = threading.Lock()
 
-def _browser():
-    if getattr(_locale, "browser", None) is None:
+    def _ciclo(self):
         from playwright.sync_api import sync_playwright
-        _locale.pw = sync_playwright().start()
-        _locale.browser = _locale.pw.chromium.launch()
-    return _locale.browser
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(args=["--disable-dev-shm-usage"])
+            ctx = browser.new_context(user_agent=BROWSER_UA)
+            while True:
+                lavoro = self.q.get()
+                if lavoro is None:
+                    break
+                url, risposta = lavoro
+                try:
+                    pg = ctx.new_page()
+                    pg.goto(url, timeout=40000, wait_until="networkidle")
+                    pg.wait_for_timeout(2000)
+                    risposta.append((pg.content(), pg.url))
+                    pg.close()
+                except Exception:
+                    risposta.append((None, None))
+                    try:
+                        pg.close()
+                    except Exception:
+                        pass
+            browser.close()
+
+    def rendi(self, url):
+        with self.lock:
+            if self.t is None:
+                self.t = threading.Thread(target=self._ciclo, daemon=True)
+                self.t.start()
+        risposta = []
+        ev = threading.Event()
+        self.q.put((url, risposta))
+        for _ in range(900):          # al massimo 90 secondi
+            if risposta:
+                return risposta[0]
+            ev.wait(0.1)
+        return None, None
+
+    def chiudi(self):
+        if self.t is not None:
+            self.q.put(None)
+
+
+RENDERER = _Renderer()
 
 
 def rendi(url):
-    """Apre la pagina con Chromium e ritorna l'HTML finale (o None)."""
-    with _sem_browser:
-        try:
-            pg = _browser().new_page(user_agent=BROWSER_UA)
-            pg.goto(url, timeout=45000, wait_until="networkidle")
-            pg.wait_for_timeout(2500)
-            html, finale = pg.content(), pg.url
-            pg.close()
-            return html, finale
-        except Exception:
-            return None, None
+    """Apre la pagina con Chromium e ritorna (html, url finale) oppure (None, None)."""
+    return RENDERER.rendi(url)
 
 
 def scarica(rete, url, js_permesso=True):

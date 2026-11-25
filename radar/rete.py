@@ -63,10 +63,10 @@ class Rete:
         try:
             r = self.s.get(url, timeout=kw.pop("timeout", self.timeout), verify=kw.pop("verify", False),
                            stream=True, **kw)
-            dati = b""
+            dati, inizio = b"", time.time()
             for pezzo in r.iter_content(65536):
                 dati += pezzo
-                if len(dati) > self.max_byte:
+                if len(dati) > self.max_byte or time.time() - inizio > 90:
                     break
             r._content = dati
             r._content_consumed = True

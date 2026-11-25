@@ -181,6 +181,7 @@ def main(sigla):
                               "motivo": e.get("nota") or "nessun sito indicato negli open data", "pagine": [], "trovati": 0})
     with ThreadPoolExecutor(max_workers=int(imp.get("siti_in_parallelo", 10))) as ex:
         fut = {ex.submit(lavora_ente, rete, e, flt, oggi, limite): e for e in with_site}
+        # (ogni ente ha comunque tempi massimi per pagina; il browser è uno solo)
         for i, f in enumerate(as_completed(fut), 1):
             e = fut[f]
             try:
@@ -207,6 +208,8 @@ def main(sigla):
             fonti.append({"nome": nome, "ok": False, "errore": f"{type(ex_).__name__}: {str(ex_)[:120]}"})
             log(f"{nome}: ERRORE {ex_}")
 
+    from .lettori import RENDERER
+    RENDERER.chiudi()
     righe = unisci(righe)
     # nuovi rispetto alla ricerca precedente
     os.makedirs(DATI, exist_ok=True)
