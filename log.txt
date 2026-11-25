@@ -1,0 +1,34 @@
+
+##### https://nuvola.madisoft.it/bacheca-digitale/15969/documento/MBIC8EY00R
+None 200 text/html; charset=UTF-8 final=https://nuvola.madisoft.it/bacheca-digitale/15969/documento/MBIC8EY00R
+RAW-LINKS: ["https://nuvola.madisoft.it/file/api/public-file-preview/MIIC8EY003/861ccda4-18e7-4ae5-aade-ad976f4c77f5", "https://nuvola.madisoft.it/file/api/public-file-preview/MIIC8EY003/b7d0e62d-d77c-42f8-b387-fd3da8500f10"]
+TESTO: ALBO PRETORIO AVVISO SELEZIONE ESPERTO LABORATORIO TEATRALE Torna indietro Data pubblicazione 20/11/2026 Data archiviazione 04/12/2026 Titolario IV.5 - Progetti e materiali didattici Ufficio responsabile CONTABILITÀ Utente responsabile SIMONA PASTORI Allegati AVVISO ESPERTO LABORATORIO TEATRALE 2026-27.pdf Allegato 1_DOMANDA DI PARTECIPAZIONE_lab teatrale.docx Allegato 2_AUTOVALUTAZIONE TITOLI_lab teatrale.docx
+  ALL https://nuvola.madisoft.it/file/api/public-file-preview/MIIC8EY003/861ccda4-18e7-4ae5-aade-ad976f4c77f5 None application/pdf pdf=True
+  PDF: 
+  ALL https://nuvola.madisoft.it/file/api/public-file-preview/MIIC8EY003/b7d0e62d-d77c-42f8-b387-fd3da8500f10 None application/pdf pdf=True
+  PDF: 
+=> scad=None imp=None chi=None
+
+##### https://web.spaggiari.eu/sdg2/Documenti/MIME0267/ilc6cuavg1
+errore 403 403 text/html final=https://web.spaggiari.eu/sdg2/Documenti/MIME0267/ilc6cuavg1
+RAW-LINKS: []
+TESTO: Access Denied You don't have permission to access "http://web.spaggiari.eu/sdg2/Documenti/MIME0267/ilc6cuavg1" on this server. Reference #18.9967cd17.1795628324.53ea80ac https://errors.edgesuite.net/18.9967cd17.1795628324.53ea80ac
+=> scad=None imp=None chi=None
+
+##### https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=399
+None 200 text/html; charset=UTF-8 final=https://www.iccervilimbiate.edu.it/albo-pretorio/?action=visatto&id=399
+RAW-LINKS: []
+TESTO: 
+=> scad=None imp=None chi=None
+
+##### https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10660916
+None 200 text/html;charset=UTF-8 final=https://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/10660916
+RAW-LINKS: []
+TESTO: Albo Pretorio URL Copiata correttamente Categoria ATTI AMMINISTRATIVI Sottocategoria DETERMINAZIONE Anno atto 2026 Numero atto 522 Data documento 20/11/2026 Tipo registrazione Albo Pretorio Data di registro 24/11/2026 Anno di registro 2026 Numero di registro 1002 Proponente Servizio cultura ed associazionismo Oggetto CIG: BDC8E60B75 - AFFIDAMENTO REALIZZAZIONE SPETTACOLO "EVVIVA IL PANETTONE" IN DATA 30/11/2026 PRESSO AUDITORIUM EUROPA Data atto 20/11/2026 Dirigente/Firmatario Paola D'Argenio Data esecutività 24/11/2026 Classifica ARCHIVIO GENERALE Periodo Pubblicazione 24/11/2026 - 09/12/2026 Provenienza Interna Stato attivo Numero allegati 2 Titolo Descrizione Scarica Determinazione n. 00522/2026 Documento principale Visto Contabile dgs firma digitale Allegato parte integrante Contenuto inserito il 24/11/2026 aggiornato al 24/11/2026 Torna a lista
+=> scad=None imp=None chi=None
+
+##### http://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227022251
+None 200 text/html;charset=UTF-8 final=https://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=227022251
+RAW-LINKS: []
+TESTO: Accedi alla piattaforma Sintel
+=> scad=None imp=None chi=None
