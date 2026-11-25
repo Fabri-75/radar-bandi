@@ -19,6 +19,7 @@ class Filtro:
         self.temi_rx = {nome: rx(parole) for nome, parole in temi.items()}
         self.arg = [x for regole in self.temi_rx.values() for x in regole]
         self.forma = rx(imp.get("parole_forma"))
+        self.deboli = {semplice(x) for x in (imp.get("parole_deboli") or [])}
         self.escl = rx(imp.get("parole_escludi"))
         self.esito = rx(imp.get("parole_esito"))
         self.cpv = [str(c).strip() for c in (imp.get("cpv") or [])]
@@ -34,6 +35,10 @@ class Filtro:
 
     def argomenti(self, testo):
         return self._trova(self.arg, semplice(testo))
+
+    def argomenti_forti(self, testo):
+        """Come argomenti(), ma senza le parole generiche: per il testo degli allegati."""
+        return [p for p in self.argomenti(testo) if semplice(p) not in self.deboli]
 
     def temi(self, testo):
         s = semplice(testo)

@@ -125,6 +125,46 @@ temi:
     - formazione del personale
     - comunicazione efficace
 
+# Parole GENERICHE: valgono solo se sono nel TITOLO dell'avviso,
+# non se compaiono solo nel testo o negli allegati (troppi falsi allarmi).
+parole_deboli:
+  - estate
+  - estiv
+  - natale
+  - natalizi
+  - natalizie
+  - animazione
+  - inclusione
+  - musicale
+  - serate
+  - banda
+  - sagra
+  - festa patronale
+  - per bambini
+  - per famiglie
+  - per le famiglie
+  - bibliotec
+  - intrattenimento
+  - ptof
+  - dispersione scolastica
+  - scuola dell'infanzia
+  - scuole dell'infanzia
+  - centri estivi
+  - centro estivo
+  - social network
+  - narrazione
+  - eventi in piazza
+  - carnevale
+  - rassegn
+  - spettacol
+  - evento culturale
+  - eventi culturali
+  - iniziative culturali
+  - manifestazioni culturali
+  - uso consapevole
+  - formazione del personale
+  - comunicazione efficace
+
 # Parole che indicano il TIPO di atto: da sole non bastano,
 # ma se compaiono insieme a un argomento l'avviso sale in classifica.
 parole_forma:
@@ -163,6 +203,18 @@ parole_escludi:
   - messa a disposizione
   - assicurativ
   - assicurazion
+  - alloggi
+  - abitativ
+  - loculi
+  - cimiter
+  - posteggi
+  - ambulant
+  - locazione
+  - autista
+  - carta dedicata
+  - non autosufficient
+  - borse di studio
+  - calendario regionale delle fiere
   - interne
   - interni ed esterni per il supporto
   - collaboratori scolastici

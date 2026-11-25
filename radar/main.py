@@ -73,18 +73,12 @@ def valuta(v, flt, oggi, limite):
     arg_tit = flt.argomenti(tit)
     arg_txt = []
     if not arg_tit and flt.generico(tit):
-        arg_txt = flt.argomenti("\n".join(x for x in (v.get("testo_pdf"), v.get("testo_dettaglio")) if x)[:30000])
+        arg_txt = flt.argomenti_forti("\n".join(x for x in (v.get("testo_pdf"), v.get("testo_dettaglio")) if x)[:30000])
     cpv_ok = flt.cpv_utile(v.get("cpv"))
     if not (arg_tit or arg_txt or cpv_ok):
         return None
     # Dai siti tengo solo atti e avvisi, non le notizie sugli eventi
     if v.get("fonte", "").startswith("sito") and not flt.e_atto(tit):
-        return None
-    # nel testo servono almeno due argomenti diversi, o uno "forte", per evitare falsi positivi
-    forti = {"teatr", "spettacol", "laboratorio teatrale", "laboratori teatrali", "improvvisazione", "drammatizzazione",
-             "letture animate", "lettura animata", "promozione della lettura", "nati per leggere", "maggio dei libri",
-             "patto per la lettura", "concert", "musica dal vivo", "rassegn", "esperto esterno", "esperti esterni"}
-    if not arg_tit and not cpv_ok and len(set(arg_txt)) < 2 and not (set(arg_txt) & forti):
         return None
     pub = v.get("pubblicazione")
     scad = v.get("scadenza") or trova_scadenza(testo, dopo=pub)
@@ -105,7 +99,7 @@ def valuta(v, flt, oggi, limite):
         "importo": v.get("importo") or trova_importo(testo),
         "partecipanti": trova_destinatari(testo),
         "motivi": motivi[:8],
-        "temi": flt.temi(tit) or flt.temi(" ".join(arg_txt)) or (["Teatro e spettacoli"] if cpv_ok else []),
+        "temi": flt.temi(tit + " " + " ".join(arg_txt)) or (["Teatro e spettacoli"] if cpv_ok else []),
         "link": v["link"],
         "fonti": [{"nome": v.get("fonte", "sito"), "link": v["link"]}],
         "esito": flt.e_esito(tit) or bool(v.get("esito_anac")),
