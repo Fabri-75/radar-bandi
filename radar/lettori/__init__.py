@@ -1,6 +1,7 @@
 """Visita il sito di un ente e raccoglie le voci dalle pagine di albo, bandi e avvisi."""
 import re
 import threading
+import time
 from urllib.parse import urlparse
 
 from .generico import link_pagina_successiva, link_sezioni, voci_da_html
@@ -9,6 +10,7 @@ BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1
               "Version/17.0 Safari/605.1.15 RadarBandi/1.0 (+https://github.com/Fabri-75/radar-bandi)")
 MAX_PAGINE_ELENCO = 12   # pagine successive di uno stesso albo
 MAX_SEZIONI = 6          # sezioni diverse lette per ente
+TEMPO_MAX_SITO = 300     # secondi al massimo per leggere gli elenchi di un sito
 
 # Pagine che si costruiscono con JavaScript: le apro con un browser automatico
 RE_JS = re.compile(r"attendere prego|ng-app|<app-root|id=\"root\"></div>|__next|caricamento in corso|enable javascript|abilita(re)? javascript", re.I)
@@ -64,6 +66,7 @@ class _Renderer:
     def chiudi(self):
         if self.t is not None:
             self.q.put(None)
+            self.t.join(timeout=60)
 
 
 RENDERER = _Renderer()
@@ -129,7 +132,8 @@ def leggi_ente(rete, ente, limite):
         coda.append(("trasparenza", sez["trasparenza"][0]))
 
     letti = 0
-    while coda and letti < MAX_SEZIONI + 1:
+    inizio = time.time()
+    while coda and letti < MAX_SEZIONI + 1 and time.time() - inizio < TEMPO_MAX_SITO:
         tipo, u = coda.pop(0)
         chiave = u.split("#")[0]
         if chiave in visti:
@@ -154,7 +158,7 @@ def leggi_ente(rete, ente, limite):
                     coda.insert(0, (tipo, x))
         # Pagine successive dell'elenco, finché le voci sono recenti
         n = 0
-        while tipo in ("albo", "bandi", "notizie") and n < MAX_PAGINE_ELENCO and nuove:
+        while tipo in ("albo", "bandi", "notizie") and n < MAX_PAGINE_ELENCO and nuove and time.time() - inizio < TEMPO_MAX_SITO:
             date_ = [v["pubblicazione"] for v in nuove if v["pubblicazione"]]
             if date_ and min(date_) < limite:
                 break

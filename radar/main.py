@@ -113,6 +113,8 @@ def lavora_ente(rete, ente, flt, oggi, limite):
     voci, pagine, errore = leggi_ente(rete, ente, limite)
     righe, aperti = [], 0
     for v in voci:
+        if time.time() - t0 > 600:      # al massimo 10 minuti per ente, dettagli compresi
+            break
         v.setdefault("ente", ente["nome"]); v.setdefault("tipo", ente["tipo"]); v.setdefault("cf", ente.get("cf"))
         if flt.scartato(v["titolo"]):
             continue
@@ -202,8 +204,6 @@ def main(sigla):
             fonti.append({"nome": nome, "ok": False, "errore": f"{type(ex_).__name__}: {str(ex_)[:120]}"})
             log(f"{nome}: ERRORE {ex_}")
 
-    from .lettori import RENDERER
-    RENDERER.chiudi()
     righe = unisci(righe)
     # nuovi rispetto alla ricerca precedente
     os.makedirs(DATI, exist_ok=True)
@@ -243,3 +243,11 @@ def main(sigla):
 
 if __name__ == "__main__":
     main(sys.argv[1] if len(sys.argv) > 1 else "MB")
+    # chiudo il browser e esco senza aspettare i thread (evita crash in chiusura)
+    try:
+        from .lettori import RENDERER
+        RENDERER.chiudi()
+    except Exception:
+        pass
+    sys.stdout.flush()
+    os._exit(0)
