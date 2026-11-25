@@ -133,9 +133,15 @@ def trova_cig(t):
     return m.group(1).upper() if m else None
 
 
+import threading
+_OCR = threading.Semaphore(1)   # una lettura ottica alla volta: consuma molta memoria
+
+
 def testo_pdf(dati, max_pagine=8):
     """Testo di un PDF (prime pagine): pypdf, poi pdftotext, poi lettura ottica (OCR) per le scansioni."""
     t = ""
+    if len(dati) > 12_000_000:      # PDF enormi (planimetrie, scansioni pesanti): li salto
+        return ""
     try:
         from pypdf import PdfReader
         r = PdfReader(io.BytesIO(dati))
@@ -155,12 +161,14 @@ def testo_pdf(dati, max_pagine=8):
                     t = t2
             except Exception:
                 pass
-        if len(t.strip()) < 200 and shutil.which("pdftoppm") and shutil.which("tesseract"):
+        if len(t.strip()) < 200 and len(dati) < 6_000_000 and shutil.which("pdftoppm") and shutil.which("tesseract"):
             try:
-                subprocess.run(["pdftoppm", "-r", "200", "-l", "2", "-gray", "-png", f, os.path.join(d, "p")], timeout=120, capture_output=True)
+              with _OCR:
+                subprocess.run(["pdftoppm", "-r", "150", "-scale-to", "1800", "-l", "2", "-gray", "-png", f, os.path.join(d, "p")], timeout=120, capture_output=True)
                 pezzi = []
                 for img in sorted(x for x in os.listdir(d) if x.endswith(".png")):
-                    pezzi.append(subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "ita"], capture_output=True, timeout=120).stdout.decode("utf-8", "replace"))
+                    pezzi.append(subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "ita"], capture_output=True, timeout=120,
+                                                env={**os.environ, "OMP_THREAD_LIMIT": "1"}).stdout.decode("utf-8", "replace"))
                 if len("".join(pezzi).strip()) > len(t.strip()):
                     t = "\n".join(pezzi)
             except Exception:

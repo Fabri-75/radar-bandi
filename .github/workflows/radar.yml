@@ -167,7 +167,15 @@ jobs:
       - name: Cerca i bandi (${{ matrix.provincia }})
         env:
           RADAR_RIPARTI: ${{ inputs.riparti && '1' || '0' }}
-        run: python -m radar.main "${{ matrix.provincia }}"
+        run: |
+          # ogni 3 minuti copio il registro in un ramo a parte: se il server si blocca, resta traccia
+          ( while sleep 180; do
+              D=$(mktemp -d); cp registro/*.txt "$D"/ 2>/dev/null || continue
+              (cd "$D" && git init -q -b registro-${{ matrix.provincia }} && git add -A && git -c user.name=radar -c user.email=radar@users.noreply.github.com commit -qm registro \
+                && git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" registro-${{ matrix.provincia }}) || true
+              rm -rf "$D"
+            done ) &
+          python -m radar.main "${{ matrix.provincia }}"
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -194,7 +202,7 @@ jobs:
           merge-multiple: true
       - name: Salva i risultati
         run: |
-          ls -R nuovi | head -50
+          ls -R nuovi 2>/dev/null | head -50 || true
           find nuovi -name "??.json" -exec cp {} docs/dati/ \;
           mkdir -p registro && find nuovi -name "??.txt" -exec cp {} registro/ \;
           python -m radar.indice docs/dati
