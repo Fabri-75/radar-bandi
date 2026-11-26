@@ -36,6 +36,12 @@
   "avvisi": 24
  },
  {
+  "sigla": "MN",
+  "nome": "Mantova",
+  "aggiornato": "2026-11-26T00:07:57.974826+00:00",
+  "avvisi": 34
+ },
+ {
   "sigla": "MI",
   "nome": "Milano",
   "aggiornato": "2026-11-25T22:01:06.654918+00:00",
